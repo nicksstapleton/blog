@@ -22,9 +22,9 @@ plugins:
 - jemoji
 - jekyll-include-cache
 author:
-  name: First Lastname
+  name: Nick Stapleton
   avatar: "/assets/images/Bio-Photo.jpg"
-  bio: My awesome biography constrained to a sentence or two goes here.
+  bio: 🏔 living in Colorado doing college ministry 📖 MDiv TEDS ☕ coffee and tech buff
   links:
   - label: Website
     icon: fas fa-fw fa-link
