@@ -6,12 +6,13 @@ tags:
 - Tech
 - Ministry
 title: Why YOU Should Buy Logos 9
-header: ![My helpful screenshot](/assets/images/logosheader.png)
+header: 
   teaser: "/images/f21e3782-0932-4e6a-b77e-899c39f1656a.png"
   og_image: ''
 excerpt_separator: How I use Logos to supercharge my ministry
 
 ---
+![My helpful screenshot](/assets/images/logosheader.png)
 ### Who this guide is for
 
 If you regularly spend time reading or teaching the Bible, you should seriously consider adopting Bible software into your life. If you are in full-time ministry, you _definitely_ should consider investing in Bible software.
