@@ -6,7 +6,7 @@ tags:
 - Tech
 - Ministry
 title: Why YOU Should Buy Logos 9
-header:
+header: ![My helpful screenshot](/assets/images/logosheader.png)
   teaser: "/images/f21e3782-0932-4e6a-b77e-899c39f1656a.png"
   og_image: ''
 excerpt_separator: How I use Logos to supercharge my ministry
