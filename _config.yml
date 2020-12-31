@@ -1,6 +1,6 @@
 ---
 title: "Nick Stapleton"
-masthead_title: ""
+masthead_title: " "
 logo: "/assets/images/nslsm.png"
 email: "nickstapleton@gmail.com"
 description: "Ministry - Theology - Technology"
@@ -54,6 +54,7 @@ defaults:
     comments: true
     share: true
     related: true
+    show_date: true
 - scope:
     path: _pages
     type: pages
