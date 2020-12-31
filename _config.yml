@@ -1,5 +1,5 @@
 ---
-title: Nick Stapleton
+title: nickstapleton.me
 email: 
 description: ''
 twitter_username: "@nickstapleton"
@@ -24,20 +24,20 @@ plugins:
 author:
   name: Nick Stapleton
   avatar: "/assets/images/Bio-Photo.jpg"
-  bio: 🏔 living in Colorado doing college ministry 📖 MDiv TEDS ☕ coffee and tech buff
+  bio: 🏔 living in Colorado doing college ministry 📖 MDiv TEDS coffee and tech buff
   links:
   - label: Website
     icon: fas fa-fw fa-link
     url: https://
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/
+    url: https://twitter.com/nickstapleton
   - label: GitHub
     icon: fab fa-fw fa-github
     url: https://github.com/
   - label: Instagram
     icon: fab fa-fw fa-instagram
-    url: https://instagram.com/
+    url: https://instagram.com/nickstapleton
 footer:
   links:
   - label: Twitter
