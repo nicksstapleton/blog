@@ -22,10 +22,10 @@ plugins:
 - jemoji
 - jekyll-include-cache
 author:
-  name: Nick Stapleton
+  name: "Nick Stapleton"
   avatar: "/assets/images/Bio-Photo.jpg"
-  bio: Living in Colorado doing college ministry // MDiv TEDS // coffee and tech buff
-  location: Colorado Springs, CO
+  bio: "Living in Colorado doing college ministry // MDiv TEDS // coffee and tech buff"
+  location: "Colorado Springs, CO"
   links:
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
