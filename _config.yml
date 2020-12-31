@@ -24,14 +24,11 @@ plugins:
 author:
   name: Nick Stapleton
   avatar: "/assets/images/Bio-Photo.jpg"
-  bio: 🏔 living in Colorado doing college ministry 📖 MDiv TEDS coffee and tech buff
+  bio: Living in Colorado doing college ministry // MDiv TEDS // coffee and tech buff
   links:
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
     url: https://twitter.com/nickstapleton
-  - label: GitHub
-    icon: fab fa-fw fa-github
-    url: https://github.com/
   - label: Instagram
     icon: fab fa-fw fa-instagram
     url: https://instagram.com/nickstapleton
