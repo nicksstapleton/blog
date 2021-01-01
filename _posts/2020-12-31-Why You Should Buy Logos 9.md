@@ -1,8 +1,9 @@
 ---
 title: Why YOU Should Buy Logos 9
-
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/logosheader.jpg)
 ---
 ### Who this guide is for
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/logosheader.jpg)
 
 If you regularly spend time reading or teaching the Bible, you should seriously consider adopting Bible software into your life. If you are in full-time ministry, you _definitely_ should consider investing in Bible software.
 
@@ -12,9 +13,7 @@ Faithlife, the company behind Logos, recently released Logos 9 in October 2020. 
 
 Whether you are someone who hasn’t taken the plunge into Logos or you are deciding whether to upgrade to the latest version, I hope this post will help provide some direction and perhaps some inspiration!
 
-—
-![test]({{ site.url }}{{ site.baseurl }}/assets/images/logosheader.jpg)
-{: .full}
+---
 ## Some of My Favorite Logos Features
 
 ### 📖 Reading Plans and Portability
@@ -83,7 +82,7 @@ The Counseling Guide is a new feature in Logos 9. You can simply type in a topic
 
 ![](/images/a1f69fa9-626b-4230-95c1-b513c91cc8f7.png)
 
-—
+---
 
 ## Other Noteworthy Benefits to Using Logos
 
