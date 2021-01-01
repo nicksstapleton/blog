@@ -3,7 +3,7 @@ permalink: "/about/"
 title: About
 
 ---
-![Portrait](/assets/images/Nick.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Nick.jpg)
 
 # 👋 Hi, I'm Nick.
 
