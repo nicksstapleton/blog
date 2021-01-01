@@ -1,6 +1,7 @@
 ---
 permalink: "/about/"
 title: About
+author_profile: false
 
 ---
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Nick.jpg)
