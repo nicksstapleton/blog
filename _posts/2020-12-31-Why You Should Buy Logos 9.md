@@ -1,6 +1,5 @@
 ---
 title: Why YOU Should Buy Logos 9
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/logosheader.jpg)
 ---
 ### Who this guide is for
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/logosheader.jpg)
