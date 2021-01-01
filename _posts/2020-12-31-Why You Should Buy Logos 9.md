@@ -12,8 +12,9 @@ header:
 excerpt_separator: How I use Logos to supercharge my ministry
 
 ---
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/logosheader.jpg)
+{: .full}
 ### Who this guide is for
-![My helpful screenshot](/assets/images/logosheader.png)
 
 If you regularly spend time reading or teaching the Bible, you should seriously consider adopting Bible software into your life. If you are in full-time ministry, you _definitely_ should consider investing in Bible software.
 
