@@ -4,7 +4,7 @@ author_profile: false
 
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Nick.jpg)
+![Profile](/assets/images/Nick.jpg)
 
 # 👋 Hi, I'm Nick.
 
