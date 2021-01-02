@@ -4,8 +4,7 @@ author_profile: false
 
 ---
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Nick.jpg){% endraw %}
-
+{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/Nick.jpg{% endraw %}
 # 👋 Hi, I'm Nick.
 
 I live with my wife and two sons in Colorado Springs, doing college ministry to reach the next generation with the gospel and equipping them to walk with the Lord for a lifetime.
