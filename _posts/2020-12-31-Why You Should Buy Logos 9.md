@@ -18,8 +18,6 @@ Faithlife, the company behind Logos, recently released Logos 9 in October 2020. 
 
 Whether you are someone who hasn’t taken the plunge into Logos or you are deciding whether to upgrade to the latest version, I hope this post will help provide some direction and perhaps some inspiration!
 
-***
-
 ## Some of My Favorite Logos Features
 
 ### 📖 Reading Plans and Portability
