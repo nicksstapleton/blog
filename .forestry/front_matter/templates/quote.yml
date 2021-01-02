@@ -8,6 +8,9 @@ fields:
 - type: textarea
   name: excerpt
   label: excerpt
+- type: list
+  name: tags
+  label: tags
 - type: field_group
   name: header
   label: header
@@ -15,6 +18,3 @@ fields:
   - type: file
     name: teaser
     label: teaser
-- type: list
-  name: tags
-  label: tags
