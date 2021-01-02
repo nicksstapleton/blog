@@ -28,7 +28,7 @@ Logos helps keep me on track by queuing up my Bible daily reading, bringing me d
 
 Beyond your Bible reading, Logos can also create reading plans for any other book in your library. Maybe you want to read through Bavinck’s _Reformed Dogmatics_ over the next six months, but only on weekdays. Logos can create a custom reading plan for you readily available on all of your devices. Next time you’re stuck in the waiting room at the dentist, you can spend some time with Bavinck instead of aimlessly scrolling through Instagram.
 
-![Reading Plan](/assets/images/img_0521.PNG)  
+![Reading Plan](/assets/images/img_0521.PNG)
 
 When it comes to writing a sermon or preparing a Bible study, I can go to any coffee shop armed with just my iPad and have all my commentaries, dictionaries, and other Biblical resources available at my fingertips.
 
@@ -128,7 +128,7 @@ I mean, this makes sense, right? The same is true of any library.
 
 If there are specific resources you want, be sure to see if they’re included in any Logos base packages. This is the best way to get your resource, sometimes cheaper than its list price on its own _and_ get more resources thrown in for cheap (or free)! If I wanted to buy the _Dictionary of Classical Hebrew_ it would cost me $339.99, but if I buy Logos 9 Academic Premium base package I can get it and dozens of other resources thrown in for $108.53. 🤯
 
-![Test ALT Text](/assets/images/dynamic.JPG "Test Title") 
+![Dynamic Pricing](/assets/images/dynamic.JPG "Dynamic Price")
 
 <figure>
 <figcaption> This reflects my dynamic pricing. Nonetheless, the package at full price is $280 — Still way cheaper than $339.99 and comes with tons more resources! </figcaption>
