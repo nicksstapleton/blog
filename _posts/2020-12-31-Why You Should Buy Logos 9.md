@@ -1,9 +1,12 @@
 ---
 title: Why YOU Should Buy Logos 9
-excerpt: If you regularly spend time reading or teaching the Bible, you should seriously consider adopting Bible software into your life. If you are in seminary or full-time ministry, you _definitely_ should consider investing in Bible software.
+excerpt: If you regularly spend time reading or teaching the Bible, you should seriously
+  consider adopting Bible software into your life. If you are in seminary or full-time
+  ministry, you _definitely_ should consider investing in Bible software.
 header:
-  image: /assets/images/logosheader.png
-  teaser: /assets/images/logosheader.png
+  image: "/assets/images/logosheader.png"
+  teaser: "/assets/images/logosheader.png"
+
 ---
 ### Who this guide is for
 
@@ -15,7 +18,8 @@ Faithlife, the company behind Logos, recently released Logos 9 in October 2020. 
 
 Whether you are someone who hasn’t taken the plunge into Logos or you are deciding whether to upgrade to the latest version, I hope this post will help provide some direction and perhaps some inspiration!
 
----
+***
+
 ## Some of My Favorite Logos Features
 
 ### 📖 Reading Plans and Portability
@@ -26,7 +30,7 @@ Logos helps keep me on track by queuing up my Bible daily reading, bringing me d
 
 Beyond your Bible reading, Logos can also create reading plans for any other book in your library. Maybe you want to read through Bavinck’s _Reformed Dogmatics_ over the next six months, but only on weekdays. Logos can create a custom reading plan for you readily available on all of your devices. Next time you’re stuck in the waiting room at the dentist, you can spend some time with Bavinck instead of aimlessly scrolling through Instagram.
 
-![](/images/4ecd825c-195f-446d-8f9e-2247b836a285.png "Did you notice Dark Mode? So nice. 🖤")
+![](/assets/images/img_0521.PNG)
 
 When it comes to writing a sermon or preparing a Bible study, I can go to any coffee shop armed with just my iPad and have all my commentaries, dictionaries, and other Biblical resources available at my fingertips.
 
@@ -43,8 +47,6 @@ A few weeks ago, I was reading Tim Keller’s ministry manifesto _Center Church_
 Without Logos, I would have had to use my phone and a scanner app to snap a picture of each page, crop the image, and review the text on each page to ensure it was captured clearly… like an animal. Not awful, but certainly not the most convenient experience. Of course, the time required and complexity of this process increases with every page scanned.
 
 Thanks to Logos, in less than 30 seconds, I can select and export the relevant section as a custom formatted PDF. You can even decide whether to include your underlining/highlights in the export! I printed out the section, brought it to our staff meeting, and we enjoyed an excellent discussion around the reading together.
-
-![](/images/97f92c5a-5c0e-427d-a483-868b2cd029fb.png)
 
 Anyone leading a Bible study, teaching a Sunday school class, discipling others, or shepherding a team can imagine the value and utility of this feature. It has proven useful to me over and over again.
 
@@ -84,7 +86,7 @@ The Counseling Guide is a new feature in Logos 9. You can simply type in a topic
 
 ![](/images/a1f69fa9-626b-4230-95c1-b513c91cc8f7.png)
 
----
+***
 
 ## Other Noteworthy Benefits to Using Logos
 
