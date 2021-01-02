@@ -4,7 +4,7 @@ author_profile: false
 
 ---
 
-![Profile](/assets/images/Nick.jpg)
+![pic](/assets/images/Nick.jpg)
 
 # 👋 Hi, I'm Nick.
 
