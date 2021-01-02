@@ -21,3 +21,5 @@ fields:
   - type: file
     name: teaser
     label: teaser
+pages:
+- _posts/2021-01-02-spurgeon-on-prayer.md
