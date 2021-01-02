@@ -1,9 +1,10 @@
 ---
 title: Spurgeon on Prayer
-excerpt: 'We may be certain that whatever God has made prominent in his Word, he intended
-  to be conspicuous in our lives."'
+excerpt: We may be certain that whatever God has made prominent in his Word, he intended
+  to be conspicuous in our lives.
 header:
   teaser: "/assets/images/jesuspraying.jpg"
+  image: ''
 tags:
 - Quote
 - Prayer
