@@ -1,10 +1,10 @@
 ---
 permalink: "/about/"
 author_profile: false
+header:
+  image: /assets/images/Nick.jpg
 
 ---
-{% include figure image_path:"/assets/images/Nick.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
-
 # 👋 Hi, I'm Nick.
 
 I live with my wife and two sons in Colorado Springs, doing college ministry to reach the next generation with the gospel and equipping them to walk with the Lord for a lifetime.
