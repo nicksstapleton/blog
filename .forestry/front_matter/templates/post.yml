@@ -8,6 +8,10 @@ fields:
 - type: textarea
   name: excerpt
   label: excerpt
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 - type: field_group
   name: header
   label: header
