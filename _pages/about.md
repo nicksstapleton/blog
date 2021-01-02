@@ -4,7 +4,7 @@ author_profile: false
 
 ---
 
-{% include figure image_path="/assets/images/Nick.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Nick.jpg){% endraw %}
 
 # 👋 Hi, I'm Nick.
 
