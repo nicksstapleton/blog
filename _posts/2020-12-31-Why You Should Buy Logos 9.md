@@ -48,6 +48,8 @@ Thanks to Logos, in less than 30 seconds, I can select and export the relevant s
 
 Anyone leading a Bible study, teaching a Sunday school class, discipling others, or shepherding a team can imagine the value and utility of this feature. It has proven useful to me over and over again.
 
+![](/assets/images/print.PNG)
+
 _Note: For copyright reasons, Logos does not allow you to print or export more than 100 pages of any resource. However, for my purposes, this is always more than enough._
 
 ### 🔎 Factbook
@@ -70,7 +72,7 @@ For many users, Logos can feel intimidating and unintuitive at first glance. Thi
 
 One of my most used is the Basic Bible Study workflow. All you have to do is choose the workflow, enter the passage you want to do study, and Logos leads you step-by-step through the rest.
 
-![](/images/45fb42d9-b515-4bc9-9b3e-7e946737c0c7.png)
+![](/assets/images/workflow.PNG)
 
 Other workflows that I love: Expository Sermon Preparation and Praying Scripture. You can also create custom workflows. Super simple and helpful.
 
@@ -82,7 +84,7 @@ Pastors and ministers often find themselves in situations that require them to p
 
 The Counseling Guide is a new feature in Logos 9. You can simply type in a topic like grief, addiction, divorce, or suicide, and it will provide helpful definitions, assessments, action steps, and more. While I have not put the Counseling Guide through its paces yet, I know this is something I will be referencing when challenging situations arise in the lives of those I am called to shepherd.
 
-![](/images/a1f69fa9-626b-4230-95c1-b513c91cc8f7.png)
+![](/assets/images/counselingguide.PNG)
 
 ***
 
@@ -126,9 +128,9 @@ I mean, this makes sense, right? The same is true of any library.
 
 If there are specific resources you want, be sure to see if they’re included in any Logos base packages. This is the best way to get your resource, sometimes cheaper than its list price on its own _and_ get more resources thrown in for cheap (or free)! If I wanted to buy the _Dictionary of Classical Hebrew_ it would cost me $339.99, but if I buy Logos 9 Academic Premium base package I can get it and dozens of other resources thrown in for $108.53. 🤯
 
-![](/images/33ffa376-7288-446a-a948-33792feee79a.jpeg)
+![](/assets/images/dynamic.JPG)
 
-This reflects my dynamic pricing. Nonetheless, the package at full price is $280 — Still way cheaper than $339.99 and comes with tons more resources!
+> This reflects my dynamic pricing. Nonetheless, the package at full price is $280 — Still way cheaper than $339.99 and comes with tons more resources!
 
 ## Final Thoughts and Recommendation
 
