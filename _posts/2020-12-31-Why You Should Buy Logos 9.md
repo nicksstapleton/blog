@@ -30,8 +30,6 @@ Beyond your Bible reading, Logos can also create reading plans for any other boo
 
 ![Reading Plan](/assets/images/img_0521.PNG)  
 
-> Did you notice Dark Mode? So nice. 🖤
-
 When it comes to writing a sermon or preparing a Bible study, I can go to any coffee shop armed with just my iPad and have all my commentaries, dictionaries, and other Biblical resources available at my fingertips.
 
 Pretty awesome if you ask me.
@@ -132,7 +130,7 @@ If there are specific resources you want, be sure to see if they’re included i
 
 ![Test ALT Text](/assets/images/dynamic.JPG "Test Title") <figure>
 
-<figcaption>This reflects my dynamic pricing. Nonetheless, the package at full price is $280 — Still way cheaper than $339.99 and comes with tons more resources!</figcaption>
+<figcaption> This reflects my dynamic pricing. Nonetheless, the package at full price is $280 — Still way cheaper than $339.99 and comes with tons more resources! </figcaption>
 
 </figure>
 
