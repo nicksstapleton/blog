@@ -128,8 +128,12 @@ I mean, this makes sense, right? The same is true of any library.
 
 If there are specific resources you want, be sure to see if they’re included in any Logos base packages. This is the best way to get your resource, sometimes cheaper than its list price on its own _and_ get more resources thrown in for cheap (or free)! If I wanted to buy the _Dictionary of Classical Hebrew_ it would cost me $339.99, but if I buy Logos 9 Academic Premium base package I can get it and dozens of other resources thrown in for $108.53. 🤯
 
-![](/assets/images/dynamic.JPG)
-<caption>This reflects my dynamic pricing. Nonetheless, the package at full price is $280 — Still way cheaper than $339.99 and comes with tons more resources!</caption>
+![Test ALT Text](/assets/images/dynamic.JPG "Test Title")
+<figure>
+
+  <figcaption>This reflects my dynamic pricing. Nonetheless, the package at full price is $280 — Still way cheaper than $339.99 and comes with tons more resources!</figcaption>
+
+</figure>
 
 ## Final Thoughts and Recommendation
 
