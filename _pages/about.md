@@ -4,9 +4,7 @@ author_profile: false
 
 ---
 
-{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/Nick.jpg{% endraw %}
-
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Nick.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Nick.jpg)
 
 # 👋 Hi, I'm Nick.
 
