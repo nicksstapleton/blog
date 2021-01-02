@@ -11,6 +11,7 @@ minimal_mistakes_skin: default
 search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+teaser: "/assets/images/nslsm.png"
 permalink: "/:title/"
 paginate: "5"
 paginate_path: "/page:num/"
