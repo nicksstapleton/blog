@@ -28,10 +28,7 @@ Logos helps keep me on track by queuing up my Bible daily reading, bringing me d
 
 Beyond your Bible reading, Logos can also create reading plans for any other book in your library. Maybe you want to read through Bavinck’s _Reformed Dogmatics_ over the next six months, but only on weekdays. Logos can create a custom reading plan for you readily available on all of your devices. Next time you’re stuck in the waiting room at the dentist, you can spend some time with Bavinck instead of aimlessly scrolling through Instagram.
 
-![Reading Plan](/assets/images/img_0521.PNG)
-<figure>
-<figcaption>Did you notice Dark Mode? So nice. 🖤</figcaption>
-</figure>
+![Reading Plan](/assets/images/img_0521.PNG)  <figcaption>Did you notice Dark Mode? So nice. 🖤</figcaption>
 
 When it comes to writing a sermon or preparing a Bible study, I can go to any coffee shop armed with just my iPad and have all my commentaries, dictionaries, and other Biblical resources available at my fingertips.
 
@@ -134,7 +131,7 @@ If there are specific resources you want, be sure to see if they’re included i
 ![Test ALT Text](/assets/images/dynamic.JPG "Test Title")
 <figure>
 
-  <figcaption>This reflects my dynamic pricing. Nonetheless, the package at full price is $280 — Still way cheaper than $339.99 and comes with tons more resources!</figcaption>
+<figcaption>This reflects my dynamic pricing. Nonetheless, the package at full price is $280 — Still way cheaper than $339.99 and comes with tons more resources!</figcaption>
 
 </figure>
 
