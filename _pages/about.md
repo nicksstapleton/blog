@@ -3,7 +3,7 @@ permalink: "/about/"
 author_profile: false
 
 ---
-image_path: "/assets/images/Nick.jpg"
+{% include figure image_path:"/assets/images/Nick.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 # 👋 Hi, I'm Nick.
 
