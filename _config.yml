@@ -5,6 +5,8 @@ logo: "/assets/images/nslsm.png"
 email: "nickstapleton@gmail.com"
 description: "Ministry - Theology - Technology"
 twitter_username: "nickstapleton"
+twitter:
+  username: "nickstapleton"
 github_username: ''
 minimal_mistakes_skin: default
 search: true
@@ -26,6 +28,7 @@ plugins:
 - jekyll-include-cache
 author:
   name: "Nick Stapleton"
+  twitter: "nickstapleton"
   avatar: "/assets/images/Bio-Photo.jpg"
   bio: "Living in Colorado doing college ministry // MDiv TEDS // coffee and tech buff"
   location: "Colorado Springs, CO"
