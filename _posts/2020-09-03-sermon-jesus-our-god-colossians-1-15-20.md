@@ -10,4 +10,4 @@ header:
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ZiWbPC29LU?start=530" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Preached by Nick Stapleton on September 3, 2020
+Preached by Nick Stapleton at Woodmen Valley Chapel on September 3, 2020
