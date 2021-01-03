@@ -10,4 +10,6 @@ header:
 ---
 [https://youtu.be/1ZiWbPC29LU?t=529](https://youtu.be/1ZiWbPC29LU?t=529 "https://youtu.be/1ZiWbPC29LU?t=529")
 
-Preached on September 3, 2020 
+[https://vimeo.com/212731897](https://vimeo.com/212731897 "https://vimeo.com/212731897")
+
+Preached on September 3, 2020
