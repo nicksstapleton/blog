@@ -1,7 +1,7 @@
 ---
 title: 'Sermon: Jesus, Our Redemption - Colossians 1:13-14'
 excerpt: ''
-date: 2020-09-10
+date: '2020-09-10'
 tags:
 - Colossians
 - Sermon
