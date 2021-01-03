@@ -8,8 +8,6 @@ header:
   teaser: "/assets/images/screen-shot-2021-01-02-at-5-41-31-pm.png"
 
 ---
-[https://youtu.be/1ZiWbPC29LU?t=529](https://youtu.be/1ZiWbPC29LU?t=529 "https://youtu.be/1ZiWbPC29LU?t=529")
-
-[https://vimeo.com/212731897](https://vimeo.com/212731897 "https://vimeo.com/212731897")
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/1ZiWbPC29LU?start=530](https://www.youtube.com/embed/1ZiWbPC29LU?start=530 "https://www.youtube.com/embed/1ZiWbPC29LU?start=530")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Preached on September 3, 2020
