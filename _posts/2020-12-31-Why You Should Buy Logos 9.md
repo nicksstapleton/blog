@@ -144,7 +144,7 @@ Logos is a professional level tool, and it comes with a professional price tag. 
 
 If you want to get started with Logos, I recommend buying the best Logos 9 base package you can afford. If Logos 9 Silver is in your budget but you’d like to have Platinum, you won’t lose anything by starting with Silver. Because of Logos dynamic pricing, you can always go bigger later without losing anything since you only pay for what’s new to you.
 
-Use [this link](http://bit.ly/Logos9) for my exclusive partner discount to get 15% off your Logos 9 base package and five _free_ books as well! _(Full Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!)_
+Use [this link](http://bit.ly/Logos9) for my exclusive partner discount to get 15% off your Logos 9 base package and five _free_ books as well! 
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
@@ -154,3 +154,4 @@ Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any question
 
 </figure>
 
+_(Full Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!)_
