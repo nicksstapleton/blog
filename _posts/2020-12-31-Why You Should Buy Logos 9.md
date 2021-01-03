@@ -150,7 +150,9 @@ Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any question
 
 <figure>
 
-<a href="![](http://bit.ly/Logos9)"><img src="![](/assets/images/partners-ad-offer-focus-728x90.png)"></a>
+<a href="![](http://bit.ly/Logos9)">
+<img src="![](/assets/images/partners-ad-offer-focus-728x90.png)">
+</a>
 
 </figure>
 
