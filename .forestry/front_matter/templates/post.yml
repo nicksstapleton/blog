@@ -18,3 +18,5 @@ fields:
   - type: file
     name: teaser
     label: teaser
+pages:
+- _posts/sermon-jesus-our-god-colossians-1-15-20.md
