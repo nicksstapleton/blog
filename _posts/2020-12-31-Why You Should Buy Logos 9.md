@@ -148,9 +148,7 @@ Use [this link](http://bit.ly/Logos9) for my exclusive partner discount to get 1
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
-<figure>
-	<a href="http://bit.ly/Logos9"><img src="(/assets/images/partners-ad-offer-focus-728x90.png)"></a>
-</figure>
+<figure> <a href="http://bit.ly/Logos9"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a> </figure>
 
 <figure>
 <a href="![ad link](http://bit.ly/Logos9)"><img src="![ad](/assets/images/partners-ad-offer-focus-728x90.png)"></a>
