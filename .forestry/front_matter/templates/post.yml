@@ -18,3 +18,5 @@ fields:
   - type: file
     name: teaser
     label: teaser
+pages:
+- _posts/sermon-jesus-our-redemption-colossians-1-13-14.md
