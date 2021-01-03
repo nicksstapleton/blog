@@ -28,7 +28,6 @@ plugins:
 - jekyll-include-cache
 author:
   name: "Nick Stapleton"
-  twitter: "nickstapleton"
   avatar: "/assets/images/Bio-Photo.jpg"
   bio: "Living in Colorado doing college ministry // MDiv TEDS // coffee and tech buff"
   location: "Colorado Springs, CO"
