@@ -16,8 +16,5 @@ fields:
   label: header
   fields:
   - type: file
-    name: image
-    label: image
-  - type: file
     name: teaser
     label: teaser
