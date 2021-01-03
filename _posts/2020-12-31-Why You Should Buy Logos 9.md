@@ -150,8 +150,4 @@ Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any question
 
 <figure> <a href="http://bit.ly/Logos9"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a></figure>
 
-<figure>
-<a href="http://bit.ly/Logos9"><img src="![ad](/assets/images/partners-ad-offer-focus-728x90.png)"></a>
-</figure>
-
 _(Full Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!)_
