@@ -112,8 +112,6 @@ Don’t get me wrong, I still love hardcopy books and carry my Bible with me eve
 
 When you buy a Logos 9 base package, you get resources for pennies on the dollar. For a few hundred dollars, you can get thousands of dollars worth of resources.
 
-——
-
 ## Pro-Tips
 
 ### Watch the [Logos Training Videos](https://support.logos.com/hc/en-us/articles/360018922551-New-Features-and-Tools-in-Logos-9)
