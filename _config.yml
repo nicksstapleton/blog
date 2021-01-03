@@ -48,6 +48,7 @@ footer:
     icon: fab fa-fw fa-instagram
     url: https://instagram.com/nickstapleton
 defaults:
+<meta name="twitter:card" content="summary"></meta>
 - scope:
     path: ''
     type: posts
