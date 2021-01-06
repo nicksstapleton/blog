@@ -18,5 +18,3 @@ fields:
   - type: file
     name: teaser
     label: teaser
-pages:
-- _posts/spurgeon-on-1-peter-5-7.md
