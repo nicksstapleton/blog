@@ -27,5 +27,3 @@ fields:
   - type: file
     name: teaser
     label: teaser
-pages:
-- _posts/2021-01-07-d.a.carson-on-ezra-7.md
