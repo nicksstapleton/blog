@@ -27,3 +27,5 @@ fields:
   - type: file
     name: teaser
     label: teaser
+pages:
+- _posts/d.a.carson-on-ezra-7.md

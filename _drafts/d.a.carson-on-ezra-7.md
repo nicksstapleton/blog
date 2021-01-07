@@ -1,0 +1,18 @@
+---
+title: D.A. Carson on Ezra 7
+excerpt: If you are not a student of the Word, you are not called to be a teacher
+  of the Word.
+date: 
+tags:
+- Ministry
+- Bible Study
+- Teaching
+- D.A. Carson
+header:
+  teaser: ''
+
+---
+**A good word from D.A. Carson commenting on Ezra 7:**
+
+> “Ezra devoted himself to the study of the Law. There is no long-range effective teaching of the Bible that is not accompanied by long hours of ongoing study of the Bible. **Effectiveness in teaching the Bible is purchased at the price of much study, some of it lonely, all of it tiring. If you are not a student of the Word, you are not called to be a teacher of the Word.  
+> <cite>D.A. Carson, For the Love of God</cite>**
