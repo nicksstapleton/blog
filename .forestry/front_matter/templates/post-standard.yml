@@ -21,3 +21,5 @@ fields:
   - type: file
     name: teaser
     label: teaser
+pages:
+- _posts/sermon-the-sermon-on-the-mount-matthew-4-23-5-2.md
