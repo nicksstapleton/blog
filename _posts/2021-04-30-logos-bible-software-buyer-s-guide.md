@@ -58,7 +58,7 @@ Here are the base packages I recommend you consider…
 
 #### [Logos 9 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold)
 
-![](/assets/images/standard_gold_315.png)Forgive the pun, but this package is the gold standard and offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get all of the features Logos offers. Additionally, there are some fantastic resources for Biblical studies, preaching, exegesis, and theology. Some highlights include:
+![image-right](/assets/images/l9gold.png)Forgive the pun, but this package is the gold standard and offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get all of the features Logos offers. Additionally, there are some fantastic resources for Biblical studies, preaching, exegesis, and theology. Some highlights include:
 
 * The Pillar NT Commentary series (17 vols.)
 * New Dictionary of Biblical Theology (NDBT)
@@ -68,7 +68,7 @@ Here are the base packages I recommend you consider…
 
 #### [Logos 9 Platinum](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195378/logos-9-platinum)
 
-![image-left](/assets/images/standard_platinum_315.png)If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, as well as advanced dictionaries, and theological studies resources. Some highlights include:
+![image=right](/assets/images/l9platinum.png)If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, as well as advanced dictionaries, and theological studies resources. Some highlights include:
 
 * IVP Bible Dictionary Series (8 Vols.)
 * The New International Greek Testament Commentary (13 vols.)
@@ -100,7 +100,7 @@ Knowing cost-effectiveness is a premium for students, I suggest grabbing the fol
 * [Logos 9 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold)
 * [Academic Essentials](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195534/logos-9-academic-essentials) OR [Stuttgart Scholarly Editions: Core Bundle](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/55088/stuttgart-scholarly-editions-core-bundle) (MDiv students need these original language resources)
 
-Don’t forget to sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources like [BDAG/HALOT]((https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle).
+Don’t forget to sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources like \[BDAG/HALOT\]((https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle).
 
 ## Take Advantage of Sales
 
