@@ -112,7 +112,7 @@ Don’t forget to sign up for the [Logos Academic Discount](https://partner.logo
 
 ## Take Advantage of Sales
 
-Logos has historically offered sales throughout the year, including a back-to-school sale in August. I suggest adding these resources to your Logos wish list and grabbing them when discounted:
+Logos has historically offered sales throughout the year, including a back-to-school sale in August. Many of the resources I consider must-have are part of the base packages I listed above. Here are some others I suggest adding to your Logos wish list and grabbing them when discounted:
 
 * [BDAG/HALOT Bundle](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
 * [Commentary on the New Testament Use of the Old Testament](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
