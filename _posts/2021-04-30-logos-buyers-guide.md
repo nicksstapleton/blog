@@ -40,8 +40,8 @@ According to Logos, base packages save you 90% compared to purchasing books and 
 
 ### Resources
 
-![image-right](/assets/images/resources.png){: .align-right}Initially, I thought base packages were overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but I can almost guarantee you will overspend. Worst case: you pay for the resources you want and get hundreds of others thrown in at no extra cost. Base packages are the most cost-effective way of getting the resources you want.
-
+Initially, I thought base packages were overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but I can almost guarantee you will overspend. Worst case: you pay for the resources you want and get hundreds of others thrown in at no extra cost. Base packages are the most cost-effective way of getting the resources you want.
+![](/assets/images/resources.png)
 ### Features
 
 While having your resources in digital form is awesome, having features, workflows, and datasets which further utilize them is even better. The most recent version of Logos introduces new features and improves others: sermon builder, factbook, counseling guide, and dark mode.
