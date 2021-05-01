@@ -78,7 +78,7 @@ Here are the base packages I recommend you consider…
 
 #### [Logos 9 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195379/logos-9-diamond)
 
-![image-right](/assets/images/l9Diamond.png){: .align-right}This package is on the high end but offers tremendous value. It builds on top of L9 Platinum by doubling the number of Biblical commentaries and dramatically expanding your original language resources. Some highlights include:
+![image-right](/assets/images/l9diamond.png){: .align-right}This package is on the high end but offers tremendous value. It builds on top of L9 Platinum by doubling the number of Biblical commentaries and dramatically expanding your original language resources. Some highlights include:
 
 * BDAG: A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
 * Ancient Christian Commentary on Scripture Complete Set (29 vols.)
