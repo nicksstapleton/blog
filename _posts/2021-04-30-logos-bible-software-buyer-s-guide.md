@@ -106,7 +106,7 @@ Don’t forget to sign up for the [Logos Academic Discount](https://partner.logo
 
 Logos has historically offered sales throughout the year, including a back-to-school sale in August. I suggest adding these resources to your Logos wish list and grabbing them when discounted:
 
-* [BDAG/HALOT Bundle]((https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
+* [BDAG/HALOT Bundle](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
 * [Commentary on the New Testament Use of the Old Testament](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
 * [New International Dictionary of New Testament Theology and Exegesis](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte)
 * [Reformed Dogmatics (Herman Bavinck)](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics)
@@ -121,4 +121,6 @@ Use [this link](http://bit.ly/Logos9) for my exclusive partner discount to get 1
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just say hello. 👋
 
-<figure><a href="[http://bit.ly/Logos9](http://bit.ly/Logos9 "http://bit.ly/Logos9")"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a> <figcaption>Full Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
+<figure> <a href="http://bit.ly/Logos9"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a>
+<figcaption>Full Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption>
+</figure>
