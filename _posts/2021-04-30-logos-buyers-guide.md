@@ -12,6 +12,15 @@ tags:
 header:
   image: "/assets/images/base-packages-header2.png"
   teaser: "/assets/images/base-packages-header2.png"
+gallery:
+  - url: /assets/images/factbook.webp
+    image_path: /assets/images/factbook.webp
+    alt: "placeholder image 1"
+    title: "Factbook"
+  - url: /assets/images/l9darkmode.png
+    image_path: /assets/images/l9darkmode.png
+    alt: "placeholder image 2"
+    title: "Dark Mode"
 
 ---
 ## Overview
