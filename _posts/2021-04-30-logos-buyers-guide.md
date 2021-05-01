@@ -107,7 +107,8 @@ Most seminary students I know are not flush with cash and do not have a book bud
 
 If you are in a position to consider investing in Logos: Do it.![](https://media.giphy.com/media/BjHIjM2YFC3rEUaMrw/giphy.gif)
 
-If you will be purchasing textbooks for your courses, why not buy them in Logos and take all of your class notes inside Logos so that you can easily reference them for decades to come? It may be tempting to say that you will wait to invest in Bible software after you graduate, but I am convinced that there is no better time to learn how to leverage Bible software than while you are in seminary. With the right resources in Logos, you will save yourself significant time and energy in the library that could free you up to spend more time with those you love. Further, you will develop proficiency with the software that will dramatically benefit your ministry upon graduation as you do sermon prep, counseling, personal study, and more.
+If you will be purchasing textbooks for your courses, why not buy them in Logos and take all of your class notes inside Logos so that you can easily reference them for decades to come? It may be tempting to say that you will wait to invest in Bible software after you graduate, but I am convinced that there is no better time to learn how to leverage Bible software than while you are in seminary.   
+With the right resources in Logos, you will save yourself significant time and energy in the library that could free you up to spend more time with those you love. Further, you will develop proficiency with the software that will dramatically benefit your ministry upon graduation as you do sermon prep, counseling, personal study, and more.
 
 ### Seminary Student Base Package Recommendation
 
@@ -125,7 +126,7 @@ Logos has historically offered sales throughout the year, including a back-to-sc
 * [BDAG/HALOT Bundle](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
 * [Commentary on the New Testament Use of the Old Testament](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
 * [Dictionary of Biblical Imagery](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery)
-* [An Introduction to the New Testament](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=An Introduction to the New Testament)
+* \[An Introduction to the New Testament\](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=An Introduction to the New Testament)
 * [New International Dictionary of New Testament Theology and Exegesis](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte)
 * [Reformed Dogmatics (Herman Bavinck)](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics)
 
