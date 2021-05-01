@@ -32,10 +32,10 @@ While not comprehensive, this buyer’s guide aims to provide some direction so 
 
 ## Buy a Base Package
 
-The most cost-effective route into Logos is with a base package. Why? 
+The most cost-effective route into Logos is with a base package. Why?
 
 Base packages = **discounted resources** + **features**
-{: .text-center} 
+{: .text-center}
 
 According to Logos, base packages save you 90% compared to purchasing books and features individually.
 
@@ -97,7 +97,7 @@ Here are the base packages I recommend you consider…
 
 Most seminary students I know are not flush with cash and do not have a book budget like some pastors. Many work multiple jobs and have to take on loans simply to get through seminary. Access to a resource like Logos is a privilege.
 
-If you are in a position to consider investing in Logos: Do it. 
+If you are in a position to consider investing in Logos: Do it.
 
 If you will be purchasing textbooks for your courses, why not buy them in Logos and take all of your class notes inside Logos so that you can easily reference them for decades to come? It may be tempting to say that you will wait to invest in Bible software after you graduate, but I am convinced that there is no better time to learn how to leverage Bible software than while you are in seminary. With the right resources in Logos, you will save yourself significant time and energy in the library that could free you up to spend more time with those you love. Further, you will develop proficiency with the software that will dramatically benefit your ministry upon graduation as you do sermon prep, counseling, personal study, and more.
 
