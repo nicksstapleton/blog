@@ -101,7 +101,7 @@ Knowing cost-effectiveness is a premium for students, I suggest grabbing the fol
 * [Logos 9 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold)
 * [Academic Essentials](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195534/logos-9-academic-essentials) OR [Stuttgart Scholarly Editions: Core Bundle](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/55088/stuttgart-scholarly-editions-core-bundle) (MDiv students need these original language resources)
 
-Don’t forget to sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources like \[BDAG/HALOT\]((https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle).
+Don’t forget to sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 
 ## Take Advantage of Sales
 
