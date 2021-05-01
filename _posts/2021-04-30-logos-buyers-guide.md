@@ -30,7 +30,7 @@ I write from the perspective of having been in vocational ministry for over 10 y
 
 While not comprehensive, this buyer’s guide aims to provide some direction so you can decide which route into Logos is best for you.
 
-## Why Buy a Base Package?
+## Buy a Base Package
 
 The most cost-effective route into Logos is with a base package. Why? 
 
