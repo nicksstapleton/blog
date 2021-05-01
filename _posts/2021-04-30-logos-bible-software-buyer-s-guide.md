@@ -66,7 +66,7 @@ Here are the base packages I recommend you consider…
 * The New American Commentary series (43 vols.)
 * The IVP Bible Background Commentary OT/NT and IVP Pocket Reference Series
 
-#### Logos 9 Platinum
+#### [Logos 9 Platinum](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195378/logos-9-platinum)
 
 ![](/assets/images/standard_platinum_315.png)If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, as well as advanced dictionaries, and theological studies resources. Some highlights include:
 
@@ -76,7 +76,7 @@ Here are the base packages I recommend you consider…
 * BHS - Biblia Hebraica Stuttgartensia with Apparatus
 * Contours of Christian Theology (9 vols.)
 
-#### Logos 9 Diamond
+#### [Logos 9 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195379/logos-9-diamond)
 
 ![](/assets/images/standard_diamond_315.png)This package is on the high end but offers tremendous value. It builds on top of L9 Platinum by doubling the number of Biblical commentaries and dramatically expanding your original language resources. Some highlights include:
 
