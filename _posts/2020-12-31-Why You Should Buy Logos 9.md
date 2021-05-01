@@ -140,7 +140,7 @@ If there are specific resources you want, be sure to see if they’re included i
 
 Logos is a professional level tool, and it comes with a professional price tag. Like any professional, we should invest in tools that save us time and improve the quality of our work. I believe Logos 9 is worthy of the investment. I only wish I would have started utilizing Logos earlier in my ministry and seminary studies!
 
-If you want to get started with Logos, I recommend buying the best Logos 9 base package you can afford. If Logos 9 Silver is in your budget but you’d like to have Platinum, you won’t lose anything by starting with Silver. Because of Logos dynamic pricing, you can always go bigger later without losing anything since you only pay for what’s new to you.
+If you want to get started with Logos, go read my [Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) for base package recommendations and further tips.
 
 Use [this link](http://bit.ly/Logos9) for my exclusive partner discount to get 15% off your Logos 9 base package and five _free_ books as well!
 
