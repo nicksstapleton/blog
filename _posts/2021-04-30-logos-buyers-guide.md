@@ -34,7 +34,7 @@ While not comprehensive, this buyer’s guide aims to provide some direction so 
 
 The most cost-effective route into Logos is with a base package. Why?
 
-📦 Base packages = 💰📚 **discounted resources** + ✨ **features**{: .text-center}
+📦 Base Packages = 💰📚 **Discounted Resources** + ✨ **Features**{: .text-center}
 
 According to Logos, base packages save you 90% compared to purchasing books and features individually.
 
