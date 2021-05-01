@@ -10,8 +10,8 @@ tags:
 - Seminary
 - Logos
 header:
-  image: "/assets/images/logosheader.png"
-  teaser: "/assets/images/logosheader.png"
+  image: "/assets/images/base-packages-header.png"
+  teaser: "/assets/images/base-packages-header.png"
 
 ---
 ## Overview
