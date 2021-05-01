@@ -58,7 +58,7 @@ Here are the base packages I recommend you consider…
 
 #### Logos 9 Gold
 
-Forgive the pun, but this package is the gold standard and offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get all of the features Logos offers. Additionally, there are some fantastic resources for Biblical studies, preaching, exegesis, and theology. Some highlights include:
+![](/assets/images/standard_gold_315.png)Forgive the pun, but this package is the gold standard and offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get all of the features Logos offers. Additionally, there are some fantastic resources for Biblical studies, preaching, exegesis, and theology. Some highlights include:
 
 * The Pillar NT Commentary series (17 vols.)
 * New Dictionary of Biblical Theology (NDBT)
@@ -66,9 +66,9 @@ Forgive the pun, but this package is the gold standard and offers incredible val
 * The New American Commentary series (43 vols.)
 * The IVP Bible Background Commentary OT/NT and IVP Pocket Reference Series
 
-#### \[Logos 9 Platinum\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195378/logos-9-platinum](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195378/logos-9-platinum "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195378/logos-9-platinum"))
+#### Logos 9 Platinum
 
-If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, as well as advanced dictionaries, and theological studies resources. Some highlights include:
+![](/assets/images/standard_platinum_315.png)If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, as well as advanced dictionaries, and theological studies resources. Some highlights include:
 
 * IVP Bible Dictionary Series (8 Vols.)
 * The New International Greek Testament Commentary (13 vols.)
@@ -76,9 +76,9 @@ If you are pursuing an MDiv or doing original language studies, this is the pack
 * BHS - Biblia Hebraica Stuttgartensia with Apparatus
 * Contours of Christian Theology (9 vols.)
 
-#### \[Logos 9 Diamond\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195379/logos-9-diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195379/logos-9-diamond "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195379/logos-9-diamond"))
+#### Logos 9 Diamond
 
-This package is on the high end but offers tremendous value. It builds on top of L9 Platinum by doubling the number of Biblical commentaries and dramatically expanding your original language resources. Some highlights include:
+![](/assets/images/standard_diamond_315.png)This package is on the high end but offers tremendous value. It builds on top of L9 Platinum by doubling the number of Biblical commentaries and dramatically expanding your original language resources. Some highlights include:
 
 * BDAG: A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
 * Ancient Christian Commentary on Scripture Complete Set (29 vols.)
@@ -97,28 +97,28 @@ If you are in a position to consider investing in Logos: Do it. If you will be p
 
 Knowing cost-effectiveness is a premium for students, I suggest grabbing the following:
 
-* \[Logos 9 Gold\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold"))
-* \[Academic Essentials\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195534/logos-9-academic-essentials](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195534/logos-9-academic-essentials "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195534/logos-9-academic-essentials")) OR \[Stuttgart Scholarly Editions: Core Bundle\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/55088/stuttgart-scholarly-editions-core-bundle](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/55088/stuttgart-scholarly-editions-core-bundle "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/55088/stuttgart-scholarly-editions-core-bundle")) (MDiv students need these original language resources)
+* [Logos 9 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold)
+* [Academic Essentials](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195534/logos-9-academic-essentials) OR [Stuttgart Scholarly Editions: Core Bundle](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/55088/stuttgart-scholarly-editions-core-bundle) (MDiv students need these original language resources)
 
-Don’t forget to sign up for the \[Logos Academic Discount\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/academic-discount](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/academic-discount "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/academic-discount"))! This will get you 30% off of base packages and up to 50% off of essential academic resources like \[BDAG/HALOT\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle")).
+Don’t forget to sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources like [BDAG/HALOT]((https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle).
 
 ## Take Advantage of Sales
 
 Logos has historically offered sales throughout the year, including a back-to-school sale in August. I suggest adding these resources to your Logos wish list and grabbing them when discounted:
 
-* \[BDAG/HALOT Bundle\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle"))
-* \[Commentary on the New Testament Use of the Old Testament\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament"))
-* \[New International Dictionary of New Testament Theology and Exegesis\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte"))
-* \[Reformed Dogmatics (Herman Bavinck)\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics"))
+* [BDAG/HALOT Bundle]((https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
+* [Commentary on the New Testament Use of the Old Testament](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
+* [New International Dictionary of New Testament Theology and Exegesis](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte)
+* [Reformed Dogmatics (Herman Bavinck)](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics)
 
 ## Final Thoughts
 
 Buy the best package you can afford. Because of dynamic pricing, you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.
 
-If you want further assistance choosing a package, Logos has put together \[a helpful questionnaire\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/help-me-choose-package](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/help-me-choose-package "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/help-me-choose-package")) to help you identify which package might best suit you. You can also view a detailed \[base package comparison\]([https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/compare-packages](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/compare-packages "https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/compare-packages")).
+If you want further assistance choosing a package, Logos has put together [a helpful questionnaire](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/compare-packages).
 
-Use \[this link\]([http://bit.ly/Logos9](http://bit.ly/Logos9 "http://bit.ly/Logos9")) for my exclusive partner discount to get 15% off your Logos 9 base package and five free books as well!
+Use [this link](http://bit.ly/Logos9) for my exclusive partner discount to get 15% off your Logos 9 base package and five free books as well!
 
-Ping me on \[Twitter\]([https://twitter.com/nickstapleton](https://twitter.com/nickstapleton "https://twitter.com/nickstapleton")) if you have any questions or just say hello. 👋
+Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just say hello. 👋
 
-<figure> <a href="[http://bit.ly/Logos9](http://bit.ly/Logos9 "http://bit.ly/Logos9")"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a> <figcaption>Full Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
+<figure><a href="[http://bit.ly/Logos9](http://bit.ly/Logos9 "http://bit.ly/Logos9")"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a> <figcaption>Full Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
