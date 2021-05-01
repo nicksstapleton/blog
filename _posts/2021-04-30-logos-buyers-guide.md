@@ -18,7 +18,7 @@ header:
 
 Logos is one of the best investments I have ever made. It has been an incredible resource for my own growth, learning, seminary studies, and ministry.
 
-This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, consider reading [why you should buy Logos](https://www.nickstapleton.me/Why-You-Should-Buy-Logos-9/).
+This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, read [why you should buy Logos](https://www.nickstapleton.me/Why-You-Should-Buy-Logos-9/).
 
 My journey with Logos began with several questions such as:
 
