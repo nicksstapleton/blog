@@ -140,3 +140,5 @@ If you want further assistance choosing a package, Logos has put together \[a he
 Use \[this link\]([http://bit.ly/Logos9](http://bit.ly/Logos9 "http://bit.ly/Logos9")) for my exclusive partner discount to get 15% off your Logos 9 base package and five free books as well!
 
 Ping me on \[Twitter\]([https://twitter.com/nickstapleton](https://twitter.com/nickstapleton "https://twitter.com/nickstapleton")) if you have any questions or just say hello. 👋
+
+<figure> <a href="[http://bit.ly/Logos9](http://bit.ly/Logos9 "http://bit.ly/Logos9")"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a> <figcaption>Full Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
