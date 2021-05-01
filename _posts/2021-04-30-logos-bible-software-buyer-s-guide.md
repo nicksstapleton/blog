@@ -58,7 +58,7 @@ Here are the base packages I recommend you consider…
 
 #### [Logos 9 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold)
 
-![image-right](/assets/images/l9gold.png)Forgive the pun, but this package is the gold standard and offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get all of the features Logos offers. Additionally, there are some fantastic resources for Biblical studies, preaching, exegesis, and theology. Some highlights include:
+![image-right](/assets/images/l9gold.png){: .align-right}Forgive the pun, but this package is the gold standard and offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get all of the features Logos offers. Additionally, there are some fantastic resources for Biblical studies, preaching, exegesis, and theology. Some highlights include:
 
 * The Pillar NT Commentary series (17 vols.)
 * New Dictionary of Biblical Theology (NDBT)
@@ -68,7 +68,7 @@ Here are the base packages I recommend you consider…
 
 #### [Logos 9 Platinum](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195378/logos-9-platinum)
 
-![image=right](/assets/images/l9platinum.png)If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, as well as advanced dictionaries, and theological studies resources. Some highlights include:
+![image=right](/assets/images/l9platinum.png){: .align-right}If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, as well as advanced dictionaries, and theological studies resources. Some highlights include:
 
 * IVP Bible Dictionary Series (8 Vols.)
 * The New International Greek Testament Commentary (13 vols.)
@@ -78,7 +78,7 @@ Here are the base packages I recommend you consider…
 
 #### [Logos 9 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195379/logos-9-diamond)
 
-![image-left](/assets/images/standard_diamond_315.png){: .align-left}This package is on the high end but offers tremendous value. It builds on top of L9 Platinum by doubling the number of Biblical commentaries and dramatically expanding your original language resources. Some highlights include:
+![image-right](/assets/images/l9Diamond.png){: .align-right}This package is on the high end but offers tremendous value. It builds on top of L9 Platinum by doubling the number of Biblical commentaries and dramatically expanding your original language resources. Some highlights include:
 
 * BDAG: A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
 * Ancient Christian Commentary on Scripture Complete Set (29 vols.)
