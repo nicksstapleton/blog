@@ -56,7 +56,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 Here are the base packages I recommend you consider…
 
-#### Logos 9 Gold
+#### [Logos 9 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold)
 
 ![](/assets/images/standard_gold_315.png)Forgive the pun, but this package is the gold standard and offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get all of the features Logos offers. Additionally, there are some fantastic resources for Biblical studies, preaching, exegesis, and theology. Some highlights include:
 
