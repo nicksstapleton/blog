@@ -21,6 +21,3 @@ fields:
   - type: file
     name: teaser
     label: teaser
-pages:
-- _posts/sermon-the-beatitudes-part-1-matthew-5-3-6.md
-- _posts/sermon-the-sermon-on-the-mount-matthew-4-23-5-2.md

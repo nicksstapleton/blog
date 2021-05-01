@@ -30,5 +30,3 @@ fields:
   - type: file
     name: teaser
     label: teaser
-pages:
-- _posts/logos-buyers-guide.md
