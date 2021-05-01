@@ -14,7 +14,7 @@ header:
   teaser: "/assets/images/base-packages-header2.png"
 
 ---
-# Overview
+## Overview
 
 Logos is one of the best investments I have ever made. It has been an incredible resource for my own growth, learning, seminary studies, and ministry.
 
@@ -30,7 +30,7 @@ I write from the perspective of having been in vocational ministry for over 10 y
 
 While not comprehensive, this buyer’s guide aims to provide some direction so you can decide which route into Logos is best for you.
 
-# Buy a Base Package
+## Buy a Base Package
 
 The most cost-effective route into Logos is with a base package. Why?
 
@@ -39,7 +39,7 @@ Base packages = **discounted resources** + **features**
 
 According to Logos, base packages save you 90% compared to purchasing books and features individually.
 
-## Resources
+### Resources
 
 Initially, I thought base packages were overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but I can almost guarantee you will overspend. Worst case: you pay for the resources you want and get hundreds of others thrown in at no extra cost. Base packages are the most cost-effective way of getting the resources you want.
 
