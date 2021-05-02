@@ -5,7 +5,7 @@ date:
 tags: []
 header:
   teaser: ''
-
+permalink: /contact/
 ---
 👋Hi! You can shoot me a message at @nickstapleton on just about every social network, or send me an email using this form.
 
