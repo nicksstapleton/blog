@@ -55,8 +55,7 @@ Initially, I thought base packages were overpriced and full of resources I would
 
 ### Features
 
-While having your resources in digital form is awesome, having features, workflows, and datasets which further utilize them is even better. The most recent version of Logos introduces new features and improves others: sermon builder, factbook, counseling guide, and dark mode.
-{% include gallery caption="" %}
+While having your resources in digital form is awesome, having features, workflows, and datasets which further utilize them is even better. I love writing my sermons  and being able to quickly highlight and organize my notes right inside of Logos. The most recent version of Logos introduces new features and improves others: sermon builder, factbook, counseling guide, and dark mode. {% include gallery caption="" %}
 
 ## Which Base Package Should You Buy?
 
