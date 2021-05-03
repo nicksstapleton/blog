@@ -17,6 +17,10 @@ gallery:
   image_path: "/assets/images/factbook.webp"
   alt: placeholder image 1
   title: Factbook
+- url: "/assets/images/sermon builder.png"
+  image_path: "/assets/images/sermon builder.png"
+  alt: ''
+  title: Sermon Builder
 - url: "/assets/images/l9darkmode.png"
   image_path: "/assets/images/l9darkmode.png"
   alt: placeholder image 2
