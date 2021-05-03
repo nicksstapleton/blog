@@ -72,7 +72,7 @@ Ultimately, there are two questions you need to answer:
 
 An important principle to keep in mind: Logos is only as useful as the resources you have inside of it. At the risk of stating the obvious, if you want access to top commentaries, lexicons, and Bible dictionaries, you need to get them in there.
 
-When I first purchased Logos in 2009, I bought an entry-level package and expected it to perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. You need to know what you want Logos to do for you and ensure you are getting the tools to accomplish your desired task.
+When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. You need to know what you want Logos to do for you and ensure you are getting the tools to accomplish your desired task.
 
 Here are the base packages I recommend you consider…
 
