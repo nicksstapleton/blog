@@ -83,7 +83,7 @@ Here are the base packages I recommend you consider…
 
 #### [Logos 9 Platinum](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195378/logos-9-platinum)
 
-![image=right](/assets/images/l9platinum.png){: .align-right}If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, as well as advanced dictionaries, and theological studies resources. Some highlights include:
+![image=right](/assets/images/l9platinum.png){: .align-right}If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, as well as advanced dictionaries, and theological studies resources. Some notable resources in this package include:
 
 * IVP Bible Dictionary Series (8 Vols.)
 * The New International Greek Testament Commentary (13 vols.)
