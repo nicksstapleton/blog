@@ -51,7 +51,6 @@ According to Logos, base packages save you 90% compared to purchasing books and 
 
 Initially, I thought base packages were overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but I can almost guarantee you will overspend. Worst case: you pay for the resources you want and get hundreds of others thrown in at no extra cost. Base packages are the most cost-effective way of getting the resources you want.
 
-
 ![](/assets/images/resources.png)
 
 ### Features
@@ -74,7 +73,7 @@ Here are the base packages I recommend you consider…
 
 #### [Logos 9 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold)
 
-![image-right](/assets/images/l9gold.png){: .align-right}Forgive the pun, but this package is the gold standard and offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get all of the features Logos offers. Additionally, there are some fantastic resources for Biblical studies, preaching, exegesis, and theology. Some highlights include:
+![image-right](/assets/images/l9gold.png){: .align-right}Forgive the pun, but this package is the gold standard and offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get every feature Logos offers. This package is going to be a great fit for many ministry leaders, pastors, and seminarians as it provides fantastic resources for Biblical studies, preaching, exegesis, and theology. Some resource highlights include:
 
 * The Pillar NT Commentary series (17 vols.)
 * New Dictionary of Biblical Theology (NDBT)
@@ -109,8 +108,8 @@ Most seminary students I know are not flush with cash and do not have a book bud
 
 If you are in a position to consider investing in Logos: Do it.![](https://media.giphy.com/media/BjHIjM2YFC3rEUaMrw/giphy.gif)
 
-If you will be purchasing textbooks for your courses, why not buy them in Logos and take all of your class notes inside Logos so that you can easily reference them for decades to come? It may be tempting to say that you will wait to invest in Bible software after you graduate, but I am convinced that there is no better time to learn how to leverage Bible software than while you are in seminary.   
-  
+If you will be purchasing textbooks for your courses, why not buy them in Logos and take all of your class notes inside Logos so that you can easily reference them for decades to come? It may be tempting to say that you will wait to invest in Bible software after you graduate, but I am convinced that there is no better time to learn how to leverage Bible software than while you are in seminary.
+
 With the right resources in Logos, you will save yourself significant time and energy in the library that could free you up to spend more time with those you love. Further, you will develop proficiency with the software that will dramatically benefit your ministry upon graduation as you do sermon prep, counseling, personal study, and more.
 
 ### Seminary Student Base Package Recommendation
