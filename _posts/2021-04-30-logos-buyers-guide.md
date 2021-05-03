@@ -59,7 +59,7 @@ Initially, I thought base packages were overpriced and full of resources I would
 
 ### Features
 
-While having your resources in digital form is awesome, having features, workflows, and datasets which further utilize them is even better. I love writing my sermons  and being able to quickly highlight and organize my notes right inside of Logos. The ability to do searches across your entire library is unbelievable. Imagine having a research assistant who can comb through your entire library and bring you every resource relevant to a particular topic or Bible passage you are interested in learning more about in a matter of seconds. That research assistant has a name in Logos: Factbook.
+While having your resources in digital form is awesome, having features, workflows, and datasets which further utilize them is even better. I love writing my sermons and being able to quickly highlight and organize my notes right inside of Logos. The ability to do searches across your entire library is unbelievable. Imagine having a research assistant who can comb through your entire library and bring you every resource relevant to a particular topic or Bible passage you are interested in learning more about in a matter of seconds. That research assistant has a name in Logos: Factbook.
 
 The most recent version of Logos introduces new features and improves others: sermon builder, factbook, counseling guide, and dark mode. {% include gallery caption="" %}
 
