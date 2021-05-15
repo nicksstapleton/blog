@@ -114,7 +114,7 @@ When you buy a Logos 9 base package, you get resources for pennies on the dollar
 
 ## Pro-Tips
 
-### Watch the [Logos Training Videos](https://support.logos.com/hc/en-us/articles/360018922551-New-Features-and-Tools-in-Logos-9)
+### Watch the [Logos Training Videos](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://support.logos.com/hc/en-us/articles/360018922551-New-Features-and-Tools-in-Logos-9)
 
 Seriously.
 
