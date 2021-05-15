@@ -1,5 +1,5 @@
 ---
-title: Exegetical Guide to the Greek New Testament | EGGNT
+title: Exegetical Guide to the Greek New Testament
 excerpt: I love this series.
 date: 2021-05-15 00:00:00 -0600
 tags:
