@@ -8,7 +8,7 @@ tags:
 - Greek
 - Resources
 header:
-  teaser: ''
+  teaser: "/assets/images/eggnt.jpg"
 
 ---
 ![align-right](/assets/images/eggnt.jpg)Logos has begun releasing books that are part of the Exegetical Guide to the Greek New Testament. From its product description page:
