@@ -1,0 +1,42 @@
+---
+label: Post + Header + Gallery
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: excerpt
+  label: excerpt
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: file
+    name: teaser
+    label: teaser
+- type: field_group_list
+  name: gallery
+  label: gallery
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+  - type: text
+    name: alt
+    label: alt
+  - type: text
+    name: title
+    label: title
