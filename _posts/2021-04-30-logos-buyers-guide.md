@@ -143,7 +143,7 @@ Buy the best package you can afford. Because of dynamic pricing, you can always 
 
 If you want further assistance choosing a package, Logos assembled [a questionnaire](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/compare-packages).
 
-Use [this link](http://bit.ly/Logos9) for my exclusive partner discount to get 15% off your Logos 9 base package and five free books as well!
+Use [this link](http://bit.ly/Logos9) for my exclusive partner discount on your Logos 9 base package and five free books as well!
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just say hello. 👋
 
