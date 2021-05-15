@@ -11,8 +11,23 @@ header:
   teaser: "/assets/images/eggnt.jpg"
 
 ---
-![image-right](/assets/images/eggnt.jpg){: .align-right}Logos has begun releasing books that are part of the Exegetical Guide to the Greek New Testament. From its product description page:
+![image-right](/assets/images/eggnt.jpg){: .align-right}Logos has begun releasing books that are part of the Exegetical Guide to the Greek New Testament. From its product description:
 
 > The Exegetical Guide to the Greek New Testament (EGGNT) closes the gap between the Greek text and the available lexical and grammatical tools, providing all the necessary information for greater understanding of the text. The series makes interpreting any given New Testament book easier, especially for those who are hard pressed for time but want to preach or teach with accuracy and authority.
 
 If you are currently studying Greek, or have done so in the past, you will appreciate the exegetical insights of this series. You can [pick up the bundle here](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/207806/exegetical-guide-to-the-greek-new-testament-eggnt).
+
+Included in the series (as of May 2021):
+
+* [Matthew](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/201378/matthew)
+* [Mark](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/192188/mark)
+* [Luke](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/201255/luke)
+* [John](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/201488/john)
+* [Acts](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/198493/acts)
+* [Romans](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/201527/romans)
+* [2 Corinthians](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/190299/2-corinthians)
+* [Ephesians](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/201645/ephesians)
+* [Philippians](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/198607/philippians)
+* [Colossians and Philemon](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/201322/colossians-and-philemon)
+* [Hebrews](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/177685/hebrews)
+* [1 Peter](https://partner.logosbible.com/click.track?CID=432198&AFID=460205&nonencodedurl=https://www.logos.com/product/201294/1-peter)
