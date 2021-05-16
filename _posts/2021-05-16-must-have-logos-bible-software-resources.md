@@ -29,3 +29,5 @@ gallery: []
 * [Biblia Hebraica Stuttgartensia with Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction)
 
 👉 What is a must-have resource in your library? Send me a [tweet](http://www.twitter.com/nickstapleton) and let me know.
+
+p.s. If you are looking for the best commentaries for a particular book of the Bible, I highly recommend [this website](https://www.nickstapleton.me/best-bible-commentaries/).
