@@ -28,4 +28,4 @@ gallery: []
 * [Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/29980/nestle-aland-greek-new-testament-28th-edition-with-critical-apparatus)
 * [Biblia Hebraica Stuttgartensia with Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction)
 
-👉 What is a must-have resource in your library?
+👉 What is a must-have resource in your library? Send me a [tweet](http://www.twitter.com/nickstapleton) and let me know.
