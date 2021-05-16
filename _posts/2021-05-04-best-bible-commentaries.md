@@ -8,4 +8,4 @@ tags:
 link: https://www.bestbiblecommentaries.com
 
 ---
-This website is gold. If you are trying to decide what commentary to buy for a particular book of the Bible, it will provide you the information you need.
+[This website](https://www.bestbiblecommentaries.com) is gold. If you are trying to decide what commentary to buy for a particular book of the Bible, it will provide you the information you need.
