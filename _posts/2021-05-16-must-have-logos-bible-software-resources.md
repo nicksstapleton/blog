@@ -8,7 +8,6 @@ tags:
 - Logos
 - Resources
 header:
-  image: ''
   teaser: "/assets/images/logos-resources.png"
 gallery: []
 
