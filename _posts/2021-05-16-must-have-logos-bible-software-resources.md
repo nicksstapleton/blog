@@ -3,6 +3,8 @@ title: Must-Have Logos Bible Software Resources
 excerpt: Some of my favorite Logos resources
 date: 2021-05-16 09:00:00 -0600
 tags:
+- Seminary
+- Sermon Prep
 - Logos
 - Resources
 header:
