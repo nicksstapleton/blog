@@ -19,6 +19,7 @@ gallery: []
 * [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery)
 * [IVP Bible Dictionary Series](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/37742/ivp-bible-dictionary-series-8-volumes)
 * [New Dictionary of Biblical Theology](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/27277/new-dictionary-of-biblical-theology)
+* [Dictionary for Theological Interpretation of the Bible](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5322/dictionary-for-theological-interpretation-of-the-bible)
 * [BDAG/HALOT](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
 * [New International Dictionary of New Testament Theology and Exegesis](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte)
 * [Institutes of the Christian Religion](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/16036/institutes-of-the-christian-religion)
