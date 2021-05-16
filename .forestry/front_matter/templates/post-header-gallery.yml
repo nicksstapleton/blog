@@ -40,3 +40,5 @@ fields:
   - type: text
     name: title
     label: title
+pages:
+- _posts/must-have-logos-bible-software-resources.md
