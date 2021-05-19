@@ -122,7 +122,7 @@ With the right resources in Logos, you will save yourself significant time and e
 Knowing cost-effectiveness is a premium for students, I suggest grabbing the following:
 
 * [Logos 9 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold)
-* [Academic Essentials](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/195534/logos-9-academic-essentials) OR [Stuttgart Scholarly Editions: Core Bundle](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/55088/stuttgart-scholarly-editions-core-bundle) (MDiv students need these original language resources)
+* [Academic Essentials](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/195534/logos-9-academic-essentials) (MDiv students need these original language resources)
 
 Don’t forget to sign up for the [Logos Academic Discount](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 
