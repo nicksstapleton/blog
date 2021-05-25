@@ -27,3 +27,5 @@ fields:
   - type: file
     name: teaser
     label: teaser
+pages:
+- _posts/a-great-campaign-of-sabotage.md
