@@ -9,7 +9,7 @@ twitter_username: "nickstapleton"
 twitter:
   username: "nickstapleton"
 github_username: ''
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
