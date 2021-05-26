@@ -8,6 +8,7 @@ tags:
 - 1 Peter
 - Suffering
 - Spurgeon
+- Quote
 header:
   teaser: "/assets/images/boat.png"
 
