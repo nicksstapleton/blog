@@ -3,7 +3,7 @@ title: A Great Campaign of Sabotage
 excerpt: Christianity is the story of how the rightful king has landed, you might
   say landed in disguise, and is calling us all to take part in a great campaign of
   sabotage.
-date: 2021-05-25 16:00:00 -0600
+date: 2021-05-25T16:00:00.000-06:00
 tags:
 - C.S. Lewis
 - Quote
@@ -15,4 +15,4 @@ header:
 >
 > Enemy-occupied territory—that is what this world is. Christianity is the story of how the rightful king has landed, you might say landed in disguise, and is calling us all to take part in a great campaign of sabotage.
 >
-> <cite>C. S. Lewis, _Mere Christianity_ (New York: HarperOne, 2001), 45–46.</cite>
+<cite>C. S. Lewis, _Mere Christianity_ (New York: HarperOne, 2001), 45–46.</cite>
