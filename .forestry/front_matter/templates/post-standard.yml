@@ -1,5 +1,5 @@
 ---
-label: 'Post: Standard'
+label: Standard
 hide_body: false
 fields:
 - type: text
