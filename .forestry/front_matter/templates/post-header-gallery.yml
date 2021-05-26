@@ -1,5 +1,5 @@
 ---
-label: Post + Header
+label: Post
 hide_body: false
 fields:
 - type: text
