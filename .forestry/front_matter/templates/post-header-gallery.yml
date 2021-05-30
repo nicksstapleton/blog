@@ -40,5 +40,3 @@ fields:
   - type: text
     name: title
     label: title
-pages:
-- _pages/thank you.md
