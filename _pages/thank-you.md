@@ -8,3 +8,5 @@ author_profile: false
 # Thank you for letting us know!
 
 We are grateful for your partnership in reaching students for Christ.
+
+If you reached this page by mistake, simply reply to the email we sent you. 
