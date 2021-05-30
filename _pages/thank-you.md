@@ -1,7 +1,6 @@
 ---
 permalink: "/thankyou/"
 author_profile: false
-title: Thank You
 
 ---
 ![](/assets/images/2020-stapleton-fam-md.png)
