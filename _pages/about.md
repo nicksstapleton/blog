@@ -7,7 +7,7 @@ author_profile: false
 
 # 👋 Hi, I'm Nick.
 
-I live with my wife and two sons in Colorado Springs, doing college ministry to reach the next generation with the gospel and equipping them to walk with the Lord for a lifetime.
+I live with my wife and two sons in Colorado Springs, making disciples on college campuses and in the local church to train and equip them to walk with the Lord for a lifetime.
 
 I am a MDiv candidate at Trinity Evangelical Divinity School.
 
