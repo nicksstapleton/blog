@@ -8,7 +8,7 @@ tags:
 - Bible
 - Scripture
 header:
-  teaser: ''
+  teaser: "/assets/images/rgw.jpg"
 
 ---
 ![](/assets/images/rgw.jpg)
