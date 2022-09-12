@@ -41,7 +41,7 @@ author:
     icon: fab fa-fw fa-instagram
     url: https://instagram.com/nickstapleton
   - label: My Logos Bible Posts
-    icon: fab fa-solid fa-magnifying-glass-plus
+    icon: fab fa-fw fa-magnifying-glass-plus
     url: https://www.nickstapleton.me/tags/#logos
     
 footer:
@@ -53,7 +53,7 @@ footer:
     icon: fab fa-fw fa-instagram
     url: https://instagram.com/nickstapleton
   - label: Logos
-    icon: fab fa-solid fa-magnifying-glass-plus
+    icon: fab fa-fw fa-magnifying-glass-plus
     url: https://www.nickstapleton.me/tags/#logos
 defaults:
 - scope:
