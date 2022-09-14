@@ -12,6 +12,7 @@ categories:
 header:
   image: "/assets/images/logosheader.png"
   teaser: "/assets/images/logosheader.png"
+toc: true
 
 ---
 ### Who this guide is for
