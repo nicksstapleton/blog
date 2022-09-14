@@ -48,6 +48,7 @@ footer:
   links:
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
+    color: #833AB4
     url: https://twitter.com/nickstapleton
   - label: Instagram
     icon: fab fa-fw fa-instagram
