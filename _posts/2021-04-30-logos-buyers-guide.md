@@ -140,7 +140,7 @@ Logos has historically offered sales throughout the year, including a back-to-sc
 * [New International Dictionary of New Testament Theology and Exegesis](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte)
 * [Reformed Dogmatics (Herman Bavinck)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics)
 
-## Final Thoughts
+### Final Thoughts
 
 Buy the best package you can afford. Because of dynamic pricing, you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.
 
