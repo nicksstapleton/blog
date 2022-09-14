@@ -4,6 +4,8 @@ excerpt: Logos is one of the best investments I have ever made. Here are my thou
   on what to buy.
 date: 2021-04-30T21:00:00.000-06:00
 toc: true
+toc_label: "Logos Buyer's Guide"
+toc_icon: "search-plus"
 tags:
 - Bible Study
 - Sermon Prep
