@@ -1,4 +1,6 @@
 main:
+  - title: "Logos"
+    url: /tags/#logos/
   - title: "Posts"
     url: /posts/
   - title: "Tags"
