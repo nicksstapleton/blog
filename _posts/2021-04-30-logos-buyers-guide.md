@@ -110,7 +110,7 @@ Here are the base packages I recommend you consider…
 * International Critical Commentary Series (63 vols.)
 * Charles Spurgeon Collection
 
-## A Word to Seminary Students
+### A Word to Seminary Students
 
 Most seminary students I know are not flush with cash and do not have a book budget like some pastors. Many work multiple jobs and have to take on loans simply to get through seminary. Access to a resource like Logos is a privilege.
 
@@ -120,7 +120,7 @@ If you will be purchasing textbooks for your courses, why not buy them in Logos 
 
 With the right resources in Logos, you will save yourself significant time and energy in the library that could free you up to spend more time with those you love. Further, you will develop proficiency with the software that will dramatically benefit your ministry upon graduation as you do sermon prep, counseling, personal study, and more.
 
-### Seminary Student Base Package Recommendation
+#### Seminary Student Base Package Recommendation
 
 Knowing cost-effectiveness is a premium for students, I suggest grabbing the following:
 
@@ -129,7 +129,7 @@ Knowing cost-effectiveness is a premium for students, I suggest grabbing the fol
 
 Don’t forget to sign up for the [Logos Academic Discount](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 
-## Take Advantage of Sales
+### Take Advantage of Sales
 
 Logos has historically offered sales throughout the year, including a back-to-school sale in August. Many of the resources I consider must-have are part of the base packages I listed above. Here are some others I suggest adding to your Logos wish list and grabbing them when discounted:
 
