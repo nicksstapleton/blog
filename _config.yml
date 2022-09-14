@@ -41,9 +41,6 @@ author:
     icon: "fab fa-fw fa-instagram"
     color: "#833AB4"
     url: "https://instagram.com/nickstapleton"
-  - label: "My Logos Bible Posts"
-    icon: "fab fa fa-search-plus"
-    url: "https://www.nickstapleton.me/tags/#logos"
     
 footer:
   links:
