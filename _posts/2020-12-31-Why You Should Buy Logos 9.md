@@ -13,6 +13,8 @@ header:
   image: "/assets/images/logosheader.png"
   teaser: "/assets/images/logosheader.png"
 toc: true
+toc_label: "Overview"
+toc_icon: "search-plus"
 
 ---
 ### Who this guide is for
