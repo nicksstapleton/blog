@@ -7,6 +7,8 @@ tags:
 - Logos
 - Tech
 - Ministry
+categories:
+- Logos
 header:
   image: "/assets/images/logosheader.png"
   teaser: "/assets/images/logosheader.png"
