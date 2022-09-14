@@ -2,16 +2,16 @@
 title: 'Union with Christ: The Umbrella Doctrine'
 excerpt: Dane Ortlund in his book, Deeper, identifies 11 realities of our union with
   Christ, "...the umbrella doctrine within which every benefit of salvation is subsumed."
-date: 2022-09-14 14:00:00 -0600
+date: 2022-09-14T14:00:00.000-06:00
 tags:
 - Quote
 - Union with Christ
 - Justification
 header:
-  teaser: "/assets/images/91-o4bdlxql-large.jpeg"
+  teaser: ''
 
 ---
-![](/assets/images/91-o4bdlxql-large.jpeg)
+![](/assets/images/deeper.jpeg)
 
 Dane Ortlund in his book, _Deeper_, identifies 11 realities of our union with Christ, "...the umbrella doctrine within which every benefit of salvation is subsumed."
 
