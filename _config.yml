@@ -16,7 +16,7 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 og_image: "/assets/images/nslsm.png"
 teaser: "/assets/images/nslsm.png"
 permalink: "/:title/"
-paginate: "10"
+paginate: "100"
 paginate_path: /page:num/
 timezone: 
 include:
