@@ -2,32 +2,40 @@
 title: "Splash Page"
 layout: splash
 permalink: /splash-page/
+date: 2020-04-08
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/logosheader.png
+
   actions:
     - label: "Download"
-      url: "#test-link"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: /assets/images/logosheader.png
     title: "Why You Should Buy Logos 9"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Sample text 1 with **markdown** formatting."
     url: "https://www.nickstapleton.me/Why-You-Should-Buy-Logos-9/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/base-packages-header2.png
-    alt: "placeholder image 2"
     title: "Logos Buyer’s Guide"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://www.nickstapleton.me/logos-buyers-guide/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/logosheader.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting
-    
----    
+    btn_class: "btn--secondary"
+  - image_path: /assets/images/logos-resources.png
+    title: "Must-Have Logos Bible Software Resources"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "https://www.nickstapleton.me/must-have-logos-bible-software-resources/"
+    btn_label: "Read More"
+    btn_class: "btn--success"
+
+---
+
 {% include feature_row id="intro" type="center" %}
+
 {% include feature_row %}
