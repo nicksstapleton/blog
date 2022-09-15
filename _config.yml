@@ -1,6 +1,7 @@
 ---
 title: "Nick Stapleton"
 url: "https://www.nickstapleton.me"
+layout: splash
 masthead_title: " "
 logo: "/assets/images/nslsm.png"
 email: "nickstapleton@gmail.com"
@@ -70,7 +71,7 @@ feature_row:
     path: ''
     type: posts
   values:
-    layout: splash
+    layout: single
     author_profile: true
     read_time: true
     comments: true
@@ -80,7 +81,7 @@ feature_row:
     path: _pages
     type: pages
   values:
-    layout: splash
+    layout: single
     author_profile: true
 category_archive:
   type: liquid
