@@ -70,34 +70,17 @@ feature_row:
     path: ''
     type: posts
   values:
-    layout: single
+    layout: splash
     author_profile: true
     read_time: true
     comments: true
     share: true
-    related: true
-     feature_row:
-  - image_path: /assets/images/logosheader.png
-    title: "Why YOU Should Buy Logos 9"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://www.nickstapleton.me/Why-You-Should-Buy-Logos-9/"
-  - image_path: /assets/images/logosheader.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/logosheader.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting
-    show_date: true
-    
+    related: true    
 - scope:
     path: _pages
     type: pages
   values:
-    layout: single
+    layout: splash
     author_profile: true
 category_archive:
   type: liquid
