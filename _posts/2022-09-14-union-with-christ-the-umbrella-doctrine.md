@@ -8,7 +8,7 @@ tags:
 - Union with Christ
 - Justification
 header:
-  teaser: /assets/images/Deeper.jpg
+  teaser: "/assets/images/deeper.jpeg"
 
 ---
 ![](/assets/images/deeper.jpeg)
