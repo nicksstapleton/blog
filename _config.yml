@@ -13,13 +13,13 @@ minimal_mistakes_skin: default
 search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes@4.24.0
- og_image: "/assets/images/nslsm.png"
- teaser: "/assets/images/nslsm.png"
- permalink: "/:title/"
- paginate: "100"
- paginate_path: /page:num/
- timezone: 
- include:
+og_image: "/assets/images/nslsm.png"
+teaser: "/assets/images/nslsm.png"
+permalink: "/:title/"
+paginate: "100"
+paginate_path: /page:num/
+timezone: 
+include:
 - _pages
 plugins:
 - jekyll-paginate
