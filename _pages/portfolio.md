@@ -1,5 +1,5 @@
 ---
-title: Logos Bible Software Posts
+title: Logos Bible Software
 layout: collection
 permalink: /logos/
 collection: portfolio
