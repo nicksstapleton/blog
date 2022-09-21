@@ -1,8 +1,8 @@
 main:
   - title: "Logos"
     url: /tags/#logos
-  - title: "Recent"
-    url: /recent/
+  - title: "Posts"
+    url: /posts/
   - title: "Tags"
     url: /tags/
   - title: "About Me"
