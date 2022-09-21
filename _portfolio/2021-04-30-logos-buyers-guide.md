@@ -6,6 +6,7 @@ date: 2021-04-30T21:00:00.000-06:00
 toc: true
 toc_label: Logos Buyer's Guide
 toc_icon: search-plus
+search: false
 header:
   image: "/assets/images/base-packages-header2.png"
   teaser: "/assets/images/base-packages-header2.png"
