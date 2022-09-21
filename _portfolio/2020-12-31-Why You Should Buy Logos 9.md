@@ -9,6 +9,7 @@ header:
 toc: true
 toc_label: "Overview"
 toc_icon: "search-plus"
+search: false
 
 ---
 ## Who this guide is for
