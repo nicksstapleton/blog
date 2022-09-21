@@ -71,15 +71,14 @@ defaults:
   values:
     layout: single
     author_profile: true
-     defaults:
 # _portfolio
 - scope:
     path: ""
     type: portfolio
   values:
-      layout: single
-      author_profile: true
-      share: true 
+    layout: single
+    author_profile: true
+    share: true 
 category_archive:
   type: liquid
   path: "/categories/"
