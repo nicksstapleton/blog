@@ -19,10 +19,36 @@ feature_row:
     url: "https://www.nickstapleton.me/must-have-logos-bible-software-resources/"
     btn_label: "Read More"
     btn_class: "btn--success"
-
+feature_row_left:
+  - image_path: /assets/images/logosheader.png
+    title: "Why You Should Buy Logos 9"
+    excerpt: "If you're in seminary or read and teach the Bible regularly, you need to consider buying Logos Bible Software."
+    url: "https://www.nickstapleton.me/Why-You-Should-Buy-Logos-9/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row_left2:
+  - image_path: /assets/images/logos-resources.png
+    title: "Must-Have Logos Bible Software Resources"
+    excerpt: "Which are Logos resources are must-haves? Here are the resources that provide the greatest value."
+    url: "https://www.nickstapleton.me/must-have-logos-bible-software-resources/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row_left3:
+  - image_path: /assets/images/base-packages-header2.png
+    title: "Logos Buyer’s Guide"
+    excerpt: "Logos is one of the best and largest investments I have ever made. Make sure you buy it the right way."
+    url: "https://www.nickstapleton.me/logos-buyers-guide/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row_left" type="left" %}
+
+{% include feature_row id="feature_row_left2" type="left" %}
+
+{% include feature_row id="feature_row_left3" type="left" %}
 
   <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
   {% if paginator %}
