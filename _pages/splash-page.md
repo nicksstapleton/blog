@@ -22,33 +22,33 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/base-packages-header2.png
-    title: "Why You Should Buy Logos 9"
+    title: "Logos Buyer’s Guide"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://www.nickstapleton.me/Why-You-Should-Buy-Logos-9/"
+    url: "https://www.nickstapleton.me/logos-buyers-guide/"
     btn_label: "Read More"
     btn_class: "btn--secondary"
-  - image_path: /assets/images/logosheader.png
-    title: "Placeholder 3"
+  - image_path: /assets/images/logos-resources.png
+    title: "Must-Have Logos Bible Software Resources"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://www.nickstapleton.me/must-have-logos-bible-software-resources/"
     btn_label: "Read More"
     btn_class: "btn--success"
 feature_row_left:
-  - image_path: /assets/splash/feat1-1.jpg
+  - image_path: /assets/images/logos-resources.png
     title: "Left aligned placeholder 1"
     excerpt: "Left-aligned image centered with"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_right:
-  - image_path: /assets/splash/feat1-2.jpg
+  - image_path: /assets/images/logos-resources.png
     title: "Placeholder 1"
     excerpt: "Right-aligned image with ``"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_center:
-  - image_path: /assets/splash/feat1-3.jpg
+  - image_path: /assets/images/logos-resources.png
     title: "Placeholder 1"
     excerpt: "Center aligned image"
     url: "#test-link"
