@@ -2,6 +2,7 @@
 title: Must-Have Logos Bible Software Resources
 excerpt: Some of my favorite Logos resources
 date: 2021-05-16T09:00:00.000-06:00
+search: false
 header:
   teaser: "/assets/images/logos-resources.png"
 gallery: []
