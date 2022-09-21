@@ -41,7 +41,10 @@ author:
     icon: "fab fa-fw fa-instagram"
     color: "#833AB4"
     url: "https://instagram.com/nickstapleton"
-    
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/    
 footer:
   links:
   - label: "Twitter"
