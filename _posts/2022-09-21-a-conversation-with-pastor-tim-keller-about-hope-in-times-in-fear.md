@@ -1,5 +1,5 @@
 ---
-title: A Conversation with Pastor Tim Keller about Hope in Times in Fear
+title: A Conversation with Pastor Tim Keller about Hope in Times of Fear
 excerpt: Tim Keller responding to, “What would you say to a young Christian who’s
   nervous about the future?”
 date: 2022-09-21 19:00:00 -0600
