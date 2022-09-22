@@ -1,7 +1,7 @@
 ---
 title: 'Ray Ortlund: What about death?'
 excerpt: We can glorify Jesus in our death.
-date: 2022-09-23 08:00:00 -0600
+date: 2022-09-22 08:15:00 -0600
 tags:
 - Death
 header:
