@@ -1,6 +1,7 @@
 ---
 title: Spurgeon on Mornings, Worship, Prayer
-excerpt: ''
+excerpt: He who rushes from his bed to his business and waiteth not to worship, is
+  as foolish as though he had not put on his clothes...
 date: 2022-09-22 08:00:00 -0600
 tags:
 - Quote
