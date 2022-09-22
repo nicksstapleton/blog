@@ -1,7 +1,8 @@
 ---
 title: Our Goal in Reading the Bible
-excerpt: ''
-date: 2022-09-11 20:23:00 -0600
+excerpt: "...not merely to _understand_ what God is saying (via helpful exegetical
+  tools) but to _stand under_ his Word."
+date: 2022-09-11T20:23:00.000-06:00
 tags:
 - Quote
 - Reading
