@@ -3,6 +3,7 @@ title: Spurgeon on Mornings, Worship, Prayer
 excerpt: ''
 date: 2022-09-22 08:00:00 -0600
 tags:
+- Quote
 - Work
 - Prayer
 - Worship
