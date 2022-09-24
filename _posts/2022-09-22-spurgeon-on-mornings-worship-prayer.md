@@ -2,7 +2,7 @@
 title: Spurgeon on Mornings, Worship, Prayer
 excerpt: He who rushes from his bed to his business and waiteth not to worship, is
   as foolish as though he had not put on his clothes...
-date: 2022-09-22 08:00:00 -0600
+date: 2022-09-22T08:00:00.000-06:00
 tags:
 - Quote
 - Work
@@ -13,7 +13,7 @@ header:
   teaser: "/assets/images/spurgeon.jpg"
 
 ---
-![](/assets/images/spurgeon.jpg)
+![](/assets/images/spurgeon.jpg){: .align-right}
 
 > "The morning is the gate of the day, and should be well guarded with prayer. It is one end of the thread on which the day’s actions are strung, and should be well knotted with devotion. If we felt more the majesty of life we should be more careful of its mornings. **He who rushes from his bed to his business and waiteth not to worship, is as foolish as though he had not put on his clothes, or cleansed his face, and as unwise as though he dashed into battle without arms or armour.** Be it ours to bathe in the softly flowing river of communion with God, before the heat of the wilderness and the burden of the way begin to oppress us."
 >
