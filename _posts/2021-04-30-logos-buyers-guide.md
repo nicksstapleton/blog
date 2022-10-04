@@ -54,13 +54,13 @@ According to Logos, base packages save you 90% compared to purchasing books and 
 
 ### Resources
 
-Initially, I thought base packages were overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but I can almost guarantee you will overspend. Worst case: you pay for the resources you want and get hundreds of others thrown in at no extra cost. Base packages are the most cost-effective way of getting the resources you want.
+Initially, I thought base packages were overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but I can nearly guarantee you will overspend over time. Worst case: you pay for the resources you want and get hundreds of others thrown in at no extra cost. Base packages are the most cost-effective way of getting the resources you want.
 
 ![](/assets/images/resources.png)
 
 ### Features
 
-While having your resources in digital form is awesome, having features, workflows, and datasets which further utilize them is even better. I love writing my sermons and being able to quickly highlight and organize my notes right inside of Logos. The ability to do searches across your entire library is unbelievable. Imagine having a research assistant who can comb through your entire library and bring you every resource relevant to a particular topic or Bible passage you are interested in learning more about in a matter of seconds. That research assistant has a name in Logos: Factbook.
+Having your resources easily accessible in digital form is awesome. Having features, search-ability, workflows, and datasets which further utilize them is even better. I love writing sermons and being able to quickly highlight and organize my notes right inside of Logos. The ability to do searches across your entire library is unbelievable. Imagine having a research assistant who can comb through your entire library and bring you every resource relevant to a particular topic or Bible passage you are interested in learning more about in a matter of seconds. That research assistant has a name in Logos: Factbook.
 
 The most recent version of Logos introduces new features and improves others: sermon builder, factbook, counseling guide, and dark mode. {% include gallery caption="" %}
 
@@ -68,18 +68,18 @@ The most recent version of Logos introduces new features and improves others: se
 
 Ultimately, there are two questions you need to answer:
 
-* What resources and features do you want?
-* What is your budget?
+1. What resources and features do you want?
+2. What is your budget?
 
-An important principle to keep in mind: Logos is only as useful as the resources you have inside of it. At the risk of stating the obvious, if you want access to top commentaries, lexicons, and Bible dictionaries, you need to get them in there.
+An important principle to keep in mind: Logos is only as useful as the resources you have inside of it. At the risk of stating the obvious, if you want access to top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
 
-When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. You need to know what you want Logos to do for you and ensure you are getting the tools to accomplish your desired task.
+When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. **You need to know what you want Logos to do for you and ensure you are getting the right tools to accomplish your desired task.**
 
 Here are the base packages I recommend you consider…
 
 #### [Logos 9 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold)
 
-![image-right](/assets/images/l9gold.png){: .align-right}Forgive the pun, but this package is the gold standard and offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get every feature Logos offers. This package is going to be a great fit for many ministry leaders, pastors, and seminarians as it provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. Some package highlights include:
+![image-right](/assets/images/l9gold.png){: .align-right}The gold standard. It offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get every feature Logos offers. This package is going to be a great fit for many ministry leaders, pastors, and seminarians as it provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. Some package highlights include:
 
 * The Pillar NT Commentary series (17 vols.)
 * New Dictionary of Biblical Theology (NDBT)
@@ -89,7 +89,7 @@ Here are the base packages I recommend you consider…
 
 #### [Logos 9 Platinum](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/195378/logos-9-platinum)
 
-![image-right](/assets/images/l9platinum.png){: .align-right}If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, as well as advanced dictionaries, and theological studies resources. BHS and NA28 are the standard Hebrew and Greek texts. The revered IVP Dictionaries are legendary. Some notable resources in this package include:
+![image-right](/assets/images/l9platinum.png){: .align-right}If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, advanced dictionaries, and theological studies resources. BHS and NA28 are standard Hebrew and Greek texts. The revered IVP Dictionaries are legendary. Some notable resources in this package include:
 
 * IVP Bible Dictionary Series (8 Vols.)
 * The New International Greek Testament Commentary (13 vols.)
@@ -148,6 +148,4 @@ Use [this link](http://bit.ly/Logos9) for my exclusive partner discount on your 
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just say hello. 👋
 
-<figure> <a href="http://bit.ly/Logos9"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a>
-<figcaption>Full Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption>
-</figure>
+<figure> <a href="http://bit.ly/Logos9"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a> <figcaption>Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
