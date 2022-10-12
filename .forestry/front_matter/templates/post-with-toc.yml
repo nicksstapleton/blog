@@ -33,3 +33,5 @@ fields:
 - type: text
   name: toc_icon
   label: toc_icon
+pages:
+- _posts/logos-10-review-live-in-the-word-1.md
