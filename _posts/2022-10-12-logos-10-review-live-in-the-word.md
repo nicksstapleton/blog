@@ -72,7 +72,7 @@ The Logos 10 brought some of the best features of Logos to iOS and iPadOS, like 
 
 It fast. I first noticed the speed when opening and closing the app. Everything is snappy. Gone are the days of spinning beachball wheels. Indexing is also faster.
 
-\## Other Reasons I love using Logos
+## Other Reasons I love using Logos
 
 In case you're still on the fence, let me quickly list off some other benefits of using Logos:
 
