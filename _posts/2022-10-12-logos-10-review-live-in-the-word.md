@@ -63,10 +63,10 @@ All the benefits of Logos Search now include your print library. Just use your i
 ### 📱 Mobile and Tablet Improvements
 
 I use Logos on my iPhone and iPad all the time. I love reading and highlighting books on my iPad. I always have my Greek New Testament or BHS open on my iPhone in church.
-
+![](/assets/images/logos-ios.png){: .align-right}
 The Logos 10 brought some of the best features of Logos to iOS and iPadOS, like panel linking capabilities, new layout modes, and _dramatically_ improved text selection and highlighting features. Oh, I can't fail to mention the new text-to-speech feature makes (nearly) every resource into an audiobook.
 
-![](/assets/images/logos-ios.png){: .align-right}
+
 
 ### 🚀 Native Apple Silicon Support
 
