@@ -66,7 +66,7 @@ I use Logos on my iPhone and iPad all the time. I love reading and highlighting 
 ![image-right](/assets/images/logos-ios.png){: .align-right}
 Logos 10 brought some of the best features of Logos to iOS and iPadOS, like panel linking capabilities, new layout modes, and _dramatically_ improved text selection and highlighting features. Oh, I can't fail to mention the new text-to-speech feature makes (nearly) every resource into an audiobook.
 
-### 🚀 Native Apple Silicon Support
+### 💻 Native Apple Silicon Support
 
 It fast. I first noticed the speed when opening and closing the app. Everything is snappy. Gone are the days of spinning beachball wheels. Indexing is also faster.
 
@@ -82,7 +82,7 @@ This is a bigger deal than people realize. Before investing in Logos, I had seve
 
 How many times have you marked up a book and want to remember something for a future sermon or Bible study? When your books are in Logos, you can easily search and tag your highlights to call upon them down the road. I also love having all my seminary class notes in one place. All tagged and searchable.
 
-### ⚡ Speed: Do Everything Faster
+### 🚀 Speed: Do Everything Faster
 
 Now that Logos 10 integrates my physical books into my Logos Library, I can find exactly what I am looking for faster. When it comes to writing sermons and academic papers, Logos can locate and organize the information I need faster than I ever could by pulling books off my bookshelf and flipping pages. I want to spend less time searching and more time studying — Logos delivers that.
 
