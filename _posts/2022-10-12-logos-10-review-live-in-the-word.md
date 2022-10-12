@@ -30,9 +30,9 @@ The new quotation feature is clutch. This week, I taught on the Biblical theme o
 
 ![](/assets/images/quotes.gif)
 
-This is one of those features I never knew I wanted until I used it for the first time a few weeks ago. I use it every time I prepare to preach or teach.
+This is one of those features I never knew I wanted until I used it for the first time a few weeks ago. Now, I use it every time I prepare to preach or teach.
 
-Oh, and now you easily import all your sermons into Logos.
+Oh, and another new feature is that you can now you easily import all your sermons from other programs into Logos.
 
 ### 📖 Factbook Improvements
 
