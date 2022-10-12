@@ -16,7 +16,7 @@ toc_icon: search-plus
 ---
 I have been putting Logos 10 through its paces the last several weeks ahead of its release in my teaching preparation and seminary studies. When it comes to Logos, some updates feel like a refinement. Others feel like a leap. Logos 10 is both. It makes existing features better and introduces some new ones that I already cannot imagine not having.
 
-## My Favorite New Updates + Features in Logos 10
+## My Favorite New Features in Logos 10
 
 ### 🤯 Quotations + Sermon Importing
 
