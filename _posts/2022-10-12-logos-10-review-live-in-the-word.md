@@ -14,11 +14,11 @@ toc_label: Overview
 toc_icon: search-plus
 
 ---
-I have been putting Logos 10 through its paces the last several weeks ahead of its release in my teaching preparation and seminary studies. When it comes to software, some updates feel like a refinement. Others feel like a leap. Logos 10 is both. It makes existing features better and introduces some new ones that I already cannot imagine not having.
+I have been putting Logos 10 through its paces the last several weeks ahead of its release in my teaching preparation and seminary studies. When it comes to software, some updates feel like a refinement. Others feel like a leap. Logos 10 is both. It makes existing features better and introduces some new ones that I already cannot imagine not having. 
 
-\## My Favorite New Updates + Features in Logos 10
+## My Favorite New Updates + Features in Logos 10
 
-\### 🤯 Quotations + Sermon Importing
+### 🤯 Quotations + Sermon Importing
 
 I love writing my sermons and lesson plans in Logos.
 
@@ -34,7 +34,7 @@ This is one of those features I never knew I wanted until I used it for the firs
 
 Oh, and now you easily import all your sermons into Logos.
 
-\### 📖 Factbook Improvements
+### 📖 Factbook Improvements
 
 Imagine having a research assistant who can comb through your entire library and bring you every resource relevant to a particular topic or Bible passage you are interested in learning more about in a matter of seconds. That research assistant has a name in Logos: Factbook.
 
@@ -42,7 +42,7 @@ In Logos 10, Factbook got an artificial intelligence upgrade that now adds milli
 
 ![](/assets/images/factbook-large.jpeg)
 
-\### 🔎 Search Re-imagined
+### 🔎 Search Re-imagined
 
 Search has always been one of best but most underutilized features in Logos. In previous versions of Logos, it always felt like it was a power feature reserved for the nerdiest Logos elite who spent years of their lives memorizing search syntax. I can't tell how many times I have Googled: "How to search for _________ in Logos"
 
@@ -50,7 +50,7 @@ In Logos 10, simpler search syntax and a clearer UI makes searching quicker and 
 
 ![](/assets/images/logos-search.gif)
 
-\### 📚 Print Library Catalog
+### 📚 Print Library Catalog
 
 All the print books in your library get a massive upgrade in Logos 10 — they just became searchable in Logos.
 
@@ -60,7 +60,7 @@ All the benefits of Logos Search now include your print library. Just use your i
 
 ![](/assets/images/printbooks.gif)
 
-\### 📱 Mobile and Tablet Improvements
+### 📱 Mobile and Tablet Improvements
 
 I use Logos on my iPhone and iPad all the time. I love reading and highlighting books on my iPad. I always have my Greek New Testament or BHS open on my iPhone in church.
 
@@ -68,7 +68,7 @@ The Logos 10 brought some of the best features of Logos to iOS and iPadOS, like 
 
 ![](/assets/images/logos-ios.png)
 
-\### ⚡ Native Apple Silicon Support
+### 🚀 Native Apple Silicon Support
 
 It fast. I first noticed the speed when opening and closing the app. Everything is snappy. Gone are the days of spinning beachball wheels. Indexing is also faster.
 
@@ -76,23 +76,23 @@ It fast. I first noticed the speed when opening and closing the app. Everything 
 
 In case you're still on the fence, let me quickly list off some other benefits of using Logos:
 
-\### 📚 Reduces Friction: Use more of your resources more often
+### 📚 Reduces Friction: Use more of your resources more often
 
 This is a bigger deal than people realize. Before investing in Logos, I had several wonderful resources sitting on my bookshelf that I would pull down and use from time to time. However, now that I have these resources in Logos, I am using them far more often because the friction of using them has been reduced. Using the Passage Guide, Logos will show me which of my resources have something to offer about my text. I can reference several resources in a matter of seconds.
 
-\### 📝 Notes and Highlighting
+### 📝 Notes and Highlighting
 
 How many times have you marked up a book and want to remember something for a future sermon or Bible study? When your books are in Logos, you can easily search and tag your highlights to call upon them down the road. I also love having all my seminary class notes in one place. All tagged and searchable.
 
-\### ⚡ Speed: Do Everything Faster
+### ⚡ Speed: Do Everything Faster
 
 Now that Logos 10 integrates my physical books into my Logos Library, I can find exactly what I am looking for faster. When it comes to writing sermons and academic papers, Logos can locate and organize the information I need faster than I ever could by pulling books off my bookshelf and flipping pages. I want to spend less time searching and more time studying — Logos delivers that.
 
-\### 💰 Value: More resources for less money
+### 💰 Value: More resources for less money
 
 I care about stewarding my finances well. I am convinced Logos is one of the best investments a pastor, missionary, or seminary student can make in their ministry. When you buy a Logos 10 Library, you are getting access to some of the best resources available for pennies on the dollar. You can build a better library for less money.
 
-\## Overall Thoughts
+## Overall Thoughts
 
 Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word.
 
