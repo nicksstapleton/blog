@@ -2,6 +2,7 @@
 title: 'Logos 10 Review: Live in the Word'
 excerpt: Some Logos updates feel like a refinement. Others feel like a leap. Logos
   10 is both.
+search: false
 tags:
 - Logos
 categories:
