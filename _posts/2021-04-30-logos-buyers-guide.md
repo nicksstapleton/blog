@@ -77,9 +77,9 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 Here are the base packages I recommend you consider…
 
-#### [Logos 9 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/195377/logos-9-gold)
+#### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold)
 
-![image-right](/assets/images/l9gold.png){: .align-right}The gold standard. It offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get every feature Logos offers. This package is going to be a great fit for many ministry leaders, pastors, and seminarians as it provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. Some package highlights include:
+![](/assets/images/l10gold.jpeg)The gold standard. It offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get every feature Logos offers. This package is going to be a great fit for many ministry leaders, pastors, and seminarians as it provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. Some package highlights include:
 
 * The Pillar NT Commentary series (17 vols.)
 * New Dictionary of Biblical Theology (NDBT)
@@ -87,7 +87,7 @@ Here are the base packages I recommend you consider…
 * The New American Commentary series (43 vols.)
 * The IVP Bible Background Commentary OT/NT and IVP Pocket Reference Series
 
-#### [Logos 9 Platinum](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/195378/logos-9-platinum)
+#### [Logos 10 Platinum](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228269/logos-10-platinum)
 
 ![image-right](/assets/images/l9platinum.png){: .align-right}If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L9 Gold features and resources but also adds more technical commentaries, original language resources, advanced dictionaries, and theological studies resources. BHS and NA28 are standard Hebrew and Greek texts. The revered IVP Dictionaries are legendary. Some notable resources in this package include:
 
@@ -97,7 +97,7 @@ Here are the base packages I recommend you consider…
 * BHS - Biblia Hebraica Stuttgartensia with Apparatus
 * Contours of Christian Theology (9 vols.)
 
-#### [Logos 9 Diamond](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/195379/logos-9-diamond)
+#### [Logos 10 Diamond](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond)
 
 ![image-right](/assets/images/l9diamond.png){: .align-right}This package is premium yet offers tremendous value. It builds on top of L9 Platinum by doubling the number of Biblical commentaries and dramatically expanding your original language resources. The Exegetical Summary Series and the Lexham Research Commentaries are among the first resources I consult when studying a passage. BDAG is the best lexicon for the Greek New Testament. Package highlights include:
 
