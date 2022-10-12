@@ -2,7 +2,7 @@
 title: Logos Bible Software Buyer's Guide
 excerpt: Logos is one of the best investments I have ever made. Here are my thoughts
   on what to buy.
-date: 2022-10-12 12:00:00 -0600
+date: 2022-10-12T12:00:00.000-06:00
 toc: true
 toc_label: Logos Buyer's Guide
 toc_icon: search-plus
@@ -34,7 +34,7 @@ gallery:
 
 Logos is one of the best investments I have ever made. It has been an incredible resource for my own growth, learning, seminary studies, and ministry.
 
-This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, read [why you should buy Logos](https://www.nickstapleton.me/Why-You-Should-Buy-Logos-9/).
+This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, [read my Logos 10 review](https://www.nickstapleton.me/logos-10-review-live-in-the-word/).
 
 My journey with Logos began with several questions such as:
 
