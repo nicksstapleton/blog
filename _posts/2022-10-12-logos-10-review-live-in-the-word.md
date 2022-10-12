@@ -61,6 +61,7 @@ All the benefits of Logos Search now include your print library. Just use your i
 ![](/assets/images/printbooks.gif)
 
 ### 📱 Mobile and Tablet Improvements
+
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/logosios.gif){: .align-right}
 I use Logos on my iPhone and iPad all the time. I love reading and highlighting books on my iPad. I always have my Greek New Testament or BHS open on my iPhone in church.
 
@@ -96,7 +97,7 @@ Logos 10 seeks to help users _live in the Word._ It is helping me do just that. 
 
 I am a better seminary student and minister of the gospel with Logos.
 
-If you're new to Logos, save yourself time and money and go read my Logos Buyer's Guide. I'll give you package recommendations and some other pro-tips to maximize your dollars.
+If you're new to Logos, save yourself time and money and go read [my Logos Buyer's Guide](https://www.nickstapleton.me/portfolio/2021-04-30-logos-buyers-guide/). I'll give you package recommendations and some other pro-tips to maximize your dollars.
 
 Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for my exclusive partner discount to get 15% off your Logos 10 library and five _free_ books as well! If you're upgrading to Logos 10, you're eligible for a 30% discount.
 
