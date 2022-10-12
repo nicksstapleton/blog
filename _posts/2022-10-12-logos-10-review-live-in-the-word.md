@@ -14,7 +14,7 @@ toc_label: Overview
 toc_icon: search-plus
 
 ---
-I have been putting Logos 10 through its paces the last several weeks ahead of its release in my teaching preparation and seminary studies. When it comes to software, some updates feel like a refinement. Others feel like a leap. Logos 10 is both. It makes existing features better and introduces some new ones that I already cannot imagine not having. 
+I have been putting Logos 10 through its paces the last several weeks ahead of its release in my teaching preparation and seminary studies. When it comes to software, some updates feel like a refinement. Others feel like a leap. Logos 10 is both. It makes existing features better and introduces some new ones that I already cannot imagine not having.
 
 ## My Favorite New Updates + Features in Logos 10
 
@@ -25,8 +25,8 @@ I love writing my sermons and lesson plans in Logos.
 The new quotation feature is clutch. This week, I taught on the Biblical theme of exile and used this feature. Logos surfaced some great quotes from resources in my library like this one:
 
 > Forgiveness of sins is another way of saying ‘return from exile’.
-
-> N.T. Wright
+>
+> —N.T. Wright
 
 ![](/assets/images/quotes.gif)
 
