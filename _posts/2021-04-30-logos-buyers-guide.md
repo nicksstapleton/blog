@@ -146,8 +146,10 @@ Buy the best package you can afford. Because of dynamic pricing, you can always 
 
 If you want further assistance choosing a package, Logos assembled [a questionnaire](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
-Use [this link](http://bit.ly/Logos9) for my exclusive partner discount on your Logos 9 base package and five free books as well!
+Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well![^1]
 
-Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just say hello. 👋
+[^1]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
-<figure> <a href="http://bit.ly/Logos9"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a> <figcaption>Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
+Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
+
+<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a>
