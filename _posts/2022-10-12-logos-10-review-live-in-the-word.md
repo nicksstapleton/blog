@@ -67,7 +67,7 @@ Logos 10 brought some of the best features of Logos to iOS and iPadOS, like pane
 
 ### 💻 Native Apple Silicon Support
 
-It fast. I first noticed the speed when opening and closing the app. Everything is snappy. Gone are the days of spinning beachball wheels. Indexing is also faster.
+It fast. I first noticed the speed when opening and closing Logos. Everything is snappy. Gone are the days of spinning beachballs. Indexing is also faster. I suspect it will also translate to the app being more efficient in its use of energy and processing power.
 
 ## Other Reasons I Love Using Logos
 
