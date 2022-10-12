@@ -98,8 +98,9 @@ I am a better seminary student and minister of the gospel with Logos.
 
 If you're new to Logos, save yourself time and money and go read my Logos Buyer's Guide. I'll give you package recommendations and some other pro-tips to maximize your dollars.
 
-Use \[this link\]([https://partners.faithlife.com/click.track?CID=431490](https://partners.faithlife.com/click.track?CID=431490 "https://partners.faithlife.com/click.track?CID=431490")&AFID=467957) for my exclusive partner discount to get 15% off your Logos 10 library and five _free_ books as well! If you're upgrading to Logos 10, you're eligible for a 30% discount.
+Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for my exclusive partner discount to get 15% off your Logos 10 library and five _free_ books as well! If you're upgrading to Logos 10, you're eligible for a 30% discount.
 
-Ping me on \[Twitter\]([https://twitter.com/nickstapleton](https://twitter.com/nickstapleton "https://twitter.com/nickstapleton")) if you have any questions or just to say hello. 👋
+Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
-<figure> <a href="[https://partners.faithlife.com/click.track?CID=431490](https://partners.faithlife.com/click.track?CID=431490 "https://partners.faithlife.com/click.track?CID=431490")&AFID=467957"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a> <figcaption> Disclosure: Logos provided me with a copy of Logos 10 gold for this review. As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
+<figure> <a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a>
+<figcaption> Disclosure: Logos provided me with a copy of Logos 10 gold for this review. As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
