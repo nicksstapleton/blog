@@ -96,13 +96,14 @@ There's still plenty of room for improvement with Logos, especially with the ser
 Sermon builder is great to use when delivering a sermon. It is not fun to use when building a sermon.
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/ios-widget.jpeg){: .align-right}
+
 On iOS, I want to see widget support come to Logos. The best widgets are where personalization meets simplicity -- either displaying the information you want without needing to open the app or providing a shortcut directly to what you want inside an app. Like the Kindle widget, I would love to see the books I am currently reading displayed like this in a Logos iOS widget.
 
 ## Overall Thoughts
 
-Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word. I am a better seminary student and minister of the gospel with Logos.[^1]
+Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word. I am a better seminary student and minister of the gospel with Logos.\[^1\]
 
-[^1]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
+\[^1\]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
 If you're new to Logos, save yourself time and money and go read [my Logos Buyer's Guide](https://www.nickstapleton.me/portfolio/2021-04-30-logos-buyers-guide/). I'll give you package recommendations and some other pro-tips to maximize your dollars.
 
