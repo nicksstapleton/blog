@@ -95,7 +95,8 @@ There's still plenty of room for improvement with Logos, especially with the ser
 
 Sermon builder is great to use when delivering a sermon. It is not fun to use when building a sermon.
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/ios-widget.jpeg){: .align-right}On iOS, I want to see widget support come to Logos. The best widgets are where personalization meets simplicity -- either displaying the information you want without needing to open the app or providing a shortcut directly to what you want inside an app. Like the Kindle widget, I would love to see the books I am currently reading displayed like this in a Logos iOS widget.
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/ios-widget.jpeg){: .align-right}
+On iOS, I want to see widget support come to Logos. The best widgets are where personalization meets simplicity -- either displaying the information you want without needing to open the app or providing a shortcut directly to what you want inside an app. Like the Kindle widget, I would love to see the books I am currently reading displayed like this in a Logos iOS widget.
 
 ## Overall Thoughts
 
