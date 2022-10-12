@@ -99,13 +99,14 @@ Sermon builder is great to use when delivering a sermon. It is not fun to use wh
 
 ## Overall Thoughts
 
-Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word. I am a better seminary student and minister of the gospel with Logos.
+Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word. I am a better seminary student and minister of the gospel with Logos.[^1]
+
+[^1]:Disclosure: Logos provided me with a copy of Logos 10 gold for this review. As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!
 
 If you're new to Logos, save yourself time and money and go read [my Logos Buyer's Guide](https://www.nickstapleton.me/portfolio/2021-04-30-logos-buyers-guide/). I'll give you package recommendations and some other pro-tips to maximize your dollars.
 
-Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for my exclusive partner discount to get 15% off your Logos 10 library and five _free_ books as well! If you're upgrading to Logos 10, you're eligible for a 30% discount.
+Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well!
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
-<figure> <a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a>
-<figcaption> Disclosure: Logos provided me with a copy of Logos 10 gold for this review. As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
+<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a>
