@@ -10,7 +10,7 @@ header:
   image: "/assets/images/l10-banner.png"
   teaser: "/assets/images/l10-banner.png"
 toc: true
-toc_label: Overview
+toc_label: Logos 10 Review
 toc_icon: search-plus
 
 ---
