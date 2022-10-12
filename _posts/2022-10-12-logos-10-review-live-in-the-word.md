@@ -66,7 +66,7 @@ I use Logos on my iPhone and iPad all the time. I love reading and highlighting 
 
 The Logos 10 brought some of the best features of Logos to iOS and iPadOS, like panel linking capabilities, new layout modes, and _dramatically_ improved text selection and highlighting features. Oh, I can't fail to mention the new text-to-speech feature makes (nearly) every resource into an audiobook.
 
-![](/assets/images/logos-ios.png)
+![](/assets/images/logos-ios.png){: .align-right}
 
 ### 🚀 Native Apple Silicon Support
 
