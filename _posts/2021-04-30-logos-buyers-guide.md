@@ -13,8 +13,8 @@ tags:
 - Seminary
 - Logos
 header:
-  image: ''
-  teaser: ''
+  image: "/assets/images/l10-packages.png"
+  teaser: "/assets/images/l10-packages.png"
 gallery:
 - url: "/assets/images/factbook.webp"
   image_path: "/assets/images/factbook.webp"
