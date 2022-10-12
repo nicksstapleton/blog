@@ -1,7 +1,7 @@
 ---
 title: 'Logos 10 Review: Live in the Word'
-excerpt: Some updates feel like a refinement. Others feel like a leap. Logos 10 is
-  both.
+excerpt: Some Logos updates feel like a refinement. Others feel like a leap. Logos
+  10 is both.
 tags:
 - Logos
 categories:
@@ -14,7 +14,7 @@ toc_label: Overview
 toc_icon: search-plus
 
 ---
-I have been putting Logos 10 through its paces the last several weeks ahead of its release in my teaching preparation and seminary studies. When it comes to software, some updates feel like a refinement. Others feel like a leap. Logos 10 is both. It makes existing features better and introduces some new ones that I already cannot imagine not having.
+I have been putting Logos 10 through its paces the last several weeks ahead of its release in my teaching preparation and seminary studies. When it comes to Logos, some updates feel like a refinement. Others feel like a leap. Logos 10 is both. It makes existing features better and introduces some new ones that I already cannot imagine not having.
 
 ## My Favorite New Updates + Features in Logos 10
 
@@ -65,8 +65,6 @@ All the benefits of Logos Search now include your print library. Just use your i
 I use Logos on my iPhone and iPad all the time. I love reading and highlighting books on my iPad. I always have my Greek New Testament or BHS open on my iPhone in church.
 ![](/assets/images/logos-ios.png){: .align-right}
 The Logos 10 brought some of the best features of Logos to iOS and iPadOS, like panel linking capabilities, new layout modes, and _dramatically_ improved text selection and highlighting features. Oh, I can't fail to mention the new text-to-speech feature makes (nearly) every resource into an audiobook.
-
-
 
 ### 🚀 Native Apple Silicon Support
 
