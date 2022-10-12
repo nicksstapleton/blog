@@ -18,11 +18,11 @@ I have been putting Logos 10 through its paces the last several weeks ahead of i
 
 ## My Favorite New Features in Logos 10
 
-### 🤯 Quotations + Sermon Importing
+### 🔥 Quotations + Sermon Importing
 
 I love writing my sermons and lesson plans in Logos.
 
-The new quotation feature is clutch. This week, I taught on the Biblical theme of exile and used this feature. Logos surfaced some great quotes from resources in my library like this one:
+The new quotation feature is really handy. This week, I taught on the Biblical theme of exile and used this feature. Logos surfaced some great quotes from resources in my library like this one:
 
 > Forgiveness of sins is another way of saying ‘return from exile’.
 >
@@ -32,7 +32,7 @@ The new quotation feature is clutch. This week, I taught on the Biblical theme o
 
 This is one of those features I never knew I wanted until I used it for the first time a few weeks ago. Now, I use it every time I prepare to preach or teach.
 
-Oh, and another new feature is that you can now you easily import all your sermons from other programs into Logos.
+Sermon import is another new feature is that you can now you easily import all your sermons from other programs like Word into Logos.
 
 ### 📖 Factbook Improvements
 
@@ -89,11 +89,15 @@ Now that Logos 10 integrates my physical books into my Logos Library, I can find
 
 I care about stewarding my finances well. I am convinced Logos is one of the best investments a pastor, missionary, or seminary student can make in their ministry. When you buy a Logos 10 Library, you are getting access to some of the best resources available for pennies on the dollar. You can build a better library for less money.
 
+## Room to Improve
+
+There's still plenty of room for improvement with Logos, especially with the sermon builder. Logos needs to add more robust formatting abilities via markdown support and other keyboard shortcuts. It takes way too many mouse clicks to format my sermon inside sermon builder. Additionally, I am disappointed that is no functionally no support for adding footnotes or citations.
+
+Sermon builder is great to use when delivering a sermon. It is not fun to use when building a sermon.
+
 ## Overall Thoughts
 
-Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word.
-
-I am a better seminary student and minister of the gospel with Logos.
+Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word. I am a better seminary student and minister of the gospel with Logos.
 
 If you're new to Logos, save yourself time and money and go read [my Logos Buyer's Guide](https://www.nickstapleton.me/portfolio/2021-04-30-logos-buyers-guide/). I'll give you package recommendations and some other pro-tips to maximize your dollars.
 
