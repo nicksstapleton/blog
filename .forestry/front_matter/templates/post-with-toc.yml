@@ -1,0 +1,35 @@
+---
+label: Post with TOC
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: file
+    name: teaser
+    label: teaser
+- type: boolean
+  name: toc
+  label: toc
+- type: text
+  name: toc_label
+  label: toc_label
+- type: text
+  name: toc_icon
+  label: toc_icon
