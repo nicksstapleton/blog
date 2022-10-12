@@ -67,7 +67,7 @@ Logos 10 brought some of the best features of Logos to iOS and iPadOS, like pane
 
 ### 💻 Native Apple Silicon Support
 
-It fast. I first noticed the speed when opening and closing Logos. Everything is snappy. Gone are the days of spinning beachballs. Indexing is also faster. I suspect it will also translate to the app being more efficient in its use of energy and processing power.
+It fast. I first noticed the speed when opening and closing Logos. Everything is snappy. Gone are the days of spinning beachballs. Indexing is also faster. I suspect it will also translate to the app being more efficient in its use of energy and processing power.![](/assets/images/ios-widget-medium.jpeg)
 
 ## Other Reasons I Love Using Logos
 
@@ -95,7 +95,7 @@ There's still plenty of room for improvement with Logos, especially with the ser
 
 Sermon builder is great to use when delivering a sermon. It is not fun to use when building a sermon.
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/ios-widget.jpeg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/ios-widget-medium.jpeg){: .align-right}
 
 On iOS, I want to see widget support come to Logos. The best widgets are where personalization meets simplicity -- either displaying the information you want without needing to open the app or providing a shortcut directly to what you want inside an app. Like the Kindle widget, I would love to see the books I am currently reading displayed like this in a Logos iOS widget.
 
