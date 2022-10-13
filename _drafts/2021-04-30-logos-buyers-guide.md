@@ -63,51 +63,38 @@ An important principle to keep in mind: Logos is only as useful as the resources
 
 When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. **You need to know what you want Logos to do for you and ensure you are getting the right tools to accomplish your desired task.**
 
-Here are the base packages I recommend you consider…
+### Small group leaders and Sunday school teachers
 
 #### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold)
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10gold.jpeg){: .align-right}The gold standard. It offers incredible value to anyone in vocational ministry. Starting with Gold and up, you get every feature Logos offers. This package is going to be a great fit for many ministry leaders, pastors, and seminarians as it provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. Some package highlights include:
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10gold.jpeg){: .align-right}Starting with Gold and up, you get every feature Logos offers. Logos 10 Gold provides a comprehensive Bible study library. Some package highlights include:
 
 * Wiley Blackwell Bible Commentaries | WBBC: Old and New Testament (22 vols.)
 * The Christian Tradition: A History of the Development of Doctrine (5 vols.)
 * Discovering the New Testament: An Introduction . . . (3 vols.)
 * Osborne New Testament Commentaries (12 vols.)
 
-* The Pillar NT Commentary series (17 vols.)
-* New Dictionary of Biblical Theology (NDBT)
-* Anchor Yale Bible Dictionary
-* The New American Commentary series (43 vols.)
-* The IVP Bible Background Commentary OT/NT and IVP Pocket Reference Series
+### Pastors and Seminarians
 
 #### [Logos 10 Platinum](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228269/logos-10-platinum)
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are pursuing an MDiv or doing original language studies, this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries, original language resources, advanced dictionaries, and theological studies resources. BHS and NA28 are standard Hebrew and Greek texts. Some notable resources in this package include:
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are pursuing an MDiv or going into pastoral ministry this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries, and theological studies resources. This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate Some notable resources in this package include:
 
-* Exegetical Guide to the Greek New Testament | EGGNT (12 vols.) 
+* Exegetical Guide to the Greek New Testament | EGGNT (12 vols.)
 * Pillar New Testament Commentary | PNTC (15 vols.)
 * The New American Commentary Series | NAC (43 vols.)
 * Ancient Christian Commentary on Scripture Complete Set, Updated Edition | ACCS (29 vols.)
-* The New International Greek Testament Commentary (13 vols.)
-* NA28 - Nestle-Aland Greek New Testament, with Critical Apparatus
-* BHS - Biblia Hebraica Stuttgartensia with Apparatus
-* Contours of Christian Theology (9 vols.)
+
+### More Advanced Study
 
 #### [Logos 10 Diamond](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond)
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10diamond.jpeg){: .align-right} This package is premium yet offers tremendous value. It builds on top of L9 Platinum by doubling the number of Biblical commentaries and dramatically expanding your original language resources. The Exegetical Summary Series and the Lexham Research Commentaries are among the first resources I consult when studying a passage. BDAG is the best lexicon for the Greek New Testament. The revered IVP Dictionaries are legendary. Package highlights include:
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10diamond.jpeg){: .align-right} This package is premium yet offers tremendous value. It builds on top of L10 Platinum by expanding your original language resources. The IVP Dictionaries are legendary. NIGNT series is among the best Greek technical commentaries available. NSBT has some landmark books in Biblical theology. Package highlights include:
 
 * IVP Bible Dictionary Series (8 Vols.)
 * Bible Speaks Today: Commentaries and Themes (76 vols.)
 * New Studies in Biblical Theology Series Collection | NSBT (53 vols.)
 * The New International Greek Testament Commentary Series | NIGTC (13 vols.)
-
-* BDAG: A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
-* Ancient Christian Commentary on Scripture Complete Set (29 vols.)
-* Exegetical Summary Series (34 vols.)
-* Lexham Research Commentaries (20 vols.)
-* International Critical Commentary Series (63 vols.)
-* Charles Spurgeon Collection
 
 ### A Word to Seminary Students
 
