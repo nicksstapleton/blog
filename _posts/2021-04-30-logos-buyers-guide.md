@@ -68,11 +68,14 @@ The [newest version of Logos](https://www.nickstapleton.me/logos-10-review-live-
 Here are some of the resources I use and value the most and what Logos package they are available in:
 
 * [Pillar NT Commentaries](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/210376/pillar-new-testament-commentary-pntc) (Platinum)
+* [The IVP Bible Background Commentary](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/204338/the-ivp-bible-background-commentary) (Bronze and Academic Essentials)
 * [New Dictionary of Biblical Theology](https://www.logos.com/product/27277/new-dictionary-of-biblical-theology?utm_source=Nick+Stapleton&utm_medium=partner&ClickID=10_148248992_8e37b70a-25cb-4b8a-9ae0-e51028d47714) (Portfolio or Reformed Gold)
 * [IVP Bible Dictionaries](https://www.logos.com/product/37742/the-ivp-bible-dictionaries?utm_source=Nick+Stapleton&utm_medium=partner&ClickID=10_148234591_8f9209db-6584-4cfa-8aa5-bbc54549b17a) (Diamond)
 * [BDAG](https://www.logos.com/product/3878/a-greek-english-lexicon-of-the-new-testament-and-other-early-christian-literature-3rd-ed) (Diamond or Academic Professional)
 * [Exegetical Guide to the Greek New Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/232317/exegetical-guide-to-the-greek-new-testament-eggnt) (Diamond or Academic Professional)
 * [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery) (Portfolio or Reformed Gold)
+* [Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/29980/nestle-aland-greek-new-testament-28th-edition-with-critical-apparatus) (Academic Essentials)
+* [Biblia Hebraica Stuttgartensia with Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction) (Academic Essentials)
 
 In the past, Logos made many of these resources of these resources available in standard packages like Gold. With Logos 10, they have unfortunately placed these great resources in higher tier standard packages. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
 
