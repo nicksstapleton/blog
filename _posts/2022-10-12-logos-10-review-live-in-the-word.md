@@ -1,7 +1,7 @@
 ---
 title: 'Logos 10 Review: Live in the Word'
-excerpt: Some Logos updates feel like a refinement. Others feel like a leap. Logos
-  10 is both.
+excerpt: Some Logos updates feel like a refinement. Others feel like a leap forward.
+  Logos 10 is both.
 tags:
 - Logos
 categories:
@@ -14,7 +14,7 @@ toc_label: Logos 10 Review
 toc_icon: search-plus
 
 ---
-I have been putting Logos 10 through its paces the last several weeks ahead of its release in my teaching preparation and seminary studies. When it comes to Logos, some updates feel like a refinement. Others feel like a leap. Logos 10 is both. It makes existing features better and introduces some new ones that I already cannot imagine not having.
+I have been putting Logos 10 through its paces the last several weeks ahead of its release in my teaching preparation and seminary studies. When it comes to Logos, some updates feel like a refinement. Others feel like a leap forward. Logos 10 is both. It makes existing features better and introduces some new ones that I already cannot imagine not having.
 
 ## My Favorite New Features in Logos 10
 
@@ -101,9 +101,9 @@ On iOS, I want to see widget support come to Logos. The best widgets are where p
 
 ## Overall Thoughts
 
-Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word. I am a better seminary student and minister of the gospel with Logos.[^1]
+Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word. I am a better seminary student and minister of the gospel with Logos.\[^1\]
 
-[^1]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
+\[^1\]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
 If you're new to Logos, save yourself time and money and go read [my Logos Buyer's Guide](https://www.nickstapleton.me/portfolio/2021-04-30-logos-buyers-guide/). I'll give you package recommendations and some other pro-tips to maximize your dollars.
 
