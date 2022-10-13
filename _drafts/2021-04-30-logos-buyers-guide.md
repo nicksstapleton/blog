@@ -98,7 +98,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ### A Word to Seminary Students
 
-Most seminary students I know are not flush with cash and do not have a book budget like some pastors. Many work multiple jobs and have to take on loans simply to get through seminary. Access to a resource like Logos is a privilege.
+Most seminary students are not flush with cash and do not have a book budget like some pastors. Many work multiple jobs and have to take on loans simply to get through seminary. Access to a resource like Logos is a privilege.
 
 If you are in a position to consider investing in Logos: Do it.![](https://media.giphy.com/media/BjHIjM2YFC3rEUaMrw/giphy.gif)
 
