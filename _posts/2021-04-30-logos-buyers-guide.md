@@ -61,6 +61,33 @@ Having your resources easily accessible in digital form is awesome. Having featu
 
 The [newest version of Logos](https://www.nickstapleton.me/logos-10-review-live-in-the-word/) introduces new features and improves others: sermon builder quotes, print library, and search reimagined.
 
+## My Favorite Resources + Features
+
+### Resources
+
+Here are some of the resources I use and value the most and what Logos package they are available in:
+
+* [Pillar NT Commentaries](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/210376/pillar-new-testament-commentary-pntc) (Platinum)
+* [New Dictionary of Biblical Theology](https://www.logos.com/product/27277/new-dictionary-of-biblical-theology?utm_source=Nick+Stapleton&utm_medium=partner&ClickID=10_148248992_8e37b70a-25cb-4b8a-9ae0-e51028d47714) (Portfolio or Reformed Gold)
+* [IVP Bible Dictionaries](https://www.logos.com/product/37742/the-ivp-bible-dictionaries?utm_source=Nick+Stapleton&utm_medium=partner&ClickID=10_148234591_8f9209db-6584-4cfa-8aa5-bbc54549b17a) (Diamond)
+* [BDAG](https://www.logos.com/product/3878/a-greek-english-lexicon-of-the-new-testament-and-other-early-christian-literature-3rd-ed) (Diamond or Academic Professional)
+* [Exegetical Guide to the Greek New Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/232317/exegetical-guide-to-the-greek-new-testament-eggnt) (Diamond or Academic Professional)
+* [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery) (Portfolio or Reformed Gold)
+
+In the past, Logos made many of these resources of these resources available in standard packages like Gold. With Logos 10, they have unfortunately placed these great resources in higher tier standard packages. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
+
+### Features
+
+Here are some of the features I use and value the most and what Logos package they are available in:
+
+* Factbook (Starter and up)
+* Passage Guide (Starter and up)
+* Bible Word Study (Starter and up)
+* Sermon Builder (Silver and up)
+* Preaching Mode (Silver and up)
+
+If you are wanting to write sermons or use preaching mode in Logos, you need at least the Silver package or above. If that's not a feature you will use, you can rest easy knowing the best features in any Logos package. You can explore all Logos features [here](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/features).
+
 ## Which Base Package Should You Buy?
 
 Ultimately, there are two questions you need to answer:
@@ -70,7 +97,7 @@ Ultimately, there are two questions you need to answer:
 
 An important principle to keep in mind: Logos is only as useful as the resources you have inside of it. At the risk of stating the obvious, if you want access to top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
 
-When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. **You need to know what you want Logos to do for you and ensure you are getting the right tools to accomplish your desired task.**
+When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. **You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.**
 
 ### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold) | Small group and Sunday school leaders
 
@@ -98,6 +125,20 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 * Bible Speaks Today: Commentaries and Themes (76 vols.)
 * New Studies in Biblical Theology Series Collection (53 vols.)
 * The New International Greek Testament Commentary Series (13 vols.)
+
+## Denominational Packages
+
+Depending on the resources you are wanting, I think these are worth considering:
+
+### [Logos 10 Reformed Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228327/logos-10-reformed-gold)
+
+* New Dictionary of Biblical Theology (NDBT)
+* IVP Pocket Reference Series
+* Dictionary of Biblical Imagery
+* Calvin's Commentaries
+* Reformation Commentary on Scripture Collection | RCS (20 vols.)
+* Contours of Christian Theology (9 vols.)
+* The New Bible Dictionary, 3rd ed.
 
 ## A Word to Seminary Students
 
