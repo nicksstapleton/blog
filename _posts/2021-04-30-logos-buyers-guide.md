@@ -85,9 +85,9 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are pursuing an MDiv or going into pastoral ministry this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries, and theological studies resources. This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate Some notable resources in this package include:
 
-* Exegetical Guide to the Greek New Testament | EGGNT (12 vols.)
-* Pillar New Testament Commentary | PNTC (15 vols.)
-* The New American Commentary Series | NAC (43 vols.)
+* Exegetical Guide to the Greek New Testament (12 vols.)
+* Pillar New Testament Commentary (15 vols.)
+* The New American Commentary Series (43 vols.)
 * Ancient Christian Commentary on Scripture Complete Set, Updated Edition | ACCS (29 vols.)
 
 ### [Logos 10 Diamond](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond) | More Advanced Study
@@ -96,8 +96,8 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 * IVP Bible Dictionary Series (8 Vols.)
 * Bible Speaks Today: Commentaries and Themes (76 vols.)
-* New Studies in Biblical Theology Series Collection | NSBT (53 vols.)
-* The New International Greek Testament Commentary Series | NIGTC (13 vols.)
+* New Studies in Biblical Theology Series Collection (53 vols.)
+* The New International Greek Testament Commentary Series (13 vols.)
 
 ## A Word to Seminary Students
 
