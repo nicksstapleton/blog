@@ -1,8 +1,6 @@
 ---
 title: 'Logos 10 Review: Live in the Word'
-excerpt: Some Logos updates feel like a refinement. Others feel like a leap. Logos
-  10 is both.
-search: false
+excerpt: Some Logos updates feel like a refinement. Others feel like a leap forward. Logos 10 is both.
 tags:
 - Logos
 categories:
@@ -11,19 +9,19 @@ header:
   image: "/assets/images/l10-banner.png"
   teaser: "/assets/images/l10-banner.png"
 toc: true
-toc_label: Overview
+toc_label: Logos 10 Review
 toc_icon: search-plus
 
 ---
-I have been putting Logos 10 through its paces the last several weeks ahead of its release in my teaching preparation and seminary studies. When it comes to Logos, some updates feel like a refinement. Others feel like a leap. Logos 10 is both. It makes existing features better and introduces some new ones that I already cannot imagine not having.
+I have been putting Logos 10 through its paces the last several weeks ahead of its release in my teaching preparation and seminary studies. When it comes to Logos, some updates feel like a refinement. Others feel like a leap forward. Logos 10 is both. It makes existing features better and introduces some new ones that I already cannot imagine not having.
 
-## My Favorite New Updates + Features in Logos 10
+## My Favorite New Features in Logos 10
 
-### 🤯 Quotations + Sermon Importing
+### 🔥 Quotations + Sermon Importing
 
 I love writing my sermons and lesson plans in Logos.
 
-The new quotation feature is clutch. This week, I taught on the Biblical theme of exile and used this feature. Logos surfaced some great quotes from resources in my library like this one:
+The new quotation feature is really handy. This week, I taught on the Biblical theme of exile and used this feature. Logos surfaced some great quotes from resources in my library like this one:
 
 > Forgiveness of sins is another way of saying ‘return from exile’.
 >
@@ -31,9 +29,9 @@ The new quotation feature is clutch. This week, I taught on the Biblical theme o
 
 ![](/assets/images/quotes.gif)
 
-This is one of those features I never knew I wanted until I used it for the first time a few weeks ago. I use it every time I prepare to preach or teach.
+This is one of those features I never knew I wanted until I used it for the first time a few weeks ago. Now, I use it every time I prepare to preach or teach.
 
-Oh, and now you easily import all your sermons into Logos.
+Sermon import is another new feature is that you can now you easily import all your sermons from other programs like Word into Logos.
 
 ### 📖 Factbook Improvements
 
@@ -53,15 +51,14 @@ In Logos 10, simpler search syntax and a clearer UI makes searching quicker and 
 
 ### 📚 Print Library Catalog
 
-All the print books in your library get a massive upgrade in Logos 10 — they just became searchable in Logos.
-
-Game. Set. Match.
+All the print books in your library get a massive upgrade in Logos 10 — they just became searchable in Logos. That means when you are using the Passage Guide and looking up your commentaries on John 1, your commentaries in Logos and on your bookshelf are going to show up. Game-changer.
 
 All the benefits of Logos Search now include your print library. Just use your iPhone to scan the barcodes of your books to add them into Logos. Common! That is unreal.
 
 ![](/assets/images/printbooks.gif)
 
 ### 📱 Mobile and Tablet Improvements
+
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/logosios.gif){: .align-right}
 I use Logos on my iPhone and iPad all the time. I love reading and highlighting books on my iPad. I always have my Greek New Testament or BHS open on my iPhone in church.
 
@@ -69,9 +66,9 @@ Logos 10 brought some of the best features of Logos to iOS and iPadOS, like pane
 
 ### 💻 Native Apple Silicon Support
 
-It fast. I first noticed the speed when opening and closing the app. Everything is snappy. Gone are the days of spinning beachball wheels. Indexing is also faster.
+It fast. I first noticed the speed when opening and closing Logos. Everything is snappy. Gone are the days of spinning beachballs. Indexing is also faster. I suspect it will also translate to the app being more efficient in its use of energy and processing power.
 
-## Other Reasons I love using Logos
+## Other Reasons I Love Using Logos
 
 In case you're still on the fence, let me quickly list off some other benefits of using Logos:
 
@@ -91,17 +88,26 @@ Now that Logos 10 integrates my physical books into my Logos Library, I can find
 
 I care about stewarding my finances well. I am convinced Logos is one of the best investments a pastor, missionary, or seminary student can make in their ministry. When you buy a Logos 10 Library, you are getting access to some of the best resources available for pennies on the dollar. You can build a better library for less money.
 
+## Room to Improve
+
+There's still plenty of room for improvement with Logos, especially with the sermon builder. Logos needs to add more robust formatting abilities via markdown support and other keyboard shortcuts. It takes way too many mouse clicks to format my sermon inside sermon builder. Additionally, I am disappointed that is no functionally no support for adding footnotes or citations.
+
+Sermon builder is great to use when delivering a sermon. It is not fun to use when building a sermon.
+
+![](/assets/images/ios-widget-medium.jpeg)
+
+On iOS, I want to see widget support come to Logos. The best widgets are where personalization meets simplicity -- either displaying the information you want without needing to open the app or providing a shortcut directly to what you want inside an app. Like the Kindle widget, I would love to see the books I am currently reading displayed like this in a Logos iOS widget.
+
 ## Overall Thoughts
 
-Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word.
+Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word. I am a better seminary student and minister of the gospel with Logos.\[^1\]
 
-I am a better seminary student and minister of the gospel with Logos.
+\[^1\]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
-If you're new to Logos, save yourself time and money and go read my Logos Buyer's Guide. I'll give you package recommendations and some other pro-tips to maximize your dollars.
+If you're new to Logos, save yourself time and money and go read [my Logos Buyer's Guide](https://www.nickstapleton.me/portfolio/2021-04-30-logos-buyers-guide/). I'll give you package recommendations and some other pro-tips to maximize your dollars.
 
-Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for my exclusive partner discount to get 15% off your Logos 10 library and five _free_ books as well! If you're upgrading to Logos 10, you're eligible for a 30% discount.
+Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well!
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
-<figure> <a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a>
-<figcaption> Disclosure: Logos provided me with a copy of Logos 10 gold for this review. As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
+<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a>
