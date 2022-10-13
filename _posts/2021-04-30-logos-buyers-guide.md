@@ -72,20 +72,16 @@ An important principle to keep in mind: Logos is only as useful as the resources
 
 When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. **You need to know what you want Logos to do for you and ensure you are getting the right tools to accomplish your desired task.**
 
-### Small group leaders and Sunday school teachers
-
-#### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold)
+### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold) | Small group leaders and Sunday school teachers
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10gold.jpeg){: .align-right}Starting with Gold and up, you get every feature Logos offers. Logos 10 Gold provides a comprehensive Bible study library. Some package highlights include:
 
-* Wiley Blackwell Bible Commentaries | WBBC: Old and New Testament (22 vols.)
+* Wiley Blackwell Bible Commentaries (22 vols.)
 * The Christian Tradition: A History of the Development of Doctrine (5 vols.)
-* Discovering the New Testament: An Introduction . . . (3 vols.)
+* Discovering the New Testament (3 vols.)
 * Osborne New Testament Commentaries (12 vols.)
 
-### Pastors and Seminarians
-
-#### [Logos 10 Platinum](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228269/logos-10-platinum)
+### [Logos 10 Platinum](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228269/logos-10-platinum) | Pastors and Seminarians
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are pursuing an MDiv or going into pastoral ministry this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries, and theological studies resources. This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate Some notable resources in this package include:
 
@@ -94,9 +90,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 * The New American Commentary Series | NAC (43 vols.)
 * Ancient Christian Commentary on Scripture Complete Set, Updated Edition | ACCS (29 vols.)
 
-### More Advanced Study
-
-#### [Logos 10 Diamond](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond)
+### [Logos 10 Diamond](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond) | More Advanced Study
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10diamond.jpeg){: .align-right} This package is premium yet offers tremendous value. It builds on top of L10 Platinum by expanding your original language resources. The IVP Dictionaries are legendary. NIGNT series is among the best Greek technical commentaries available. NSBT has some landmark books in Biblical theology. Package highlights include:
 
@@ -105,7 +99,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 * New Studies in Biblical Theology Series Collection | NSBT (53 vols.)
 * The New International Greek Testament Commentary Series | NIGTC (13 vols.)
 
-### A Word to Seminary Students
+## A Word to Seminary Students
 
 Most seminary students are not flush with cash and do not have a book budget like some pastors. Many work multiple jobs and have to take on loans simply to get through seminary. Access to a resource like Logos is a privilege.
 
@@ -115,7 +109,7 @@ If you will be purchasing textbooks for your courses, why not buy them in Logos 
 
 With the right resources in Logos, you will save yourself significant time and energy in the library that could free you up to spend more time with those you love. Further, you will develop proficiency with the software that will dramatically benefit your ministry upon graduation as you do sermon prep, counseling, personal study, and more.
 
-#### Seminary Student Base Package Recommendation
+### Seminary Student Base Package Recommendation
 
 Knowing cost-effectiveness is a premium for students, I suggest grabbing the following:
 
@@ -125,7 +119,7 @@ Knowing cost-effectiveness is a premium for students, I suggest grabbing the fol
 
 Don’t forget to sign up for the [Logos Academic Discount](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 
-### Take Advantage of Sales
+## Take Advantage of Sales
 
 Logos has historically offered sales throughout the year, including a back-to-school sale in August. Many of the resources I consider [must-have](https://www.nickstapleton.me/must-have-logos-bible-software-resources/) are part of the base packages I listed above. Here are some others I suggest adding to your Logos wish list and grabbing them when discounted:
 
@@ -136,7 +130,7 @@ Logos has historically offered sales throughout the year, including a back-to-sc
 * [New International Dictionary of New Testament Theology and Exegesis](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte)
 * [Reformed Dogmatics (Herman Bavinck)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics)
 
-### Final Thoughts
+## Final Thoughts
 
 Buy the best package you can afford. Because of dynamic pricing, you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.
 
