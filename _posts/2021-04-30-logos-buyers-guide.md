@@ -72,7 +72,7 @@ An important principle to keep in mind: Logos is only as useful as the resources
 
 When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. **You need to know what you want Logos to do for you and ensure you are getting the right tools to accomplish your desired task.**
 
-### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold) | Small group leaders and Sunday school teachers
+### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold) | Small group and Sunday school leaders
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10gold.jpeg){: .align-right}Starting with Gold and up, you get every feature Logos offers. Logos 10 Gold provides a comprehensive Bible study library. Some package highlights include:
 
