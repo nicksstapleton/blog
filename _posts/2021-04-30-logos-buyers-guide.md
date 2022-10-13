@@ -129,11 +129,29 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 * New Studies in Biblical Theology Series Collection (53 vols.)
 * The New International Greek Testament Commentary Series (13 vols.)
 
-## Denominational Packages
+## Academic and Denominational Packages
 
-Depending on the resources you are wanting, I think these are worth considering:
+Depending on the resources you need, I think these are worth considering:
+
+### [Academic Essentials](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228336/logos-10-academic-essentials)
+
+This package has the essential original language resources Mdiv students need (NA28 and BHS). It also includes:
+
+* The IVP Bible Background Commentary (2 vols.)
+* The New Bible Commentary (NBC)
+
+### [Academic Professional](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228339/logos-10-academic-professional)
+
+In addition the resources in Academic Essentials, this package notably includes:
+
+* BDAG: A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
+* Theological Dictionary of the Old Testament and New Testament Collection | TDOT/TDNT (27 vols.)
+* Exegetical Guide to the Greek New Testament | EGGNT (13 vols.)
+* International Critical Commentary | ICC (65 vols.)
 
 ### [Logos 10 Reformed Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228327/logos-10-reformed-gold)
+
+This package has some of my favorite dictionaries, commentaries, and theology books.
 
 * New Dictionary of Biblical Theology (NDBT)
 * IVP Pocket Reference Series
