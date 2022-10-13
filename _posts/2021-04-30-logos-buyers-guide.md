@@ -131,7 +131,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ## Academic and Denominational Packages
 
-Depending on the resources you need, I think these are worth considering:
+Depending on the resources you need, I also think these are worth considering:
 
 ### [Academic Essentials](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228336/logos-10-academic-essentials)
 
