@@ -38,7 +38,7 @@ Sermon import is another new feature is that you can now you easily import all y
 
 Imagine having a research assistant who can comb through your entire library and bring you every resource relevant to a particular topic or Bible passage you are interested in learning more about in a matter of seconds. That research assistant has a name in Logos: Factbook.
 
-In Logos 10, Factbook got an artificial intelligence upgrade that now adds millions of tags to the books you already own. Factbook now also includes enhanced entries on Church History, so you better understand what went down with Augustine and Pelagius.
+In Logos 10, Factbook gets an artificial intelligence upgrade that now adds millions of tags to the books you already own. Factbook now also includes enhanced entries on Church History, so you better understand what went down with Augustine and Pelagius.
 
 ![](/assets/images/factbook-large.jpeg)
 
