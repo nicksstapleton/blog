@@ -145,9 +145,9 @@ This package has the essential original language resources Mdiv students need (N
 In addition the resources in Academic Essentials, this package notably includes:
 
 * BDAG: A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
-* Theological Dictionary of the Old Testament and New Testament Collection | TDOT/TDNT (27 vols.)
-* Exegetical Guide to the Greek New Testament | EGGNT (13 vols.)
-* International Critical Commentary | ICC (65 vols.)
+* Theological Dictionary of the Old Testament and New Testament Collection (27 vols.)
+* Exegetical Guide to the Greek New Testament (13 vols.)
+* International Critical Commentary (65 vols.)
 
 ### [Logos 10 Reformed Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228327/logos-10-reformed-gold)
 
@@ -157,7 +157,7 @@ This package has some of my favorite dictionaries, commentaries, and theology bo
 * IVP Pocket Reference Series
 * Dictionary of Biblical Imagery
 * Calvin's Commentaries
-* Reformation Commentary on Scripture Collection | RCS (20 vols.)
+* Reformation Commentary on Scripture Collection (20 vols.)
 * Contours of Christian Theology (9 vols.)
 * The New Bible Dictionary, 3rd ed.
 
