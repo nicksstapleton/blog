@@ -113,7 +113,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ### [Logos 10 Platinum](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228269/logos-10-platinum) | Pastors and Seminarians
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are pursuing an MDiv or going into pastoral ministry this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries, and theological studies resources. This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate Some notable resources in this package include:
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or MDiv student this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries, and theological studies resources. This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate Some notable resources in this package include:
 
 * Exegetical Guide to the Greek New Testament (12 vols.)
 * Pillar New Testament Commentary (15 vols.)
