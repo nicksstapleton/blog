@@ -88,7 +88,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 * Exegetical Guide to the Greek New Testament (12 vols.)
 * Pillar New Testament Commentary (15 vols.)
 * The New American Commentary Series (43 vols.)
-* Ancient Christian Commentary on Scripture Complete Set, Updated Edition | ACCS (29 vols.)
+* Ancient Christian Commentary on Scripture Complete Set, Updated Edition (29 vols.)
 
 ### [Logos 10 Diamond](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond) | More Advanced Study
 
