@@ -74,7 +74,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold) | Small group and Sunday school leaders
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10gold.jpeg){: .align-right}Starting with Gold and up, you get every feature Logos offers. Logos 10 Gold provides a comprehensive Bible study library. Some package highlights include:
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10gold.jpeg){: .align-right}Starting with Gold and up, you get every feature Logos offers. Logos 10 Gold provides a comprehensive Bible study library. If you are a small group or Sunday school teacher, this package will be a fantastic entry point into Logos. Some package highlights include:
 
 * Wiley Blackwell Bible Commentaries (22 vols.)
 * The Christian Tradition: A History of the Development of Doctrine (5 vols.)
