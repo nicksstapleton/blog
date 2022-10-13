@@ -18,7 +18,15 @@ I have been putting Logos 10 through its paces the last several weeks ahead of i
 
 ## My Favorite New Features in Logos 10
 
-### 🔥 Quotations + Sermon Importing
+### 📚 Print Library Catalog
+
+All your print books in your library get a massive upgrade in Logos 10. They just became searchable in Logos! That means when you are using the Passage Guide and looking up your commentaries on John 1, your commentaries in Logos and the ones sitting on your bookshelf are going to show up. Game-changer.
+
+All the benefits of Logos Search now include your print library. Just use your iPhone to scan the barcodes of your books to add them into Logos. Common! That is unreal.
+
+![](/assets/images/printbooks.gif)
+
+### 🔥 Quotations + Sermon Import
 
 I love writing my sermons and lesson plans in Logos.
 
@@ -32,7 +40,7 @@ The new quotation feature is really handy. This week, I taught on the Biblical t
 
 This is one of those features I never knew I wanted until I used it for the first time a few weeks ago. Now, I use it every time I am preparing to teach.
 
-Sermon import is another new feature is that you can now you easily import all your sermons from other programs like Word into Logos.
+Sermon import is another new feature. You can now you easily import all your sermons from other programs like Word into Logos.
 
 ### 📖 Factbook Improvements
 
@@ -49,14 +57,6 @@ Search has always been one of the best but most underutilized features in Logos.
 In Logos 10, simpler search syntax and a clearer UI makes searching quicker and more intuitive, opening up the power of Logos Search to everyone. Now the rest of us mere mortals will have an easier time performing powerful searches in Logos.
 
 ![](/assets/images/logos-search.gif)
-
-### 📚 Print Library Catalog
-
-All your print books in your library get a massive upgrade in Logos 10. They just became searchable in Logos! That means when you are using the Passage Guide and looking up your commentaries on John 1, your commentaries in Logos and the ones sitting on your bookshelf are going to show up. Game-changer.
-
-All the benefits of Logos Search now include your print library. Just use your iPhone to scan the barcodes of your books to add them into Logos. Common! That is unreal.
-
-![](/assets/images/printbooks.gif)
 
 ### 📱 Mobile and Tablet Improvements
 
