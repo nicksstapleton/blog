@@ -77,7 +77,7 @@ Here are some of the resources I use and value the most and what Logos package t
 * [Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/29980/nestle-aland-greek-new-testament-28th-edition-with-critical-apparatus) (Academic Essentials)
 * [Biblia Hebraica Stuttgartensia with Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction) (Academic Essentials)
 
-In the past, Logos made many of these resources of these resources available in standard packages like Gold. With Logos 10, they have unfortunately placed these great resources in higher tier standard packages or moved them to denominational or academic packages. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
+In the past, Logos made many of these resources of these resources available in standard packages like Gold or Platinum. With Logos 10, it feels like things have become either siloed into academic and denominational packages or you have to pay for a higher Standard package to get them. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
 
 ### Features
 
