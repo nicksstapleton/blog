@@ -1,7 +1,7 @@
 ---
 title: Logos Bible Software Buyer's Guide
-excerpt: Logos is one of the best investments I have ever made. Here are my thoughts
-  on what to buy.
+excerpt: Logos is one of the best investments I have made. Here are my thoughts on
+  what to buy.
 date: 2022-10-12T12:00:00.000-06:00
 toc: true
 toc_label: Logos Buyer's Guide
