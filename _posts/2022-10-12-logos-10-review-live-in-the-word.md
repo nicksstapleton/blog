@@ -46,13 +46,13 @@ In Logos 10, Factbook gets an artificial intelligence upgrade that now adds mill
 
 Search has always been one of the best but most underutilized features in Logos. In previous versions of Logos, it always felt like it was a power feature reserved for the nerdiest Logos elite who spent years of their lives memorizing search syntax. I can't tell you how many times I have Googled: "How to search for _________ in Logos"
 
-In Logos 10, simpler search syntax and a clearer UI makes searching quicker and more intuitive, opening up the power of Logos Search to everyone. Now the rest of us mere mortals will have a lower barrier to entry in utilizing Logos Search.
+In Logos 10, simpler search syntax and a clearer UI makes searching quicker and more intuitive, opening up the power of Logos Search to everyone. Now the rest of us mere mortals will have an easier time performing powerful searches in Logos.
 
 ![](/assets/images/logos-search.gif)
 
 ### 📚 Print Library Catalog
 
-All the print books in your library get a massive upgrade in Logos 10 — they just became searchable in Logos. That means when you are using the Passage Guide and looking up your commentaries on John 1, your commentaries in Logos and on your bookshelf are going to show up. Game-changer.
+All your print books in your library get a massive upgrade in Logos 10. They just became searchable in Logos! That means when you are using the Passage Guide and looking up your commentaries on John 1, your commentaries in Logos and the ones sitting on your bookshelf are going to show up. Game-changer.
 
 All the benefits of Logos Search now include your print library. Just use your iPhone to scan the barcodes of your books to add them into Logos. Common! That is unreal.
 
