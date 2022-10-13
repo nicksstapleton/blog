@@ -1,8 +1,8 @@
 ---
 title: Why YOU Should Buy Logos 9
 excerpt: If you regularly spend time reading or teaching the Bible, you should seriously
-  consider buying Logos Bible Software.. If you are in seminary or full-time
-  ministry, you _definitely_ should consider investing in Logos Bible software.
+  consider buying Logos Bible Software.. If you are in seminary or full-time ministry,
+  you _definitely_ should consider investing in Logos Bible software.
 tags:
 - Logos
 - Tech
@@ -13,8 +13,8 @@ header:
   image: "/assets/images/logosheader.png"
   teaser: "/assets/images/logosheader.png"
 toc: true
-toc_label: "Overview"
-toc_icon: "search-plus"
+toc_label: Overview
+toc_icon: search-plus
 
 ---
 ## Who this guide is for
@@ -23,7 +23,7 @@ If you regularly spend time reading or teaching the Bible, you should seriously 
 
 I have been using Bible software almost every day for over 10 years as a college minister and MDiv student. Logos Bible Software provides the best user experience in terms of features, resources, and functionality on the Mac, iPad, and iPhone. (Logos is supported on PC and Android devices as well.)
 
-Faithlife, the company behind Logos, recently released Logos 9 in October 2020. This guide will highlight some of my favorite features and how it might benefit you and your ministry. It is not intended to be a full review of Logos 9. Instead, I want to share how Logos 9 has proven useful for me in my ministry, seminary studies, and devotional life.
+Faithlife, the company behind Logos, recently released Logos 10 in October 2022. This guide will highlight some of my favorite features and how it might benefit you and your ministry. It is not intended to be a full review of Logos. Instead, I want to share how Logos has proven useful for me in my ministry, seminary studies, and devotional life.
 
 Whether you are someone who hasn’t taken the plunge into Logos or you are deciding whether to upgrade to the latest version, I hope this post will help provide some direction and perhaps some inspiration!
 
@@ -91,7 +91,7 @@ While many pastors and ministers are not licensed counselors, my counseling prof
 
 Pastors and ministers often find themselves in situations that require them to provide counseling of some kind. I am happy to receive any help and direction I can get knowing that I am likely the starting point and not the finish line for someone in need of counseling.
 
-The Counseling Guide is a new feature in Logos 9. You can simply type in a topic like grief, addiction, divorce, or suicide, and it will provide helpful definitions, assessments, action steps, and more. While I have not put the Counseling Guide through its paces yet, I know this is something I will be referencing when challenging situations arise in the lives of those I am called to shepherd.
+The Counseling Guide is a newer feature in Logos. You can simply type in a topic like grief, addiction, divorce, or suicide, and it will provide helpful definitions, assessments, action steps, and more. While I have not put the Counseling Guide through its paces yet, I know this is something I will be referencing when challenging situations arise in the lives of those I am called to shepherd.
 
 ![](/assets/images/counselingguide.PNG)
 
@@ -115,7 +115,7 @@ Don’t get me wrong, I still love hardcopy books and carry my Bible with me eve
 
 ### 💰 Value: More resources for less money
 
-When you buy a Logos 9 base package, you get resources for pennies on the dollar. For a few hundred dollars, you can get thousands of dollars worth of resources.
+When you buy a Logos base package, you get resources for pennies on the dollar. For a few hundred dollars, you can get thousands of dollars worth of resources.
 
 ## Pro-Tips
 
@@ -143,11 +143,11 @@ If there are specific resources you want, be sure to see if they’re included i
 
 ## Final Thoughts and Recommendation
 
-Logos is a professional level tool, and it comes with a professional price tag. Like any professional, we should invest in tools that save us time and improve the quality of our work. I believe Logos 9 is worthy of the investment. I only wish I would have started utilizing Logos earlier in my ministry and seminary studies!
+Logos is a professional level tool, and it comes with a professional price tag. Like any professional, we should invest in tools that save us time and improve the quality of our work. I believe Logos is worthy of the investment. I only wish I would have started utilizing Logos earlier in my ministry and seminary studies!
 
 If you want to get started with Logos, go read my [Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) for base package recommendations and further tips.
 
-Use [this link](http://bit.ly/Logos9) for my exclusive partner discount to get 15% off your Logos 9 base package and five _free_ books as well!
+Use [this link](http://bit.ly/Logos9) for my exclusive partner discount to get 15% off your Logos base package and five _free_ books as well!
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
