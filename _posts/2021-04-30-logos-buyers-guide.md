@@ -31,15 +31,13 @@ gallery:
 
 Logos is one of the best investments I have ever made. It has been an incredible resource for my own growth, learning, seminary studies, and ministry.
 
-This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, [read my Logos 10 review](https://www.nickstapleton.me/logos-10-review-live-in-the-word/).
-
 My journey with Logos began with several questions such as:
 
-* _What base package(s) should I buy?_
+* _What Logos base package(s) should I buy?_
 * _Which resources are a must-have?_
 * _What is the most cost-effective way to get into Logos?_
 
-I write from the perspective of having been in vocational ministry for over 10 years and as an MDiv student. My input is likely best suited for those in ministry and/or seminary.
+I write from the perspective of having been in vocational ministry for over 10 years and as an MDiv student. My input is likely best suited for those in ministry and/or seminary. This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, [read my Logos 10 review](https://www.nickstapleton.me/logos-10-review-live-in-the-word/).
 
 This buyer’s guide aims to provide some direction so you can decide which route into Logos is best for your purposes and needs.
 
