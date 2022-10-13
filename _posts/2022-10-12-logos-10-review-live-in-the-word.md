@@ -63,7 +63,7 @@ In Logos 10, simpler search syntax and a clearer UI makes searching quicker and 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/logosios.gif){: .align-right}
 I use Logos on my iPhone and iPad all the time. I love reading and highlighting books on my iPad. I always have my Greek New Testament or BHS open on my iPhone in church.
 
-Logos 10 brought some of the best features of Logos to iOS and iPadOS, like panel linking capabilities, new layout modes, and _dramatically_ improved text selection and highlighting features. Oh, I can't fail to mention the new text-to-speech feature makes (nearly) every resource into an audiobook.
+Logos 10 brought some of the best features of the desktop app to iOS and iPadOS, like panel linking capabilities, new layout modes, and _dramatically_ improved text selection and highlighting features. Oh, I can't fail to mention the new text-to-speech feature makes (nearly) every resource into an audiobook.
 
 ### 💻 Native Apple Silicon Support
 
