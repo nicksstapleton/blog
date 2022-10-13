@@ -15,7 +15,17 @@ tags:
 header:
   image: "/assets/images/l10-packages.png"
   teaser: "/assets/images/l10-packages.png"
-gallery: []
+gallery:
+- image_path: "/assets/images/kerusso_2.png"
+  alt: ''
+  title: ''
+- image_path: "/assets/images/10-pg-commentaries.jpg"
+  alt: ''
+  title: ''
+- url: ''
+  image_path: "/assets/images/l10-factbook-benefits-of-wisdom.jpg"
+  alt: ''
+  title: ''
 
 ---
 ## Overview
