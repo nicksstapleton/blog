@@ -1,5 +1,5 @@
 ---
-title: Why YOU Should Buy Logos 9
+title: Why YOU Should Be Using Logos Bible Software
 excerpt: If you regularly spend time reading or teaching the Bible, you should seriously
   consider buying Logos Bible Software.. If you are in seminary or full-time ministry,
   you _definitely_ should consider investing in Logos Bible software.
