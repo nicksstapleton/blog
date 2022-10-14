@@ -20,7 +20,7 @@ I have been putting Logos 10 through its paces the last several weeks ahead of i
 
 ### 📚 Print Library Catalog
 
-All your print books in your library get a massive upgrade in Logos 10. They just became searchable in Logos! That means when you are using the Passage Guide and looking up your commentaries on John 1, your commentaries in Logos and the ones sitting on your bookshelf are going to show up. Game-changer.
+This is a big deal. All your print books in your library get a massive upgrade in Logos 10. They just became searchable in Logos! That means when you are using the Passage Guide and looking up your commentaries on John 1, your commentaries in Logos and the ones sitting on your bookshelf are going to show up. Game-changer.
 
 All the benefits of Logos Search now include your print library. Just use your iPhone to scan the barcodes of your books to add them into Logos. Common! That is unreal.
 
