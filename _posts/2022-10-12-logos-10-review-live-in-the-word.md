@@ -79,7 +79,9 @@ This is a bigger deal than people realize. Before investing in Logos, I had seve
 
 ### 📝 Notes and Highlighting
 
-How many times have you marked up a book and want to remember something for a future sermon or Bible study? When your books are in Logos, you can easily search and tag your highlights to call upon them down the road. I also love having all my seminary class notes in one place. All tagged and searchable.
+How many times have you marked up a book and want to remember something for a future sermon or Bible study? If you are in seminary, wouldn't it be nice to access your class notes from your gospels class in Logos? You can even anchor your notes to specific passages so that when you are reading that passage in your Bible, your note will show up alongside it.
+
+In Logos, you can easily search and tag your book highlights to call upon them down the road. I also love having all my seminary class notes in one place. All tagged and searchable.
 
 ### 🚀 Speed: Do Everything Faster
 
