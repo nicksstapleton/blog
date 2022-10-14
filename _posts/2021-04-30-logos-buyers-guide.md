@@ -1,6 +1,7 @@
 ---
 title: Logos Bible Software Buyer's Guide
-excerpt: Logos is a large investment. Make sure you buy it the right way.
+excerpt: Logos is a large investment. Make sure you buy it the right way. My thoughts
+  on the best package for pastors and seminarians.
 date: 2022-10-12T12:00:00.000-06:00
 toc: true
 toc_label: Logos Buyer's Guide
@@ -37,7 +38,7 @@ My journey with Logos began with several questions such as:
 * _Which resources are a must-have?_
 * _What is the most cost-effective way to get into Logos?_
 
-I write from the perspective of having been in vocational ministry for over 10 years and as an MDiv student. My input is likely best suited for those in ministry and/or seminary. This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, [read my Logos 10 review](https://www.nickstapleton.me/logos-10-review-live-in-the-word/).
+I write from the perspective of having been in vocational ministry for over 10 years and as an MDiv student. My input is best suited for people in ministry, pastors, and seminary students. This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, [read my Logos 10 review](https://www.nickstapleton.me/logos-10-review-live-in-the-word/).
 
 This buyer’s guide aims to provide some direction so you can decide which route into Logos is best for your purposes and needs.
 
@@ -194,9 +195,9 @@ Buy the best package you can afford. Because of dynamic pricing, you can always 
 
 If you want further assistance choosing a package, Logos assembled [a questionnaire](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
-Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well![^1]
+Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well!\[^1\]
 
-[^1]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
+\[^1\]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
