@@ -87,8 +87,9 @@ Here are some of the features I use and value the most and what Logos package th
 * Bible Word Study (Starter and up)
 * Sermon Builder (Silver and up)
 * Preaching Mode (Silver and up)
+* Print Library Catalog (Gold and up)
 
-If you are wanting to write sermons or use preaching mode in Logos, you need at least the Silver package or above. If that's not a feature you will use, you can rest easy knowing the best features in any Logos package. You can explore all Logos features [here](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/features).
+If you want to write sermons or use preaching mode in Logos, you need at least the Silver package or above. Additionally, the new Print Library Catalog feature in Logos 10 requires Gold and up. If those are not features you will use, you can rest easy knowing the best features are in any Logos package. You can explore all Logos features [here](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/features).
 
 ## Which Base Package Should You Buy?
 
@@ -97,7 +98,7 @@ Ultimately, there are two questions you need to answer:
 1. What resources and features do you want?
 2. What is your budget?
 
-An important principle to keep in mind: Logos is only as useful as the resources you have inside of it. At the risk of stating the obvious, if you want access to top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
+An important principle to keep in mind: Logos is only as useful as the resources you have inside of it. At the risk of stating the obvious, If you want access to top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
 
 When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. **You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.**
 
@@ -134,7 +135,7 @@ Depending on the resources you need, I also think these are worth considering:
 
 ### [Academic Essentials](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228336/logos-10-academic-essentials)
 
-This package has the essential original language resources Mdiv students need (NA28 and BHS). It also includes:
+This package has the essential original language resources MDiv students need (NA28 and BHS). It also includes:
 
 * The IVP Bible Background Commentary (2 vols.)
 * The New Bible Commentary (NBC)
@@ -162,7 +163,7 @@ This package has some of my favorite dictionaries, commentaries, and theology bo
 
 ## A Word to Seminary Students
 
-Most seminary students are not flush with cash and do not have a book budget like some pastors. Many work multiple jobs and have to take on loans simply to get through seminary. Access to a resource like Logos is a privilege.
+Most seminary students are not flush with cash and do not have a book budget like some pastors. Many work multiple jobs and have to take out loans simply to get through seminary. Having access to a resource like Logos is a privilege.
 
 If you are in a position to consider investing in Logos: Do it.![](https://media.giphy.com/media/BjHIjM2YFC3rEUaMrw/giphy.gif)
 
@@ -195,9 +196,9 @@ Buy the best package you can afford. Because of dynamic pricing, you can always 
 
 If you want further assistance choosing a package, Logos assembled [a questionnaire](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
-Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well![^1]
+Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well!\[^1\]
 
-[^1]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
+\[^1\]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
