@@ -28,9 +28,9 @@ All the benefits of Logos Search now include your print library. Just use your i
 
 ### 🔥 Quotations + Sermon Import
 
-I love writing my sermons and lesson plans in Logos.
+I love having the ability to build my sermons inside Logos. Being able to do my reading, studying, and writing all in one app is awesome.
 
-The new quotation feature is really handy. This week, I taught on the Biblical theme of exile and used this feature. Logos surfaced some great quotes from resources in my library like this one:
+The new quotation feature is really handy. Recently, I taught on the Biblical theme of exile and used this feature. Logos surfaced some great quotes from resources in my library like this one:
 
 > Forgiveness of sins is another way of saying ‘return from exile’.
 >
@@ -93,7 +93,7 @@ I care about stewarding my finances well. I am convinced Logos is one of the bes
 
 ## Room to Improve
 
-There's still plenty of room for improvement with Logos, especially with the sermon builder. Logos needs to add more robust formatting abilities via markdown support and other keyboard shortcuts. It takes way too many mouse clicks to format my sermon inside sermon builder. Additionally, I am disappointed that is no functionally no support for adding footnotes or citations.
+There's still plenty of room for improvement with Logos, especially with the sermon builder. Logos needs to add more robust formatting abilities via markdown support and other keyboard shortcuts. It takes way too many mouse clicks to format my sermon inside sermon builder. Additionally, I am disappointed that is currently no functionally or support for adding footnotes or citations.
 
 Sermon builder is great to use when delivering a sermon. It is not fun to use when building a sermon.
 
