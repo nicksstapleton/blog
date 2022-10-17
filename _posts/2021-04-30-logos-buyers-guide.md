@@ -202,4 +202,4 @@ Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=4679
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
-<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a>
+<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/logos-10-discount.jpeg"></a>
