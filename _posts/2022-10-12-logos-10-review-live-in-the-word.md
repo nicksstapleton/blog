@@ -105,7 +105,7 @@ On iOS, I want to see widget support come to Logos. The best widgets are where p
 
 Logos 10 seeks to help users _live in the Word._ It is helping me do just that. The Lord has given us an absurd blessing in a resource like Logos that allows us to better understand, learn, and grow in his Word. I am a better seminary student and minister of the gospel with Logos.[1^]
 
-[^1]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
+1]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
 If you're new to Logos, save yourself time and money and go read [my Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/). I'll give you package recommendations and some other pro-tips to maximize your dollars.
 
@@ -113,4 +113,4 @@ Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=4679
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
-<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/partners-ad-offer-focus-728x90.png"></a>
+<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/logos-10-discount.jpeg"></a>
