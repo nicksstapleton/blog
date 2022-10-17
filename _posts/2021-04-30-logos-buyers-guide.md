@@ -61,6 +61,7 @@ Having your resources easily accessible in digital form is awesome. Having featu
 The [newest version of Logos](https://www.nickstapleton.me/logos-10-review-live-in-the-word/) introduces new features and improves others: sermon builder quotes, print library, and search reimagined.
 
 ## My Favorite Resources + Features
+In an effort to help you discern what package may suit you best, I want to share what resources and features I find most valuable in Logos. 
 
 ### Resources
 
@@ -89,7 +90,7 @@ Here are some of the features I use and value the most and what Logos package th
 * Preaching Mode (Silver and up)
 * Print Library Catalog (Gold and up)
 
-If you want to write sermons or use preaching mode in Logos, you need at least the Silver package or above. Additionally, the new Print Library Catalog feature in Logos 10 requires Gold and up. If those are not features you will use, you can rest easy knowing the best features are in any Logos package. You can explore all Logos features [here](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/features).
+If you want to write sermons or use preaching mode in Logos, you need at least the Silver package or above. Additionally, the new Print Library Catalog feature in Logos 10 requires at least Gold. If those are not features you will use, you can rest easy knowing the best features are included in any Logos package. You can explore all Logos features [here](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/features).
 
 ## Which Base Package Should You Buy?
 
