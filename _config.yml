@@ -94,4 +94,12 @@ analytics:
     tracking_id: "UA-18292782-4"
     anonymize_ip: false # default
 head_scripts:
-  - https://www.googletagmanager.com/gtag/js?id=G-941DDE34TS
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-941DDE34TS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-941DDE34TS');
+</script>
