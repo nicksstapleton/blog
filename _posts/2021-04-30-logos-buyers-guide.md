@@ -61,7 +61,8 @@ Having your resources easily accessible in digital form is awesome. Having featu
 The [newest version of Logos](https://www.nickstapleton.me/logos-10-review-live-in-the-word/) introduces new features and improves others: sermon builder quotes, print library, and search reimagined.
 
 ## My Favorite Resources + Features
-In an effort to help you discern what package may suit you best, I want to share what resources and features I find most valuable in Logos. 
+
+In an effort to help you discern what package may suit you best, I want to share what resources and features I find most valuable in Logos.
 
 ### Resources
 
@@ -114,7 +115,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ### [Logos 10 Platinum](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228269/logos-10-platinum) | Pastors and Seminarians
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or MDiv student this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources. This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. Some notable resources in this package include:
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or MDiv student this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources. This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. EGGNT is a tremendous series if you want help navigating the Greek NT. Some notable resources in this package include:
 
 * Exegetical Guide to the Greek New Testament (12 vols.)
 * Pillar New Testament Commentary (15 vols.)
@@ -197,9 +198,9 @@ Buy the best package you can afford. Because of dynamic pricing, you can always 
 
 If you want further assistance choosing a package, Logos assembled [a questionnaire](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
-Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well![^1]
+Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well!\[^1\]
 
-[^1]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
+\[^1\]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
