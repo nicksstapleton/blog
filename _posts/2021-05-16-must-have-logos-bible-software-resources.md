@@ -25,7 +25,6 @@ Beyond a Logos package, you want to invest in great reference tools you will uti
 ### Theological Dictionaries
 
 * [New Dictionary of Biblical Theology](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/27277/new-dictionary-of-biblical-theology)
-* [An Introduction to the New Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/9654/an-introduction-to-the-new-testament)
 * [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery)
 * [Dictionary for Theological Interpretation of the Bible](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5322/dictionary-for-theological-interpretation-of-the-bible)
 
@@ -33,6 +32,7 @@ Beyond a Logos package, you want to invest in great reference tools you will uti
 
 * [New Bible Commentary (NBC)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/753/the-new-bible-commentary)
 * [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
+* [An Introduction to the New Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/9654/an-introduction-to-the-new-testament)
 
 ### Greek + Hebrew Texts
 
@@ -47,6 +47,7 @@ Beyond a Logos package, you want to invest in great reference tools you will uti
 
 ### Systematic Theology
 
+* [Concise Theology](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/155/concise-theology)
 * [Institutes of the Christian Religion](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/16036/institutes-of-the-christian-religion)
 * [Reformed Dogmatics (Herman Bavinck)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics)
 
