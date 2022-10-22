@@ -22,7 +22,7 @@ Beyond a Logos package, you want to invest in great reference tools you will uti
 * [Zondervan Illustrated Bible Dictionary]()
 * [IVP Bible Dictionary Series](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/37742/ivp-bible-dictionary-series-8-volumes)
 
-### ![image-right](/assets/images/ndbt.jpg){: .align-right}Bible DictionariesTheological Dictionaries
+### ![image-right](/assets/images/ndbt.jpg){: .align-right}Theological Dictionaries
 
 * [New Dictionary of Biblical Theology](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/27277/new-dictionary-of-biblical-theology)
 * [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery)
@@ -41,6 +41,7 @@ Beyond a Logos package, you want to invest in great reference tools you will uti
 * [BHS - Biblia Hebraica Stuttgartensia with Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction)
 
 ### ![image-right](/assets/images/bdag.jpg){: .align-right}Lexicons + Theological Dictionaries
+
 * [BDAG/HALOT](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
 * [New International Dictionary of New Testament Theology and Exegesis](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte)
 
