@@ -34,6 +34,8 @@ Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/
 * [New Bible Commentary (NBC)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/753/the-new-bible-commentary)
 * [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
 * [An Introduction to the New Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/9654/an-introduction-to-the-new-testament)
+* [An Old Testament Theology](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17275/an-old-testament-theology)
+* [The King in His Beauty: A Biblical Theology of the Old and New Testaments](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/32180/the-king-in-his-beauty-a-biblical-theology-of-the-old-and-new-testaments)
 
 ### Greek + Hebrew Texts
 
