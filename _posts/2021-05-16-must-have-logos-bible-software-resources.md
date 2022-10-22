@@ -36,9 +36,9 @@ Beyond a Logos package, you want to invest in great reference tools you will uti
 
 ### Greek + Hebrew Texts
 
-* [NA28 | Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/29980/nestle-aland-greek-new-testament-28th-edition-with-critical-apparatus)
-* [THGNT | The Greek New Testament, Produced at Tyndale House, Cambridge, with Dictionary](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/207821/the-greek-new-testament-produced-at-tyndale-house-cambridge-with-dictionary)
-* [BHS | Biblia Hebraica Stuttgartensia with Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction)
+* [NA28 - Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/29980/nestle-aland-greek-new-testament-28th-edition-with-critical-apparatus)
+* [THGNT - The Greek New Testament, Produced at Tyndale House, Cambridge, with Dictionary](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/207821/the-greek-new-testament-produced-at-tyndale-house-cambridge-with-dictionary)
+* [BHS - Biblia Hebraica Stuttgartensia with Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction)
 
 ### Lexicons + Theological Dictionaries
 
