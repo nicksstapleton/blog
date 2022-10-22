@@ -1,6 +1,7 @@
 ---
 title: Must-Have Logos Bible Software Resources
-excerpt: Some of my favorite Logos resources
+excerpt: Which Logos resources are must-haves? Here are my recommendations for resources
+  you will use over and over again.
 date: 2022-10-21 09:00:00 -0600
 tags:
 - Seminary
