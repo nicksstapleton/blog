@@ -14,7 +14,7 @@ gallery: []
 ---
 ![](/assets/images/logos-resources.png)One of the greatest benefits of Logos is the vast amount of resources you can add to your library. Yet, the possibilities can also be quite overwhelming. When I began building my library in Logos I wanted to know which tools were most worthy of investment.
 
-Beyond a Logos package, you want to invest in great reference tools you will utilize over and over again in Logos. This is ensure you get good mileage out of your resources. Which are must-haves? Here are the resources I think are worthy of consideration:
+Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/), you want to invest in great reference tools you will utilize over and over again in Logos. This is ensure you get good mileage out of your resources. Which are must-haves? Here are the resources I think are worthy of consideration:
 
 ### ![image-right](/assets/images/zondervan-illustrated-bible-dictionary.jpg){: .align-right}Bible Dictionaries
 
@@ -55,6 +55,8 @@ Beyond a Logos package, you want to invest in great reference tools you will uti
 
 * [Charles Spurgeon Sermon Collection](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/18436/the-complete-spurgeon-sermon-collection)
 
-You'll notice I did not include any commentary series. While there are certainly stand out series, I personally prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries, which I listed, are also valuable for a quick overview of a passage. If you are looking for the best commentaries for a particular book of the Bible, I highly recommend [this website](https://www.nickstapleton.me/best-bible-commentaries/).
+You'll notice I did not include any commentary series. While there are certainly stand out series, I personally prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries, which I listed, are also valuable for a quick overview of a passage.
+
+Read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) if you want help choosing a base package. If you are looking for the best commentaries for a particular book of the Bible, I highly recommend [this website](https://www.nickstapleton.me/best-bible-commentaries/).
 
 👉 What is a must-have resource in your library? Send me a [tweet](http://www.twitter.com/nickstapleton) and let me know.
