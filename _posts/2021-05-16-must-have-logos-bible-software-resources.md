@@ -16,7 +16,7 @@ gallery: []
 
 Beyond a Logos package, you want to invest in great reference tools you will utilize over and over again in Logos. This is ensure you get good mileage out of your resources. Which are must-haves? Here are the resources I think are worthy of consideration:
 
-### Bible Dictionaries
+### ![image-left](/assets/images/zondervan-illustrated-bible-dictionary.jpg){: .align-left}Bible Dictionaries
 
 * [The New Bible Dictionary, 3rd ed.](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/310/the-new-bible-dictionary-3rd-ed)
 * [Zondervan Illustrated Bible Dictionary]()
