@@ -12,7 +12,7 @@ header:
 gallery: []
 
 ---
-![](/assets/images/logos-resources.png)One of the greatest benefits of Logos is the vast amount of resources you can add to your library. Yet, the possibilities can also be quite overwhelming. When I began building my library in Logos I wanted to know which tools were most worthy of investment. 
+![](/assets/images/logos-resources.png)One of the greatest benefits of Logos is the vast amount of resources you can add to your library. Yet, the possibilities can also be quite overwhelming. When I began building my library in Logos I wanted to know which tools were most worthy of investment.
 
 Beyond a Logos package, you want to invest in great reference tools you will utilize over and over again in Logos. This is ensure you get good mileage out of your resources. Which are must-haves? Here are the resources I think are worthy of consideration:
 
@@ -26,13 +26,13 @@ Beyond a Logos package, you want to invest in great reference tools you will uti
 
 * [New Dictionary of Biblical Theology](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/27277/new-dictionary-of-biblical-theology)
 * [An Introduction to the New Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/9654/an-introduction-to-the-new-testament)
-* [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
 * [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery)
 * [Dictionary for Theological Interpretation of the Bible](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5322/dictionary-for-theological-interpretation-of-the-bible)
 
 ### Commentaries
 
 * [New Bible Commentary (NBC)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/753/the-new-bible-commentary)
+* [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
 
 ### Greek + Hebrew Texts
 
@@ -54,6 +54,6 @@ Beyond a Logos package, you want to invest in great reference tools you will uti
 
 * [Charles Spurgeon Sermon Collection](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/18436/the-complete-spurgeon-sermon-collection)
 
-You'll notice I did not include any commentary series. While there are certainly stand out series, I personally prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. If you are looking for the best commentaries for a particular book of the Bible, I highly recommend [this website](https://www.nickstapleton.me/best-bible-commentaries/).
+You'll notice I did not include any commentary series. While there are certainly stand out series, I personally prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries, which I listed, are also valuable for a quick overview of a passage. If you are looking for the best commentaries for a particular book of the Bible, I highly recommend [this website](https://www.nickstapleton.me/best-bible-commentaries/).
 
 👉 What is a must-have resource in your library? Send me a [tweet](http://www.twitter.com/nickstapleton) and let me know.
