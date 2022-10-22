@@ -14,10 +14,12 @@ gallery: []
 ---
 ![](/assets/images/logos-resources.png)One of the greatest benefits of Logos is the vast amount of resources you can add to your library. Yet, the possibilities can also be quite overwhelming. When I began building my library in Logos I wanted to know which tools were most worthy of investment. 
 
-It is important to get great reference tools that you will utilize over and over again in Logos. Which are must-haves? Here are the resources I think are worthy of consideration:
+Beyond a Logos package, you want to invest in great reference tools you will utilize over and over again in Logos. This is ensure you get good mileage out of your resources. Which are must-haves? Here are the resources I think are worthy of consideration:
 
 ### Bible Dictionaries
 
+* [The New Bible Dictionary, 3rd ed.](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/310/the-new-bible-dictionary-3rd-ed)
+* [Zondervan Illustrated Bible Dictionary]()
 * [IVP Bible Dictionary Series](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/37742/ivp-bible-dictionary-series-8-volumes)
 
 ### Theological Dictionaries
@@ -29,6 +31,8 @@ It is important to get great reference tools that you will utilize over and over
 * [Dictionary for Theological Interpretation of the Bible](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5322/dictionary-for-theological-interpretation-of-the-bible)
 
 ### Commentaries
+
+* [New Bible Commentary (NBC)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/753/the-new-bible-commentary)
 
 ### Greek + Hebrew Texts
 
