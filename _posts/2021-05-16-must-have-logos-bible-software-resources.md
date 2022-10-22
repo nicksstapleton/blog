@@ -12,7 +12,9 @@ header:
 gallery: []
 
 ---
-![](/assets/images/logos-resources.png)One of the greatest benefits of Logos is the vast amount of resources you can add to your library. Yet, the possibilities can also be quite overwhelming. When I began building my library in Logos I wanted to know which tools were most worthy of investment. Which are must-haves? Here are the resources I think are worthy of consideration:
+![](/assets/images/logos-resources.png)One of the greatest benefits of Logos is the vast amount of resources you can add to your library. Yet, the possibilities can also be quite overwhelming. When I began building my library in Logos I wanted to know which tools were most worthy of investment. 
+
+It is important to get great reference tools that you will utilize over and over again in Logos. Which are must-haves? Here are the resources I think are worthy of consideration:
 
 ### Bible Dictionaries
 
@@ -30,9 +32,9 @@ gallery: []
 
 ### Greek + Hebrew Texts
 
-* [Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/29980/nestle-aland-greek-new-testament-28th-edition-with-critical-apparatus)
-* THGNT
-* [Biblia Hebraica Stuttgartensia with Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction)
+* [NA28 | Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/29980/nestle-aland-greek-new-testament-28th-edition-with-critical-apparatus)
+* [THGNT | The Greek New Testament, Produced at Tyndale House, Cambridge, with Dictionary](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/207821/the-greek-new-testament-produced-at-tyndale-house-cambridge-with-dictionary)
+* [BHS | Biblia Hebraica Stuttgartensia with Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction)
 
 ### Lexicons + Theological Dictionaries
 
@@ -44,7 +46,7 @@ gallery: []
 * [Institutes of the Christian Religion](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/16036/institutes-of-the-christian-religion)
 * [Reformed Dogmatics (Herman Bavinck)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics)
 
-### Other 
+### Other
 
 * [Charles Spurgeon Sermon Collection](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/18436/the-complete-spurgeon-sermon-collection)
 
