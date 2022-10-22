@@ -22,7 +22,7 @@ Beyond a Logos package, you want to invest in great reference tools you will uti
 * [Zondervan Illustrated Bible Dictionary]()
 * [IVP Bible Dictionary Series](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/37742/ivp-bible-dictionary-series-8-volumes)
 
-### Theological Dictionaries
+### ![image-right](/assets/images/ndbt.jpg){: .align-right}Bible DictionariesTheological Dictionaries
 
 * [New Dictionary of Biblical Theology](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/27277/new-dictionary-of-biblical-theology)
 * [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery)
