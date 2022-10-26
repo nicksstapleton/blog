@@ -157,7 +157,7 @@ If you're after great commentaries, this package might the one:
 
 * Pillar NT commentaries
 * Bible Speaks Today commentaries
-* Ancient Christian Commentary on Scripture, Updated Edition: New Testament | ACCS (14 vols.)
+* Ancient Christian Commentary on Scripture, Updated Edition: New Testament (14 vols.)
 * New Bible Dictionary, 3rd ed.
 * New Dictionary of Theology: Historical and Systematic, 2nd ed.
 
