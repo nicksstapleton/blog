@@ -39,7 +39,7 @@ Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/
 * [THGNT - The Greek New Testament, Produced at Tyndale House, Cambridge, with Dictionary](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/207821/the-greek-new-testament-produced-at-tyndale-house-cambridge-with-dictionary)
 * [BHS - Biblia Hebraica Stuttgartensia with Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction)
 
-### ![image-right](/assets/images/bdag.jpg){: .align-right} Greek / Hebrew Lexicons + Theological Dictionaries
+### ![image-right](/assets/images/bdag.jpg){: .align-right} Greek & Hebrew Lexicons + Theological Dictionaries
 
 * [BDAG/HALOT](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
 * [New International Dictionary of New Testament Theology and Exegesis](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte)
