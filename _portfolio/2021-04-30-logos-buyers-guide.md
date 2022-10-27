@@ -6,7 +6,6 @@ date: 2022-10-12T12:00:00.000-06:00
 toc: true
 toc_label: Logos Buyer's Guide
 toc_icon: search-plus
-search: false
 tags:
 - Bible Study
 - Sermon Prep
@@ -62,14 +61,15 @@ Having your resources easily accessible in digital form is awesome. Having featu
 The [newest version of Logos](https://www.nickstapleton.me/logos-10-review-live-in-the-word/) introduces new features and improves others: sermon builder quotes, print library, and search reimagined.
 
 ## My Favorite Resources + Features
-In an effort to help you discern what package may suit you best, I want to share what resources and features I find most valuable in Logos. 
+
+In an effort to help you discern what package may suit you best, I want to share what resources and features I find most valuable in Logos.
 
 ### Resources
 
 Here are some of the resources I use and value the most and what Logos package they are available in:
 
-* [Pillar NT Commentaries](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/210376/pillar-new-testament-commentary-pntc) (Platinum)
-* [The IVP Bible Background Commentary](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/204338/the-ivp-bible-background-commentary) (Bronze and Academic Essentials)
+* [Pillar NT Commentaries](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/210376/pillar-new-testament-commentary-pntc) (Platinum or Anglican Gold)
+* [The IVP Bible Background Commentary](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/204338/the-ivp-bible-background-commentary) (Bronze or Academic Essentials)
 * [New Dictionary of Biblical Theology](https://www.logos.com/product/27277/new-dictionary-of-biblical-theology?utm_source=Nick+Stapleton&utm_medium=partner&ClickID=10_148248992_8e37b70a-25cb-4b8a-9ae0-e51028d47714) (Portfolio or Reformed Gold)
 * [IVP Bible Dictionaries](https://www.logos.com/product/37742/the-ivp-bible-dictionaries?utm_source=Nick+Stapleton&utm_medium=partner&ClickID=10_148234591_8f9209db-6584-4cfa-8aa5-bbc54549b17a) (Diamond)
 * [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery) (Portfolio or Reformed Gold)
@@ -115,7 +115,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ### [Logos 10 Platinum](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228269/logos-10-platinum) | Pastors and Seminarians
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or MDiv student this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources. This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. Some notable resources in this package include:
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or MDiv student this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources. This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. EGGNT is a tremendous series if you want help navigating the Greek NT. Some notable resources in this package include:
 
 * Exegetical Guide to the Greek New Testament (12 vols.)
 * Pillar New Testament Commentary (15 vols.)
@@ -150,6 +150,16 @@ In addition the resources in Academic Essentials, this package notably includes:
 * Theological Dictionary of the Old Testament and New Testament Collection (27 vols.)
 * Exegetical Guide to the Greek New Testament (13 vols.)
 * International Critical Commentary (65 vols.)
+
+### [Logos 10 Anglican Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228279/logos-10-anglican-gold)
+
+If you're after great commentaries, this package might the one:
+
+* Pillar NT commentaries
+* Bible Speaks Today commentaries
+* Ancient Christian Commentary on Scripture (29 vols.)
+* New Bible Dictionary, 3rd ed.
+* New Dictionary of Theology: Historical and Systematic, 2nd ed.
 
 ### [Logos 10 Reformed Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228327/logos-10-reformed-gold)
 
