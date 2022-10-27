@@ -1,7 +1,7 @@
 ---
 title: What Resources Should I Buy in Logos Bible Software?
 excerpt: What Logos resources should you buy first? Here are my recommendations.
-date: 2022-10-27 00:00:00 -0600
+date: 2022-10-27 09:00:00 -0600
 tags:
 - Seminary
 - Logos
