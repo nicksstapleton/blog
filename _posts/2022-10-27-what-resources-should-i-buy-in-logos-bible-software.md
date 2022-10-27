@@ -11,7 +11,7 @@ header:
 ---
 ![](/assets/images/logos-resources.png)One of the greatest benefits of Logos is the vast amount of resources you can add to your library. Yet, the possibilities can also be quite overwhelming. When I began building my library in Logos I wanted to know which tools were most worthy of investment.
 
-Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/) and grabbing the [free book of the month](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://partners.faithlife.com/click.track?CID=437858&AFID=467957), you want to invest in great reference tools you will utilize over and over again in Logos. This is ensure you get good mileage out of your resources. Which are must-haves? Here are the categories you want to prioritize and some suggested resources:
+Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/) and grabbing the [free book of the month](https://partners.faithlife.com/click.track?CID=437858&AFID=467957), you want to invest in great reference tools you will utilize over and over again in Logos. This is ensure you get good mileage out of your resources. Which are must-haves? Here are the categories you want to prioritize and some suggested resources:
 
 ### ![image-right](/assets/images/zondervan-illustrated-bible-dictionary.jpg){: .align-right}Bible Dictionaries
 
