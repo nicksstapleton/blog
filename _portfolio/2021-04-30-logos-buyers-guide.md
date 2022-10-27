@@ -26,8 +26,7 @@ gallery:
   image_path: "/assets/images/l10-factbook-benefits-of-wisdom.jpg"
   alt: ''
   title: ''
-search: false
-
+  search: false
 ---
 ## Overview
 
