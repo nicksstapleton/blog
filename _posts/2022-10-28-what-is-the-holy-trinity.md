@@ -1,5 +1,5 @@
 ---
-title: 'What is the' Holy Trinity?'
+title: 'What is the Holy Trinity?'
 excerpt: A helpful explanation from Sam Allberry
 date: 2022-10-28 08:00:00 -0600
 tags:
