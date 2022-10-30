@@ -153,7 +153,7 @@ In addition the resources in Academic Essentials, this package notably includes:
 
 ### [Logos 10 Anglican Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228279/logos-10-anglican-gold)
 
-If you're after great commentaries, this package might the one:
+If you're after great commentaries, this package might be a great fit:
 
 * Pillar NT commentaries
 * Bible Speaks Today commentaries
