@@ -21,5 +21,3 @@ fields:
   - type: file
     name: teaser
     label: teaser
-pages:
-- _posts/what-is-the-holy-trinity.md
