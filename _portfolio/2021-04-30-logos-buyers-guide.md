@@ -195,7 +195,7 @@ Don’t forget to sign up for the [Logos Academic Discount](https://partners.fai
 
 ## Take Advantage of Sales
 
-Logos has historically offered sales throughout the year, including a back-to-school sale in August. Many of the resources I consider [must-have](https://www.nickstapleton.me/must-have-logos-bible-software-resources/) are part of the base packages I listed above. Here are some others I suggest adding to your Logos wish list and grabbing them when discounted:
+Logos has historically offered sales throughout the year, including a back-to-school sale in August. Many of the resources I consider [must-have](https://www.nickstapleton.me/what-resources-should-i-buy-in-logos-bible-software/) are part of the base packages I listed above. Here are some others I suggest adding to your Logos wish list and grabbing them when discounted:
 
 * [BDAG/HALOT Bundle](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
 * [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
