@@ -79,14 +79,14 @@ Here are some of the resources I use and value the most and what Logos package t
 * [BDAG](https://www.logos.com/product/3878/a-greek-english-lexicon-of-the-new-testament-and-other-early-christian-literature-3rd-ed) ➡ Diamond or Academic Professional
 * [Exegetical Guide to the Greek New Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/232317/exegetical-guide-to-the-greek-new-testament-eggnt) ➡ Diamond or Academic Professional
 
-In the past, Logos made many of these resources of these resources available in standard packages like Gold or Platinum. With Logos 10, it feels like things have become either siloed into academic and denominational packages or you have to pay for a higher Standard package to get them. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
+In the past, Logos made many of these resources available in standard packages like Gold or Platinum. With Logos 10, it feels like things have become either siloed into academic and denominational packages or you have to pay for a higher Standard package to get them. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
 
 ### Features
 
 Here are some of the features I use and value the most and what Logos package they are available in:
 
 * Factbook ➡ Starter and up
-* Passage Guide ➡ Starter and up 
+* Passage Guide ➡ Starter and up
 * Bible Word Study ➡ Starter and up
 * Sermon Builder ➡ Silver and up
 * Preaching Mode ➡ Silver and up
