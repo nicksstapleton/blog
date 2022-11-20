@@ -175,11 +175,11 @@ This package has some of my favorite dictionaries, commentaries, and theology bo
 
 ## A Word to Seminary Students
 
-Most seminary students are not flush with cash and do not have a book budget like some pastors. Many work multiple jobs and have to take out loans simply to get through seminary. Having access to a resource like Logos is a privilege.
+Most seminary students are not flush with cash. Many work multiple jobs and have to take out loans simply to get through seminary. Access to a resource like Logos is a privilege.
 
 If you are in a position to consider investing in Logos: Do it.![](https://media.giphy.com/media/BjHIjM2YFC3rEUaMrw/giphy.gif)
 
-If you will be purchasing textbooks for your courses, why not buy them in Logos and take all of your class notes inside Logos so that you can easily reference them for decades to come? It may be tempting to say that you will wait to invest in Bible software after you graduate, but I am convinced that there is no better time to learn how to leverage Bible software than while you are in seminary.
+If you will be purchasing textbooks for your courses, why not buy them in Logos and take all of your class notes inside Logos so that you can easily reference them for decades to come? It may be tempting to say that you will wait to invest in Bible software after you graduate, but there is no better time to learn how to leverage Bible software than while you are in seminary.
 
 With the right resources in Logos, you will save yourself significant time and energy in the library that could free you up to spend more time with those you love. Further, you will develop proficiency with the software that will dramatically benefit your ministry upon graduation as you do sermon prep, counseling, personal study, and more.
 
@@ -208,9 +208,9 @@ Buy the best package you can afford. Because of dynamic pricing, you can always 
 
 If you want further assistance choosing a package, Logos assembled [a questionnaire](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
-Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos,you can  get 15% off your Logos 10 library and five _free_ books as well![^1]
+Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos, you can get 15% off your Logos 10 library and five _free_ books as well!\[^1\]
 
-[^1]:Disclosure: As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
+\[^1\]:Disclosure: As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
