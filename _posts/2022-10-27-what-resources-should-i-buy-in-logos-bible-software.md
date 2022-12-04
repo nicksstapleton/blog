@@ -25,7 +25,9 @@ Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/
 * [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery)
 * [Dictionary for Theological Interpretation of the Bible](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5322/dictionary-for-theological-interpretation-of-the-bible)
 
-### Commentaries
+### Commentaries[^1]
+
+[^1]: You’ll notice I did not include any commentary series. While there are certainly stand out series, I personally prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries, which I have listed, are valuable for a quick overview of a passage.
 
 * [New Bible Commentary (NBC)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/753/the-new-bible-commentary)
 * [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
@@ -52,8 +54,7 @@ Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/
 * [Reformed Dogmatics (Herman Bavinck)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics)
 * [Systematic Theology (Berkhof)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/6689/systematic-theology)
 
-You'll notice I did not include any commentary series. While there are certainly stand out series, I personally prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries, which I listed, are also valuable for a quick overview of a passage.
-
+### More Suggestions
 Read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) if you want help choosing a base package. If you are looking for the best commentaries for a particular book of the Bible, I highly recommend [this website](https://www.nickstapleton.me/best-bible-commentaries/).
 
 👉 What is a must-have resource in your library? Send me a [tweet](http://www.twitter.com/nickstapleton) and let me know.
