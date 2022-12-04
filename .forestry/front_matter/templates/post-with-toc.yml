@@ -33,3 +33,5 @@ fields:
 - type: text
   name: toc_icon
   label: toc_icon
+pages:
+- _posts/esv-heirloom-bible-legacy-edition-review.md
