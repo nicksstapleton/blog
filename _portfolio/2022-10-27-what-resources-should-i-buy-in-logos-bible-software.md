@@ -12,7 +12,7 @@ search: false
 ---
 ![](/assets/images/logos-resources.png)One of the greatest benefits of Logos is the vast amount of resources you can add to your library. Yet, the possibilities can also be quite overwhelming. When I began building my library in Logos I wanted to know which tools were most worthy of investment.
 
-Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/) and grabbing the [free book of the month](https://partners.faithlife.com/click.track?CID=437858&AFID=467957), you want to invest in great reference tools you will utilize over and over again in Logos. This is ensure you get good mileage out of your resources. Which are must-haves? Here are the categories you want to prioritize and some suggested resources:
+Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/) and grabbing the [free book of the month](https://partners.faithlife.com/click.track?CID=437858&AFID=467957), you want to invest in great reference tools you will utilize over and over again in Logos. This is ensure you get good mileage out of your resources. What are the best Logos resources to buy? Which are must-haves? Here are the categories you want to prioritize and some suggested resources:
 
 ### ![image-right](/assets/images/zondervan-illustrated-bible-dictionary.jpg){: .align-right}Bible Dictionaries
 
@@ -26,7 +26,9 @@ Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/
 * [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery)
 * [Dictionary for Theological Interpretation of the Bible](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5322/dictionary-for-theological-interpretation-of-the-bible)
 
-### Commentaries
+### Commentaries[^1]
+
+[^1]: You’ll notice I did not include any commentary series. While there are certainly stand out series, I personally prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries, which I have listed, are valuable for a quick overview of a passage.
 
 * [New Bible Commentary (NBC)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/753/the-new-bible-commentary)
 * [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
@@ -53,8 +55,7 @@ Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/
 * [Reformed Dogmatics (Herman Bavinck)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics)
 * [Systematic Theology (Berkhof)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/6689/systematic-theology)
 
-You'll notice I did not include any commentary series. While there are certainly stand out series, I personally prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries, which I listed, are also valuable for a quick overview of a passage.
-
+### More Suggestions
 Read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) if you want help choosing a base package. If you are looking for the best commentaries for a particular book of the Bible, I highly recommend [this website](https://www.nickstapleton.me/best-bible-commentaries/).
 
 👉 What is a must-have resource in your library? Send me a [tweet](http://www.twitter.com/nickstapleton) and let me know.
