@@ -17,7 +17,9 @@ toc_icon: ''
 
 The Horween leather used in the ESV Heirloom Bible is vegetable-tanned and hand-dyed. This means that it is made using natural materials and processes, resulting in a rich and deep color that will develop character and become more beautiful over time. The leather is also treated with oils and waxes to make it supple and durable, ensuring that it will last for many years to come.
 
-![](/assets/images/img_0298-large.jpeg)One of the standout features of this Bible is its durable spine and binding. The spine is blind-stamped with the standard information, while the sewn binding ensures that the pages will stay securely in place. It's a clean, sharp look.
+![](/assets/images/img_0298-large.jpeg)
+
+One of the standout features of this Bible is its durable spine and binding. The spine is blind-stamped with the standard information, while the sewn binding ensures that the pages will stay securely in place. It's a clean, sharp look.
 
 ![](/assets/images/img_0296-large.jpeg)The text of the ESV Heirloom Bible, Legacy Edition is printed on high-quality paper using a special font that is easy to read. I really like it. I especially love the layout and single column text. The pages are smyth-sewn and lay flat, making it easy to read and study. The layout and text size also makes it a good candidate as a preaching Bible. the Bible includes a a basic concordance, as well as maps.
 
