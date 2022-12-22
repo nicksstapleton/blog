@@ -31,6 +31,8 @@ This makes the Heirloom a Bible that can be used and enjoyed on a daily basis wi
 
 The list price for the Bible is $399, which is no small amount of money. No one _needs_ to spend this much on a Bible. But, like many things, we invest more in the things we use often and care most about. For that amount, Crossway provides a lifetime guarantee for the Bible.
 
+If I have one criticism of the Bible, it is the four ribbon markers. Everything about the Bible feels premium except for these.
+
 Overall, the ESV Heirloom Bible, Legacy Edition is a beautiful and timeless Bible that you will be excited to open and read. Its high-quality construction and elegant design should deliver for decades to come.
 
 If you are looking for a Bible that is both functional, easy to read, and beautiful, the ESV Heirloom Bible, Legacy Edition might be the one.
