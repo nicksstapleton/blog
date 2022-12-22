@@ -4,13 +4,6 @@ excerpt: High quality. High price. Awesome Bible.
 tags:
 - Review
 - Bible
-categories: []
-header:
-  image: ''
-  teaser: ''
-toc: false
-toc_label: ''
-toc_icon: ''
 
 ---
 ![](/assets/images/img_0295-large.jpeg)The ESV Heirloom Bible, Legacy Edition is a 6" x 9" luxurious and timeless Bible that will make a beautiful addition to any library. It is bound in high-quality leather from Horween, a renowned leather company based in Chicago, Illinois. It is assembled by  Royal Jongbloed in the Netherlands who is renowned for their craftsmanship. As Crossway states on their website, "This edition is modeled after the Renaissance ideal of a perfect page—featuring a simple, clear layout with generous margins."
