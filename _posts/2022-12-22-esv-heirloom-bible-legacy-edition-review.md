@@ -4,13 +4,6 @@ excerpt: High quality. High price. Awesome Bible.
 tags:
 - Review
 - Bible
-categories: []
-header:
-  image: ''
-  teaser: ''
-toc: false
-toc_label: ''
-toc_icon: ''
 
 ---
 ![](/assets/images/img_0295-large.jpeg)
