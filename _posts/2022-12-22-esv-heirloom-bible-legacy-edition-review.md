@@ -21,7 +21,9 @@ The Horween leather used in the ESV Heirloom Bible is vegetable-tanned and hand-
 
 One of the standout features of this Bible is its durable spine and binding. The spine is blind-stamped with the standard information, while the sewn binding ensures that the pages will stay securely in place. It's a clean, sharp look.
 
-![](/assets/images/img_0296-large.jpeg)The text of the ESV Heirloom Bible, Legacy Edition is printed on high-quality paper using a special font that is easy to read. I really like it. I especially love the layout and single column text. The pages are smyth-sewn and lay flat, making it easy to read and study. The layout and text size also makes it a good candidate as a preaching Bible. the Bible includes a a basic concordance, as well as maps.
+![](/assets/images/img_0296-large.jpeg)
+
+The text of the ESV Heirloom Bible, Legacy Edition is printed on high-quality paper using a special font that is easy to read. I really like it. I especially love the layout and single column text. The pages are smyth-sewn and lay flat, making it easy to read and study. The layout and text size also makes it a good candidate as a preaching Bible. the Bible includes a a basic concordance, as well as maps.
 
 This makes the Heirloom a Bible that can be used and enjoyed on a daily basis without fear of damaging it. Though, you should be aware the Horween leather will show the slightest scratch. My copy started showing marks as soon as it left the box. If you like a Bible with character, look no further. If looking perfect or untouched is important to you, don't get the Horween.
 
