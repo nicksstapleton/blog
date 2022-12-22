@@ -35,6 +35,4 @@ Overall, the ESV Heirloom Bible, Legacy Edition is a beautiful and timeless Bibl
 
 If you are looking for a Bible that is both functional, easy to read, and beautiful, the ESV Heirloom Bible, Legacy Edition might be the one.
 
-If you're looking for more info or you're interested in ordering a copy for yourself, you can do it [here](https://www.crossway.org/bibles/esv-heirloom-bible-legacy-edition-hrwnlthr/).
-
-Thank you to Crossway for giving me the opportunity to review this wonderful Bible!
+Thank you to Crossway for giving me the opportunity to review this wonderful Bible! If you're interested in ordering a copy for yourself, you can do it [here](https://www.crossway.org/bibles/esv-heirloom-bible-legacy-edition-hrwnlthr/).
