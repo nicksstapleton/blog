@@ -2,7 +2,7 @@
 title: Logos Bible Software Buyer's Guide
 excerpt: Logos is a large investment. Make sure you buy it the right way. My thoughts
   on the best package for pastors and seminarians.
-date: 2022-10-12T12:00:00.000-06:00
+date: 2023-01-19T12:00:00.000-06:00
 toc: true
 toc_label: Logos Buyer's Guide
 toc_icon: search-plus
