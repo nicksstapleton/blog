@@ -1,5 +1,5 @@
 ---
-title: 'Logos 10 Review: Live in the Word'
+title: 'Logos 10 Review: Is It Worth it?'
 excerpt: Some Logos updates feel like a refinement. Others feel like a leap forward.
   Logos 10 is both.
 tags:
@@ -72,6 +72,16 @@ It fast. I first noticed the speed when opening and closing Logos. Everything is
 ## Reasons I Love Using Logos
 
 If you're still unsure about getting into Logos 10, let me highlight some other benefits of using Logos:
+
+### ✈️ Accessibility
+
+* Have you ever struggled figuring out which books to pack and bring with you on a trip? 
+* Have you ever sat down at a coffee shop to work on a sermon or Bible study and realize you forgot a resource at home? 
+* Have you ever had to pack your library into boxes and move? 💀 
+
+One of my favorite features of Logos is having access to my entire library everywhere. As long as I have my iPhone, iPad, or MacBook with me, I can read and study anywhere. I never have to worry about forgetting to bring a resource with me. More than this, I can leverage my entire library no matter where I am.
+
+I travel quite a bit and frequently work in places outside my home office. It is awesome having access to my library wherever I go.
 
 ### 📚 Reduces Friction: Use more of your resources more often
 
