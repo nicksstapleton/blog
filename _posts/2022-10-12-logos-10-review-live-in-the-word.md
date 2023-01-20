@@ -75,9 +75,9 @@ If you're still unsure about getting into Logos 10, let me highlight some other 
 
 ### ✈️ Accessibility
 
-* Have you ever struggled figuring out which books to pack and bring with you on a trip? 
-* Have you ever sat down at a coffee shop to work on a sermon or Bible study and realize you forgot a resource at home? 
-* Have you ever had to pack your library into boxes and move? 💀 
+* Have you ever struggled figuring out which books to pack and bring with you on a trip?
+* Have you ever sat down at a coffee shop to work on a sermon or Bible study and realize you forgot a resource at home?
+* Have you ever had to pack your library into boxes and move? 💀
 
 One of my favorite features of Logos is having access to my entire library everywhere. As long as I have my iPhone, iPad, or MacBook with me, I can read and study anywhere. I never have to worry about forgetting to bring a resource with me. More than this, I can leverage my entire library no matter where I am.
 
@@ -117,7 +117,7 @@ Logos 10 seeks to help users _live in the Word._ It is helping me do just that. 
 
 [^1]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
-If you're new to Logos, save yourself time and money and go read [my Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/). I'll give you package recommendations and some other pro-tips to maximize your dollars.
+**If you're new to Logos, save yourself time and money and go read** [**my Logos Buyer's Guide**](https://www.nickstapleton.me/logos-buyers-guide/)**. I'll give you package recommendations and some other pro-tips to maximize your dollars.**
 
 Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well!
 
