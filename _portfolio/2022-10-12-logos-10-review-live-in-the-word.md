@@ -1,5 +1,5 @@
 ---
-title: 'Logos 10 Review: Live in the Word'
+title: 'Logos 10 Review: Is It Worth it?'
 excerpt: Some Logos updates feel like a refinement. Others feel like a leap forward.
   Logos 10 is both.
 tags:
@@ -74,6 +74,16 @@ It fast. I first noticed the speed when opening and closing Logos. Everything is
 
 If you're still unsure about getting into Logos 10, let me highlight some other benefits of using Logos:
 
+### ✈️ Accessibility
+
+* Have you ever struggled figuring out which books to pack and bring with you on a trip?
+* Have you ever sat down at a coffee shop to work on a sermon or Bible study and realize you forgot a resource at home?
+* Have you ever had to move and pack up your entire library? 💀
+
+One of my favorite features of Logos is having access to my entire library everywhere. As long as I have my iPhone, iPad, or MacBook with me, I can read and study anywhere. I never have to worry about forgetting to bring a resource with me. More than this, I can leverage my entire library no matter where I am.
+
+I travel quite a bit and frequently work in places outside my home office. It is awesome having access to my library wherever I go.
+
 ### 📚 Reduces Friction: Use more of your resources more often
 
 This is a bigger deal than people realize. Before investing in Logos, I had several wonderful resources sitting on my bookshelf that I would pull down and use from time to time. However, now that I have these resources in Logos, I am using them far more often because the friction of using them has been reduced. Using the Passage Guide, Logos will show me which of my resources have something to offer about my text. I can reference several resources in a matter of seconds.
@@ -108,7 +118,7 @@ Logos 10 seeks to help users _live in the Word._ It is helping me do just that. 
 
 [^1]:Disclosure: Logos provided me with an early release of Logos 10 for this review. As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
-If you're new to Logos, save yourself time and money and go read [my Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/). I'll give you package recommendations and some other pro-tips to maximize your dollars.
+**If you're new to Logos, save yourself time and money and go read** [**my Logos Buyer's Guide**](https://www.nickstapleton.me/logos-buyers-guide/)**. I'll give you package recommendations and some other pro-tips to maximize your dollars.**
 
 Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well!
 
