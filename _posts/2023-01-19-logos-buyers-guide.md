@@ -213,7 +213,7 @@ Logos runs special sales throughout the year, including a fantastic back-to-scho
 
 Buy the best package you can afford. Because Logos provides dynamic pricing, you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.
 
-Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos, you can get 15% off your Logos 10 library and five _free_ books as well![^1]
+**Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos, you can get 15% off your Logos 10 library and five _free_ books as well![^1]**
 
 [^1]:Disclosure: As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
