@@ -86,7 +86,7 @@ Here are some of the features I use and value the most and what Logos package th
 * 🗣 Sermon Builder + Preaching Mode ➡ Silver and up
 * 📚Print Library Catalog ➡ Gold and up
 
-A few things to note:
+**A few things to note:**
 
 * If you want to write sermons or use preaching mode in Logos, you need at least the Silver package or above.
 * One of the most popular features released with Logos 10 is Print Library Catalog which requires at least Gold.
