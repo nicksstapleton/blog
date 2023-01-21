@@ -38,25 +38,36 @@ My journey with Logos began with several questions such as:
 * _Which resources are a must-have?_
 * _What is the most cost-effective way to get into Logos?_
 
-I write from the perspective of having been in vocational ministry for over 10 years and as an MDiv student. My input is best suited for people in ministry, pastors, and seminary students. This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, [read my Logos 10 review](https://www.nickstapleton.me/logos-10-review-live-in-the-word/).
+I write from the perspective of having been in vocational ministry for over 10 years and as an MDiv student. My input is best suited for pastors, seminary students, or other vocational ministers. This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, [read my Logos 10 review](https://www.nickstapleton.me/logos-10-review-live-in-the-word/).
 
-This buyer’s guide aims to provide some direction so you can decide which route into Logos is best for your purposes and needs.
+This buyer’s guide provides buying principles and package recommendations so you can decide which route into Logos is best for your purposes and needs.
 
 ## Buy a Base Package
 
-The most cost-effective route into Logos is with a base package. Why?💰📚 **Discounted Resources + ✨ Features**
+The most cost-effective route into Logos is with a base package. Why?
+
+* 💰📚 **Discounted Resources** 
+* **✨ Features**
 
 According to Logos, base packages save you 90% compared to purchasing books and features individually.
 
 ### Resources
 
-Initially, I thought base packages were overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but I can nearly guarantee you will overspend over time. Worst case: you pay for the resources you want and get hundreds of others thrown in at no extra cost. Base packages are the most cost-effective way of getting the resources you want.
+When I first began with Logos, I thought base packages were something to avoid since I considered them overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but you will almost certainly overspend. 
+
+Worst case with with a Logos package: you pay for the resources you want and get hundreds of others thrown in at little or no extra cost. 
+
+Base packages are the most cost-effective way of getting the resources you want.
 
 ![](/assets/images/l10-resources.jpeg)
 
 ### Features
 
-Having your resources easily accessible in digital form is awesome. Having features, search-ability, workflows, and datasets which further utilize them is even better. I love writing sermons and being able to quickly highlight and organize my notes right inside of Logos. The ability to do searches across your entire library is unbelievable. Imagine having a research assistant who can comb through your entire library and bring you every resource relevant to a particular topic or Bible passage you are interested in learning more about in a matter of seconds. That research assistant has a name in Logos: Factbook.
+The other benefit of base packages is that you gain Logos features alongside your discounted resources.
+
+I love writing sermons and being able to quickly highlight and organize my notes right inside of Logos. 
+
+The ability to do searches across your entire library is unbelievable. Imagine having a research assistant who can comb through your entire library and bring you every resource relevant to a particular topic or Bible passage you are interested in learning more about in a matter of seconds. That research assistant feature has a name in Logos: Factbook.
 
 The [newest version of Logos](https://www.nickstapleton.me/logos-10-review-live-in-the-word/) introduces new features and improves others: sermon builder quotes, print library, and search reimagined.
 
@@ -91,7 +102,9 @@ Here are some of the features I use and value the most and what Logos package th
 * Preaching Mode ➡ Silver and up
 * Print Library Catalog ➡ Gold and up
 
-If you want to write sermons or use preaching mode in Logos, you need at least the Silver package or above. Additionally, the new Print Library Catalog feature in Logos 10 requires at least Gold. If those are not features you will use, you can rest easy knowing the best features are included in any Logos package. You can explore all Logos features [here](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/features).
+If you want to write sermons or use preaching mode in Logos, you need at least the Silver package or above. 
+
+Additionally, the new Print Library Catalog feature in Logos 10 requires at least Gold. If those are not features you will use, you can rest easy knowing the best features are included in any Logos package. You can explore all Logos features [here](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/features).
 
 ## Which Base Package Should You Buy?
 
@@ -102,7 +115,9 @@ Ultimately, there are two questions you need to answer:
 
 An important principle to keep in mind: Logos is only as useful as the resources you have inside of it. At the risk of stating the obvious, If you want access to top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
 
-When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. **You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.**
+When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. 
+
+**You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.**
 
 ### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold) | Small group and Sunday school leaders
 
@@ -194,7 +209,9 @@ Don’t forget to sign up for the [Logos Academic Discount](https://partners.fai
 
 ## Take Advantage of Sales
 
-Logos has historically offered sales throughout the year, including a back-to-school sale in August. Many of the resources I consider [must-have](https://www.nickstapleton.me/what-resources-should-i-buy-in-logos-bible-software/) are part of the base packages I listed above. Here are some others I suggest adding to your Logos wish list and grabbing them when discounted:
+Use the “Add to Wish List” button liberally on Logos.com.
+
+Logos has historically offered sales throughout the year, including a fantastic back-to-school sale in August. Many of the resources I consider [must-have](https://www.nickstapleton.me/what-resources-should-i-buy-in-logos-bible-software/) are part of the base packages I listed above. Here are some others I suggest adding to your Logos wish list and grabbing them when discounted:
 
 * [BDAG/HALOT Bundle](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
 * [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
