@@ -77,7 +77,7 @@ If you're still unsure about getting into Logos 10, let me highlight some other 
 
 * Have you ever struggled figuring out which books to pack and bring with you on a trip?
 * Have you ever sat down at a coffee shop to work on a sermon or Bible study and realize you forgot a resource at home?
-* Have you ever had to pack your library into boxes and move? 💀
+* Have you ever had to move and pack up your entire library? 💀
 
 One of my favorite features of Logos is having access to my entire library everywhere. As long as I have my iPhone, iPad, or MacBook with me, I can read and study anywhere. I never have to worry about forgetting to bring a resource with me. More than this, I can leverage my entire library no matter where I am.
 
