@@ -48,13 +48,13 @@ The most cost-effective route into Logos is with a base package. Why?💰📚 **
 
 According to Logos, base packages save you 90% compared to purchasing books and features individually.
 
-#### Resources
+### Resources
 
 Initially, I thought base packages were overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but I can nearly guarantee you will overspend over time. Worst case: you pay for the resources you want and get hundreds of others thrown in at no extra cost. Base packages are the most cost-effective way of getting the resources you want.
 
 ![](/assets/images/l10-resources.jpeg)
 
-#### Features
+### Features
 
 Having your resources easily accessible in digital form is awesome. Having features, search-ability, workflows, and datasets which further utilize them is even better. I love writing sermons and being able to quickly highlight and organize my notes right inside of Logos. The ability to do searches across your entire library is unbelievable. Imagine having a research assistant who can comb through your entire library and bring you every resource relevant to a particular topic or Bible passage you are interested in learning more about in a matter of seconds. That research assistant has a name in Logos: Factbook.
 
@@ -64,7 +64,7 @@ The [newest version of Logos](https://www.nickstapleton.me/logos-10-review-live-
 
 In an effort to help you discern what package may suit you best, I want to share what resources and features I find most valuable in Logos.
 
-#### Resources
+### Resources
 
 Here are some of the resources I use and value the most and what Logos package they are available in:
 
@@ -80,7 +80,7 @@ Here are some of the resources I use and value the most and what Logos package t
 
 In the past, Logos made many of these resources available in standard packages like Gold or Platinum. With Logos 10, it feels like things have become either siloed into academic and denominational packages or you have to pay for a higher Standard package to get them. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
 
-#### Features
+### Features
 
 Here are some of the features I use and value the most and what Logos package they are available in:
 
