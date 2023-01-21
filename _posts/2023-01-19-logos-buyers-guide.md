@@ -51,7 +51,7 @@ The most cost-effective route into Logos is with a base package. Why?
 
 According to Logos, base packages save you 90% compared to purchasing books and features individually.
 
-### Resources
+### Discounted Resources
 
 When I first began with Logos, I thought base packages were something to avoid since I considered them overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but you will almost certainly overspend.
 
@@ -101,9 +101,12 @@ Here are some of the features I use and value the most and what Logos package th
 * Preaching Mode ➡ Silver and up
 * Print Library Catalog ➡ Gold and up
 
-If you want to write sermons or use preaching mode in Logos, you need at least the Silver package or above.
+A few things to note:
+* If you want to write sermons or use preaching mode in Logos, you need at least the Silver package or above.
+* One of the most popular features released with Logos 10 is Print Library Catalog which requires at least Gold. 
+* Every feature Logos offers is available starting with the Gold package and above. If you're committed to getting at least Gold, this means you are choosing your package based on resources, not features.
 
-Additionally, the new Print Library Catalog feature in Logos 10 requires at least Gold. If those are not features you will use, you can rest easy knowing the best features are included in any Logos package. You can explore all Logos features [here](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/features).
+If you are not after specific features, you can rest easy knowing the best features are included in any Logos package. You can explore all Logos features [here](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/features).
 
 ## Which Base Package Should You Buy?
 
@@ -117,8 +120,6 @@ An important principle to keep in mind: Logos is only as useful as the resources
 When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package.
 
 **You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.**
-
-Starting with the Gold package and up, you get every feature Logos offers. This means you are choosing your package based on resources.
 
 ### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold) | Small group and Sunday school leaders
 
