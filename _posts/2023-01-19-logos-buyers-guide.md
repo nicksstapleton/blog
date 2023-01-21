@@ -61,22 +61,6 @@ Base packages are the most cost-effective way of getting the resources you want.
 
 ![](/assets/images/l10-resources.jpeg)
 
-### Features
-
-The other benefit of base packages is that you gain Logos features alongside your discounted resources.
-
-I love writing sermons and being able to quickly highlight and organize my notes right inside of Logos.
-
-The ability to do searches across your entire library is unbelievable. Imagine having a research assistant who can comb through your entire library and bring you every resource relevant to a particular topic or Bible passage you are interested in learning more about in a matter of seconds. That research assistant feature has a name in Logos: Factbook.
-
-The [newest version of Logos](https://www.nickstapleton.me/logos-10-review-live-in-the-word/) introduces new features and improves others: sermon builder quotes, print library, and search reimagined.
-
-## My Favorite Resources + Features
-
-In an effort to help you discern what package may suit you best, I want to share what resources and features I find most valuable in Logos.
-
-### Resources
-
 Here are some of the resources I use and value the most and what Logos package they are available in:
 
 * [Pillar NT Commentaries](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/210376/pillar-new-testament-commentary-pntc) ➡ Platinum or Anglican Gold
@@ -91,6 +75,8 @@ Here are some of the resources I use and value the most and what Logos package t
 In the past, Logos made many of these resources available in standard packages like Gold or Platinum. With Logos 10, it feels like things have become either siloed into academic and denominational packages or you have to pay for a higher Standard package to get them. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
 
 ### Features
+
+The other benefit of base packages is that you gain Logos features alongside your discounted resources. I love writing sermons and being able to quickly highlight and organize my notes right inside of Logos.
 
 Here are some of the features I use and value the most and what Logos package they are available in:
 
