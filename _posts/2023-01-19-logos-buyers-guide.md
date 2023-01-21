@@ -209,18 +209,16 @@ Logos runs special sales throughout the year, including a fantastic back-to-scho
 * [New International Dictionary of New Testament Theology and Exegesis](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte)
 * [Reformed Dogmatics (Herman Bavinck)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics)
 
-## Final Thoughts
+## Special Discount
 
 Buy the best package you can afford. Because Logos provides dynamic pricing, you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.
-
-### Special Discount
 
 Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos, you can get 15% off your Logos 10 library and five _free_ books as well![^1]
 
 [^1]:Disclosure: As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
+<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/logos-10-discount.jpeg"></a>
+
 If you need further assistance choosing a package, Logos assembled [a questionnaire](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
-
-<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/logos-10-discount.jpeg"></a>
