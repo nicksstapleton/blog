@@ -119,9 +119,11 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 **You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.**
 
+Starting with the Gold package and up, you get every feature Logos offers. This means you are choosing your package based on resources.
+
 ### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold) | Small group and Sunday school leaders
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10gold.jpeg){: .align-right}Starting with Gold and up, you get every feature Logos offers. Logos 10 Gold provides a comprehensive Bible study library. If you are a small group or Sunday school teacher, this package will be a fantastic entry point into Logos. Some package highlights include:
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10gold.jpeg){: .align-right}Logos 10 Gold provides a comprehensive Bible study library. If you are a small group or Sunday school teacher, this package will be a fantastic entry point into Logos. Some package highlights include:
 
 * _Wiley Blackwell Bible Commentaries (22 vols.)_
 * _The Christian Tradition: A History of the Development of Doctrine (5 vols.)_
@@ -130,7 +132,9 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ### [Logos 10 Platinum](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228269/logos-10-platinum) | Pastors and Seminarians
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or MDiv student this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources. This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. EGGNT is a tremendous series if you want help navigating the Greek NT. Some notable resources in this package include:
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or MDiv student this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources. 
+
+This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. EGGNT is a tremendous series if you want help navigating the Greek NT. Some notable resources in this package include:
 
 * _Exegetical Guide to the Greek New Testament (12 vols.)_
 * _Pillar New Testament Commentary (15 vols.)_
