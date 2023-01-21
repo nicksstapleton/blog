@@ -199,9 +199,9 @@ Don’t forget to sign up for the [Logos Academic Discount](https://partners.fai
 
 ## Take Advantage of Sales
 
-I use the “Add to Wish List” button liberally on the Logos website to add resources I am interested in to my wish list. Logos will email you and let you know whenever they have a special discount on any of those resources.
+I use the “Add to Wish List” button liberally on the Logos website to add resources to my wish list. Logos will email you and let you know whenever they have a special discount on any of those resources.
 
-Logos run special sales throughout the year, including a fantastic back-to-school sale in August. Many of the resources I consider [must-have](https://www.nickstapleton.me/what-resources-should-i-buy-in-logos-bible-software/) are part of the base packages I listed above. Here are some others I suggest adding to your Logos wish list and grabbing them when discounted:
+Logos runs special sales throughout the year, including a fantastic back-to-school sale in August. Many of the resources I consider [must-have](https://www.nickstapleton.me/what-resources-should-i-buy-in-logos-bible-software/) are part of the base packages I listed above. Here are some others I suggest adding to your Logos wish list and grabbing them when discounted:
 
 * [BDAG/HALOT Bundle](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
 * [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
@@ -211,13 +211,15 @@ Logos run special sales throughout the year, including a fantastic back-to-schoo
 
 ## Final Thoughts
 
-Buy the best package you can afford. Because of dynamic pricing, you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.
+Buy the best package you can afford. Because Logos provides dynamic pricing, you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.
 
-If you want further assistance choosing a package, Logos assembled [a questionnaire](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
+### Special Discount
 
 Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos, you can get 15% off your Logos 10 library and five _free_ books as well![^1]
 
 [^1]:Disclosure: As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
+
+If you need further assistance choosing a package, Logos assembled [a questionnaire](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
