@@ -36,9 +36,9 @@ What are the best Logos resources to buy? Which are must-haves? Here are some su
 * [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery)
 * [Dictionary for Theological Interpretation of the Bible](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5322/dictionary-for-theological-interpretation-of-the-bible)
 
-### Commentaries\[^1\]
+### Commentaries[^1]
 
-\[^1\]: You’ll notice I did not include any commentary series. While there are certainly stand out series, I prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries and theologies, which I have listed, are valuable for a providing an overview of a passage.
+[^1]: You’ll notice I did not include any commentary series. While there are certainly stand out series, I prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries and theologies, which I have listed, are valuable for a providing an overview of a passage.
 
 * [New Bible Commentary (NBC)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/753/the-new-bible-commentary)
 * [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
