@@ -46,16 +46,16 @@ This buyer’s guide provides buying principles and package recommendations so y
 
 The most cost-effective route into Logos is with a base package. Why?
 
-* 💰📚 **Discounted Resources** 
+* 💰📚 **Discounted Resources**
 * **✨ Features**
 
 According to Logos, base packages save you 90% compared to purchasing books and features individually.
 
 ### Resources
 
-When I first began with Logos, I thought base packages were something to avoid since I considered them overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but you will almost certainly overspend. 
+When I first began with Logos, I thought base packages were something to avoid since I considered them overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but you will almost certainly overspend.
 
-Worst case with with a Logos package: you pay for the resources you want and get hundreds of others thrown in at little or no extra cost. 
+Worst case with with a Logos package: you pay for the resources you want and get hundreds of others thrown in at little or no extra cost.
 
 Base packages are the most cost-effective way of getting the resources you want.
 
@@ -65,7 +65,7 @@ Base packages are the most cost-effective way of getting the resources you want.
 
 The other benefit of base packages is that you gain Logos features alongside your discounted resources.
 
-I love writing sermons and being able to quickly highlight and organize my notes right inside of Logos. 
+I love writing sermons and being able to quickly highlight and organize my notes right inside of Logos.
 
 The ability to do searches across your entire library is unbelievable. Imagine having a research assistant who can comb through your entire library and bring you every resource relevant to a particular topic or Bible passage you are interested in learning more about in a matter of seconds. That research assistant feature has a name in Logos: Factbook.
 
@@ -102,7 +102,7 @@ Here are some of the features I use and value the most and what Logos package th
 * Preaching Mode ➡ Silver and up
 * Print Library Catalog ➡ Gold and up
 
-If you want to write sermons or use preaching mode in Logos, you need at least the Silver package or above. 
+If you want to write sermons or use preaching mode in Logos, you need at least the Silver package or above.
 
 Additionally, the new Print Library Catalog feature in Logos 10 requires at least Gold. If those are not features you will use, you can rest easy knowing the best features are included in any Logos package. You can explore all Logos features [here](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/features).
 
@@ -115,7 +115,7 @@ Ultimately, there are two questions you need to answer:
 
 An important principle to keep in mind: Logos is only as useful as the resources you have inside of it. At the risk of stating the obvious, If you want access to top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
 
-When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package. 
+When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package.
 
 **You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.**
 
@@ -123,28 +123,28 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10gold.jpeg){: .align-right}Starting with Gold and up, you get every feature Logos offers. Logos 10 Gold provides a comprehensive Bible study library. If you are a small group or Sunday school teacher, this package will be a fantastic entry point into Logos. Some package highlights include:
 
-* Wiley Blackwell Bible Commentaries (22 vols.)
-* The Christian Tradition: A History of the Development of Doctrine (5 vols.)
-* Discovering the New Testament (3 vols.)
-* Osborne New Testament Commentaries (12 vols.)
+* _Wiley Blackwell Bible Commentaries (22 vols.)_
+* _The Christian Tradition: A History of the Development of Doctrine (5 vols.)_
+* _Discovering the New Testament (3 vols.)_
+* _Osborne New Testament Commentaries (12 vols.)_
 
 ### [Logos 10 Platinum](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228269/logos-10-platinum) | Pastors and Seminarians
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or MDiv student this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources. This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. EGGNT is a tremendous series if you want help navigating the Greek NT. Some notable resources in this package include:
 
-* Exegetical Guide to the Greek New Testament (12 vols.)
-* Pillar New Testament Commentary (15 vols.)
-* The New American Commentary Series (43 vols.)
-* Ancient Christian Commentary on Scripture Complete Set, Updated Edition (29 vols.)
+* _Exegetical Guide to the Greek New Testament (12 vols.)_
+* _Pillar New Testament Commentary (15 vols.)_
+* _The New American Commentary Series (43 vols.)_
+* _Ancient Christian Commentary on Scripture Complete Set, Updated Edition (29 vols.)_
 
 ### [Logos 10 Diamond](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond) | More Advanced Study
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10diamond.jpeg){: .align-right} This package is premium yet offers tremendous value. It builds on top of L10 Platinum by expanding your original language resources. The IVP Dictionaries are legendary. The NIGNT series is among the best Greek technical commentaries available. The NSBT series has some landmark volumes in Biblical theology. Package highlights include:
 
-* IVP Bible Dictionary Series (8 Vols.)
-* Bible Speaks Today: Commentaries and Themes (76 vols.)
-* New Studies in Biblical Theology Series Collection (53 vols.)
-* The New International Greek Testament Commentary Series (13 vols.)
+* _IVP Bible Dictionary Series (8 Vols.)_
+* _Bible Speaks Today: Commentaries and Themes (76 vols.)_
+* _New Studies in Biblical Theology Series Collection (53 vols.)_
+* _The New International Greek Testament Commentary Series (13 vols.)_
 
 ## Academic and Denominational Packages
 
@@ -154,39 +154,39 @@ Depending on the resources you need, I also think these are worth considering:
 
 This package has the essential original language resources MDiv students need (NA28 and BHS). It also includes:
 
-* The IVP Bible Background Commentary (2 vols.)
-* The New Bible Commentary (NBC)
+* _The IVP Bible Background Commentary (2 vols.)_
+* _The New Bible Commentary (NBC)_
 
 ### [Academic Professional](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228339/logos-10-academic-professional)
 
 In addition the resources in Academic Essentials, this package notably includes:
 
-* BDAG: A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
-* Theological Dictionary of the Old Testament and New Testament Collection (27 vols.)
-* Exegetical Guide to the Greek New Testament (13 vols.)
-* International Critical Commentary (65 vols.)
+* _BDAG: A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed._
+* _Theological Dictionary of the Old Testament and New Testament Collection (27 vols.)_
+* _Exegetical Guide to the Greek New Testament (13 vols.)_
+* _International Critical Commentary (65 vols.)_
 
 ### [Logos 10 Anglican Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228279/logos-10-anglican-gold)
 
 If you're after great commentaries, this package might be a great fit:
 
-* Pillar NT commentaries
-* Bible Speaks Today commentaries
-* Ancient Christian Commentary on Scripture (29 vols.)
-* New Bible Dictionary, 3rd ed.
-* New Dictionary of Theology: Historical and Systematic, 2nd ed.
+* _Pillar NT commentaries_
+* _Bible Speaks Today commentaries_
+* _Ancient Christian Commentary on Scripture (29 vols.)_
+* _New Bible Dictionary, 3rd ed._
+* _New Dictionary of Theology: Historical and Systematic, 2nd ed._
 
 ### [Logos 10 Reformed Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228327/logos-10-reformed-gold)
 
 This package has some of my favorite dictionaries, commentaries, and theology books.
 
-* New Dictionary of Biblical Theology (NDBT)
-* IVP Pocket Reference Series
-* Dictionary of Biblical Imagery
-* Calvin's Commentaries
-* Reformation Commentary on Scripture Collection (20 vols.)
-* Contours of Christian Theology (9 vols.)
-* The New Bible Dictionary, 3rd ed.
+* _New Dictionary of Biblical Theology (NDBT)_
+* _IVP Pocket Reference Series_
+* _Dictionary of Biblical Imagery_
+* _Calvin's Commentaries_
+* _Reformation Commentary on Scripture Collection (20 vols.)_
+* _Contours of Christian Theology (9 vols.)_
+* _The New Bible Dictionary, 3rd ed._
 
 ## A Word to Seminary Students
 
