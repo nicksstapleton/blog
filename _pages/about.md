@@ -3,7 +3,7 @@ permalink: "/about/"
 author_profile: false
 
 ---
-![image-left](/assets/images/nick.jpeg){: .align-left}
+![image-left](/assets/images/nickmd.jpeg){: .align-left}
 
 # 👋 Hi, I'm Nick.
 
