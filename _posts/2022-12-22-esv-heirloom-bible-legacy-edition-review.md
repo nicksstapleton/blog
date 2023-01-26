@@ -39,6 +39,6 @@ I’m a big fan of the size of this Bible and the layout of the text. The font i
 
 If you are looking for a Bible that is both functional, easy to read, and beautiful, the ESV Heirloom Bible, Legacy Edition might be the one. I am excited to continue using my copy and see how it ages over time. It is something I plan to pass onto one of my kids someday.
 
-Thank you to Crossway for giving me the opportunity to review this wonderful Bible! If you're interested, order a copy for yourself [here](https://www.crossway.org/bibles/esv-heirloom-bible-legacy-edition-hrwnlthr/)[^1]. There is also a recently released [thinline version](https://www.crossway.org/bibles/esv-heirloom-bible-thinline-edition-hrwnlthr/).
+Thank you to Crossway for giving me the opportunity to review this wonderful Bible! If you're interested, order a copy for yourself [here](https://www.crossway.org/bibles/esv-heirloom-bible-legacy-edition-hrwnlthr/).[^1] There is also a recently released [thinline version](https://www.crossway.org/bibles/esv-heirloom-bible-thinline-edition-hrwnlthr/).
 
-[^1]: It appears this version may be out of print.
+[^1]: It appears this version may now be out of print.
