@@ -5,7 +5,7 @@ author_profile: false
 
 ---
 ## 👋 Hi, I'm Nick.
-![image-right](/assets/images/nick.png){: .align-right}
+![image-right](/assets/images/nick.jpeg =375x459){: .align-right}
 
 I live with my wife and two sons in Colorado Springs, making disciples on college campuses and in the local church to train and equip them to walk with the Lord for a lifetime.
 
