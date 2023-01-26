@@ -5,7 +5,7 @@ author_profile: false
 
 ---
 **👋 Hi, I'm Nick.**
-<img src="https://github.com/nicksstapleton/blog/blob/master/assets/images/nick.jpeg" width=375px height=459px>{: .align-right}
+<img src="https://github.com/nicksstapleton/blog/blob/master/assets/images/nick.jpeg?raw=true" width=375px height=459px>{: .align-right}
 
 I live with my wife and two sons in Colorado Springs, making disciples on college campuses and in the local church to train and equip them to walk with the Lord for a lifetime.
 
