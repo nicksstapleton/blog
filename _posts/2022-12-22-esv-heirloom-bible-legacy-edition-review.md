@@ -6,12 +6,7 @@ tags:
 - Bible
 header:
   teaser: "/assets/images/img_0295-large.jpeg"
-  image: ''
-categories: []
-toc: false
-toc_label: ''
-toc_icon: ''
-
+  
 ---
 ![](/assets/images/img_0295-large.jpeg)
 
