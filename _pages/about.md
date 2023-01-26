@@ -1,9 +1,11 @@
 ---
+title: About Me
 permalink: "/about/"
 author_profile: false
 
 ---
-# 👋 Hi, I'm Nick. ![image-right](/assets/images/nick.png){: .align-right}
+## 👋 Hi, I'm Nick.
+![image-right](/assets/images/nick.png){: .align-right}
 
 I live with my wife and two sons in Colorado Springs, making disciples on college campuses and in the local church to train and equip them to walk with the Lord for a lifetime.
 
