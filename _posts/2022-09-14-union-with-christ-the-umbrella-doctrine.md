@@ -35,6 +35,5 @@ Dane Ortlund in his book, _Deeper_, identifies 11 realities of our union with Ch
 >
 > • Illumination—the _light_ metaphor (John 12:35–36; 2 Cor. 4:4–6) (no longer blind)
 >
-> • Resurrection—the _bodily_ metaphor (Eph. 2:6; Col. 3:1) (no longer dead)
->
-> Dane C. Ortlund, _Deeper: Real Change for Real Sinners_, ed. Michael Reeves, Union (Wheaton, IL: Crossway, 2021), 62–63.
+> • Resurrection—the _bodily_ metaphor (Eph. 2:6; Col. 3:1) (no longer dead)[^1]
+[^1]: Dane C. Ortlund, *Deeper: Real Change for Real Sinners, ed.* Michael Reeves, Union (Wheaton, IL: Crossway, 2021), 62–63.
