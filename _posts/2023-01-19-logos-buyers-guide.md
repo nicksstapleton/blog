@@ -215,9 +215,9 @@ Buy the best package you can afford. Because Logos provides dynamic pricing, you
 
 ![](/assets/images/l10-cost-and-affordability-start-small-illu-2-2x.png)
 
-**Use** [**this link**](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) **for a 30% discount to upgrade to Logos 10. If you're new to Logos, you can get 15% off your Logos 10 library and five _free_ books as well!\[^1\]**
+**Use** [**this link**](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) **for a 30% discount to upgrade to Logos 10. If you're new to Logos, you can get 15% off your Logos 10 library and five _free_ books as well![^1]**
 
-\[^1\]:Disclosure: As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
+[^1]:Disclosure: As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
 
 <a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/logos-10-discount.jpeg"></a>
 
