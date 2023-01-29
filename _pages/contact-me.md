@@ -8,7 +8,7 @@ header:
 permalink: "/contact/"
 
 ---
-👋 Hi! You can shoot me a message at @nickstapleton on just about every social network, or send me an email using this form.
+👋 Hi! You can shoot me a message at @nickstapleton on Twitter, or send me an email using this form.
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xgeroznr" method="post">
   <fieldset id="fs-frm-inputs">
