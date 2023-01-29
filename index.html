@@ -23,4 +23,10 @@ feature_row_left3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-{% include feature_row %}
+<h3>Featured Posts</h3>
+<hr>
+{% include feature_row id="feature_row_left" type="left" %}
+
+{% include feature_row id="feature_row_left2" type="left" %}
+
+{% include feature_row id="feature_row_left3" type="left" %}
