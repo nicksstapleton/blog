@@ -226,4 +226,4 @@ If you need further assistance choosing a package, Logos assembled [a questionna
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
 <script src="https://nickstapleton.ck.page/commerce.js" async defer></script>
-<a class="convertkit-button" href="https://nickstapleton.ck.page/products/tip" data-commerce>Buy me a coffee</a>
+<a class="convertkit-button" href="https://nickstapleton.ck.page/products/tip" data-commerce>Buy me a coffee</a>{: .text-center}
