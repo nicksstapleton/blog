@@ -39,7 +39,7 @@ author:
     url: "https://twitter.com/nickstapleton"
   - label: "Buy Me a Coffee"
     icon: "fas fa-mug-hot"
-    url: "https://nickstapleton.ck.page/products/tip"<script src="https://nickstapleton.ck.page/commerce.js" async defer></script>
+    url: <script src="https://nickstapleton.ck.page/commerce.js" async defer></script>"https://nickstapleton.ck.page/products/tip"
 collections:
   portfolio:
     output: true
