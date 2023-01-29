@@ -9,3 +9,5 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
+  - title: "Tip Jar"
+    url: /tip/
