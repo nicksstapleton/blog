@@ -40,8 +40,6 @@ feature_row_left3:
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
   {% endfor %}
 
 {% include paginator.html %}
