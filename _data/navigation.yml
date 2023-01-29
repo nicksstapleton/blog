@@ -1,8 +1,6 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Logos"
-    url: /logos/
   - title: "Tags"
     url: /tags/
   - title: "About"
@@ -10,4 +8,4 @@ main:
   - title: "Contact"
     url: /contact/
   - title: "Tip Jar"
-    url: /tip/
+    url: "https://nickstapleton.ck.page/products/tip"
