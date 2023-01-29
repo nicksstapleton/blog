@@ -39,6 +39,7 @@ author:
     url: "https://twitter.com/nickstapleton"
   - label: "Buy Me a Coffee"
     icon: "fas fa-mug-hot"
+    color: "#833AB4"
     url: "https://nickstapleton.ck.page/products/tip"
 collections:
   portfolio:
@@ -49,9 +50,9 @@ footer:
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/nickstapleton"
-  - label: "Instagram"
-    icon: "fab fa-fw fa-instagram"
-    url: "https://instagram.com/nickstapleton"
+  - label: "Buy Me a Coffee"
+    icon: "fas fa-mug-hot"
+    url: "https://nickstapleton.ck.page/products/tip"
 defaults:
 - scope:
     path: ''
