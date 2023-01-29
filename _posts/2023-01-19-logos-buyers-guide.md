@@ -224,3 +224,6 @@ Buy the best package you can afford. Because Logos provides dynamic pricing, you
 If you need further assistance choosing a package, Logos assembled [a questionnaire](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
+
+<script src="https://nickstapleton.ck.page/commerce.js" async defer></script>
+<a class="convertkit-button" href="https://nickstapleton.ck.page/products/tip" data-commerce>Buy me a coffee</a>
