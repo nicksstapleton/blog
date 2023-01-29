@@ -40,10 +40,6 @@ author:
   - label: "Buy Me a Coffee"
     icon: "fas fa-mug-hot"
     url: "https://nickstapleton.ck.page/products/tip"
-  - label: "Instagram"
-    icon: "fab fa-fw fa-instagram"
-    color: "#833AB4"
-    url: "https://instagram.com/nickstapleton"
 collections:
   portfolio:
     output: true
