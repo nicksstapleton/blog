@@ -9,3 +9,5 @@ main:
     url: /contact/
   - title: "Tip Jar"
     url: "https://nickstapleton.ck.page/products/tip"
+<script src="https://nickstapleton.ck.page/commerce.js" async defer></script>
+<a class="convertkit-button" href="https://nickstapleton.ck.page/products/tip" data-commerce>Buy me a coffee</a>
