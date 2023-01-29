@@ -1,5 +1,4 @@
 ---
-title: 👋 Hi, I'm Nick.
 permalink: "/tip/"
 author_profile: false
 
