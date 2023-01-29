@@ -42,7 +42,7 @@ author:
     color: "#833AB4"
     url: "https://instagram.com/nickstapleton"
   - label: "Buy Me a Coffee"
-    icon: "fab fa-solid fa-mug-hot"
+    icon: "fas fa-mug-hot"
     url: "https://nickstapleton.ck.page/products/tip"
 collections:
   portfolio:
