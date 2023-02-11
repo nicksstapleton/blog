@@ -1,6 +1,6 @@
 ---
 title: Jen Wilkin, Dissonance, and Bible Literacy
-excerpt: ''
+excerpt: Can you pass Jen's Bible Quiz?
 tags:
 - Bible Literacy
 - Jen Wilkin
