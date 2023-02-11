@@ -26,7 +26,7 @@ I had the privilege of meeting and seeing Jen live out her ministry on a normal 
 Among the many things I appreciate about Jen has been her clarion call for the church to equip and train Christ-followers towards Bible literacy.
 
 > “Our highest stated value for many of us in our churches has been community—trying to address this epidemic of loneliness that we see in our society. Many churches have said, ‘Our number-one stated goal is for you to live life with one another.’ But where we can end up with that is with a pendulum swing that renders our churches well-connected communities of biblically and doctrinally illiterate believers.”[^2]  
-> — Jen Wilkin[^2]: https://www.youtube.com/watch?v=zipmNe1redA
+> — Jen Wilkin
 
 One of the most valuable lessons I have learned from Jen in studying and teaching the Bible is the importance of dissonance. This is something many of us seek to quickly eliminate or avoid altogether. Yet, without it, we cannot expect others or ourselves to learn well.
 
@@ -60,3 +60,4 @@ When I think about my ability to answer arcane trivia questions about _The Offic
 Jen's ministry continues to shape and inspire my own. I am glad I met one my heroes.
 
 [^1]: I intentionally called her "Jan Watkins" to demonstrate my familiarity with her podcast where she has discussed that people have incorrectly called her this in the past. 😆
+[^2]: https://www.youtube.com/watch?v=zipmNe1redA
