@@ -6,7 +6,6 @@ tags:
 - Jen Wilkin
 categories: []
 header:
-  image: ''
   teaser: "/assets/images/jen.jpeg"
 toc: false
 toc_label: ''
