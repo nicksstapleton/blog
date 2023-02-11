@@ -17,7 +17,7 @@ There's a saying, "Never meet your heroes."
 
 I recently met one of my living heroes during a brief visit to Dallas. Her name is Jen Wilkin. Her voice has been in my ears nearly every week over the last two years via her podcast, [Knowing Faith](https://www.trainingthechurch.com/knowingfaith), along with her co-hosts, Kyle Worley and JT English.
 
-I had the privilege of meeting and seeing Jen live out her ministry on a normal week in her church[^1]. On a rainy Tuesday night, I sheepishly walked into the room where Jen was teaching the Bible to a room of women. Two things stood out me: 
+I had the privilege of meeting and seeing Jen live out her ministry on a normal week in her church.[^1] On a rainy Tuesday night, I sheepishly walked into the room where Jen was teaching the Bible to a room of women. Two things stood out me: 
 
 1. She is an incredible teacher.
 2. Like the rest of us, she is trying to faithfully serve the Lord and her church. It was unremarkable in the best way.
