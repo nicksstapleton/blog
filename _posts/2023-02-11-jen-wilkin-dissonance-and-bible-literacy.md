@@ -16,7 +16,7 @@ There's a saying, "Never meet your heroes."
 
 I recently met one of my living heroes during a brief visit to Dallas. Her name is Jen Wilkin. Her voice has been in my ears nearly every week over the last two years via her podcast, [Knowing Faith](https://www.trainingthechurch.com/knowingfaith), along with her co-hosts, Kyle Worley and JT English.
 
-I had the privilege of meeting and seeing Jen live out her ministry on a normal week in her church.\[^1\] On a rainy Tuesday night, I sheepishly walked into a room of women where Jen was teaching the Bible. Two things stood out me:
+I had the privilege of meeting and seeing Jen live out her ministry on a normal week in her church.[^1] On a rainy Tuesday night, I sheepishly walked into a room of women where Jen was teaching the Bible. Two things stood out me:
 
 1. She is an incredible teacher.
 2. Like the rest of us, she is trying to faithfully serve the Lord and her church. It was unremarkable in the best way.
@@ -25,7 +25,7 @@ I had the privilege of meeting and seeing Jen live out her ministry on a normal 
 
 Among the many things I appreciate about Jen has been her clarion call for the church to equip and train Christ-followers towards Bible literacy.
 
-> “Our highest stated value for many of us in our churches has been community—trying to address this epidemic of loneliness that we see in our society. Many churches have said, ‘Our number-one stated goal is for you to live life with one another.’ But where we can end up with that is with a pendulum swing that renders our churches well-connected communities of biblically and doctrinally illiterate believers.”\[^2\]  
+> “Our highest stated value for many of us in our churches has been community—trying to address this epidemic of loneliness that we see in our society. Many churches have said, ‘Our number-one stated goal is for you to live life with one another.’ But where we can end up with that is with a pendulum swing that renders our churches well-connected communities of biblically and doctrinally illiterate believers.”[^2]  
 > — Jen Wilkin
 
 One of the most valuable lessons I have learned from Jen in studying and teaching the Bible is the importance of dissonance. This is something many of us seek to quickly eliminate or avoid altogether. Yet, without it, we cannot expect others or ourselves to learn well.
@@ -59,5 +59,5 @@ When I think about my ability to answer arcane trivia questions about _The Offic
 
 Jen's ministry continues to shape and inspire my own. I am glad I met one my heroes.
 
-\[^1\]: I intentionally called her "Jan Watkins" to demonstrate my familiarity with her podcast where she has discussed that people have incorrectly called her this in the past. 😆
-\[^2\]: https://www.youtube.com/watch?v=zipmNe1redA
+[^1]: I intentionally called her "Jan Watkins" to demonstrate my familiarity with her podcast where she has discussed that people have incorrectly called her this in the past. 😆
+[^2]: https://www.youtube.com/watch?v=zipmNe1redA
