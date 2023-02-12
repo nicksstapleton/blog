@@ -60,4 +60,4 @@ When I think about my ability to answer arcane trivia questions about _The Offic
 Jen's ministry continues to shape and inspire my own. I am glad I met one my heroes.
 
 [^1]: I intentionally called her "Jan Watkins" to demonstrate my familiarity with her podcast where she has discussed that people have incorrectly called her this in the past. 😆
-[^2]: https://www.youtube.com/watch?v=zipmNe1redA
+[^2]: [YouTube Video:](Not Your Grandma's Sunday School Class)
