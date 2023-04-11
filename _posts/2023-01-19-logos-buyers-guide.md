@@ -201,7 +201,7 @@ Don’t forget to sign up for the [Logos Academic Discount](https://partners.fai
 
 I use the “Add to Wish List” button liberally on the Logos website to add resources to my wish list. Logos will email you and let you know whenever they have a special discount on any of those resources.
 
-Logos runs special sales throughout the year, including a fantastic back-to-school sale in August. Many of the resources I consider [must-have](https://www.nickstapleton.me/what-resources-should-i-buy-in-logos-bible-software/) are part of the base packages I listed above. Here are some others I suggest adding to your Logos wish list and grabbing them when discounted:
+Logos runs special sales throughout the year, including a fantastic back-to-school sale in August and a top commentaries sale in September. Many of the resources I consider [must-have](https://www.nickstapleton.me/what-resources-should-i-buy-in-logos-bible-software/) are part of the base packages I listed above. Here are some others I suggest adding to your Logos wish list and grabbing them when discounted:
 
 * [BDAG/HALOT Bundle](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
 * [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
@@ -215,9 +215,9 @@ Buy the best package you can afford. Because Logos provides dynamic pricing, you
 
 ![](/assets/images/l10-cost-and-affordability-start-small-illu-2-2x.png)
 
-**Use** [**this link**](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) **for a 30% discount to upgrade to Logos 10. If you're new to Logos, you can get 15% off your Logos 10 library and five _free_ books as well![^1]**
+**Use** [**this link**](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) **for a 30% discount to upgrade to Logos 10. If you're new to Logos, you get an exclusive discount on your Logos 10 library and five _free_ books as well![^1]**
 
-[^1]:Disclosure: As an affiliate, I get a small kickback for any base package purchases using my affiliate link. I am grateful for your support and genuinely excited for you to get into Logos!
+[^1]:Disclosure: As a Logos partner, I get a small kickback for any base package purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out. I am grateful for your support and genuinely excited for you to get into Logos!
 
 <a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/logos-10-discount.jpeg"></a>
 
