@@ -74,6 +74,8 @@ Here are some of the resources I use and value the most and what Logos package t
 
 In the past, Logos made many of these resources available in standard packages like Gold or Platinum. With Logos 10, it feels like things have become either siloed into academic and denominational packages or you have to pay for a higher Standard package to get them. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
 
+<script async data-uid="3dff569c46" src="https://nickstapleton.ck.page/3dff569c46/index.js"></script>
+
 ### Features
 
 The other benefit of base packages is that you gain Logos features alongside your discounted resources. I love writing sermons and being able to quickly highlight and organize my notes right inside of Logos.
@@ -224,5 +226,3 @@ Buy the best package you can afford. Because Logos provides dynamic pricing, you
 If you need further assistance choosing a package, Logos assembled [a questionnaire](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
-
-<script async data-uid="3dff569c46" src="https://nickstapleton.ck.page/3dff569c46/index.js"></script>
