@@ -74,7 +74,7 @@ Here are some of the resources I use and value the most and what Logos package t
 
 In the past, Logos made many of these resources available in standard packages like Gold or Platinum. With Logos 10, it feels like things have become either siloed into academic and denominational packages or you have to pay for a higher Standard package to get them. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
 
-<script async data-uid="3dff569c46" src="https://nickstapleton.ck.page/3dff569c46/index.js"></script>
+<script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
 
 ### Features
 
