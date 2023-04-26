@@ -36,6 +36,8 @@ What are the best Logos resources to buy? Which are must-haves? Here are some su
 * [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery)
 * [Dictionary for Theological Interpretation of the Bible](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5322/dictionary-for-theological-interpretation-of-the-bible)
 
+<script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
+
 ### Commentaries[^1]
 
 [^1]: You’ll notice I did not include any commentary series. While there are certainly stand out series, I prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries and theologies, which I have listed, are valuable for a providing an overview of a passage.
