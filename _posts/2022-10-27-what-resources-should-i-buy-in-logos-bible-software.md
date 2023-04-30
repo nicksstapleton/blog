@@ -24,7 +24,7 @@ There are six categories you should think through and prioritize:
 
 What are the best Logos resources to buy? Which are must-haves? Here are some suggested resources to get in your library[^1]:
 
-[^1]: Disclosure: As a Logos partner, I get a small kickback for any base package purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out.
+[^1]: Disclosure: As a Logos partner, I get a small kickback for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out.
 
 ### ![image-right](/assets/images/zondervan-illustrated-bible-dictionary.jpg){: .align-right}Bible Dictionaries
 
