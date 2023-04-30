@@ -22,7 +22,9 @@ There are six categories you should think through and prioritize:
 * Greek / Hebrew Texts
 * Greek / Hebrew Lexicons
 
-What are the best Logos resources to buy? Which are must-haves? Here are some suggested resources to get in your library:
+What are the best Logos resources to buy? Which are must-haves? Here are some suggested resources to get in your library[^1]:
+
+[^1]: Disclosure: As a Logos partner, I get a small kickback for any base package purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out.
 
 ### ![image-right](/assets/images/zondervan-illustrated-bible-dictionary.jpg){: .align-right}Bible Dictionaries
 
@@ -38,9 +40,9 @@ What are the best Logos resources to buy? Which are must-haves? Here are some su
 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
 
-### Commentaries[^1]
+### Commentaries[^2]
 
-[^1]: You’ll notice I did not include any commentary series. While there are certainly stand out series, I prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries and theologies, which I have listed, are valuable for a providing an overview of a passage.
+[^2]: You’ll notice I did not include any commentary series. While there are certainly stand out series, I prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries and theologies, which I have listed, are valuable for a providing an overview of a passage.
 
 * [New Bible Commentary (NBC)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/753/the-new-bible-commentary)
 * [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
