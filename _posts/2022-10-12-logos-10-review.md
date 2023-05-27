@@ -69,8 +69,6 @@ Logos 10 brought some of the best features of the desktop app to iOS and iPadOS,
 
 It fast. I first noticed the speed when opening and closing Logos. Everything is snappy. Gone are the days of spinning beachballs. Indexing is also faster. I suspect it will also translate to the app being more efficient in its use of energy and processing power.
 
-<script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
-
 ## Reasons I Love Using Logos
 
 If you're still unsure about getting into Logos 10, let me highlight some other benefits of using Logos:
@@ -123,6 +121,8 @@ Logos 10 seeks to help users _live in the Word._ It is helping me do just that. 
 
 Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well!
 
+<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/logos-10-discount.jpeg"></a>
+
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
-<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/logos-10-discount.jpeg"></a>
+<script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
