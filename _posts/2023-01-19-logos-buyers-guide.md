@@ -55,7 +55,7 @@ According to Logos, base packages save you 90% compared to purchasing books and 
 
 When I first began with Logos, I thought base packages were something to avoid since I considered them overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but you will almost certainly overspend.
 
-Worst case with with a Logos package: you pay for the resources you want and get hundreds of others thrown in at little or no extra cost.
+Worst-case scenario with a Logos package: you pay for the resources you want and get hundreds of others thrown in at little or no extra cost.
 
 Base packages are the most cost-effective way of getting the resources you want.
 
@@ -72,7 +72,7 @@ Here are some of the resources I use and value the most and what Logos package t
 * [BDAG](https://www.logos.com/product/3878/a-greek-english-lexicon-of-the-new-testament-and-other-early-christian-literature-3rd-ed) ➡ Diamond or Academic Professional
 * [Exegetical Guide to the Greek New Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/232317/exegetical-guide-to-the-greek-new-testament-eggnt) ➡ Diamond or Academic Professional
 
-In the past, Logos made many of these resources available in standard packages like Gold or Platinum. With Logos 10, it feels like things have become either siloed into academic and denominational packages or you have to pay for a higher Standard package to get them. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
+In the past, Logos made many of these resources available in standard packages like Gold or Platinum. With Logos 10, these resources have become siloed into academic and denominational packages or you have to pay for a higher Standard package to get them. Depending on your needs, you may want to consider grabbing an academic or denominational package to get the resources you want. More on that below.
 
 ### Features
 
@@ -101,7 +101,7 @@ Ultimately, there are two questions you need to answer:
 1. What resources and features do you want?
 2. What is your budget?
 
-An important principle to keep in mind: Logos is only as useful as the resources you have inside of it. At the risk of stating the obvious, If you want access to top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
+An important principle to keep in mind: Logos is only as useful as the resources you have inside of it. If you want to access the top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
 
 When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package.
 
