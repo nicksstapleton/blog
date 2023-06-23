@@ -1,11 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "✍️ Posts"
     url: /posts/
-  - title: "Tags"
+  - title: "🔖 Tags"
     url: /tags/
-  - title: "About"
+  - title: "👨 About"
     url: /about/
-  - title: "Newsletter"
+  - title: "📰 Newsletter"
     url: "https://nickstapleton.ck.page"
-  - title: "Tip Jar"
+  - title: "🫙 Tip Jar"
     url: "https://nickstapleton.ck.page/products/tip"
