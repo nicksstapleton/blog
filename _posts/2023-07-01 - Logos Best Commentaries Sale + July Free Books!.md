@@ -7,7 +7,7 @@ tags:
 header:
   teaser: "/assets/images/2023-Logos Promo-Best Commentaries Sale 2023-Email-2_600x250.png"
 ---
-![](/assets/images/2023-Logos Promo-Best Commentaries Sale 2023-Email-2_600x250.png)
+![](/assets/images/bc2023.png)
 
 One of my favorite Logos sales of the year is here! [Get up to 50% off the best commentaries for every book of the Bible](https://partners.faithlife.com/click.track?CID=440235&AFID=467957)!
 
