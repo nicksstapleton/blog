@@ -5,7 +5,7 @@ date: 2023-07-01T12:00:00.000-06:00
 tags:
 - Logos
 header:
-  teaser: "/assets/images/2023-Logos Promo-Best Commentaries Sale 2023-Email-2_600x250.png"
+  teaser: "/assets/images/bc2023.png"
 ---
 ![](/assets/images/bc2023.png)
 
