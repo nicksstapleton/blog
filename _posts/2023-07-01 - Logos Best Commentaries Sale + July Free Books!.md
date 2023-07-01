@@ -1,5 +1,5 @@
 ---
-title: 📚 Logos Best Commentaries Sale + July Free Books!
+title: Logos Best Commentaries Sale + July Free Books!
 excerpt: One of the best Logos sales of the year!
 date: 2023-07-01T12:00:00.000-06:00
 tags:
