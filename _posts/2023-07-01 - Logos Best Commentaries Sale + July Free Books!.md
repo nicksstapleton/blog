@@ -1,4 +1,3 @@
-
 ---
 title: 📚 Logos Best Commentaries Sale + July Free Books!
 excerpt: One of the best Logos sales of the year!
