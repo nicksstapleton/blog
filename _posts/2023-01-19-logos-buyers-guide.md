@@ -38,7 +38,7 @@ My journey with Logos began with several questions such as:
 * _Which resources are a must-have?_
 * _What is the most cost-effective way to get into Logos?_
 
-I write from the perspective of having been in vocational ministry for over 10 years and as an MDiv student. My input is best suited for pastors, seminary students, or other vocational ministers. This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, [read my Logos 10 review](https://www.nickstapleton.me/logos-10-review-live-in-the-word/).
+I write from the perspective of having been in vocational ministry for over 10 years and as an MDiv student. My input is best suited for pastors, seminary students, or other vocational ministers. This post is written for those who have already decided they want to get into Logos. If you’re still on the fence, [read my Logos 10 review](https://www.nickstapleton.me/logos-10-review/).
 
 This buyer’s guide provides buying principles and package recommendations so you can decide which route into Logos is best for your purposes and needs.
 
