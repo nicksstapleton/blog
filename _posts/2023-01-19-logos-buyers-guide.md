@@ -149,7 +149,7 @@ This package has the essential original language resources MDiv students need (N
 
 ### [Academic Professional](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228339/logos-10-academic-professional)
 
-In addition the resources in Academic Essentials, this package notably includes:
+In addition to the resources in Academic Essentials, this package notably includes:
 
 * _BDAG: A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed._
 * _Theological Dictionary of the Old Testament and New Testament Collection (27 vols.)_
