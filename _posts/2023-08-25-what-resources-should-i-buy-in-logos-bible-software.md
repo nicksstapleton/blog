@@ -1,5 +1,5 @@
 ---
-title: What Resources Should I Buy in Logos Bible Software?
+title: Recommended Resources for Logos Bible Software
 excerpt: What are the best Logos resources you should buy? Here are my recommendations.
 date: 2023-08-25T09:00:00.000-06:00
 tags:
