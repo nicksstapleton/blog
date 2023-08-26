@@ -1,7 +1,7 @@
 ---
 title: What Resources Should I Buy in Logos Bible Software?
 excerpt: What are the best Logos resources you should buy? Here are my recommendations.
-date: 2022-10-27T09:00:00.000-06:00
+date: 2023-08-25T09:00:00.000-06:00
 tags:
 - Seminary
 - Logos
@@ -13,7 +13,7 @@ header:
 
 Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/) and grabbing the [free book of the month](https://partners.faithlife.com/click.track?CID=437858&AFID=467957), you want to invest in great reference tools you will utilize over and over again in Logos.
 
-There are six categories you should think through and prioritize:
+There are seven categories you should think through and prioritize:
 
 * Bible dictionaries
 * Theological dictionaries
