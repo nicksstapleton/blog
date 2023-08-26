@@ -26,6 +26,8 @@ There are six categories you should think through and prioritize:
 ## My Logos Recommended Resource Page
 I have been working with Logos to compile a list of [my most recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) for these categories right on Logos.com and it is now live![^1]
 
+[![](/assets/images/IMG_0901.jpeg)](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
+
 [^1]: Disclosure: As a Logos affiliate partner, I get a small kickback for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out.
 
 ### More Suggestions
