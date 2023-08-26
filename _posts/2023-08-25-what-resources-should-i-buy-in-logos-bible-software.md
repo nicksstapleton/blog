@@ -13,60 +13,20 @@ header:
 
 Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/) and grabbing the [free book of the month](https://partners.faithlife.com/click.track?CID=437858&AFID=467957), you want to invest in great reference tools you will utilize over and over again in Logos.
 
-There are seven categories you should think through and prioritize:
+There are six categories you should think through and prioritize:
 
 * Bible dictionaries
 * Theological dictionaries
 * Commentaries
-* Systematic Theologies
-* Greek / Hebrew Texts
-* Greek / Hebrew Lexicons
+* Systematic + Biblical Theologies
+* Greek / Hebrew Texts + Lexicons
+* Other reference resources (study bibles, etc.)
 
-What are the best Logos resources to buy? Which are must-haves? Here are some suggested resources to get in your library[^1]:
+
+## My Logos Recommended Resource Page
+I have been working with Logos to compile a list of [my most recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) for these categories right on Logos.com and it is now live![^1]
 
 [^1]: Disclosure: As a Logos affiliate partner, I get a small kickback for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out.
-
-### ![image-right](/assets/images/zondervan-illustrated-bible-dictionary.jpg){: .align-right}Bible Dictionaries
-
-* [The New Bible Dictionary, 3rd ed.](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/310/the-new-bible-dictionary-3rd-ed)
-* [Zondervan Illustrated Bible Dictionary]()
-* [IVP Bible Dictionary Series](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/37742/ivp-bible-dictionary-series-8-volumes)
-
-### Theological Dictionaries
-
-* [New Dictionary of Biblical Theology](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/27277/new-dictionary-of-biblical-theology)
-* [Dictionary of Biblical Imagery](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/30241/dictionary-of-biblical-imagery)
-* [Dictionary for Theological Interpretation of the Bible](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5322/dictionary-for-theological-interpretation-of-the-bible)
-
-### Commentaries[^2]
-
-[^2]: You’ll notice I did not include any commentary series. While there are certainly stand out series, I prefer to pick the best commentaries from a given series rather than purchasing an entire set unless there is a compelling discount. One-volume commentaries and theologies, which I have listed, are valuable for a providing an overview of a passage.
-
-* [New Bible Commentary (NBC)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/753/the-new-bible-commentary)
-* [Commentary on the New Testament Use of the Old Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5321/commentary-on-the-new-testament-use-of-the-old-testament)
-* [An Introduction to the New Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/9654/an-introduction-to-the-new-testament)
-* [Exegetical Summary Series](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/197853/exegetical-summaries-series)
-* [An Old Testament Theology](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17275/an-old-testament-theology)
-* [The King in His Beauty: A Biblical Theology of the Old and New Testaments](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/32180/the-king-in-his-beauty-a-biblical-theology-of-the-old-and-new-testaments)
-
-### Greek + Hebrew Texts
-
-* [NA28 - Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/29980/nestle-aland-greek-new-testament-28th-edition-with-critical-apparatus)
-* [THGNT - The Greek New Testament, Produced at Tyndale House, Cambridge, with Dictionary](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/207821/the-greek-new-testament-produced-at-tyndale-house-cambridge-with-dictionary)
-* [BHS - Biblia Hebraica Stuttgartensia with Apparatus](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction)
-
-### ![image-right](/assets/images/bdag.jpg){: .align-right} Greek & Hebrew Lexicons + Theological Dictionaries
-
-* [BDAG/HALOT](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5228/bdag-halot-bundle)
-* [New International Dictionary of New Testament Theology and Exegesis](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/45403/new-international-dictionary-of-new-testament-theology-and-exegesis-2nd-edition-nidntte)
-* [Theological Dictionary of the Old Testament and New Testament](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/178620/theological-dictionary-of-the-old-testament-and-new-testament-bundle-tdot-tdnt)
-
-### Systematic Theology
-
-* [Concise Theology](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/155/concise-theology)
-* [Institutes of the Christian Religion](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/16036/institutes-of-the-christian-religion)
-* [Reformed Dogmatics (Herman Bavinck)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/5309/reformed-dogmatics)
-* [Systematic Theology (Berkhof)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/6689/systematic-theology)
 
 ### More Suggestions
 
