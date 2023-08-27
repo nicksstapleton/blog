@@ -102,9 +102,9 @@ Ultimately, there are two questions you need to answer:
 
 Logos is only as useful as the resources you have inside of it. If you want to access the top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
 
-When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. I eventually realized that Logos isn’t going to magically revolutionize your study of the Bible simply by buying any package.
+When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. Eventually, I realized that Logos isn’t going to magically revolutionize my study of the Bible simply by buying any package.
 
-**You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.**
+***You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.***
 
 ### [Logos 10 Gold](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold) | Small group and Sunday school leaders
 
@@ -137,7 +137,7 @@ This package provides fantastic resources for Biblical studies, preaching, exege
 
 ## Academic and Denominational Packages
 
-Depending on the resources you need, I also think these packages are worth considering:
+Depending on the resources you want, I also think these packages are worth consideration:
 
 ### [Academic Essentials](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228336/logos-10-academic-essentials)
 
