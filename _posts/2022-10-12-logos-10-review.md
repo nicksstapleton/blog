@@ -119,9 +119,7 @@ Logos 10 seeks to help users _live in the Word._ It is helping me do just that. 
 
 **If you're new to Logos, save yourself time and money and go read** [**my Logos Buyer's Guide**](https://www.nickstapleton.me/logos-buyers-guide/)**. I'll give you package recommendations and some other pro-tips to maximize your dollars.**
 
-Use [this link](https://partners.faithlife.com/click.track?CID=431490&AFID=467957) for a 30% discount to upgrade to Logos 10. If you're new to Logos. you can  get 15% off your Logos 10 library and five _free_ books as well!
-
-<a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/logos-10-discount.jpeg"></a>
+**Use [my special link](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) for an exclusive discount on your Logos 10 base package and five _free_ books as well!**
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
