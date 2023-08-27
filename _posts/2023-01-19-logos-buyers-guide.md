@@ -65,11 +65,11 @@ Base packages are the most cost-effective way of getting the resources you want.
 
 Here are some of the resources I use and value the most and what Logos package they are available in:
 
-* *[Pillar NT Commentaries](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/210376/pillar-new-testament-commentary-pntc)* ➡ Platinum or Anglican Gold
-* *[New Dictionary of Biblical Theology](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/27277/new-dictionary-of-biblical-theology)* ➡ Portfolio or Reformed Gold
-* *[IVP Bible Dictionaries](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/37742/the-ivp-bible-dictionaries)* ➡ Diamond
-* *[Biblia Hebraica Stuttgartensia with Apparatus](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction)* and *[Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/29980/nestle-aland-greek-new-testament-28th-edition-with-critical-apparatus)* ➡ Academic Essentials
-* *[BDAG](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/3878/a-greek-english-lexicon-of-the-new-testament-and-other-early-christian-literature-3rd-ed)* ➡ Diamond or Academic Professional
+* *[Pillar NT Commentaries](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/210376/pillar-new-testament-commentary-pntc)* ➡ Platinum or Anglican Gold
+* *[New Dictionary of Biblical Theology](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/27277/new-dictionary-of-biblical-theology)* ➡ Portfolio or Reformed Gold
+* *[IVP Bible Dictionaries](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/37742/the-ivp-bible-dictionaries)* ➡ Diamond
+* *[Biblia Hebraica Stuttgartensia with Apparatus](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-sesb-20-version-with-apparatus-and-wivu-introduction)* and *[Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/29980/nestle-aland-greek-new-testament-28th-edition-with-critical-apparatus)* ➡ Academic Essentials
+* *[BDAG](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/3878/a-greek-english-lexicon-of-the-new-testament-and-other-early-christian-literature-3rd-ed)* ➡ Diamond or Academic Professional
 
 In the past, Logos made many of these resources available in standard base packages like Gold or Platinum. With Logos 10, these resources have become siloed into academic and denominational packages or you have to pay for a higher standard package to get them. Depending on your needs, you may want to consider purchasing an academic or denominational package to round out your library. More on that below.
 
@@ -91,7 +91,7 @@ Here are some of the features I use and value the most and what Logos package th
 * One of the most popular features released with Logos 10, Print Library Catalog, requires Gold or above.
 * Every feature Logos offers is available starting with the Gold package and above. If you're committed to getting at least Gold, this means you are choosing your package based on resources, not features.
 
-If you are not after specific features, you can rest easy knowing most of the best features are included in any Logos package. You can explore all Logos features [here](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/features).
+If you are not after specific features, you can rest easy knowing most of the best features are included in any Logos package. You can explore all Logos features [here](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=467957=https://www.logos.com/features).
 
 ## Which Base Package Should You Buy?
 
@@ -106,7 +106,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ***You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.***
 
-### [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/228268/logos-10-gold) | Small group and Sunday school leaders
+### [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold) | Small group and Sunday school leaders
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10gold.jpeg){: .align-right}Logos 10 Gold provides a comprehensive Bible study library. If you are a small group or Sunday school teacher, this package will be a fantastic entry point into Logos. Some package highlights include:
 
@@ -115,7 +115,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 * _Discovering the New Testament (3 vols.)_
 * _Osborne New Testament Commentaries (12 vols.)_
 
-### [Logos 10 Platinum](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/228269/logos-10-platinum) | Pastors and Seminarians
+### [Logos 10 Platinum](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228269/logos-10-platinum) | Pastors and Seminarians
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or MDiv student this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources.
 
@@ -126,7 +126,7 @@ This package provides fantastic resources for Biblical studies, preaching, exege
 * _The New American Commentary Series (43 vols.)_
 * _Ancient Christian Commentary on Scripture Complete Set, Updated Edition (29 vols.)_
 
-### [Logos 10 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/228270/logos-10-diamond) | More Advanced Study
+### [Logos 10 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond) | More Advanced Study
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10diamond.jpeg){: .align-right} This package is premium yet offers tremendous value. It builds on top of L10 Platinum by expanding your original language resources. The IVP Dictionaries are legendary. The NIGNT series is among the best Greek technical commentaries available. The NSBT series has some landmark volumes in Biblical theology. Package highlights include:
 
@@ -139,14 +139,14 @@ This package provides fantastic resources for Biblical studies, preaching, exege
 
 Depending on the resources you want, I also think these packages are worth consideration:
 
-### [Academic Essentials](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/228336/logos-10-academic-essentials)
+### [Academic Essentials](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228336/logos-10-academic-essentials)
 
 This package has the essential original language resources MDiv students need (NA28 and BHS). It also includes:
 
 * _The IVP Bible Background Commentary (2 vols.)_
 * _The New Bible Commentary (NBC)_
 
-### [Academic Professional](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/228339/logos-10-academic-professional)
+### [Academic Professional](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228339/logos-10-academic-professional)
 
 In addition to the resources in Academic Essentials, this package notably includes:
 
@@ -155,7 +155,7 @@ In addition to the resources in Academic Essentials, this package notably includ
 * _Exegetical Guide to the Greek New Testament (13 vols.)_
 * _International Critical Commentary (65 vols.)_
 
-### [Logos 10 Anglican Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/228279/logos-10-anglican-gold)
+### [Logos 10 Anglican Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228279/logos-10-anglican-gold)
 
 If you're after great commentaries, this package might be a great fit:
 
@@ -165,7 +165,7 @@ If you're after great commentaries, this package might be a great fit:
 * _New Bible Dictionary, 3rd ed._
 * _New Dictionary of Theology: Historical and Systematic, 2nd ed._
 
-### [Logos 10 Reformed Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/228327/logos-10-reformed-gold)
+### [Logos 10 Reformed Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228327/logos-10-reformed-gold)
 
 This package has some of my favorite dictionaries, commentaries, and theology books.
 
@@ -191,10 +191,10 @@ With the right resources in Logos, you will save yourself significant time and e
 
 Knowing cost-effectiveness is important for students, I suggest getting these two packages:
 
-* [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/228268/logos-10-gold)
-* [Academic Essentials](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/product/228336/logos-10-academic-essentials)
+* [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold)
+* [Academic Essentials](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228336/logos-10-academic-essentials)
 
-Don’t forget to sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
+Don’t forget to sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 
 ## Take Advantage of Sales
 
@@ -214,7 +214,7 @@ Because Logos provides dynamic pricing, you can always upgrade to a higher packa
 
 [^2]:Disclosure: As a Logos affiliate partner, I get a small kickback for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out. I am grateful for your support and genuinely excited for you to get into Logos!
 
-If you need further assistance choosing a package, Logos assembled [a questionnaire](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partner.logosbible.com/click.track?CID=432198&AFID=467957=https://www.logos.com/compare-packages).
+If you need further assistance choosing a package, Logos assembled [a questionnaire](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
