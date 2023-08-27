@@ -208,7 +208,7 @@ Many of the resources I consider must-have are part of the base packages I liste
 
 **My final tip: Buy the best package you can afford with [my special link](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) for an exclusive discount on your Logos 10 library and get five _free_ books as well![^2]**
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10-cost-and-affordability-start-small-illu-2-2x.png){: .align-right} Because Logos provides dynamic pricing, you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.[^3]
+Because Logos provides [dynamic pricing](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/dynamic-pricing), you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.[^3]
 
 [^2]:Disclosure: As a Logos affiliate partner, I get a small kickback for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out. I am grateful for your support and genuinely excited for you to get into Logos!
 
