@@ -179,7 +179,7 @@ This package has some of my favorite dictionaries, commentaries, and theology bo
 
 ## A Word to Seminary Students
 
-Most seminary students are not flush with cash. Many work multiple jobs and have to take out loans simply to get through seminary. Access to a resource like Logos is a privilege.
+Seminary students are not flush with cash. Many work multiple jobs and take out loans to get through seminary. Access to a resource like Logos is a privilege.
 
 If you are in a position to consider investing in Logos: Do it.![](https://media.giphy.com/media/BjHIjM2YFC3rEUaMrw/giphy.gif)
 
