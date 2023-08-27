@@ -11,7 +11,7 @@ header:
 ---
 ![](/assets/images/logos-resources.png)One of the greatest benefits of Logos is the vast amount of resources you can add to your library. Yet, the possibilities can also be quite overwhelming. When I began building my library in Logos I wanted to know which tools were most worthy of investment.
 
-Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/) and grabbing the [free book of the month](https://partners.faithlife.com/click.track?CID=437858&AFID=467957), you want to invest in great reference tools you will utilize over and over again in Logos.
+Beyond [buying a Logos package](https://www.nickstapleton.me/logos-buyers-guide/) and grabbing the [free book of the month](https://partner.logosbible.com/click.track?CID=437858&AFID=467957), you want to invest in great reference tools you will utilize over and over again in Logos.
 
 There are six categories you should think through and prioritize:
 
