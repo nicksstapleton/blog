@@ -208,13 +208,13 @@ Many of the resources I consider must-have are part of the base packages I liste
 
 **My final tip: Buy the best package you can afford with [my special link](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) for an exclusive discount on your Logos 10 library and get five _free_ books as well![^2]**
 
-Because Logos provides dynamic pricing, you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.
+Because Logos provides dynamic pricing, you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.[^3]
 
 ![](/assets/images/l10-cost-and-affordability-start-small-illu-2-2x.png)
 
 [^2]:Disclosure: As a Logos affiliate partner, I get a small kickback for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out. I am grateful for your support and genuinely excited for you to get into Logos!
 
-If you need further assistance choosing a package, Logos assembled [a questionnaire](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
+[^3]:If you need further assistance choosing a package, Logos assembled [a questionnaire](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
