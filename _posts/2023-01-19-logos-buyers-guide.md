@@ -126,7 +126,7 @@ This package provides fantastic resources for Biblical studies, preaching, exege
 * _The New American Commentary Series (43 vols.)_
 * _Ancient Christian Commentary on Scripture Complete Set, Updated Edition (29 vols.)_
 
-### [Logos 10 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond) | More Advanced Study
+### [Logos 10 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond) | Advanced Study
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10diamond.jpeg){: .align-right} This package is premium yet offers tremendous value. It builds on top of L10 Platinum by expanding your original language resources. The IVP Dictionaries are legendary. The NIGNT series is among the best Greek technical commentaries available. The NSBT series has some landmark volumes in Biblical theology. Package highlights include:
 
