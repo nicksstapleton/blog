@@ -34,7 +34,7 @@ Logos is one of the best investments I have ever made. It has been an incredible
 
 My journey with Logos began with several questions such as:
 
-* _What Logos base package(s) should I buy?_
+* _What Logos base package should I buy?_
 * _Which resources are a must-have?_
 * _What is the most cost-effective way to get into Logos?_
 
