@@ -3,6 +3,7 @@ title: Logos Bible Software Buyer's Guide
 excerpt: Logos is a significant investment. Make sure you buy it the right
   way. My recommendation on the best package for pastors and seminarians.
 date: 2023-01-19T12:00:00.000-06:00
+last_modified_at: 2023-08-27
 toc: true
 toc_label: Logos Buyer's Guide
 toc_icon: search-plus
@@ -26,7 +27,6 @@ gallery:
   image_path: "/assets/images/l10-factbook-benefits-of-wisdom.jpg"
   alt: ''
   title: ''
-
 ---
 ## Overview
 
