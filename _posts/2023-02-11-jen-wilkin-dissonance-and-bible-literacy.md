@@ -42,7 +42,7 @@ With this in view, Jen has been known to give adults a quick and straightforward
  8. What is the name of Jacob’s youngest son?
  9. What is Noah’s first act when he emerges from the ark?
 10. Who are the sons of Zebedee?
-11. How many people were saved on the ark?z
+11. How many people were saved on the ark?
 12. Who said to whom, “Man looks on the outward appearance, but the Lord looks at the heart”?
 13. What type of animal did Balaam ride? (Extra points for King James Version)
 14. Who commanded the sun and moon to stand still?
