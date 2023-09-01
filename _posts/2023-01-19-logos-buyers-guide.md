@@ -206,7 +206,7 @@ Many of the resources I consider must-have are included in the base packages I l
 
 ## Exclusive Discount for You
 
-**My final tip: Buy the best package you can afford with [my special link](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) for an exclusive discount on your Logos 10 library and get five _free_ books as well![^2]**
+👉 **My final tip: Buy the best package you can afford with [my special link](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) for an exclusive discount on your Logos 10 library and get five _free_ books as well![^2]**
 
 Because Logos provides [dynamic pricing](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/dynamic-pricing), you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.[^3]
 
