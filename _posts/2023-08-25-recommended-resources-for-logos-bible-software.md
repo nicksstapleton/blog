@@ -22,7 +22,6 @@ There are six categories you should think through and prioritize:
 * Greek / Hebrew Texts + Lexicons
 * Other reference resources (study bibles, etc.)
 
-
 ## My Logos Recommended Resource Page
 I have been working with Logos to compile a list of [my most recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) for these categories right on Logos.com and it is now live![^1]
 
@@ -32,7 +31,7 @@ I have been working with Logos to compile a list of [my most recommended resourc
 
 ### More Suggestions
 
-Read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) if you want help choosing a base package. If you are looking for the best commentaries for a particular book of the Bible, I highly recommend [this website](https://www.nickstapleton.me/best-bible-commentaries/).
+You can [sign up for my newsletter](https://nickstapleton.ck.page) and I'll keep you posted on special  discounts Logos is running on my favorite resources. If you want help choosing a base package, read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) 
 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
 
