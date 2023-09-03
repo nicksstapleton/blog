@@ -31,7 +31,7 @@ One of the strengths of Logos is its vast catalog. When I began building my libr
 * Greek / Hebrew Texts + Lexicons
 * Other reference resources (study bibles, favorite books, etc.)
 
-## My Logos Recommended Resource Page
+## My Recommended Resource for Logos 
 [My recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) are listed conveniently on Logos.com![^1] They are organized by category to make it easy find whatever you are looking for.
 
 Discounts are always happening with Logos. If you [sign up for my newsletter](https://nickstapleton.ck.page) I'll keep you posted on special discounts Logos is running on my favorite resources and any free books they are giving away.
