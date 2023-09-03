@@ -20,9 +20,9 @@ Logos is an incredible tool for learning, Bible study, and ministry. Yet, Logos 
 
 If you want the best commentaries and dictionaries to appear in your Logos searches, they need to be in your libary. 
 
-One of the strengths of Logos is its vast catalog. When I began building my library, I felt overwhelmed by the possibilities. I wanted someone to tell me which tools were most helpful to them in their ministry, sermon prep, and personal Bible study. This is where I want to offer you help
+One of the strengths of Logos is its vast catalog. When I began building my library, I wanted someone to tell me which resources were most helpful to them in their ministry, sermon prep, and personal Bible study. This is where I want to offer you help.
 
-**You want to invest in great reference tools you will utilize over and over again for years to come.** It is best to think through categories and then select best resources. There are six categories you should prioritize:
+**You want to invest in great reference tools you will utilize over and over again for years to come.** It is best to think through categories and then select best resources. Here are the six categories to prioritize:
 
 * Bible dictionaries
 * Theological dictionaries
@@ -32,17 +32,16 @@ One of the strengths of Logos is its vast catalog. When I began building my libr
 * Other reference resources (study bibles, favorite books, etc.)
 
 ## My Logos Recommended Resource Page
-[My most recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) are available directly on Logos.com![^1] They are organized by category to make it easy find whatever you are looking for.
+[My recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) are listed conveniently on Logos.com![^1] They are organized by category to make it easy find whatever you are looking for.
+
+Discounts are always happening with Logos. If you [sign up for my newsletter](https://nickstapleton.ck.page) I'll keep you posted on special discounts Logos is running on my favorite resources and any free books they are giving away.
 
 [![](/assets/images/IMG_0901.jpeg)](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
 
 [^1]: Disclosure: As a Logos affiliate partner, I get a small kickback for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out.
 
-### More Suggestions
-
-You can [sign up for my newsletter](https://nickstapleton.ck.page) and I'll keep you posted on special discounts Logos is running on my favorite resources. 
-
-Of course, the most cost-effective way to get resources in Logos is with a base package. If you want help choosing a base package, read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) 
+## Don't Sleep on Logos Base Packages
+The most cost-effective way to get resources in Logos is with a base package. If you want help choosing a base package, read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/).
 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
 
