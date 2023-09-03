@@ -12,7 +12,7 @@ header:
 ![](/assets/images/logos-resources.png) 
 
 ## It's not the plane, it's the pilot
-In Top Gun: Maverick there is a repeated mantra: **It's not the plane, it's the pilot.**
+In _Top Gun: Maverick_ there is a repeated mantra: **It's not the plane, it's the pilot.**
 
 ![](/assets/images/Rooster-top-gun-plane-pilot.GIF)
 
@@ -22,7 +22,7 @@ If you want the best commentaries and dictionaries to appear in your Logos searc
 
 One of the strengths of Logos is its vast catalog. When I began building my library, I wanted someone to tell me which resources were most helpful to them in their ministry, sermon prep, and personal Bible study. This is where I want to offer you help.
 
-**You want to invest in great reference tools you will utilize over and over again for years to come.** It is best to think through categories and then select best resources. Here are the six categories to prioritize:
+**You want to invest in great reference tools you will utilize over and over again for years to come.** To achieve this it is best to think through categories and then select best resources. Here are the six categories to prioritize:
 
 * Bible dictionaries
 * Theological dictionaries
@@ -41,8 +41,8 @@ Discounts are always happening with Logos. If you [sign up for my newsletter](ht
 [^1]: Disclosure: As a Logos affiliate partner, I get a small kickback for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out.
 
 ## Don't Sleep on Logos Base Packages
-The most cost-effective way to get resources in Logos is with a base package. If you want help choosing a base package, read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/).
-
-<script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
+The most cost-effective way to get resources in Logos is with a base package. A base package is the foundation you want to build on. If you want help choosing a base package, read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/).
 
 👉 What is a must-have resource in your library? Send me a [tweet](http://www.twitter.com/nickstapleton) and let me know.
+
+<script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
