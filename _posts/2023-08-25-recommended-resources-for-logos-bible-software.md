@@ -9,7 +9,10 @@ header:
   teaser: "/assets/images/logos-resources.png"
 
 ---
-![](/assets/images/logos-resources.png) In Top Gun: Maverick there is a repeated mantra: **It's not the plane, it's the pilot.**
+![](/assets/images/logos-resources.png) 
+
+## It's not the plane, it's the pilot
+In Top Gun: Maverick there is a repeated mantra: **It's not the plane, it's the pilot.**
 
 ![](/assets/images/Rooster-top-gun-plane-pilot.GIF)
 
@@ -17,11 +20,9 @@ Logos is an incredible tool for learning, Bible study, and ministry. Yet, Logos 
 
 If you want the best commentaries and dictionaries to appear in your Logos searches, they need to be in your libary. 
 
-One of the strengths of Logos is its vast catalog. When I began building my library, I felt overwhelmed by the possibilities. I wanted someone to tell me which tools were most helpful to them in their ministry, sermon prep, and personal study.
+One of the strengths of Logos is its vast catalog. When I began building my library, I felt overwhelmed by the possibilities. I wanted someone to tell me which tools were most helpful to them in their ministry, sermon prep, and personal Bible study. This is where I want to offer you help
 
-So, how do you choose? What resources should you prioritize purchasing for Logos? What categories are most important?
-
-You want to invest in great reference tools you will utilize over and over again for years to come. There are six categories you should think through and prioritize:
+**You want to invest in great reference tools you will utilize over and over again for years to come.** It is best to think through categories and then select best resources. There are six categories you should prioritize:
 
 * Bible dictionaries
 * Theological dictionaries
@@ -31,7 +32,7 @@ You want to invest in great reference tools you will utilize over and over again
 * Other reference resources (study bibles, favorite books, etc.)
 
 ## My Logos Recommended Resource Page
-[My most recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) are available directly on Logos.com![^1] They are organized by category to make it easy find what you are looking for.
+[My most recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) are available directly on Logos.com![^1] They are organized by category to make it easy find whatever you are looking for.
 
 [![](/assets/images/IMG_0901.jpeg)](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
 
