@@ -8,7 +8,7 @@ tags:
 header:
   teaser: "/assets/images/logos-resources.png"
 ---
-![](/assets/images/logos-resources.png) 
+![](/assets/images/IMG_0920.jpeg) 
 
 ## It's not the plane, it's the pilot
 In _Top Gun: Maverick_ there is a repeated mantra: **It's not the plane, it's the pilot.**
