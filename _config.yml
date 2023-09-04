@@ -1,10 +1,10 @@
 ---
 title: "Nick Stapleton"
 url: "https://www.nickstapleton.me"
-masthead_title: " "
+masthead_title: "Nick Stapleton"
 logo: "/assets/images/nslsm.png"
 email: "nickstapleton@gmail.com"
-description: "Ministry - Theology - Technology"
+description: "Writing about Logos Bible Software, ministry, theology, and technology"
 twitter_username: "nickstapleton"
 twitter:
   username: "nickstapleton"
@@ -31,7 +31,7 @@ plugins:
 author:
   name: "Nick Stapleton"
   avatar: "/assets/images/nicksq.jpeg"
-  bio: "Making disciples on college campuses and in the local church"
+  bio: "Seeking to surrender all of life for all of life to Jesus"
   location: "Colorado Springs, CO"
   links:
   - label: "Twitter"
