@@ -1,5 +1,5 @@
 ---
-title: Men: Go Shield to Shield
+title: Men, Go Shield to Shield
 header:
   teaser: "https://img.youtube.com/vi/J1hYno05nsg/mqdefault.jpg"
 excerpt: Matt Chandler on men going to battle together.
