@@ -1,7 +1,7 @@
 ---
 title: Sowing and Reaping
 header:
-  teaser: "https://img.youtube.com/vi/<ZRd33SIC7-U?si=7K-b6ePiHZcVwaob>/hqdefault.jpg"
+  teaser: "https://img.youtube.com/vi/<ZRd33SIC7-U>/hqdefault.jpg"
 excerpt: One of the most powerful sermons I have ever heard
 tags:
 - Sermon
