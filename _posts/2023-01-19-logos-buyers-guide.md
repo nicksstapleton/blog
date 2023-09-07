@@ -198,9 +198,9 @@ Don’t forget to sign up for the [Logos Academic Discount](https://partner.logo
 
 ## Take Advantage of Sales
 
-Logos runs special sales throughout the year. I use the “Add to Wish List” button liberally on the Logos website to add resources to my wish list. Logos will sometimes email you whenever they have a special discount on your wish list items. You can also [sign up for my newsletter](https://nickstapleton.ck.page) and I'll keep you posted on special sales.
+Many of the resources I consider must-have are included in the base packages I listed above, but there are other great resources you should consider grabbing, especially when they are on sale. **See [my list of recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton).**
 
-Many of the resources I consider must-have are included in the base packages I listed above, but there are other great resources I suggest purchasing whenever you can get them on sale. Here is [my list of recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton). 
+Logos runs a variety sales throughout the year. If you [sign up for my newsletter](https://nickstapleton.ck.page), I'll keep you posted on these special sales, especially when they apply to some of my favorite key resources.
 
 [![](/assets/images/IMG_0901.jpeg)](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
 
