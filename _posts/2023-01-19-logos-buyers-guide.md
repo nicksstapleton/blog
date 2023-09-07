@@ -191,10 +191,8 @@ With the right resources in Logos, you will save yourself significant time and e
 
 Knowing cost-effectiveness is important for students, I suggest getting these two packages:
 
-* [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold)
-* [Academic Essentials](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228336/logos-10-academic-essentials)
-
-Don’t forget to sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
+* [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
+* [Academic Essentials](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
 
 ## Take Advantage of Sales
 
@@ -207,6 +205,8 @@ Logos runs a variety sales throughout the year. If you [sign up for my newslette
 ## Exclusive Discount for You
 
 👉 **My final tip: Buy the best package you can afford with [my special link](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) for an exclusive discount on your Logos 10 library and get five _free_ books as well![^2]**
+
+If you're a seminary student, don’t forget to sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 
 Because Logos provides [dynamic pricing](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/dynamic-pricing), you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.[^3]
 
