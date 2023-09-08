@@ -1,3 +1,4 @@
+<img src="https://files.logoscdn.com/v1/assets/13874871/optimized" width="400"/>
 You’re here to find a discount and save money on your Logos Bible software purchase. **Good news: There are several ways to save money on Logos.**
 
 In this post, I’m going to share the best ways to get a discount on your Logos base package and resources.
