@@ -147,8 +147,10 @@ Logos is a professional level tool, and it comes with a professional price tag. 
 
 If you want to get started with Logos, go read my [Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) for base package recommendations and further tips.
 
-Use [this link](http://bit.ly/Logos9) for my exclusive partner discount to get 15% off your Logos base package and five _free_ books as well!
+Use [my partner link](http://bit.ly/Logos9) for an exclusive discount to get 10-20% off your Logos base package and five _free_ books as well! [^1]
+
+[^1]: Disclosure: As a partner, I get a small commission for any purchases made using my link. This is like you buying me a cup of coffee. I am grateful for your support and genuinely excited for you to get into Logos!
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
-<figure> <a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/logos-10-discount.jpeg"></a> <figcaption>Full Disclosure: As a partner, I get a small kickback for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
+<figure> <a href="https://partners.faithlife.com/click.track?CID=431490&AFID=467957"><img src="/assets/images/logos-10-discount.jpeg"></a> <figcaption>Full Disclosure: As a partner, I get a small commission for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
