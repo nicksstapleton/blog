@@ -1,4 +1,13 @@
+---
+title: Logos Bible Software Discounts on Base Packages and Resources (10-30% off)
+header:
+  teaser: https://files.logoscdn.com/v1/assets/13874871/optimized
+tags:
+- Logos
+---
+
 <img src="https://files.logoscdn.com/v1/assets/13874871/optimized" width="400"/>
+
 You’re here to find a discount and save money on your Logos Bible software purchase. **Good news: There are several ways to save money on Logos.**
 
 In this post, I’m going to share the best ways to get a discount on your Logos base package and resources.
@@ -29,6 +38,7 @@ If you want help picking out a base package, read my [Logos Buyer’s Guide](htt
 ## 3. Academic Discount
 
 If you're a seminary student, sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
+
 ## 4. Is the resource you want included in a base package?
 
 Check this out: If I wanted to buy the _Dictionary of Classical Hebrew_ it would cost me $339.99, but if I buy the Logos Academic Premium base package I can get it and dozens of other resources thrown in for $108.53. 🤯
