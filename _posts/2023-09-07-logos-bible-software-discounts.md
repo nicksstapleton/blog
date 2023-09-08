@@ -5,8 +5,9 @@ header:
 tags:
 - Logos
 ---
-
+<p align="center">
 <img src="https://files.logoscdn.com/v1/assets/13874871/optimized" width="400"/>
+</p>
 
 You’re here to find a discount and save money on your Logos Bible software purchase. **Good news: There are several ways to save money on Logos.**
 
