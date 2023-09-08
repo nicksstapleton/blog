@@ -210,7 +210,7 @@ If you're a seminary student, don’t forget to sign up for the [Logos Academic 
 
 Because Logos provides [dynamic pricing](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/dynamic-pricing), you can always upgrade to a higher package later without losing any money since you only pay for what’s new to you.[^3]
 
-[^2]:Disclosure: As a Logos affiliate partner, I get a small kickback for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out. I am grateful for your support and genuinely excited for you to get into Logos!
+[^2]:Disclosure: As a Logos affiliate partner, I get a small commission for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out. I am grateful for your support and genuinely excited for you to get into Logos!
 
 [^3]:If you need further assistance choosing a package, Logos assembled [a questionnaire](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
