@@ -7,7 +7,7 @@ tags:
 - Discipleship
 - Jen Wilkin
 - Bible Literarcy
-- College 
+- College Ministry
 ---
 
 
