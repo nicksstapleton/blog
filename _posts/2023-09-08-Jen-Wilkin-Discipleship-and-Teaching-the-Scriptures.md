@@ -13,7 +13,7 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tVPVMWyprRg?si=k38F6f_z_ZuFySBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-This is my why. This is what I want my ministry to be about.
+### This is my why. This is what I want my ministry to be about.
 
 It’s the very things that Jen Wilkin lays out in this chapel message given at DTS. In response to some significant current realities about discipleship, theological formation, Bible literacy, and popular ministry philosophy, Jen calls churches and ministers to live into the great commission by greater vision for Biblical discipleship and to teach the scriptures.
 
