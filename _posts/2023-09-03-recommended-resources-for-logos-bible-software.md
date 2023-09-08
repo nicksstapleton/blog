@@ -8,16 +8,12 @@ tags:
 header:
   teaser: "/assets/images/logos-resources.png"
 ---
-<p align="center">
 ![](/assets/images/IMG_0920.jpeg) 
-</p>
 
 ## It's not the plane, it's the pilot
 In _Top Gun: Maverick_ there is a repeated mantra: **It's not the plane, it's the pilot.**
 
-<p align="center">
 ![](/assets/images/Rooster-top-gun-plane-pilot.GIF)
-</p>
 
 Logos is an incredible tool for learning, Bible study, and ministry. Yet, Logos is only as good as the resources inside of it. **It's not Logos, it's the resources.**
 
