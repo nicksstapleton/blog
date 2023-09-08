@@ -39,7 +39,7 @@ If you want help picking out a base package, read my [Logos Buyer’s Guide](htt
 
 ## 3. Academic Discount
 
-If you're a seminary student, sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/academic-discount)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
+If you're a seminary student, sign up for the [Logos Academic Discount](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/academic-discount)! This student discount will get you 30% off of base packages and up to 50% off of essential academic resources.
 
 ## 4. Is the resource you want included in a base package?
 
