@@ -106,7 +106,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ***You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.***
 
-### [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228268/logos-10-gold) | Small group and Sunday school leaders
+### [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) | Small group and Sunday school leaders
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10gold.jpeg){: .align-right}Logos 10 Gold provides a comprehensive Bible study library. If you are a small group or Sunday school teacher, this package will be a fantastic entry point into Logos. Some package highlights include:
 
@@ -115,7 +115,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 * _Discovering the New Testament (3 vols.)_
 * _Osborne New Testament Commentaries (12 vols.)_
 
-### [Logos 10 Platinum](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228269/logos-10-platinum) | Pastors and Seminarians
+### [Logos 10 Platinum](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) | Pastors and Seminarians
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or MDiv student this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources.
 
@@ -126,7 +126,7 @@ This package provides fantastic resources for Biblical studies, preaching, exege
 * _The New American Commentary Series (43 vols.)_
 * _Ancient Christian Commentary on Scripture Complete Set, Updated Edition (29 vols.)_
 
-### [Logos 10 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond) | Advanced Study
+### [Logos 10 Diamond](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) | Advanced Study
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10diamond.jpeg){: .align-right} This package is premium yet offers tremendous value. It builds on top of L10 Platinum by expanding your original language resources. The IVP Dictionaries are legendary. The NIGNT series is among the best Greek technical commentaries available. The NSBT series has some landmark volumes in Biblical theology. Package highlights include:
 
