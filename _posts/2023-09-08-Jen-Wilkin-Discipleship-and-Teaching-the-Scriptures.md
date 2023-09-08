@@ -6,7 +6,7 @@ excerpt: This is my why. This is what I want my ministry to be about.
 tags:
 - Discipleship
 - Jen Wilkin
-- Bible Literarcy
+- Bible Literacy
 - College Ministry
 - Theological Discipleship
 ---
