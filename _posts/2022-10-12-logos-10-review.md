@@ -102,11 +102,12 @@ Now that Logos 10 integrates my physical books into my Logos Library, I can find
 I care about stewarding my finances well. I am convinced Logos is one of the best investments a pastor, missionary, or seminary student can make in their ministry. When you buy a Logos 10 Library, you are getting access to some of the best resources available for pennies on the dollar. You can build a better library for less money.
 
 ## Room to Improve
-
-There's still plenty of room for improvement with Logos, especially with the sermon builder. Logos needs to add more robust formatting abilities via markdown support and other keyboard shortcuts. It takes way too many mouse clicks to format my sermon inside sermon builder. Additionally, I am disappointed that is currently no functionally or support for adding footnotes or citations.
+### Sermon Building Is Not Fun
+There's still plenty of room for improvement with Logos, especially with the sermon builder. Logos needs to add more robust formatting abilities via markdown support and other keyboard shortcuts. It takes way too many mouse clicks to format my sermon inside sermon builder. Additionally, I am disappointed there is currently no functionally or support for adding footnotes or citations.
 
 Sermon builder is great to use when delivering a sermon. It is not fun to use when building a sermon.
 
+### iOS Widgets
 ![](/assets/images/ios-widget-medium.jpeg)
 
 On iOS, I want to see widget support come to Logos. The best widgets are where personalization meets simplicity -- either displaying the information you want without needing to open the app or providing a shortcut directly to what you want inside an app. Like the Kindle widget, I would love to see the books I am currently reading displayed like this in a Logos iOS widget.
