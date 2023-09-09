@@ -21,7 +21,7 @@ Logos has been an invaluable tool in my ministry, seminary studies, sermon prep,
 
 In return for people sending readers from my website to Logos, I get a small commission at no cost to you.
 
-[My partner link](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) will get you between a 10-30% discount on your Logos library (depending on the time of year) and five _free_ books as well!
+[My partner link](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) will get you a 10-30% discount on your Logos library (depending on the time of year) and five _free_ books as well!
 
 ## 2. Buy a Base Package
 
