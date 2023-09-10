@@ -4,6 +4,9 @@ excerpt: Some Logos updates feel like a refinement. Others feel like a leap forw
   Logos 10 is both.
 tags:
 - Logos
+- Logos Bible Software
+- Sermon Prep
+- Bible Study
 categories:
 - Logos
 header:
