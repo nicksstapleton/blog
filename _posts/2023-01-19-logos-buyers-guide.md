@@ -13,6 +13,7 @@ tags:
 - Ministry
 - Seminary
 - Logos
+- Logos Bible Software
 header:
   image: "/assets/images/l10-packages.png"
   teaser: "/assets/images/l10-packages.png"
