@@ -5,6 +5,7 @@ header:
 excerpt: Good news! There are several ways to save money and get discounts on Logos.
 tags:
 - Logos
+- Logos Bible Software
 ---
 <p align="center">
 <img src="https://files.logoscdn.com/v1/assets/13874871/optimized" width="400"/>
