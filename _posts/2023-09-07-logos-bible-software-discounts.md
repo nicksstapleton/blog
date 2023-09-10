@@ -51,7 +51,7 @@ This is the glory of Logos base packages. If there are specific resources you wa
 
 ## 5. Payment Plan
 
-[My partner discount](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) applies to Logos payment plans as well. If the upfront cost is too much, Logos will allow you to spread out any order over $100 for 2 to 24 months depending on the order size. 
+[My partner discount](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) applies to Logos payment plans as well. If the upfront cost is too much, Logos will allow you to spread out payments on any order over $100 for 2 to 24 months depending on the order size. 
 
 ## 6. Grab the [Free Book of the Month](https://partner.logosbible.com/click.track?CID=437858&AFID=467957)
 
