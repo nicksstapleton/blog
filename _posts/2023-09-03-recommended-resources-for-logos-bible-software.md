@@ -5,6 +5,8 @@ date: 2023-09-03T09:00:00.000-06:00
 tags:
 - Logos
 - Seminary
+- Bible Study
+- Logos Bible Software
 header:
   teaser: "/assets/images/logos-resources.png"
 ---
