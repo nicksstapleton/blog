@@ -94,7 +94,7 @@ Here are some of the features I use and value the most and what Logos package th
 
 If you are not after specific features, you can rest easy knowing most of the best features are included in any Logos package. You can explore all Logos features [here](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=467957=https://www.logos.com/features).
 
-## Which Base Package Should You Buy?
+## Which Logos Package Should I Buy?
 
 Ultimately, there are two questions you need to answer:
 
