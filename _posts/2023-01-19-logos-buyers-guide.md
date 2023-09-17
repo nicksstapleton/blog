@@ -178,7 +178,7 @@ This package has some of my favorite dictionaries, commentaries, and theology bo
 * _Contours of Christian Theology (9 vols.)_
 * _The New Bible Dictionary, 3rd ed._
 
-## A Word to Seminary Students
+## A Word to Seminary Students: Get Logos
 
 Seminary students are not flush with cash. Many work multiple jobs and take out loans to get through seminary. Access to a resource like Logos is a privilege.
 
