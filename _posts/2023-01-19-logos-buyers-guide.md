@@ -43,7 +43,7 @@ I write from the perspective of having been in vocational ministry for over 10 y
 
 [^1]:If you’re still on the fence, [read my Logos 10 review](https://www.nickstapleton.me/logos-10-review/).
 
-This buyer’s guide provides buying principles and base package recommendations so you can decide which route into Logos is best for your purposes and needs.
+This buyer’s guide provides buying principles and base package recommendations so you can decide which route into Logos is best for your purposes and needs. Be sure to take advantage of my [exclusive discount](https://www.nickstapleton.me/logos-buyers-guide/#exclusive-discount-for-you) on a Logos Base Package at the end of this post.
 
 ## Buy a Base Package
 
