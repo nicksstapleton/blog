@@ -1,5 +1,5 @@
 ---
-title: 6 Recommended Resources Categories for Logos Bible Software [Updated] 
+title: 6 Recommended Resource Categories for Logos Bible Software [Updated] 
 excerpt: What are the best Logos resources you should buy? Here are my recommendations.
 date: 2023-09-03T09:00:00.000-06:00
 tags:
