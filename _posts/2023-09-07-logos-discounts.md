@@ -1,5 +1,5 @@
 ---
-title: 7 Logos Bible Software Discounts [Base Packages and Resources]
+title: 7 Discount Tips for Logos Bible Software [Base Packages and Resources]
 header:
   teaser: https://files.logoscdn.com/v1/assets/13874871/optimized
 excerpt: Good news! There are several ways to save money and get discounts on Logos.
@@ -13,7 +13,7 @@ tags:
 
 You’re here to find a discount and save money on your Logos Bible Software purchase. Maybe you are a student, pastor, missionary, or someone looking for a Logos coupon code. **I have good news: There are several ways to save money on Logos.**
 
-In this post, I’m going to share the best ways to get a discount on your Logos base package and resources.
+In this post, I’m going to share the seven best ways to get a discount on your Logos base package and resources.
 ## 1. Use [my partner link discount](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) (Up to 30% off plus five *FREE* books)
 
 I am a Logos affiliate and proud of it. And this is a legitimate discount.
