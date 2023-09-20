@@ -35,7 +35,7 @@ author:
   location: "Colorado Springs, CO"
   links:
   - label: "X / Twitter"
-    icon: "fa-brands fa-square-x-twitter"
+    icon: "fab fa-square-x-twitter"
     url: "https://twitter.com/nickstapleton"
   - label: "Buy Me a Coffee"
     icon: "fas fa-mug-hot"
@@ -48,7 +48,7 @@ collections:
 footer:
   links:
   - label: "X / Twitter"
-    icon: "fa-brands fa-square-x-twitter"
+    icon: "fab fa-square-x-twitter"
     url: "https://twitter.com/nickstapleton"
   - label: "Buy Me a Coffee"
     icon: "fas fa-mug-hot"
