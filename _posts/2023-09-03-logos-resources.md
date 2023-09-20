@@ -61,97 +61,97 @@ The most cost-effective way to get resources in Logos is with a base package. A 
 [Direct link to Logos Page](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) 
 
 ### Seminary Students
-Logos 10 Gold
-Academic Essentials
+- Logos 10 Gold
+- Academic Essentials
 
 ### Pastors
-Logos 10 Platinum
-Logos 10 Reformed Gold
+- Logos 10 Platinum
+- Logos 10 Reformed Gold
 
 ### Reference
-ESV Study Bible
-CSB Study Bible
-NIV Biblical Theology Study Bible Notes (NIVBTSB
-The IVP Bible Background Commentary
-An Introduction to the New Testament
+- ESV Study Bible
+- CSB Study Bible
+- NIV Biblical Theology Study Bible Notes (NIVBTSB
+- The IVP Bible Background Commentary
+- An Introduction to the New Testament by D.A Carson and Douglas Moo
 
 ### Bible Dictionaries 
-The New Bible Dictionary, 3rd ed.
-Zondervan Illustrated Bible Dictionary
-IVP Bible Dictionary Series
+- The New Bible Dictionary, 3rd ed.
+- Zondervan Illustrated Bible Dictionary
+- IVP Bible Dictionary Series
  
 ### Commentaries
-New Bible Commentary
-Handbook on the New Testament Use of the Old Testament by G.K. Beale
-Commentary on the New Testament Use of the Old Testament by D.A. Carson
-Exegetical Summaries
-Pillar New Testament Commentaries 
-ESV Expository Commentary Series
-Zondervan Exegetical Commentary Series
-New International Commentary NT and OT Series
-New International Greeek Testament Commentary Series
-Baker Commentary on the New Testament
-NIV Application Commentary Series
-New American Commentary Series
+- New Bible Commentary
+- Handbook on the New Testament Use of the Old Testament by G.K. Beale
+- Commentary on the New Testament Use of the Old Testament by D.A. Carson
+- Exegetical Summaries
+- Pillar New Testament Commentaries 
+- ESV Expository Commentary Series
+- Zondervan Exegetical Commentary Series
+- New International Commentary NT and OT Series
+- New International Greeek Testament Commentary Series
+- Baker Commentary on the New Testament
+- NIV Application Commentary Series
+- New American Commentary Series
 
 ### Systematic Theology
-Short Studies in Systematic Theology Series
-Faithful Theology: An Introduction (Short Studies in Systematic Theology) by Graham Cole
-The Trinity: An Introduction (Short Studies in Systematic Theology) by Scott Swain
-Atonement: An Introduction (Short Studies in Systematic Theology) by Jeremy Treat
-Finding the Right Hills to Die On: The Case for Theological Triage (The Gospel Coalition) | Logos Bible Software by Gavin Ortlund
-A Little Book for New Theologians: Why and How to Study Theology by Kelly Kapic
-Christian Theology: The Biblical Story and Our Faith by Christopher W. Morgan and Robert A. Peterson
-Guidebook for Instruction in the Christian Religion by Herman Bavinck
-Reformed Dogmatics, Abridged in One Volume by Herman Bavinck
-Reformed Dogmatics (4 vols.) by Herman Bavinck
-Institutes of the Christian Religion by John Calvin
-Foundations of Evangelical Theology
+- Short Studies in Systematic Theology Series
+- Faithful Theology: An Introduction (Short Studies in Systematic Theology) by Graham Cole
+- The Trinity: An Introduction (Short Studies in Systematic Theology) by Scott Swain
+- Atonement: An Introduction (Short Studies in Systematic Theology) by Jeremy Treat
+- Finding the Right Hills to Die On: The Case for Theological Triage by Gavin Ortlund
+- A Little Book for New Theologians: Why and How to Study Theology by Kelly Kapic
+- Christian Theology: The Biblical Story and Our Faith by Christopher W. Morgan and Robert A. Peterson
+- Guidebook for Instruction in the Christian Religion by Herman Bavinck
+- Reformed Dogmatics, Abridged in One Volume by Herman Bavinck
+- Reformed Dogmatics (4 vols.) by Herman Bavinck
+- Institutes of the Christian Religion by John Calvin
+- Foundations of Evangelical Theology
 
 ### Biblical Theology
-God’s Kingdom through God’s Covenants: A Concise Biblical Theology by Peter Gentry and Stephen Wellum 
-The Drama of Scripture: Finding our Place in the Biblical Story by Craig Bartholomew and Michael Goheen
-New Studies in Biblical Theology
-God’s Kingdom through God’s Covenants: A Concise Biblical Theology  by Peter Gentry and Stephen Wellum 
-A New Testament Biblical Theology: The Unfolding of the Old Testament in the New by G.K. Beale
-The King in His Beauty: A Biblical Theology of the Old and New Testaments by Tom Schreiner
-An Old Testament Theology by Bruce Waltke
-God’s Big Picture by Vaughan Roberts
-According to Plan by Graeme Goldsworthy
-The Temple and the Church’s Mission: A Biblical Theology of the Dwelling Place of God (New Studies in Biblical Theology) by G.K. Beale
-Dominion and Dynasty: A Theology of the Hebrew Bible by Stephen G Dempster
+- God’s Kingdom through God’s Covenants: A Concise Biblical Theology by Peter Gentry and Stephen Wellum 
+- The Drama of Scripture: Finding our Place in the Biblical Story by Craig Bartholomew and Michael Goheen
+- New Studies in Biblical Theology
+- God’s Kingdom through God’s Covenants: A Concise Biblical Theology  by Peter Gentry and Stephen Wellum 
+- A New Testament Biblical Theology: The Unfolding of the Old Testament in the New by G.K. Beale
+- The King in His Beauty: A Biblical Theology of the Old and New Testaments by Tom Schreiner
+- An Old Testament Theology by Bruce Waltke
+- God’s Big Picture by Vaughan Roberts
+- According to Plan by Graeme Goldsworthy
+- The Temple and the Church’s Mission: A Biblical Theology of the Dwelling Place of God by G.K. Beale
+- Dominion and Dynasty: A Theology of the Hebrew Bible by Stephen G Dempster
 
 ### Theological Dictionaries
-New Dictionary of Biblical Theology
-Dictionary of Biblical Imagery
-Dictionary for Theological Interpretation of the Bible
+- New Dictionary of Biblical Theology
+- Dictionary of Biblical Imagery
+- Dictionary for Theological Interpretation of the Bible
 
 ### Biblical Languages
-BDAG
-HALOT
-NIDNTTE | New International Dictionary of New Testament Theology and Exegesis
+- BDAG
+- HALOT
+- NIDNTTE | New International Dictionary of New Testament Theology and Exegesis
 
 ### Other Favorite Resources
-Knowing God by J. I. Packer
-What Is the Gospel? by Greg Gilbert
-Basic Christianity by John Stott
-On The Incarnation by Athanasius
-Christian Essentials Series
-The Crucified King: Atonement and Kingdom in Biblical and Systematic Theology by Jeremy Treat
-Gentle and Lowly: The Heart of Christ for Sinners and Sufferers by Dane Ortlund
-Women of the Word: How to Study the Bible with Both Our Hearts and Our Minds by Jen Wilkin
-Habits of Grace: Enjoying Jesus Through the Spiritual Disciplines by David Mathis
-The Cross of Christ by John Stott
-Evangelism and the Sovereignty of God by J. I. Packer
-Christianity and Liberalism by J. Gresham Machen
-The Whole Christ: Legalism, Antinomianism, and Gospel Assurance--Why the Marrow Controversy Still Matters by Sinclair B. Ferguson
-The Reformed Pastor by Richard Baxter
-The Book of Pastoral Rule 
-Mere Christianity by C. S. Lewis
-Making Sense of God: Finding God in the Modern World by Timothy Keller
-The Reason for God: Belief in an Age of Skepticism by Timothy Keller
-Telling a Better Story: How to Talk about God in a Skeptical Age by Joshua D. Chatraw
-Confronting Christianity: 12 Hard Questions for the World's Largest Religion by Rebecca McLaughli  
-Onward: Engaging the Culture Without Losing the Gospel by Russell D Moore
-Strange New World: How Thinkers and Activists Redefined Identity and Sparked the Sexual Revolution by Carl R. Trueman
-The Rise and Triumph of the Modern Self: Cultural Amnesia, Expressive Individualism, and the Road to Sexual Revolution by Carl R. Trueman
+- Knowing God by J. I. Packer
+- What Is the Gospel? by Greg Gilbert
+- Basic Christianity by John Stott
+- On The Incarnation by Athanasius
+- Christian Essentials Series
+- The Crucified King: Atonement and Kingdom in Biblical and Systematic Theology by Jeremy Treat
+- Gentle and Lowly: The Heart of Christ for Sinners and Sufferers by Dane Ortlund
+- Women of the Word: How to Study the Bible with Both Our Hearts and Our Minds by Jen Wilkin
+- Habits of Grace: Enjoying Jesus Through the Spiritual Disciplines by David Mathis
+- The Cross of Christ by John Stott
+- Evangelism and the Sovereignty of God by J. I. Packer
+- Christianity and Liberalism by J. Gresham Machen
+- The Whole Christ: Legalism, Antinomianism, and Gospel Assurance by Sinclair B. Ferguson
+- The Reformed Pastor by Richard Baxter
+- The Book of Pastoral Rule by St. Gregory the Great
+- Mere Christianity by C. S. Lewis
+- Making Sense of God: Finding God in the Modern World by Timothy Keller
+- The Reason for God: Belief in an Age of Skepticism by Timothy Keller
+- Telling a Better Story: How to Talk about God in a Skeptical Age by Joshua D. Chatraw
+- Confronting Christianity: 12 Hard Questions for the World's Largest Religion by Rebecca McLaughli  
+- Onward: Engaging the Culture Without Losing the Gospel by Russell D Moore
+- Strange New World: How Thinkers and Activists Redefined Identity and Sparked the Sexual Revolution by Carl R. Trueman
+- The Rise and Triumph of the Modern Self: Cultural Amnesia, Expressive Individualism, and the Road to Sexual Revolution by Carl R. Trueman
