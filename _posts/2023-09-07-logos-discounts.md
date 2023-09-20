@@ -1,5 +1,5 @@
 ---
-title: Best Logos Bible Software Discounts on Base Packages and Resources
+title: 7 Logos Bible Software Discounts [Base Packages and Resources]
 header:
   teaser: https://files.logoscdn.com/v1/assets/13874871/optimized
 excerpt: Good news! There are several ways to save money and get discounts on Logos.
