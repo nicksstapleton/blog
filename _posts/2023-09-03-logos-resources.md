@@ -1,5 +1,5 @@
 ---
-title: Recommended Resources for Logos Bible Software
+title: 6 Recommended Resources Categories for Logos Bible Software [Updated] 
 excerpt: What are the best Logos resources you should buy? Here are my recommendations.
 date: 2023-09-03T09:00:00.000-06:00
 tags:
@@ -46,7 +46,7 @@ My recommended Logos resources include:
 - An Old Testament Theology
 - BDAG / HALOT
 
-Discounts are always happening with Logos. If you [sign up for my newsletter](https://nickstapleton.ck.page) I'll keep you posted on special discounts Logos is running on my favorite resources and any free books they are giving away.
+Discounts are always happening with Logos. You can read about ongoing discounts [here](https://nickstapleton.me/logos-discounts/). Also, if you [sign up for my newsletter](https://nickstapleton.ck.page) I'll keep you posted on special discounts and sales Logos is running on my favorite resources and any free books they are giving away.
 
 [![](/assets/images/IMG_0901.jpeg)](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
 
