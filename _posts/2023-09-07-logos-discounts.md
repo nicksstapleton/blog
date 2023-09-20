@@ -50,11 +50,13 @@ Check this out: If I wanted to buy the _Dictionary of Classical Hebrew_ it would
 
 This is the glory of Logos base packages. If there are specific resources you want, check on the resource page to see if they’re included in any Logos base packages. This is the best way to get your resource, sometimes cheaper than its list price on its own _and_ get more resources thrown in for cheap (or free)!
 
+Speaking of resources, if you are looking for recommendations, I have written about the six most important categories to prioritize to build out your Logos library [here](https://www.nickstapleton.me/logos-resources/).
+
 ## 5. Payment Plan
 
 [My partner discount](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) applies to Logos payment plans as well. If the upfront cost is too much, Logos will allow you to spread out payments on any order over $100 for 2 to 24 months depending on the order size. 
 
-## 6. Grab the [Free Book of the Month](https://partner.logosbible.com/click.track?CID=437858&AFID=467957)
+## 6. Grab the Free Book of the Month
 
 Every month Logos gives away [a free book](https://partner.logosbible.com/click.track?CID=437858&AFID=467957). Many times they are awesome.
 
