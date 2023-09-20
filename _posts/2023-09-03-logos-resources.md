@@ -129,7 +129,7 @@ The most cost-effective way to get resources in Logos is with a base package. A 
 ### Biblical Languages
 - BDAG
 - HALOT
-- NIDNTTE | New International Dictionary of New Testament Theology and Exegesis
+- NIDNTTE - New International Dictionary of New Testament Theology and Exegesis
 
 ### Other Favorite Resources
 - Knowing God by J. I. Packer
