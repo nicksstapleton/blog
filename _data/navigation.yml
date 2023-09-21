@@ -3,9 +3,9 @@ main:
     url: /posts/
   - title: "🔖 Tags"
     url: /tags/
-  - title: "👨 About"
-    url: /about/
   - title: "📰 Newsletter"
     url: "https://nickstapleton.ck.page"
+  - title: "👋 About"
+    url: /about/
   - title: "🫙 Tip Jar"
     url: "https://nickstapleton.ck.page/products/tip"
