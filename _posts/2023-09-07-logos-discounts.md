@@ -20,7 +20,7 @@ I am a Logos affiliate and proud of it. And this is a legitimate discount.
 
 Logos has been an invaluable tool in my ministry, seminary studies, sermon prep, and personal growth. I love telling others about why it’s worth the investment and how to get started.
 
-In return for sending readers from my website to Logos, I get a small commission at no cost to you.
+In return for sending readers from my website to Logos, I get a small commission at no cost to you and you receive a valuable discount!
 
 [My partner link](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) will get you a 10-30% discount on your Logos library (depending on the time of year) and five _free_ books as well!
 
