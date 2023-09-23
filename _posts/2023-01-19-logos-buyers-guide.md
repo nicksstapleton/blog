@@ -220,6 +220,6 @@ Because Logos provides [dynamic pricing](https://partner.logosbible.com/click.tr
 
 [^3]:If you need further assistance choosing a package, Logos assembled [a questionnaire](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/help-me-choose-package) to help you identify which package might best suit you. You can also view a detailed [base package comparison](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/compare-packages).
 
-Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
+Subscribe to my newsletter below and I will keep you posted on the latest Logos sales, free books, discounted resources, and share a training tip to help you get the most out of Logos.
 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
