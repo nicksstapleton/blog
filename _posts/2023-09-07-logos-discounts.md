@@ -1,5 +1,5 @@
 ---
-title: 7 Discount Tips for Logos Bible Software [Base Packages and Resources]
+title: 7 Expert Tips for Discounts on Logos Base Packages and Resources
 header:
   teaser: https://files.logoscdn.com/v1/assets/13874871/optimized
 excerpt: Good news! There are several ways to save money and get discounts on Logos.
@@ -11,9 +11,9 @@ tags:
 <img src="https://files.logoscdn.com/v1/assets/13874871/optimized" width="400"/>
 </p>
 
-You’re here to find a discount and save money on your Logos Bible Software purchase. Maybe you are a student, pastor, missionary, or someone looking for a Logos coupon code. **I have good news: There are several ways to save money on Logos.**
+You’re here to find a discount and save money on Logos Bible Software Base Packages and resources. Maybe you are a student, pastor, missionary, or someone looking for a Logos coupon code. **I have good news: There are several ways to save money on Logos.**
 
-In this post, I’m going to share the seven best ways to get a discount on your Logos base package and resources.
+In this post, I’m going to share the seven best tips to get a discount on your Logos base package and resources.
 ## 1. Use [my partner link discount](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) (Up to 30% off plus five *FREE* books)
 
 I am a Logos affiliate and proud of it. And this is a legitimate discount.
@@ -63,5 +63,9 @@ Every month Logos gives away [a free book](https://partner.logosbible.com/click.
 ## 7. Take advantage of the monthly sales
 
 Logos runs a variety sales throughout the year. If you [sign up for my newsletter](https://nickstapleton.ck.page/), I'll keep you posted on these special sales, especially when they apply to some of [my favorite key resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton). I’ll also include links to the free books of the month right in your inbox.
+
+## Conclusion
+
+Using these tips will help you save money on your Logos purchases. Ultimately, Logos is an investment in your ministry, personal development, Bible study, and growth. And with [all its features](https://www.nickstapleton.me/Why-You-Should-Buy-Logos/), it makes every resource in your library better.
 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
