@@ -3,7 +3,7 @@ title: Logos Bible Software Buyer's Guide [UPDATED with Discount]
 excerpt: Logos is a significant investment. Make sure you buy it the right
   way. My recommendation on the best package for pastors and seminarians.
 date: 2023-01-19T12:00:00.000-06:00
-last_modified_at: 2023-08-27
+last_modified_at: 2023-09-22
 toc: true
 toc_label: Logos Buyer's Guide
 toc_icon: search-plus
@@ -38,6 +38,7 @@ My journey with Logos began with several questions such as:
 * _What Logos base package should I buy?_
 * _Which resources are a must-have?_
 * _What is the most cost-effective way to get into Logos?_
+* _Are there any Logos discounts or buying tips I should know about?_
 
 I write from the perspective of having been in vocational ministry for over 10 years and as an MDiv student. My input is best suited for pastors, seminary students, or other vocational ministers. This post is written for those who have already decided they want to get into Logos.[^1] 
 
@@ -73,6 +74,8 @@ Here are some of the resources I use and value the most and what Logos package t
 * *[BDAG](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/3878/a-greek-english-lexicon-of-the-new-testament-and-other-early-christian-literature-3rd-ed)* ➡ Diamond or Academic Professional
 
 In the past, Logos made many of these resources available in standard base packages like Gold or Platinum. With Logos 10, these resources have become siloed into academic and denominational packages or you have to pay for a higher standard package to get them. Depending on your needs, you may want to consider purchasing an academic or denominational package to round out your library. More on that below.
+
+You can to see [my full list of 50+ Logos recommended resources here](https://www.nickstapleton.me/logos-resources/).
 
 ### Features
 
@@ -118,7 +121,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ### [Logos 10 Platinum](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) | Pastors and Seminary Students
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or seminary student (especially MDiv) this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources.
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or moving towards pastoral ministry, this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources.
 
 This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. EGGNT is a tremendous series if you want help navigating the Greek NT. Some notable resources in this package include:
 
@@ -178,7 +181,7 @@ This package has some of my favorite dictionaries, commentaries, and theology bo
 * _Contours of Christian Theology (9 vols.)_
 * _The New Bible Dictionary, 3rd ed._
 
-## A Word to Seminary Students: Get Logos
+## A Word to Seminary Students: Get Logos Now
 
 Seminary students are not flush with cash. Many work multiple jobs and take out loans to get through seminary. Access to a resource like Logos is a privilege.
 
@@ -194,6 +197,8 @@ Knowing cost-effectiveness is important for students, I suggest getting these tw
 
 * [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
 * [Academic Essentials](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
+
+This will provide a well-rounded library full of commentaries, dictionaries, and texts like BHS and NA28.
 
 ## Take Advantage of Sales
 
