@@ -119,7 +119,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 * _Discovering the New Testament (3 vols.)_
 * _Osborne New Testament Commentaries (12 vols.)_
 
-### [Logos 10 Platinum](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) | Pastors and Seminary Students
+### [Logos 10 Platinum](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) | Pastors and vocational ministers
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor or moving towards pastoral ministry, this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources.
 
@@ -198,7 +198,7 @@ Knowing cost-effectiveness is important for students, I suggest getting these tw
 * [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
 * [Academic Essentials](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
 
-This will provide a well-rounded library full of commentaries, dictionaries, and texts like BHS and NA28.
+This will provide you with a well-rounded library full of commentaries, dictionaries, and Hebrew and Greek texts like BHS and NA28. However, if you can afford to reach beyond Gold for [Logos 10 Platinum](https://partner.logosbible.com/click.track?CID=431490&AFID=467957), it is absolutely worth it. With Platinum, you'll gain access to resources like the Exegetical Guide to the Greek New Testament series, Pillar New Testament Commentaries, and the Ancient Christian Commentary on Scripture set. I reached for these these resources over and over again throughout my MDiv program as I wrote papers and studied.
 
 ## Take Advantage of Sales
 
