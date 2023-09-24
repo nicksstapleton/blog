@@ -36,7 +36,7 @@ Some people avoid Logos base packages, but that’s a mistake. While base packag
 
 If nothing else, you pay for the resources you want and get hundreds of others thrown in at little or no extra cost.
 
-If you want help picking out a base package, read my [Logos Buyer’s Guide](https://www.nickstapleton.me/logos-buyers-guide/).
+If you want direction and help picking out a base package, read my [Logos Buyer’s Guide](https://www.nickstapleton.me/logos-buyers-guide/).
 
 ## 3. Academic Student Discount
 
@@ -50,7 +50,7 @@ Check this out: If I wanted to buy the _Dictionary of Classical Hebrew_ it would
 
 This is the glory of Logos base packages. If there are specific resources you want, check on the resource page to see if they’re included in any Logos base packages. This is the best way to get your resource, sometimes cheaper than its list price on its own _and_ get more resources thrown in for cheap (or free)!
 
-Speaking of resources, if you are looking for recommendations, I have written about the six most important categories to prioritize to build out your Logos library [here](https://www.nickstapleton.me/logos-resources/).
+Speaking of resources, if you are looking for recommendations, I have written about the six most important categories to prioritize and suggest 50+ resources to build out your Logos library [here](https://www.nickstapleton.me/logos-resources/).
 
 ## 5. Payment Plan
 
@@ -66,6 +66,8 @@ Logos runs a variety sales throughout the year. If you [sign up for my newslett
 
 ## Conclusion
 
-Using these tips will help you save money on your Logos purchases. Ultimately, Logos is an investment in your ministry, personal development, Bible study, and growth. And with [all its features](https://www.nickstapleton.me/Why-You-Should-Buy-Logos/), it makes every resource in your library better.
+Using these tips will help you save money on your Logos purchases. Ultimately, Logos is a worthy investment in your ministry, personal development, Bible study, and growth. And with [all its features](https://www.nickstapleton.me/Why-You-Should-Buy-Logos/), it makes every resource in your library better and will save you a significant amount of time and money in the long run.
+
+Subscribe to my newsletter below and I will keep you posted on the latest Logos sales, free books, discounted resources, and share a training tip to help you get the most out of Logos.
 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
