@@ -9,6 +9,6 @@ I live with my wife and two sons in Colorado Springs where I spend the best part
 
 I have a Master of Divinity (MDiv) from Trinity Evangelical Divinity School.
 
-As may have noticed from my posts, I am passionate about the Bible, theology, and good things in life like coffee, learning, friendship, reading, and techonology. Chances are, if you like those things, we will become fast friends.
+As may have noticed from my website, I am passionate about the Bible, theology, discipleship, and good gifts in life like coffee, learning, friendship, reading, and techonology. Chances are, if you like those things, we will become fast friends.
 
 ✉️ [Contact Me](https://www.nickstapleton.me/contact/)
