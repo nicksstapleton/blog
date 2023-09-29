@@ -1,5 +1,5 @@
 ---
-title: 7 Discount Tips on Logos Base Packages and Resources (10-30% off)
+title: 7 Logos Discount Tips on Base Packages and Resources (10-30% off)
 header:
   teaser: https://files.logoscdn.com/v1/assets/13874871/optimized
 excerpt: Good news! There are several ways to save money and get discounts on Logos.
