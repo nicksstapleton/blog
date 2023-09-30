@@ -1,5 +1,5 @@
 ---
-title: 50+ Recommended Resources for Logos Bible Software [Updated List] 
+title: 50+ Logos Recommended Resources [Updated List] 
 excerpt: What are the best Logos resources you should buy? Here are my recommendations.
 date: 2023-09-03T09:00:00.000-06:00
 tags:
