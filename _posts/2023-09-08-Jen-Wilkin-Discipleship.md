@@ -24,4 +24,5 @@ We need to raise the bar. We need to bridge the expert amateur divide. We need t
 
 This is a matter of great importance and urgency to me.
 
-> "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea." -Antoine de Saint-Exupery
+> "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea."
+> -Antoine de Saint-Exupery
