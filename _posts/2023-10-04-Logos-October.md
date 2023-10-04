@@ -57,7 +57,7 @@ From October 16 to October 31 only, get up to 40% off resources on apologetics, 
 
 [**See the sale**](https://partners.faithlife.com/click.track?CID=436793&AFID=467957)
 
-### **📖** [**Free Logos Book of the Month**](https://partner.logosbible.com/click.track?CID=437858&AFID=467957)
+## 📖 [**Free Logos Book of the Month**](https://partner.logosbible.com/click.track?CID=437858&AFID=467957)
 
 ![Free Book 1](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/o4Mb4MSWP1MaG7WgLgvfJo?ar=1%3A1&fit=crop)
 ![Free Book 2](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/2qYxdwzhNS9BLNX3WUsak9?ar=1%3A1&fit=crop)
@@ -68,8 +68,9 @@ This month you get double the free books! Get _Interpretation: A Bible Commentar
 
 [🎧 **Get Free Audiobook**](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-audiobook)
 
-![Free Ebook](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/fiU5hcJr1)
-# Get Free Ebook](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-ebook)
+[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/fiU5hcJr1h5J18TQYVqarm)](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-ebook)
+
+[**Get Free Ebook**](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-ebook)
 
 ## 🤓 Logos Training Tip — Prioritizing Resources
 
@@ -91,9 +92,7 @@ A helpful way to think about this is to ask yourself, “How would I look up inf
 
 [![Thoughts for your Thoughts](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/cMB7K1SYTizHhDbazS2rgf)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/252395/knowing-god)
 
-“People who know their God are before anything else people who pray, and the first point where their zeal and energy for God’s glory come to expression is in their prayers.
-
-—JI Packer from Knowing God. Resurfaced by [Readwise](https://readwise.io/i/nick139)
+> “People who know their God are before anything else people who pray, and the first point where their zeal and energy for God’s glory come to expression is in their prayers. —JI Packer from _Knowing God_. Resurfaced by [Readwise](https://readwise.io/i/nick139)
 
 ## 🙌 Share the Goods!
 
