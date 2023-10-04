@@ -62,7 +62,7 @@ From October 16 to October 31 only, get up to 40% off resources on apologetics, 
 ![Free Book 1](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/o4Mb4MSWP1MaG7WgLgvfJo?ar=1%3A1&fit=crop)
 ![Free Book 2](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/2qYxdwzhNS9BLNX3WUsak9?ar=1%3A1&fit=crop)
 
-This month you get double the free books! Get _Interpretation: A Bible Commentary for Teaching and Preaching Romans_—FREE until October 16. Then starting October 16, add _Revelation_ (Continental Commentary - CC) to your Logos library for FREE until October 31.
+This month you get double the free books! Get _Interpretation: A Bible Commentary for Teaching and Preaching Romans_ — FREE until October 16. Then starting October 16, add _Revelation_ (Continental Commentary - CC) to your Logos library for FREE until October 31.
 
 [![Free Audiobook](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/qprtzDSEUoopELoxr8ZcXJ)](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-audiobook)
 
