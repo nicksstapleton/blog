@@ -42,8 +42,6 @@ Pastoral and ministry leader resources are also on sale for up to 50% this month
 
 ![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/rVfogFWLU1g2so2B5mhcxn?ar=1%3A1&fit=crop)
 
-Add image
-
 [**See the sale**](https://partners.faithlife.com/click.track?CID=441383&AFID=467957)
 
 ## **✨ More Savings This Month**
