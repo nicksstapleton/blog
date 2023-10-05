@@ -121,7 +121,7 @@ When I first purchased Logos in 2009, I bought an entry-level package and expect
 
 ### [Logos 10 Platinum](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) | Pastors and vocational ministers
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor, moving towards pastoral ministry, or in a role where you are teaching the Bible, this is the package you want. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources.
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10platinum.jpeg){: .align-right} If you are a pastor, pursuing pastoral ministry, or in a role where you are regularly teaching the Bible, this is the package you want. As an MDiv student, this is the package I purchased and I am so glad I did. This package includes all of the L10 Gold features and resources but also adds more technical commentaries and theological studies resources.
 
 This package provides fantastic resources for Biblical studies, preaching, exegesis, and theology. NDBT is a standard text for any course in Biblical Theology and the Pillar NT Commentary series edited by D.A. Carson is first-rate. EGGNT is a tremendous series if you want help navigating the Greek NT. Some notable resources in this package include:
 
@@ -132,7 +132,7 @@ This package provides fantastic resources for Biblical studies, preaching, exege
 
 ### [Logos 10 Diamond](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) | Advanced Study
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10diamond.jpeg){: .align-right} This package is premium yet offers tremendous value. It builds on top of L10 Platinum by expanding your original language resources. The IVP Dictionaries are legendary. The NIGNT series is among the best Greek technical commentaries available. The NSBT series has some landmark volumes in Biblical theology. Package highlights include:
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/l10diamond.jpeg){: .align-right} This package is premium yet offers tremendous value. It isn't overkill to consider this package by any means as it builds on top of L10 Platinum by expanding your original language resources and includes some other best-in-class resources at a steep discount. The IVP Dictionaries are legendary. The NIGNT series is among the best Greek technical commentaries available. The NSBT series has some landmark volumes in Biblical theology. Package highlights include:
 
 * _IVP Bible Dictionary Series (8 Vols.)_
 * _Bible Speaks Today: Commentaries and Themes (76 vols.)_
@@ -141,7 +141,7 @@ This package provides fantastic resources for Biblical studies, preaching, exege
 
 ## Academic and Denominational Packages
 
-Depending on the resources you want, I also think these packages are worth consideration:
+Depending on the resources you want, I think the following packages are worth consideration to round out your library either as a completement to one of the standard packages or as a standalone purchase:
 
 ### [Academic Essentials](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228336/logos-10-academic-essentials)
 
@@ -161,7 +161,7 @@ In addition to the resources in Academic Essentials, this package notably includ
 
 ### [Logos 10 Anglican Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228279/logos-10-anglican-gold)
 
-If you're after great commentaries, this package might be a great fit:
+Listen, you don't have to be an Anglican to purchase this package. I asked the Anglicans and they said it's OK. If you're after great commentaries and you don't need robust original language resources, this package might be an excellent option:
 
 * _Pillar NT commentaries_
 * _Bible Speaks Today commentaries_
@@ -171,7 +171,7 @@ If you're after great commentaries, this package might be a great fit:
 
 ### [Logos 10 Reformed Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228327/logos-10-reformed-gold)
 
-This package has some of my favorite dictionaries, commentaries, and theology books.
+This package has some foundational Biblical and theological study resources and has some of my favorite dictionaries and commentaries.
 
 * _New Dictionary of Biblical Theology (NDBT)_
 * _IVP Pocket Reference Series_
@@ -180,6 +180,17 @@ This package has some of my favorite dictionaries, commentaries, and theology bo
 * _Reformation Commentary on Scripture Collection (20 vols.)_
 * _Contours of Christian Theology (9 vols.)_
 * _The New Bible Dictionary, 3rd ed._
+
+### [Logos 10 Baptist Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228288/logos-10-baptist-diamond)
+If you are seeking preaching and pastoral resources, this package might be the best all-around value. Compared to L10 Diamond, it has far more commentaries, sermon libraries, and pastoral care and counseling resources. Though, between the two, I would personally choose the standard L10 Diamond package, it might be the better fit for you. Some of the notable resources include:
+
+* The New International Greek Testament Commentary Series (NIGTC)
+* Evangelical Biblical Theology Commentary Series (EBTC)
+* Theological Dictionary of the Old Testament
+* Christ Centered Exposition Commentary Series Collection 
+* Exegetical Guide to the Greek New Testament
+* Hermeneia Commentary Series
+* Charles Spurgeon Complete Sermon Collection
 
 ## A Word to Seminary Students: Get Logos Now
 
@@ -193,12 +204,12 @@ With the right resources in Logos, you will save yourself significant time and e
 
 ### Seminary Student Base Package Recommendation
 
-Knowing cost-effectiveness is important for students, I suggest getting these two packages:
+Knowing price point is important for students, I suggest getting these two packages:
 
 * [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
 * [Academic Essentials](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
 
-This will provide you with a well-rounded library full of commentaries, dictionaries, and Hebrew and Greek texts like BHS and NA28. However, if you can afford to reach beyond Gold for [Logos 10 Platinum](https://partner.logosbible.com/click.track?CID=431490&AFID=467957), it is absolutely worth it. With Platinum, you'll gain access to resources like the Exegetical Guide to the Greek New Testament series, Pillar New Testament Commentaries, and the Ancient Christian Commentary on Scripture set. I reached for these these resources over and over again throughout my MDiv program as I wrote papers and studied.
+This will provide you with a well-rounded library full of commentaries, dictionaries, and Hebrew and Greek texts like BHS and NA28. However, if you can afford to reach beyond Gold for [Logos 10 Platinum](https://partner.logosbible.com/click.track?CID=431490&AFID=467957), it is absolutely worth it, especially if you are an MDiv student and working with the languages. With Platinum, you'll gain access to phenomenal resources like the Exegetical Guide to the Greek New Testament series, Pillar New Testament Commentaries, and the Ancient Christian Commentary on Scripture set. I reached for these these resources over and over again throughout my MDiv program as I wrote papers and studied.
 
 ## Take Advantage of Sales
 
