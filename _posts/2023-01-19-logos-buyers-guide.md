@@ -184,13 +184,13 @@ This package has some foundational Biblical and theological study resources and 
 ### [Logos 10 Baptist Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228288/logos-10-baptist-diamond)
 If you are seeking preaching and pastoral resources, this package might be the best all-around value. Compared to L10 Diamond, it has far more commentaries, sermon libraries, and pastoral care and counseling resources. Though, between the two, I would personally choose the standard L10 Diamond package, it might be the better fit for you. Some of the notable resources include:
 
-* The New International Greek Testament Commentary Series (NIGTC)
-* Evangelical Biblical Theology Commentary Series (EBTC)
-* Theological Dictionary of the Old Testament
-* Christ Centered Exposition Commentary Series Collection 
-* Exegetical Guide to the Greek New Testament
-* Hermeneia Commentary Series
-* Charles Spurgeon Complete Sermon Collection
+* *The New International Greek Testament Commentary Series (NIGTC)*
+* *Evangelical Biblical Theology Commentary Series (EBTC)*
+* *Theological Dictionary of the Old Testament*
+* *Christ Centered Exposition Commentary Series Collection*
+* *Exegetical Guide to the Greek New Testament*
+* *Hermeneia Commentary Series*
+* *Charles Spurgeon Complete Sermon Collection*
 
 ## A Word to Seminary Students: Get Logos Now
 
