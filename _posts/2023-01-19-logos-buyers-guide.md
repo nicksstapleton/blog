@@ -182,7 +182,7 @@ This package has some foundational Biblical and theological study resources and 
 * _The New Bible Dictionary, 3rd ed._
 
 ### [Logos 10 Baptist Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228288/logos-10-baptist-diamond)
-If you are seeking preaching and pastoral resources, this package might be the best all-around value. Compared to L10 Diamond, it has far more commentaries, sermon libraries, and pastoral care and counseling resources. Though, between the two, I would personally choose the standard L10 Diamond package, it might be the better fit for you. Some of the notable resources include:
+If you are seeking preaching and pastoral resources, this package might be the best all-around value. Compared to [L10 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond), it has far more commentaries, sermon libraries, and pastoral care and counseling resources. Though, between the two, I would personally choose the standard [L10 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond) package as I find its offerings more comprehensive. Nonetheless, [L10 Baptist Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228288/logos-10-baptist-diamond) may be a better fit for you as some the notable resources include:
 
 * *The New International Greek Testament Commentary Series (NIGTC)*
 * *Evangelical Biblical Theology Commentary Series (EBTC)*
