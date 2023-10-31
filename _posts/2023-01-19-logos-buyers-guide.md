@@ -33,9 +33,9 @@ gallery:
 
 Logos is one of the best investments I have ever made. It has been an incredible resource for my own growth, learning, seminary studies, and ministry.
 
-My journey with Logos began with several questions such as:
+If you are just beginning with Logos or looking to go deeper, you are likely wondering:
 
-* _What Logos base package should I buy?_
+* _Which Logos base package should I buy?_
 * _Which resources are a must-have?_
 * _What is the most cost-effective way to get into Logos?_
 * _Are there any Logos discounts or buying tips I should know about?_
@@ -44,7 +44,7 @@ I write from the perspective of having been in vocational ministry for over 10 y
 
 [^1]:If you’re still on the fence, [read my Logos 10 review](https://www.nickstapleton.me/logos-10-review/).
 
-This buyer’s guide provides buying principles and base package recommendations so you can decide which route into Logos is best for your purposes and needs. Be sure to take advantage of my [exclusive discount](https://www.nickstapleton.me/logos-buyers-guide/#exclusive-discount-for-you) on a Logos Base Package at the end of this post.
+This buyer’s guide provides buying principles and base package recommendations so you can decide which route into Logos is best for your purposes and needs. Be sure to take advantage of my [exclusive discount](https://www.nickstapleton.me/logos-buyers-guide/#exclusive-discount-for-you) on a Logos base package at the end of this post.
 
 ## Buy a Base Package
 
@@ -89,11 +89,11 @@ Here are some of the features I use and value the most and what Logos package th
 
 **A few things to note:**
 
-* If you want to write sermons or use preaching mode in Logos, you need at least the Silver package or above.
-* One of the most popular features released with Logos 10, Print Library Catalog, requires Gold or above.
+* If you want to write sermons or use preaching mode in Logos, you need at least the **Silver** package or above.
+* One of the most popular features released with Logos 10, Print Library Catalog, requires **Gold** or above.
 * Every feature Logos offers is available starting with the Gold package and above. If you're committed to getting at least Gold, this means you are choosing your package based on resources, not features.
 
-If you are not after specific features, you can rest easy knowing most of the best features are included in any Logos package. You can explore all Logos features [here](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=467957=https://www.logos.com/features).
+If you are not after specific features, you can rest easy knowing most of the best features are included in any Logos package. (You can explore all Logos features [here](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=467957=https://www.logos.com/features).)
 
 ## Which Logos Package Should I Buy?
 
