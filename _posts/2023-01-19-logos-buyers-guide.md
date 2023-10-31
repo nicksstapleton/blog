@@ -1,5 +1,5 @@
 ---
-title: 🔎 Logos Buyer's Guide [UPDATED with Discount]
+title: Which Logos Package Should I Buy? [UPDATED with Discount]
 excerpt: Logos is a significant investment. Make sure you buy it the right
   way. My recommendation on the best package for pastors and seminarians.
 date: 2023-01-19T12:00:00.000-06:00
@@ -36,9 +36,8 @@ Logos is one of the best investments I have ever made. It has been an incredible
 If you are just beginning with Logos or looking to go deeper, you are likely wondering:
 
 * _Which Logos base package should I buy?_
-* _Which resources are a must-have?_
-* _What is the most cost-effective way to get into Logos?_
 * _Are there any Logos discounts or buying tips I should know about?_
+* _Which resources or features are a must-have?_
 
 I write from the perspective of having been in vocational ministry for over 10 years and as an MDiv student. My input is best suited for pastors, seminary students, or other vocational ministers. This post is written for those who have already decided they want to get into Logos.[^1] 
 
