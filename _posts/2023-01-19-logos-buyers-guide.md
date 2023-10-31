@@ -210,9 +210,9 @@ This will provide you with a well-rounded library full of commentaries, dictiona
 
 ## Take Advantage of Sales
 
-Many of the resources I consider must-have are included in the base packages I listed above, but there are other great resources you should consider grabbing, especially when they are on sale. **See [my list of recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton).**
+Many of the resources I consider must-have are included in the base packages I listed above, but there are other important resources you should consider grabbing, especially when they are on sale. **This is [my list of recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton).**
 
-Logos runs a variety sales throughout the year. If you [sign up for my newsletter](https://nickstapleton.ck.page), I'll keep you posted on these special sales, especially when they apply to some of my favorite key resources.
+Logos runs a variety sales throughout the year. If you [sign up for my newsletter](https://nickstapleton.ck.page), I'll keep you posted on these special sales, especially when they apply to some of my favorite key resources. Additionally, you can read this post where I share more [Logos discounts and buying tips](https://www.nickstapleton.me/logos-discounts/).
 
 [![](/assets/images/IMG_0901.jpeg)](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
 
