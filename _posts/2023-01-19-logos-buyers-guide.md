@@ -75,8 +75,6 @@ Here are some of the resources I use and value the most and what Logos package t
 
 In the past, Logos made many of these resources available in standard base packages like Gold or Platinum. With Logos 10, these resources have become siloed into academic and denominational packages or you have to pay for a higher standard package to get them. Depending on your needs, you may want to consider purchasing an academic or denominational package to round out your library. More on that below.
 
-You can to see [my full list of 50+ Logos recommended resources here](https://www.nickstapleton.me/logos-resources/).
-
 ### Features
 
 The other benefit of base packages is that you gain Logos features alongside your discounted resources. I love writing sermons and being able to quickly highlight and organize my notes right inside of Logos.
