@@ -81,7 +81,8 @@ This month you get double the free books! Get The Message of Discipleship: Authe
 [📖 **​Get Free Ebook**](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-ebook)
 
 ## 🤓 Logos Training Tip — Using Layouts
-[![Layouts](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/rQVG5F6TAeKKNG5FnjeYB9)](https://support.logos.com/hc/en-us/articles/360016599631-What-are-Layouts-and-How-Do-I-Use-Them-)
+
+[![Layouts](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/rQVG5F6TAeKKNG5FnjeYB9)](https://support.logos.com/hc/en-us/articles/360016599631-What-are-Layouts-and-How-Do-I-Use-Them)
 
 As you use Logos, you will open and close many panels in the main application workspace. You’ll probably want to use certain panels in a particular arrangement regularly. For example, you may want to have your preferred Bible, a commentary, and a Passage Guide open together, with link sets connecting them so they scroll synchronously. Opening and linking each panel each time you want to use this common configuration would be tedious.
 
