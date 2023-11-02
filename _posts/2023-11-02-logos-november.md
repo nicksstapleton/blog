@@ -6,7 +6,7 @@ tags:
 header:
   teaser: "https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/nfTaKcWs3DmNSQ7t92F1wr"
 ---
-|![Minions](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/nfTaKcWs3DmNSQ7t92F1wr)
+![Minions](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/nfTaKcWs3DmNSQ7t92F1wr)
 
 November is here and we're entering Logos holiday deals territory! There are some great opportunities to save money and build your library.
 
@@ -72,13 +72,18 @@ Here are a few of the titles we’re most excited about, up to 40% off:
 
 This month you get double the free books! Get The Message of Discipleship: Authentic Followers of Jesus in Today’s World—FREE until November 15. Then starting October 16, add Reclaiming the Dead Sea Scrolls: Their True Meaning for Judaism and Christianity to your Logos library for FREE until November 30.
 
+[![Free Audiobook](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/qprtzDSEUoopELoxr8ZcXJ)](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-audiobook)
+
 [🎧 **​Get Free Audiobook**](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-audiobook)
+
+[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/fiU5hcJr1h5J18TQYVqarm)](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-ebook)
 
 [📖 **​Get Free Ebook**](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-ebook)
 
 ## 🤓 Logos Training Tip — Using Layouts
+[![Layouts](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/rQVG5F6TAeKKNG5FnjeYB9)](https://support.logos.com/hc/en-us/articles/360016599631-What-are-Layouts-and-How-Do-I-Use-Them-)
 
-[![As you use Logos, you will open and close many panels in the main application workspace. You’ll probably want to use certain panels in a particular arrangement regularly. For example, you may want to have your preferred Bible, a commentary, and a Passage Guide open together, with link sets connecting them so they scroll synchronously. Opening and linking each panel each time you want to use this common configuration would be tedious.
+As you use Logos, you will open and close many panels in the main application workspace. You’ll probably want to use certain panels in a particular arrangement regularly. For example, you may want to have your preferred Bible, a commentary, and a Passage Guide open together, with link sets connecting them so they scroll synchronously. Opening and linking each panel each time you want to use this common configuration would be tedious.
 
 Layouts allow you to permanently save a current or previous snapshot of the Logos workspace to access at a later time. Use this to set up your preferred workspace, with all the resources and tools you want to access quickly for reading a particular book or studying a specific topic. —[Source](https://support.logos.com/hc/en-us/articles/360016599631-What-are-Layouts-and-How-Do-I-Use-Them-)
 
