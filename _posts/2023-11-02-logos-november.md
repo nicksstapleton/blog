@@ -17,9 +17,12 @@ Logos is doing something new this month called Weekly Cyber Deals.
 There are some excellent resources on **deep discount (some 75% off)** in this sale that you should pick up if you don't already own them. Here are a couple of my recommendations:
 
 [![New Dictionary of Biblical Theology, only $9.99! This is a steal price.](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/u5R8K54R5FfGYojbVvq7bn)](https://www.logos.com/product/27277/new-dictionary-of-biblical-theology)
+
 **New Dictionary of Biblical Theology, only $9.99! This is a steal price.**
+
 [![Romans: A Concise Guide to the Greatest Letter Ever Written, only $5.99!](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/njZ9NHhKXCFywY6a58E3Da)](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/222796/romans-a-concise-guide-to-the-greatest-letter-ever-written)
-Romans: A Concise Guide to the Greatest Letter Ever Written, only $5.99!
+
+**Romans: A Concise Guide to the Greatest Letter Ever Written, only $5.99!**
 
 [![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/4iAQnSMrjB21zFS5Fyysi4)
 
@@ -44,9 +47,9 @@ Take your biblical exegesis a little deeper with renowned Westminster John Knox 
 Here are just a few of our featured titles, up to 40% off:
 
 - Westminster Bible Companion Series (34 vols.)
-- Interpretation: A Bible Commentary for Teaching and Preaching | INT (43 vols.)
+- Interpretation: A Bible Commentary for Teaching and Preaching (43 vols.)
 - WJK Old Testament Studies Collection (7 vols.)
-- The New Testament Library Series Collection | NLT (20 vols.)
+- The New Testament Library Series Collection (20 vols.)
 
 Don’t miss out on these and other WJK collections and individual commentaries during the Logos Publisher Spotlight! These deals last only until November 15.
 
@@ -57,7 +60,7 @@ Then starting November 16, get up to 40% off resources from Augsburg Fortress on
 Here are a few of the titles we’re most excited about, up to 40% off:
 
 - Hermeneia and Continental Commentaries (74 vols.)
-- Dietrich Bonhoeffer Works Collection | DBW (17 vols.)
+- Dietrich Bonhoeffer Works Collection (17 vols.)
 - Fortress Press Pauline Studies Collection (35 vols.)
 - Plus dozens of individual volumes and commentary mini-bundles.
 
@@ -77,7 +80,7 @@ This month you get double the free books! Get The Message of Discipleship: Authe
 
 [![As you use Logos, you will open and close many panels in the main application workspace. You’ll probably want to use certain panels in a particular arrangement regularly. For example, you may want to have your preferred Bible, a commentary, and a Passage Guide open together, with link sets connecting them so they scroll synchronously. Opening and linking each panel each time you want to use this common configuration would be tedious.
 
-Layouts allow you to permanently save a current or previous snapshot of the Logos workspace to access at a later time. Use this to set up your preferred workspace, with all the resources and tools you want to access quickly for reading a particular book or studying a specific topic. —[Source](https://support.logos.com/hc/en-us/articles/360016599631-What-are-Layouts-and-How-Do-I-Use-Them-)​](https://support.logos.com/hc/en-us/articles/360016599631-What-are-Layouts-and-How-Do-I-Use-Them-)
+Layouts allow you to permanently save a current or previous snapshot of the Logos workspace to access at a later time. Use this to set up your preferred workspace, with all the resources and tools you want to access quickly for reading a particular book or studying a specific topic. —[Source](https://support.logos.com/hc/en-us/articles/360016599631-What-are-Layouts-and-How-Do-I-Use-Them-)
 
 ## 💬 Thoughts for your Thoughts
 
