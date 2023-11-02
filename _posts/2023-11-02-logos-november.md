@@ -24,7 +24,7 @@ There are some excellent resources on **deep discount (some 75% off)** in this s
 
 **Romans: A Concise Guide to the Greatest Letter Ever Written, only $5.99!**
 
-[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/4iAQnSMrjB21zFS5Fyysi4)
+![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/4iAQnSMrjB21zFS5Fyysi4)
 
 [See the sale](https://partners.faithlife.com/click.track?CID=466226&AFID=467957)
 
