@@ -76,3 +76,7 @@ Learning biblical Hebrew can be extremely difficult. This month’s free book is
 ## 🙌 Share the Goods!
 
 Know anyone else who uses Logos? Share this post with them! Not already subscribed? [Subscribe here](https://nickstapleton.ck.page/4154455aa2)
+
+<script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
+
+Disclosure: I may earn a commission if you choose to purchase products through the affiliate links provided on my website or newsletter. This comes at no additional cost to you and helps support my efforts to deliver valuable content. My recommendations are my own, and your trust is important to me. Thank you for being a part of my community.
