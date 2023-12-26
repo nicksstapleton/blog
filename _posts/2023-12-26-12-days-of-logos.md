@@ -1,6 +1,6 @@
 ---
 title: "🎄 12 Days of Logos + Free Books!"
-excerpt: "Best of 2023 Books sale and more"
+excerpt: "Best of 2023 books sale and more"
 tags:
   - Logos
 header:
