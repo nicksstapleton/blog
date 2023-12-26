@@ -72,3 +72,7 @@ Learning biblical Hebrew can be extremely difficult. This month’s free book is
 **🔎** [**Which Logos Package Should I Buy?**](https://www.nickstapleton.me/logos-buyers-guide/)**​**
 💰 [**The BEST Logos Discounts and Buying Tips [10-30% off]**](https://www.nickstapleton.me/logos-discounts/)**​**
 **📚** [**My Logos Recommended Resources**](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)​
+
+## 🙌 Share the Goods!
+
+Know anyone else who uses Logos? Share this post with them! Not already subscribed? [Subscribe here](https://nickstapleton.ck.page/4154455aa2)
