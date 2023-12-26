@@ -96,4 +96,4 @@ Layouts allow you to permanently save a current or previous snapshot of the Logo
 
 ## 🙌 Share the Goods!
 
-Know anyone else who uses Logos? Share this email with them! Not already subscribed? [Subscribe here](https://nickstapleton.ck.page/4154455aa2)
+Know anyone else who uses Logos? Share this post with them! Not already subscribed? [Subscribe here](https://nickstapleton.ck.page/4154455aa2)
