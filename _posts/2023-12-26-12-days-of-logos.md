@@ -21,7 +21,7 @@ If you're looking to get a Logos package, this is a great sale.
 
 [**See the sale**](https://partner.logosbible.com/click.track?CID=431490&AFID=467957)
 
-**Through January 6,** [**Logos packages are discounted up to 30%**](https://partner.logosbible.com/click.track?CID=431490&AFID=467957)**! Make**
+**Through January 6,** [**Logos packages are discounted up to 30%**](https://partner.logosbible.com/click.track?CID=431490&AFID=467957)**!**
 
 - Some [**my recommended Logos resources**](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) are on sale, too.
 
