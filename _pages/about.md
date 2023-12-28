@@ -9,6 +9,6 @@ I live with my wife and two sons in Colorado Springs where I spend the best part
 
 I have a Master of Divinity (MDiv) from Trinity Evangelical Divinity School.
 
-I am passionate about the Bible, theology, discipleship, and good gifts in life like black coffee, learning, friendship, reading, and Graeter's black raspberry chip ice cream. Chances are, if you like those things, we will become fast friends.
+I am passionate about the Bible, theology, discipleship, and good gifts in life like black coffee, learning, friendship, reading, and Graeter's black raspberry chip ice cream.
 
 ✉️ [Contact Me](https://www.nickstapleton.me/contact/)
