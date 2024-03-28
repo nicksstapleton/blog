@@ -105,7 +105,6 @@ Logos is only as useful as the resources you have inside of it. If you want to a
 
 When I first purchased Logos in 2009, I bought an entry-level package and expected it to somehow perform exegetical magic. Eventually, I realized that Logos isn’t going to magically revolutionize my study of the Bible simply by buying any package.
 
-> [!TIP]
 > ***You need to know what you want Logos to do for you and ensure you are getting the right resources and features to accomplish your desired task.***
 
 ### [Logos 10 Gold](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) | Small group and Sunday school leaders
