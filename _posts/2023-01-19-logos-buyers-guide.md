@@ -138,7 +138,7 @@ This package provides fantastic resources for Biblical studies, preaching, exege
 
 ## Academic and Denominational Packages
 
-Depending on the resources you want, I think the following packages are worth consideration to round out your library either as a completement to one of the standard packages or as a standalone purchase:
+Depending on the resources you want, the following packages are worth consideration to round out your library either as a complement to one of the standard packages or as a standalone purchase:
 
 ### [Academic Essentials](https://partners.faithlife.com/click.track?CID=466788&AFID=467957)
 
@@ -179,7 +179,7 @@ This package has some foundational Biblical and theological study resources and 
 * _The New Bible Dictionary, 3rd ed._
 
 ### [Logos 10 Baptist Diamond](https://partners.faithlife.com/click.track?CID=466790&AFID=467957)
-If you are seeking preaching and pastoral resources, this package might be the best all-around value. Compared to [L10 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond), it has far more commentaries, sermon libraries, and pastoral care and counseling resources. Though, between the two, I would personally choose the standard [L10 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond) package as I find its offerings more comprehensive. Nonetheless, [L10 Baptist Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228288/logos-10-baptist-diamond) may be a better fit for you as some the notable resources include:
+If you are seeking preaching and pastoral resources, this package might be the best all-around value. Compared to [L10 Diamond](https://partner.logosbible.com/click.track?CID=431490&AFID=467957), it has far more commentaries, sermon libraries, and pastoral care and counseling resources. Though, between the two, I would personally choose the standard [L10 Diamond](https://partner.logosbible.com/click.track?CID=431490&AFID=467957) package as I find its offerings more comprehensive. Nonetheless, [L10 Baptist Diamond](https://partners.faithlife.com/click.track?CID=466790&AFID=467957) may be a better fit for you as some the notable resources include:
 
 * *The New International Greek Testament Commentary Series (NIGTC)*
 * *Evangelical Biblical Theology Commentary Series (EBTC)*
