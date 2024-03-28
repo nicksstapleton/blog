@@ -3,7 +3,7 @@ title: Which Logos Package Should I Buy? [UPDATED]
 excerpt: Logos is a significant investment. Make sure you buy it the right
   way. My recommendation on the best package for pastors and seminarians.
 date: 2023-01-19T12:00:00.000-06:00
-last_modified_at: 2023-09-22
+last_modified_at: 2024-03-28
 toc: true
 toc_label: Logos Buyer's Guide
 toc_icon: search-plus
@@ -140,14 +140,14 @@ This package provides fantastic resources for Biblical studies, preaching, exege
 
 Depending on the resources you want, I think the following packages are worth consideration to round out your library either as a completement to one of the standard packages or as a standalone purchase:
 
-### [Academic Essentials](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228336/logos-10-academic-essentials)
+### [Academic Essentials](https://partners.faithlife.com/click.track?CID=466788&AFID=467957)
 
 This package has the essential original language resources MDiv students need (NA28 and BHS). It also includes:
 
 * _The IVP Bible Background Commentary (2 vols.)_
 * _The New Bible Commentary (NBC)_
 
-### [Academic Professional](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228339/logos-10-academic-professional)
+### [Academic Professional](https://partners.faithlife.com/click.track?CID=466788&AFID=467957)
 
 In addition to the resources in Academic Essentials, this package notably includes:
 
@@ -156,7 +156,7 @@ In addition to the resources in Academic Essentials, this package notably includ
 * _Exegetical Guide to the Greek New Testament (13 vols.)_
 * _International Critical Commentary (65 vols.)_
 
-### [Logos 10 Anglican Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228279/logos-10-anglican-gold)
+### [Logos 10 Anglican Gold](https://partners.faithlife.com/click.track?CID=466789&AFID=467957)
 
 Listen, you don't have to be an Anglican to purchase this package. I asked the Anglicans and they said it's OK. If you're after great commentaries and you don't need robust original language resources, this package might be an excellent option:
 
@@ -166,7 +166,7 @@ Listen, you don't have to be an Anglican to purchase this package. I asked the A
 * _New Bible Dictionary, 3rd ed._
 * _New Dictionary of Theology: Historical and Systematic, 2nd ed._
 
-### [Logos 10 Reformed Gold](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228327/logos-10-reformed-gold)
+### [Logos 10 Reformed Gold](https://partners.faithlife.com/click.track?CID=466799&AFID=467957)
 
 This package has some foundational Biblical and theological study resources and has some of my favorite dictionaries and commentaries.
 
@@ -178,7 +178,7 @@ This package has some foundational Biblical and theological study resources and 
 * _Contours of Christian Theology (9 vols.)_
 * _The New Bible Dictionary, 3rd ed._
 
-### [Logos 10 Baptist Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228288/logos-10-baptist-diamond)
+### [Logos 10 Baptist Diamond](https://partners.faithlife.com/click.track?CID=466790&AFID=467957)
 If you are seeking preaching and pastoral resources, this package might be the best all-around value. Compared to [L10 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond), it has far more commentaries, sermon libraries, and pastoral care and counseling resources. Though, between the two, I would personally choose the standard [L10 Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228270/logos-10-diamond) package as I find its offerings more comprehensive. Nonetheless, [L10 Baptist Diamond](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/228288/logos-10-baptist-diamond) may be a better fit for you as some the notable resources include:
 
 * *The New International Greek Testament Commentary Series (NIGTC)*
