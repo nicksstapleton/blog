@@ -147,8 +147,8 @@ Logos Gold provides a comprehensive Bible study library. If you are a small grou
 
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryPlatinum.jpg" alt="">
-</figure> 	  
-	  If you are a pastor, pursuing pastoral ministry, or in a role where you are regularly teaching the Bible, this is the package you want. This package includes all of the Gold package resources but also adds more technical commentaries and theological studies resources.
+</figure>
+If you are a pastor, pursuing pastoral ministry, or in a role where you are regularly teaching the Bible, this is the package you want. This package includes all of the Gold package resources but also adds more technical commentaries and theological studies resources.
 
 - _Preaching the Word Commentary Series Collection (42 vols.)_
 - _UBS Handbooks Series: Old Testament, New Testament_
@@ -160,7 +160,7 @@ Logos Gold provides a comprehensive Bible study library. If you are a small grou
 
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
-</figure> 
+</figure>
 This package is premium yet offers tremendous value. This is the package I purchased and I am so glad I did. It isn't overkill to consider this package by any means as it builds on top of Platinum by expanding your resources exploring biblical themes and includes some other best-in-class resources at a steep discount. 
 
 - _Pillar New Testament Commentary (17 vols.)_
