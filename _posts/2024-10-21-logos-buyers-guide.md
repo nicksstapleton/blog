@@ -111,20 +111,20 @@ When I first purchased Logos in 2009, I bought an entry-level library package an
 As I mentioned earlier, the three subscription tiers are aimed at three different use-cases. For me, the following m
 
 ### Logos Premium
-- For: Lay leaders, Sunday school teachers,  and small group leaders.
+- Recommended For: Lay leaders, Sunday school teachers,  and small group leaders.
 - Empowers: Teaching others in small groups
 - Bible study tools: Intermediate
 - Original languages: Only through English Bible
 
 ### Logos Pro
-- For: Pastors, seminary students, teachers, and vocational ministers
+- Recommended For: Pastors, seminary students, teachers, and vocational ministers
 - Empowers: Teaching, preaching, pastoring, counseling, and seminary study
 - Bible study tools: Advanced
 - Original languages: Intermediate Greek/Hebrew morphological tools
 - Also: Study the deuterocanonicals
 
 ### Logos Max
-- For: Original-language geeks
+- Recommended For: Original-language geeks
 - Empowers: Advanced research
 - Bible study tools: Advanced
 - Original languages: Advanced Greek/Hebrew grammar and syntax, plus Latin, Syriac, etc.
@@ -137,7 +137,7 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 
 ### [Gold Library](https://logos.sjv.io/oqjP3m) | Small group and Sunday school leaders
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryGold.jpg" alt="">
 </figure> 
 Logos Gold provides a comprehensive Bible study library. If you are a small group or Sunday school teacher, this package will be a fantastic entry point. Some standout resources include:
@@ -150,7 +150,7 @@ Logos Gold provides a comprehensive Bible study library. If you are a small grou
 
 ### [Platinum Library](https://logos.sjv.io/oqjP3m) | Pastors and vocational ministers
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryPlatinum.jpg" alt="">
 </figure>
 If you are a pastor, pursuing pastoral ministry, or in a role where you are regularly teaching the Bible, this is the package you want. This package includes all of the Gold package resources but also adds more technical commentaries and theological studies resources.
@@ -163,7 +163,7 @@ If you are a pastor, pursuing pastoral ministry, or in a role where you are regu
 
 ### [Diamond Library](https://logos.sjv.io/oqjP3m) | Advanced study and Seminary Students
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
 </figure>
 This package is premium yet offers tremendous value. This is the package I purchased and I am so glad I did. It isn't overkill to consider this package by any means as it builds on top of Platinum by expanding your resources exploring biblical themes and includes some other best-in-class resources at a steep discount. 
