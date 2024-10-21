@@ -56,14 +56,6 @@ Ultimately, a subscription provides you the following:
 
 With the switch to a subscription format, Logos is able to introduce a lower price of entry, Al/cloud features, continuous feature upgrades, and a faster feedback loop for a better product. I am enjoying this change to subscription.
 
-### Logos Subscription Pricing
-
-The price for each subscription tier varies. If you own a Logos 10 or earlier package, you can get a cheaper price than those who are all together new to Logos. Additionally, you can get two months free if you pay annually and five months free if you pay for two years upfront. Here's an overview of the pricing.
-
-![](/assets/images/LogosSubscriptionPricing.png)
-
-Perpetual feature licensing remains a component of the new subscription model. As always, the features and content you’ve purchased are yours forever and accessible with or without a subscription.
-
 ### Important Details about Logos Subscriptions 
 
 Logos subscriptions work differently than most subscription models. When you stop paying for your Netflix subscription, you lose all access to Netflix. That's not how Logos subscriptions work.
@@ -74,7 +66,15 @@ A Legacy Fallback License allows you to keep offline features when you cancel yo
 
 This is why I view Logos subscriptions more along the lines of a payment plan. You’re paying your way towards a Legacy Fallback License and will keep the features if decide to cancel after 24 months.
 
-And again, any books or content you purchase are yours forever and accessible regardless of your subscription status.
+And again, any books, features, or content you purchase are yours forever and accessible regardless of your subscription status.
+
+### Logos Subscription Pricing
+
+The price for each subscription tier varies. If you own a Logos 10 or earlier package, you can get a cheaper price than those who are all together new to Logos. Additionally, you can get two months free if you pay annually and five months free if you pay for two years upfront. Here's an overview of the pricing.
+
+![](/assets/images/LogosSubscriptionPricing.png)
+
+Don't forget: [Use my link to get a special extended free trial](https://logos.sjv.io/stapleton)!** [^2]
 
 ## Logos Libraries Overview
 ![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
