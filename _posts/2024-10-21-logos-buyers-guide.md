@@ -185,10 +185,10 @@ With the right resources in Logos, you will save yourself significant time and e
 
 ### Seminary Student Base Package Recommendation
 
-Knowing price point is important for students, I suggest getting these this subscription and package:
+For students, I suggest getting these this subscription and package:
 
 - Subscription: [Logos Pro](https://logos.sjv.io/stapleton)
-- Library: [Logos Platinum](https://logos.sjv.io/stapleton)
+- Library: [Logos Diamond](https://logos.sjv.io/stapleton)
 
 If you're a seminary student, don’t forget to sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 ## Take Advantage of Sales
