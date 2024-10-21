@@ -99,6 +99,8 @@ Ultimately, there are three questions you need to answer:
 2. What resources do you want?
 3. What is your budget?
 
+![](/assets/images/LogosFeaturesLibrary.gif)
+
 Logos is only as useful as the resources and features you have inside of it. If you want to access the top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
 
 When I first purchased Logos in 2009, I bought an entry-level library package and expected it to somehow perform exegetical magic. Eventually, I realized that Logos isn’t going to magically revolutionize my study of the Bible simply by buying any package.
