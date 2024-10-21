@@ -1,7 +1,7 @@
 ---
 title: Best Logos Subscription and Library Package [UPDATED]
 excerpt: Logos is a significant investment. Make sure you buy it the right
-  way. My recommendation on the best subscription and library for pastors and seminarians.
+  way. My recommendation on the best subscription and library for pastors and students.
 last_modified_at: 2024-10-21
 toc: true
 toc_label: Logos Buyer's Guide
