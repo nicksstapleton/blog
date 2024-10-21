@@ -56,11 +56,11 @@ Ultimately, a subscription provides you the following:
 
 Ultimately, with the switch to a subscription format, Logos is able to introduce a lower price of entry, Al/cloud features, continuous feature upgrades, and a faster feedback loop for a better product.
 
-## What is the Logos Subscription Pricing?
+### What is the Logos Subscription Pricing?
 
 ![](/assets/images/LogosSubscriptionPricing.png)
 Perpetual feature licensing will remain a component of the new subscription model. As always, the features and content you’ve purchased are yours forever and accessible with or without a subscription.
-## Important Things to Know about Logos Subscriptions 
+### Important Details Know about Logos Subscriptions 
 
 Logos subscriptions work differently than most subscription models. When you stop paying for your Netflix subscription, you lose all access to Netflix. That's not how Logos subscriptions work.
 
@@ -78,13 +78,13 @@ Logos libraries are the most cost-effective route to build your library. Why?
 
 According to Logos, their libraries save you 90% compared to purchasing books individually.
 
-Libraries are only available to purchase for subscribers and are perpetual licenses, which means even if you cancel your Logos subscription, you will still keep and retain access to your books.
+New libraries are only available to purchase for Logos subscribers and are perpetual licenses, which means even if you cancel your Logos subscription, you will still keep and retain access to your books.
 
-When I first began with Logos, I thought base packages were something to avoid since I considered them overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but you will almost certainly overspend.
+When I first began with Logos, I thought libraries were something to avoid since I considered them overpriced and full of resources I would never use. However, I have since learned that while there may be resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but you will almost certainly overspend.
 
-Worst-case scenario with a Logos package: you pay for the resources you want and get hundreds of others thrown in at little or no extra cost.
+Worst-case scenario with a Logos library: you pay for the resources you want and get hundreds of others thrown in at little or no extra cost.
 
-Base packages are the most cost-effective way of getting the resources you want.
+Libraries are the most cost-effective way of getting the resources you want.
 
 *Important note: You must have a current Logos subscription to access purchasing the new library base packages.* 
 
