@@ -56,7 +56,7 @@ Ultimately, a subscription provides you the following:
 
 With the switch to a subscription format, Logos is able to introduce a lower price of entry, Al/cloud features, continuous feature upgrades, and a faster feedback loop for a better product.
 
-### What is the Logos Subscription Pricing?
+### Logos Subscription Pricing?
 
 ![](/assets/images/LogosSubscriptionPricing.png)
 
@@ -74,7 +74,7 @@ This is why I view Logos subscriptions more along the lines of a payment plan. Y
 
 And again, any books or content you purchase are yours forever and accessible.
 
-## What about Logos Libraries?
+## Logos Libraries Overview
 ![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
 
 Logos libraries are the most cost-effective route to build your library. Why?
@@ -108,7 +108,7 @@ When I first purchased Logos in 2009, I bought an entry-level library package an
 > **_You need to know what you want Logos to do for you and ensure you are getting the right features and resources to accomplish your desired task._**
 
 ## Logos Subscription Recommendation
-As I mentioned earlier, the three subscription tiers are aimed at three different use-cases.
+As I mentioned earlier, the three subscription tiers are aimed at three different use-cases. For me, the following m
 
 ### Logos Premium
 - For: Lay leaders, Sunday school teachers,  and small group leaders.
