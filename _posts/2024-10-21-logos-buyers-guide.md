@@ -143,6 +143,7 @@ Logos Gold provides a comprehensive Bible study library. If you are a small grou
 - God’s Word for You (33 vols.)
 - Theological Wordbook of the Old Testament
 - Augustine’s Expositions of the Psalms Set, 6 vols. (The Works of Saint Augustine)
+
 ### [Platinum Library](https://logos.sjv.io/oqjP3m) | Pastors and vocational ministers
 
 <figure style="width: 300px" class="align-right">
