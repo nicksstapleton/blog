@@ -54,9 +54,11 @@ Ultimately, a subscription provides you the following:
 	- Earn 5% annual reward coupon every February (Pro and Max only)
 	- Logos online sermon database (Pro and Max only)
 
-With the switch to a subscription format, Logos is able to introduce a lower price of entry, Al/cloud features, continuous feature upgrades, and a faster feedback loop for a better product.
+With the switch to a subscription format, Logos is able to introduce a lower price of entry, Al/cloud features, continuous feature upgrades, and a faster feedback loop for a better product. I am enjoying this change to subscription.
 
 ### Logos Subscription Pricing
+
+The price for each subscription tier varies. If you own a Logos 10 or earlier package, you can get a cheaper price than those who are all together new to Logos. Additionally, you can get two months free if you pay annually and five months free if you pay for two years upfront. Here's an overview of the pricing.
 
 ![](/assets/images/LogosSubscriptionPricing.png)
 
@@ -70,9 +72,9 @@ With Logos, if you cancel your subscription after you’ve subscribed for 24 mon
 
 A Legacy Fallback License allows you to keep offline features when you cancel your subscription after 24 consecutive months. Instead of falling back to a free or previous version of Logos, you'll keep the core features from your subscription tier that don't rely on the cloud or AI.
 
-This is why I view Logos subscriptions more along the lines of a payment plan. You’re paying your way towards a Legacy Fallback License and even have the option to pay for two years up front, earning you five months free!
+This is why I view Logos subscriptions more along the lines of a payment plan. You’re paying your way towards a Legacy Fallback License and will keep the features if decide to cancel after 24 months.
 
-And again, any books or content you purchase are yours forever and accessible.
+And again, any books or content you purchase are yours forever and accessible regardless of your subscription status.
 
 ## Logos Libraries Overview
 ![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
