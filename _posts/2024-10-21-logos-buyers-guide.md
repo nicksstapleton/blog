@@ -75,6 +75,7 @@ This is why I view Logos subscriptions more along the lines of a payment plan. Y
 And again, any books or content you purchases are yours forever and accessible.
 
 ## What about Logos Libraries?
+![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
 
 Logos libraries are the most cost-effective route to build your library. Why?
 
@@ -90,7 +91,6 @@ Libraries are the most cost-effective way of getting the resources you want.
 
 *Important note: You must have a current Logos subscription to access purchasing the new library base packages.* 
 
-![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
 ## Which Logos Subscription and Library Should I Buy?
 
 Ultimately, there are three questions you need to answer:
