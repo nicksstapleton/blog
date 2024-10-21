@@ -54,7 +54,7 @@ Ultimately, a subscription provides you the following:
 	- Earn 5% annual reward coupon every February (Pro and Max only)
 	- Logos online sermon database (Pro and Max only)
 
-Ultimately, with the switch to a subscription format, Logos is able to introduce a lower price of entry, Al/cloud features, continuous feature upgrades, and a faster feedback loop for a better product.
+With the switch to a subscription format, Logos is able to introduce a lower price of entry, Al/cloud features, continuous feature upgrades, and a faster feedback loop for a better product.
 
 ### What is the Logos Subscription Pricing?
 
@@ -72,7 +72,7 @@ A Legacy Fallback License allows you to keep offline features when you cancel yo
 
 This is why I view Logos subscriptions more along the lines of a payment plan. You’re paying your way towards a Legacy Fallback License and even have the option to pay for two years up front, earning you five months free!
 
-And again, any books or content you purchases are yours forever and accessible.
+And again, any books or content you purchase are yours forever and accessible.
 
 ## What about Logos Libraries?
 ![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
