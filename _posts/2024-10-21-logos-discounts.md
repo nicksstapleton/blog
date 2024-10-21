@@ -16,11 +16,11 @@ You’re here to find a discount and save money on Logos Bible Software. Maybe y
 In this post, I’m going to share the seven best tips to get a discount on your Logos subscription and library.
 ## 1. Use [my partner link discount](https://logos.sjv.io/stapleton) (Extended free trial and up to 30% off a library)
 
-I am a Logos affiliate and proud of it. And this is a legitimate discount.
+I am a Logos affiliate and proud of it. And this is a legitimate special offer.
 
 Logos has been an invaluable tool in my ministry, seminary studies, sermon prep, and personal growth. I love telling others about why it’s worth the investment and how to get started.
 
-In return for sending readers from my website to Logos, I get a small commission at no cost to you and you receive a valuable discount!
+In return for sending readers from my website to Logos, I get a small commission at no cost to you and you receive a valuable special offer!
 
 [My partner link](https://logos.sjv.io/stapleton) will get you an extra 30 days on your free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
 
@@ -42,7 +42,13 @@ If you want direction and help picking out a library, read my [Logos Buyer’s G
 
 If you're a seminary student, sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This student discount will get you 30% off of a Logos library and up to 50% off of essential academic resources.
 
-## 4. Is the resource you want included in a base package?
+## 4. Paying Annually
+
+Beyond getting an extra 30-days free via [my partner offer](https://logos.sjv.io/stapleton), you can get more free months by paying upfront. If you pay annually, you will get two months free on your Logos subscription. If you pay two years upfront, you get FIVE months free on your Logos subscription. If you use [my link](https://logos.sjv.io/stapleton), that five months turns into six months free.
+
+🔥 That's effectively more than 35% off compared to paying month-to-month. 
+
+## 5. Is the resource you want included in a base package?
 
 Check this out: If I wanted to buy the _Dictionary of Classical Hebrew_ it would cost me $339.99, but if I buy the Logos Academic Premium Library I can get it and dozens of other resources thrown in for $108.53. 🤯
 
@@ -51,10 +57,6 @@ Check this out: If I wanted to buy the _Dictionary of Classical Hebrew_ it would
 This is the glory of Logos libraries. If there are specific resources you want, check on the resource page to see if they’re included in any Logos base packages. This is the best way to get your resource, sometimes cheaper than its list price on its own _and_ get more resources thrown in for cheap (or free)!
 
 Speaking of resources, if you are looking for recommendations, I have written about the six most important categories to prioritize and suggest 50+ resources to build out your Logos library [here](https://www.nickstapleton.me/logos-resources/).
-
-## 5. Subscription Pricing 
-
-Beyond getting an extra month free via [my partner offer](https://logos.sjv.io/stapleton), you can get more free months by paying upfront. If you pay annually, you will get two months free on your Logos subscription. If you pay two years upfront, you get FIVE months free on your Logos subscription.
 
 ## 6. Grab the Free Book of the Month
 
