@@ -157,8 +157,8 @@ Logos Gold provides a comprehensive Bible study library. If you are a small grou
 If you are a pastor, pursuing pastoral ministry, or in a role where you are regularly teaching the Bible, this is the package you want. This package includes all of the Gold package resources but also adds more technical commentaries and theological studies resources.
 
 - _Preaching the Word Commentary Series Collection (42 vols.)_
+- _Anchor Yale Bible Dictionary (6 vols.)_
 - _UBS Handbooks Series: Old Testament, New Testament_
-- _Deuterocanonical Books (66 vols.)_
 - _International Theological Commentary Series Collection (5 vols.)_
 - _SIL Exegetical Summary Series (34 vols.)_
 
