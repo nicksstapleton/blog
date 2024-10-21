@@ -59,7 +59,9 @@ Ultimately, with the switch to a subscription format, Logos is able to introduce
 ### What is the Logos Subscription Pricing?
 
 ![](/assets/images/LogosSubscriptionPricing.png)
-Perpetual feature licensing will remain a component of the new subscription model. As always, the features and content you’ve purchased are yours forever and accessible with or without a subscription.
+
+Perpetual feature licensing remains a component of the new subscription model. As always, the features and content you’ve purchased are yours forever and accessible with or without a subscription.
+
 ### Important Details Know about Logos Subscriptions 
 
 Logos subscriptions work differently than most subscription models. When you stop paying for your Netflix subscription, you lose all access to Netflix. That's not how Logos subscriptions work.
