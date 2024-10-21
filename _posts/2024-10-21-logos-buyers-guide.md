@@ -111,25 +111,24 @@ When I first purchased Logos in 2009, I bought an entry-level library package an
 As I mentioned earlier, the three subscription tiers are aimed at three different use-cases. For me, the following m
 
 ### Logos Premium
-- Recommended For: Lay leaders, Sunday school teachers,  and small group leaders.
-- Empowers: Teaching others in small groups
-- Bible study tools: Intermediate
-- Original languages: Only through English Bible
+- **Recommended For**: Lay leaders, Sunday school teachers,  and small group leaders.
+- **Empowers**: Teaching others in small groups
+- **Bible study tools**: Intermediate
+- **Original languages**: Only through English Bible
 
 ### Logos Pro
-- Recommended For: Pastors, seminary students, teachers, and vocational ministers
-- Empowers: Teaching, preaching, pastoring, counseling, and seminary study
-- Bible study tools: Advanced
-- Original languages: Intermediate Greek/Hebrew morphological tools
-- Also: Study the deuterocanonicals
+- **Recommended For**: Pastors, seminary students, teachers, and vocational ministers
+- **Empowers**: Teaching, preaching, pastoring, counseling, and seminary study
+- **Bible study tools**: Advanced
+- **Original languages**: Intermediate Greek/Hebrew morphological tools
+- **Also**: Study the deuterocanonicals
 
 ### Logos Max
-- Recommended For: Original-language geeks
-- Empowers: Advanced research
-- Bible study tools: Advanced
-- Original languages: Advanced Greek/Hebrew grammar and syntax, plus Latin, Syriac, etc.
-- Also: Study the deuterocanonicals, Septuagint, Vulgate, Dead Sea Scrolls, etc.
-- Includes every current Logos feature
+- **Recommended For**: Original-language geeks
+- **Empowers**: Advanced research
+- **Bible study tools**: Advanced
+- **Original languages**: Advanced Greek/Hebrew grammar and syntax, plus Latin, Syriac, etc.
+- **Also**: Includes every current Logos feature. Study the deuterocanonicals, Septuagint, Vulgate, Dead Sea Scrolls, etc.
 
 **As a Logos affiliate, I am able to provide you an [extended free trial on a Logos subscription](https://logos.sjv.io/stapleton)!**
 
