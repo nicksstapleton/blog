@@ -133,7 +133,10 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 
 ### [Gold Library](https://logos.sjv.io/oqjP3m) | Small group and Sunday school leaders
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryGold.jpg){: .align-right} Logos Gold provides a comprehensive Bible study library. If you are a small group or Sunday school teacher, this package will be a fantastic entry point. Some standout resources include:
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryGold.jpg" alt="">
+</figure> 
+Logos Gold provides a comprehensive Bible study library. If you are a small group or Sunday school teacher, this package will be a fantastic entry point. Some standout resources include:
 
 -  The Preacher’s Outline and Sermon Bible (45 vols.)
 - ESV Expository Commentary Series Collection (11 vols.)
@@ -142,17 +145,23 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 - Augustine’s Expositions of the Psalms Set, 6 vols. (The Works of Saint Augustine)
 ### [Platinum Library](https://logos.sjv.io/oqjP3m) | Pastors and vocational ministers
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryPlatinum.jpg){: .align-right} If you are a pastor, pursuing pastoral ministry, or in a role where you are regularly teaching the Bible, this is the package you want. This package includes all of the Gold package resources but also adds more technical commentaries and theological studies resources.
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryPlatinum.jpg" alt="">
+</figure> 	  
+	  If you are a pastor, pursuing pastoral ministry, or in a role where you are regularly teaching the Bible, this is the package you want. This package includes all of the Gold package resources but also adds more technical commentaries and theological studies resources.
 
 - _Preaching the Word Commentary Series Collection (42 vols.)_
 - _UBS Handbooks Series: Old Testament, New Testament_
 - _Deuterocanonical Books (66 vols.)_
 - _International Theological Commentary Series Collection (5 vols.)_
-- _SIL Exegetical Summary Series | SILES (34 vols.)_
+- _SIL Exegetical Summary Series (34 vols.)_
 
 ### [Diamond Library](https://logos.sjv.io/oqjP3m) | Advanced study and Seminary Students
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg){: .align-right} This package is premium yet offers tremendous value. This is the package I purchased and I am so glad I did. It isn't overkill to consider this package by any means as it builds on top of Platinum by expanding your resources exploring biblical themes and includes some other best-in-class resources at a steep discount. 
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
+</figure> 
+This package is premium yet offers tremendous value. This is the package I purchased and I am so glad I did. It isn't overkill to consider this package by any means as it builds on top of Platinum by expanding your resources exploring biblical themes and includes some other best-in-class resources at a steep discount. 
 
 - _Pillar New Testament Commentary (17 vols.)_
 - _Exegetical Guide to the Greek New Testament (14 vols.)_
