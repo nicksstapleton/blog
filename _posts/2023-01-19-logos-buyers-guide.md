@@ -59,7 +59,7 @@ Ultimately, with the switch to a subscription format, Logos is able to introduce
 
 ## What is the Logos Subscription Pricing?
 
-![[Subscription Pricing.png]]
+![](/assets/images/LogosSubscriptionPricing.png)
 Perpetual feature licensing will remain a component of the new subscription model. As always, the features and content you’ve purchased are yours forever and accessible with or without a subscription.
 ## Important Things to Know about Logos Subscriptions 
 
