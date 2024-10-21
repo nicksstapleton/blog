@@ -56,7 +56,7 @@ Ultimately, a subscription provides you the following:
 
 With the switch to a subscription format, Logos is able to introduce a lower price of entry, Al/cloud features, continuous feature upgrades, and a faster feedback loop for a better product.
 
-### Logos Subscription Pricing?
+### Logos Subscription Pricing
 
 ![](/assets/images/LogosSubscriptionPricing.png)
 
