@@ -74,7 +74,7 @@ The price for each subscription tier varies. If you own a Logos 10 or earlier pa
 
 ![](/assets/images/LogosSubscriptionPricing.png)
 
-Don't forget: [Use my link to get a special extended free trial](https://logos.sjv.io/stapleton)!** [^2]
+**Don't forget: [Use my link to get a special extended free trial](https://logos.sjv.io/stapleton)!** [^2]
 
 ## Logos Libraries Overview
 ![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
