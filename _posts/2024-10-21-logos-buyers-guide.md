@@ -163,7 +163,7 @@ The Platinum Library is a great entry point for academic study or more advanced 
 - _International Theological Commentary Series Collection (5 vols.)_
 - _SIL Exegetical Summary Series (34 vols.)_
 
-### [Diamond Library](https://logos.sjv.io/oqjP3m) | Advanced study and Seminary Students
+### [Diamond Library](https://logos.sjv.io/oqjP3m)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
