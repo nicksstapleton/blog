@@ -136,29 +136,30 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 
 ## Logos Library Recommendation
 
-### [Gold Library](https://logos.sjv.io/oqjP3m) | Small group and Sunday school leaders
+### [Gold Library](https://logos.sjv.io/oqjP3m)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryGold.jpg" alt="">
 </figure> 
-Logos Gold provides a comprehensive Bible study library. If you are a small group or Sunday school teacher, this package will be a fantastic entry point. Some standout resources include:
+Logos Gold provides a comprehensive Bible study library. With this library, you are gaining access to some fantastic commentaries, Bible study resources, and systematic theology works. Some standout resources include:
 
 - The Preacher’s Outline and Sermon Bible (45 vols.)
 - ESV Expository Commentary Series Collection (11 vols.)
 - God’s Word for You (33 vols.)
-- Theological Wordbook of the Old Testament
+- Contours of Christian Theology (9 vols.)
+- Christ Centered Exposition Commentary Series Collection (42 vols.)
 - Augustine’s Expositions of the Psalms Set, 6 vols. (The Works of Saint Augustine)
 
-### [Platinum Library](https://logos.sjv.io/oqjP3m) | Pastors and vocational ministers
+### [Platinum Library](https://logos.sjv.io/oqjP3m)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryPlatinum.jpg" alt="">
 </figure>
-If you are a pastor, pursuing pastoral ministry, or in a role where you are regularly teaching the Bible, this is the package you want. This package includes all of the Gold package resources but also adds more technical commentaries and theological studies resources.
+The Platinum Library is a great entry point for academic study or more advanced exegesis and sermon prep. This package includes all of the Gold package resources but also adds more technical commentaries and theological studies resources.
 
 - _Preaching the Word Commentary Series Collection (42 vols.)_
 - _Anchor Yale Bible Dictionary (6 vols.)_
-- _UBS Handbooks Series: Old Testament, New Testament_
+- _Credo Magazine: 2010-2021 (11 vols.)_
 - _International Theological Commentary Series Collection (5 vols.)_
 - _SIL Exegetical Summary Series (34 vols.)_
 
@@ -167,15 +168,12 @@ If you are a pastor, pursuing pastoral ministry, or in a role where you are regu
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
 </figure>
-This is an ideal library for anyone doing academic research or advanced exegesis. This package is premium yet offers tremendous value. This is the library I purchased and I am so glad I did. The _Pillar New Testament Commentary_ series is full of the top commentaries for various books of the Bible. The _Exegetical Guide to the Greek New Testament_ is incredibly valuable if you are working in the Greek New Testament or navigating Greek Exegesis courses.
-
-It isn't overkill to consider this package by any means as it builds on top of Platinum by expanding your resources exploring biblical themes and includes some other best-in-class resources at a steep discount. 
+This is an ideal library for anyone doing academic research or advanced exegesis. This package is premium yet offers tremendous value and includes some of my favorite resources. The _Pillar New Testament Commentary_ series is full of the top commentaries for various books of the Bible. The _Exegetical Guide to the Greek New Testament_ is incredibly valuable if you are working in the Greek New Testament or navigating Greek Exegesis courses. This library is filled with scholarly and advanced biblical reference works. 
 
 - _Pillar New Testament Commentary (17 vols.)_
 - _Exegetical Guide to the Greek New Testament (14 vols.)_
 - _Wiley Blackwell Bible Commentaries (22 vols.)_
 - _Christian History Magazine, Issues 1-140_
-
 
 ## Role Libraries - Leader, Preacher, Researcher
 (WILL UPDATE SOON!)
