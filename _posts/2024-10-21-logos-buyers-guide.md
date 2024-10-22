@@ -1,7 +1,7 @@
 ---
 title: Best Logos Subscription and Library Package [UPDATED]
 excerpt: Logos is a significant investment. Make sure you buy it the right
-  way. My recommendation on the best subscription and library for pastors and students.
+  way. My recommendations on the best Logos subscription and library.
 last_modified_at: 2024-10-21
 toc: true
 toc_label: Logos Buyer's Guide
@@ -54,7 +54,7 @@ Ultimately, a subscription provides you the following:
 	- Earn 5% annual reward coupon every February (Pro and Max only)
 	- Logos online sermon database (Pro and Max only)
 
-With the switch to a subscription format, Logos is able to introduce a lower price of entry, Al/cloud features, continuous feature upgrades, and a faster feedback loop for a better product. I am enjoying this change to subscription.
+With the move to a subscription model, Logos is able to introduce a lower price of entry, Al/cloud features, continuous feature upgrades, and a faster feedback loop for a better product. This is one of the rare instances where a subscription actually feels like a significant value add and improvement.
 
 ### Important Details about Logos Subscriptions 
 
@@ -109,8 +109,8 @@ When I first purchased Logos in 2009, I bought an entry-level library package an
 
 > **_You need to know what you want Logos to do for you and ensure you are getting the right features and resources to accomplish your desired task._**
 
-## Logos Subscription Recommendation
-As I mentioned earlier, the three subscription tiers are aimed at three different use-cases.
+## Logos Subscription Recommendations
+As I mentioned earlier, the three subscription tiers are aimed at three different use-cases, which should help you identify which subscription will suit your needs and purposes.
 
 ### Logos Premium
 - **Recommended For**: Lay leaders, Sunday school teachers,  and small group leaders.
@@ -134,7 +134,7 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 
 **As a Logos affiliate, I am able to provide you an [extended free trial on a Logos subscription](https://logos.sjv.io/stapleton)!**
 
-## Logos Library Recommendation
+## Logos Library Recommendations
 
 ### [Gold Library](https://logos.sjv.io/oqjP3m)
 
@@ -155,7 +155,7 @@ Logos Gold provides a comprehensive Bible study library. With this library, you 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryPlatinum.jpg" alt="">
 </figure>
-The Platinum Library is a great entry point for academic study or more advanced exegesis and sermon prep. This package includes all of the Gold package resources but also adds more technical commentaries and theological studies resources.
+The Platinum Library is a great entry point for academic study or more advanced exegesis and sermon prep. In a word, this library is more nerdy and will serve those wanting to go deeper. This package includes all of the Gold library resources but also adds more technical and theological studies resources.
 
 - _Preaching the Word Commentary Series Collection (42 vols.)_
 - _Anchor Yale Bible Dictionary (6 vols.)_
@@ -168,7 +168,7 @@ The Platinum Library is a great entry point for academic study or more advanced 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
 </figure>
-This is an ideal library for anyone doing academic research or advanced exegesis. This package is premium yet offers tremendous value and includes some of my favorite resources. The _Pillar New Testament Commentary_ series is full of the top commentaries for various books of the Bible. The _Exegetical Guide to the Greek New Testament_ is incredibly valuable if you are working in the Greek New Testament or navigating Greek Exegesis courses. This library is filled with scholarly and advanced biblical reference works. 
+This is an ideal library for anyone doing academic research or advanced exegesis. This package is premium yet offers tremendous value and includes some of my favorite resources. The _Pillar New Testament Commentary_ series is full of the top commentaries for various books of the Bible. The _Exegetical Guide to the Greek New Testament_ is incredibly valuable if you are working in the Greek New Testament. I really appreciated having this series on hand while navigating my Greek Exegesis courses. This library is filled with scholarly and advanced biblical reference works. 
 
 - _Pillar New Testament Commentary (17 vols.)_
 - _Exegetical Guide to the Greek New Testament (14 vols.)_
