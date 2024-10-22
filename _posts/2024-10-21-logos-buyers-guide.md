@@ -143,7 +143,7 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 </figure> 
 Logos Gold provides a comprehensive Bible study library. If you are a small group or Sunday school teacher, this package will be a fantastic entry point. Some standout resources include:
 
--  The Preacher’s Outline and Sermon Bible (45 vols.)
+- The Preacher’s Outline and Sermon Bible (45 vols.)
 - ESV Expository Commentary Series Collection (11 vols.)
 - God’s Word for You (33 vols.)
 - Theological Wordbook of the Old Testament
@@ -167,14 +167,20 @@ If you are a pastor, pursuing pastoral ministry, or in a role where you are regu
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
 </figure>
-This package is premium yet offers tremendous value. This is the package I purchased and I am so glad I did. It isn't overkill to consider this package by any means as it builds on top of Platinum by expanding your resources exploring biblical themes and includes some other best-in-class resources at a steep discount. 
+This is an ideal library for anyone doing academic research or advanced exegesis. This package is premium yet offers tremendous value. This is the library I purchased and I am so glad I did. The _Pillar New Testament Commentary_ series is full of the top commentaries for various books of the Bible. The _Exegetical Guide to the Greek New Testament_ is incredibly valuable if you are working in the Greek New Testament or navigating Greek Exegesis courses.
+
+It isn't overkill to consider this package by any means as it builds on top of Platinum by expanding your resources exploring biblical themes and includes some other best-in-class resources at a steep discount. 
 
 - _Pillar New Testament Commentary (17 vols.)_
 - _Exegetical Guide to the Greek New Testament (14 vols.)_
 - _Wiley Blackwell Bible Commentaries (22 vols.)_
 - _Christian History Magazine, Issues 1-140_
 
-## Academic and Denominational Packages
+
+## Role Libraries - Leader, Preacher, Researcher
+(WILL UPDATE SOON!)
+
+## Academic and Denominational Libraries
 
 If you are looking for denominational package libraries, they are expected to launch sometime in early 2025.
 
