@@ -13,7 +13,7 @@ tags:
 
 You’re here to find a discount and save money on Logos Bible Software. Maybe you are a student, pastor, missionary, or someone looking for a Logos coupon code. **I have good news: There are several ways to save money on Logos.**
 
-In this post, I’m going to share the seven best tips to get a discount on your Logos subscription and library.
+In this post, I’m going to share my eight best tips to save money and get a discount on your Logos subscription and library.
 
 ## 1. Become a Logos Subscriber using [my partner link](https://logos.sjv.io/stapleton) (Extended free trial and up to 30% off a library)
 
