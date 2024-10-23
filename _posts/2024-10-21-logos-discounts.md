@@ -48,6 +48,8 @@ Beyond all the features you gain access to through your Logos subscription, you 
 - 5% store-wide discount on all books
 - Earn 5% annual reward coupon every February (Pro and Max subscriptions only)
 
+If you subscribe using [my partner link](https://logos.sjv.io/stapleton), you will receive an extra free 30 days on your Logos subscription.
+
 ## 4. Pay Annually for Your Logos Subscription
 
 Beyond getting an extra 30-days free via [my partner offer](https://logos.sjv.io/stapleton), you can get more free months by paying upfront. If you pay annually, you will get two months free on your Logos subscription. If you pay two years upfront, you get FIVE months free on your Logos subscription. If you use [my link](https://logos.sjv.io/stapleton), that five months turns into six months free.
