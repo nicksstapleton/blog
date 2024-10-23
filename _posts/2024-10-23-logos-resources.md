@@ -1,7 +1,6 @@
 ---
 title: 📚 50+ Logos Recommended Resources [Updated List] 
 excerpt: What are the best Logos resources you should buy? Here are my recommendations.
-date: 2023-09-03T09:00:00.000-06:00
 tags:
 - Logos
 - Seminary
@@ -38,9 +37,9 @@ The best way to build the ideal Logos library is to begin by thinking through ca
 ## My Recommended Resources for Logos
 What resources do I recommend in these categories? I'm glad you asked!
 
-👉 **[My full list of recommended resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) is listed conveniently on Logos.com!**[^1] They are organized by category to make it easy find whatever you are looking for.
+👉 **[My full list of recommended resources](https://www.logos.com/nickstapleton) is listed conveniently on Logos.com!**[^1] They are organized by category to make it easy find whatever you are looking for.
 
-[![](/assets/images/IMG_0901.jpeg)](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton)
+[![](/assets/images/IMG_0901.jpeg)](https://www.logos.com/nickstapleton)
 
 My recommended Logos resource list includes titles like :
 - New Dictionary of Biblical Theology (NDBT)
@@ -61,7 +60,7 @@ The most cost-effective way to get resources in Logos is with a base package. A 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
 
 ## My Full Recommended Resource List and Categories
-[Direct link to Logos Page](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton) 
+[Direct link to Logos Page](https://www.logos.com/nickstapleton) 
 
 ### Seminary Students
 - Logos 10 Gold
