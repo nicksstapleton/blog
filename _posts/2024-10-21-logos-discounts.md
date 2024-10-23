@@ -56,7 +56,7 @@ Beyond getting an extra 30-days free via [my partner offer](https://logos.sjv.io
 
 🔥 That's effectively more than 35% off compared to paying month-to-month. 
 
-## 5. Is the resource you want included in a base package?
+## 5. Is the resource you want included in a library?
 
 Check this out: If I wanted to buy the _Dictionary of Classical Hebrew_ it would cost me $339.99, but if I buy the Logos Academic Premium Library I can get it and dozens of other resources thrown in for $108.53. 🤯
 
@@ -68,7 +68,7 @@ Speaking of resources, if you are looking for recommendations, I have written ab
 
 ## 6. Grab the Free Book of the Month
 
-Every month Logos gives away [a free book](https://logos.sjv.io/freebook). Many times they are awesome. If you're a Logos subscriber, you receive an extra free book every month!
+Every month Logos gives away [a free book](https://logos.sjv.io/freebook). Many times they are awesome. If you're a Logos subscriber, you wil receive an extra free book every month!
 
 ## 7. Take advantage of the monthly sales
 
