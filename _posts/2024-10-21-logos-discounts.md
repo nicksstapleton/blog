@@ -73,7 +73,7 @@ Every month Logos gives away [a free book](https://logos.sjv.io/freebook). Many 
 
 ## 8. Take advantage of the monthly sales
 
-Logos runs a variety sales throughout the year. If you [sign up for my newsletter](https://nickstapleton.ck.page/), I'll keep you posted on these special sales, especially when they apply to some of [my favorite key resources](https://partner.logosbible.com/click.track?CID=453900&AFID=467957&nonencodedurl=https://www.logos.com/nickstapleton). I’ll also include links to the free books of the month right in your inbox.
+Logos runs a variety sales throughout the year. If you [sign up for my newsletter](https://nickstapleton.ck.page/), I'll keep you posted on these special sales, especially when they apply to some of [my favorite key resources](https://www.logos.com/nickstapleton). I’ll also include links to the free books of the month right in your inbox.
 
 ## Conclusion
 
