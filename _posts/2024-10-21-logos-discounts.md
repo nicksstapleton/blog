@@ -15,7 +15,7 @@ You’re here to find a discount and save money on Logos Bible Software. Maybe y
 
 In this post, I’m going to share the seven best tips to get a discount on your Logos subscription and library.
 
-## 1. Become a Logos Subscriber using [my partner link discount](https://logos.sjv.io/stapleton) (Extended free trial and up to 30% off a library)
+## 1. Become a Logos Subscriber using [my partner link](https://logos.sjv.io/stapleton) (Extended free trial and up to 30% off a library)
 
 I am a Logos affiliate and proud of it. And this is a legitimate special offer.
 
