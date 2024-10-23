@@ -45,9 +45,9 @@ The best way to get the resources you want at a discount is to find them in Logo
 
 ![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
 
-What is a Logos library? Deep discounted resources. That’s it.
+What is a Logos library? Well-rounded, deep discounted resources designed to help you accomplish your desired tasks. That’s it.
 
-Some people avoid Logos libraries, but that’s a mistake. While a library may contain resources you do not foresee using, they also include resources you want at a steep discount. You can buy Logos resources a la carte, but you will almost certainly overspend.
+Some people avoid Logos libraries because of the sticker price, but that’s a mistake. While a library may contain resources you do not foresee using, they also include resources you want at a steep discount and will help optimize your Logos features. You can buy Logos resources a la carte, but you will almost certainly overspend.
 
 If nothing else, you pay for the resources you want and get hundreds of others thrown in at little or no extra cost.
 
