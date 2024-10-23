@@ -37,6 +37,8 @@ If you subscribe using [my partner link](https://logos.sjv.io/stapleton), you w
 
 Beyond getting an extra 30-days free via [my partner offer](https://logos.sjv.io/stapleton), you can get more free months by paying upfront. If you pay annually, you will get two months free on your Logos subscription. If you pay two years upfront, you get FIVE months free on your Logos subscription. If you use [my link](https://logos.sjv.io/stapleton), that five months turns into six months free.
 
+🔥 That's effectively more than 35% off compared to paying month-to-month. 
+
 ## 4. Buy a Logos Library
 
 The best way to get the resources you want at a discount is to find them in Logos libraries. 
@@ -54,8 +56,6 @@ If you want direction and help picking out a library, read my [Logos Buyer’s G
 ## 5. Academic Student Discount
 
 If you're a seminary student, sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This student discount will get you 30% off of a Logos library and up to 50% off of essential academic resources.
-
-🔥 That's effectively more than 35% off compared to paying month-to-month. 
 
 ## 6. Is the resource you want included in a library?
 
