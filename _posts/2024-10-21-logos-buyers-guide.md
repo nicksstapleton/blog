@@ -14,7 +14,7 @@ tags:
 - Logos
 - Logos Bible Software
 header:
-  image: "/assets/images/2025LogosLibraries.jpg"
+  image: "/assets/images/IMG_1329 Edited.png"
   teaser: "/assets/images/LogosNewLibrary.jpg"
 ---
 ## Overview
