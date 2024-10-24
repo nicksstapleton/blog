@@ -212,7 +212,9 @@ Logos runs a variety sales throughout the year. If you [sign up for my newslett
 
 **As a Logos affiliate, I am able to provide you a special [extended free trial by using my link](https://logos.sjv.io/stapleton)!** [^2]
 
-Subscribe to my newsletter below and I will keep you posted on the latest Logos sales, free books, discounted resources, and share a training tip to help you get the most out of Logos.
+My partner link will get you an extra 30 days on your free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
+
+[Subscribe to my newsletter](https://nickstapleton.ck.page/) below and I will keep you posted on the latest Logos sales, free books, discounted resources, and share a training tip to help you get the most out of Logos.
 
 [^2]:Disclosure: As a Logos affiliate partner, I get a small commission for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out. I am grateful for your support and genuinely excited for you to get into Logos!
 
