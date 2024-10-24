@@ -71,9 +71,11 @@ Speaking of resources, if you are looking for recommendations, I have written ab
 
 Every month Logos gives away [a free book](https://logos.sjv.io/freebook). Many times they are awesome. If you're a Logos subscriber, you wil receive an extra free book every month!
 
+[Subscribe to my newsletter](https://nickstapleton.ck.page/) and I will let you know about the free books at the beginning every month so you never miss them. Did you know there is a free audiobook every month, too? [Subscribe](https://nickstapleton.ck.page/) so you don't miss out.
+
 ## 8. Take advantage of the monthly sales
 
-Logos runs a variety sales throughout the year. If you [sign up for my newsletter](https://nickstapleton.ck.page/), I'll keep you posted on these special sales, especially when they apply to some of [my favorite key resources](https://www.logos.com/nickstapleton). I’ll also include links to the free books of the month right in your inbox.
+Logos runs a variety sales throughout the year. If you [subscribe to my newsletter](https://nickstapleton.ck.page/), I'll keep you posted on these special sales, especially when they apply to some of [my favorite key resources](https://www.logos.com/nickstapleton).
 
 ## Conclusion
 
