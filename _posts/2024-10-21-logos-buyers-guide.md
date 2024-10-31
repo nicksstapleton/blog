@@ -64,7 +64,7 @@ With Logos, if you cancel your subscription after you’ve subscribed for 24 mon
 
 A Legacy Fallback License allows you to keep offline features when you cancel your subscription after 24 consecutive months. Instead of falling back to a free or previous version of Logos, you'll keep the core features from your subscription tier that don't rely on the cloud or AI.
 
-This is why I view Logos subscriptions more along the lines of a payment plan. You’re paying your way towards a Legacy Fallback License and will keep the features if decide to cancel after 24 months.
+This is why I view Logos subscriptions more along the lines of a payment plan. You’re paying your way towards a Legacy Fallback License and will keep the features if you decide to cancel after 24 months.
 
 And again, any books, features, or content you purchase are yours forever and accessible regardless of your subscription status.
 
