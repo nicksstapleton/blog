@@ -126,7 +126,7 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 - **Also**: Study the deuterocanonicals
 
 ### Logos Max
-- **Recommended For**: Seminary students, academics, and original-language geeks
+- **Recommended For**: Seminary students, academics, and original-language enthusiasts
 - **Empowers**: Advanced research, seminary study, and writing academic papers
 - **Bible study tools**: Advanced
 - **Original languages**: Advanced Greek/Hebrew grammar and syntax, plus Latin, Syriac, etc.
@@ -176,10 +176,10 @@ This is an ideal library for anyone doing academic research or advanced exegesis
 - _Christian History Magazine, Issues 1-140_
 
 ## Role Library Recommendations - Researcher, Leader, Preacher
-Generally, I recommend the standard packages above for most Logos users. However, if you are looking for a more specialized library based on your ministry role, these are some great packages to consider. 
+Generally, I recommend the standard packages above for most Logos users. However, if you are looking for a more specialized library based on your ministry or academic role, these are some great packages to consider. 
 
 ### [Researcher Gold](https://logos.sjv.io/55a56N) 
-Are you a seminary student? This library is an incredible value. Over $9,000 worth of resources for under $600. In this library are some fantastic commentaries and essential original language resources. Also notable: this library is the cheapest route to obtaining the _Pillar New Testament Commentary_ series, which has some of the best commentaries on books in the New Testament. If you are in seminary, this library is a worthwhile investment for resources you will certainly need and use.
+Are you a seminary student? This library is an incredible value. Over $9,000 worth of resources for under $600. In this library are some fantastic commentaries and essential original language resources. Also notable: this library is the cheapest route to obtaining the _Pillar New Testament Commentary_ series, which boasts some of the best commentaries on books in the New Testament. If you are in seminary, this library is a worthwhile investment for resources you will certainly need and use.
 
 - _Pillar New Testament Commentary (17 vols.)_
 - _Apollos Old Testament Commentary (13 vols.)_
@@ -225,7 +225,7 @@ The Logos Max subscription will empower writing academic papers and provide adva
 If you're a seminary student, don’t forget to sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 ## Take Advantage of Sales
 
-Many of the resources I consider must-have are included in the libraries listed above, but there are other important resources you should consider grabbing, especially when they are on sale. **This is [my list of recommended resources](https://www.logos.com/nickstapleton).**
+Many of the resources I consider must-have are included in the libraries listed above, but there are other important resources you should consider adding to your library, especially when they are on sale. **This is [my list of recommended resources](https://www.logos.com/nickstapleton).**
 
 Logos runs a variety sales throughout the year. If you [sign up for my newsletter](https://nickstapleton.ck.page/), I'll keep you posted on these special sales, especially when they apply to some of my favorite key resources. Additionally, you can read this post where I share more [Logos discounts and buying tips](https://www.nickstapleton.me/logos-discounts/).
 
