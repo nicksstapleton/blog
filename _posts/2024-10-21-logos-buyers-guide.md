@@ -126,7 +126,7 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 - **Also**: Study the deuterocanonicals
 
 ### 👨‍🎓 Logos Max
-- **Recommended For**: Seminary students, academics, and original-language enthusiasts
+- **Recommended For**: Seminary students, academics, and original language study
 - **Empowers**: Advanced research, seminary study, and writing academic papers
 - **Bible study tools**: Advanced
 - **Original languages**: Advanced Greek/Hebrew grammar and syntax, plus Latin, Syriac, etc.
