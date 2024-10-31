@@ -112,20 +112,20 @@ When I first purchased Logos in 2009, I bought an entry-level library package an
 ## Logos Subscription Recommendations
 As I mentioned earlier, the three subscription tiers are aimed at three different use-cases, which should help you identify which subscription will suit your needs and purposes.
 
-### Logos Premium
+### 📖 Logos Premium
 - **Recommended For**: Lay leaders, Sunday school teachers,  and small group leaders.
 - **Empowers**: Teaching others in small groups
 - **Bible study tools**: Intermediate
 - **Original languages**: Only through English Bible
 
-### Logos Pro
+### 👨‍🏫 Logos Pro
 - **Recommended For**: Pastors, teachers, and vocational ministers
 - **Empowers**: Teaching, preaching, pastoring, and counseling
 - **Bible study tools**: Advanced
 - **Original languages**: Intermediate Greek/Hebrew morphological tools
 - **Also**: Study the deuterocanonicals
 
-### Logos Max
+### 👨‍🎓 Logos Max
 - **Recommended For**: Seminary students, academics, and original-language enthusiasts
 - **Empowers**: Advanced research, seminary study, and writing academic papers
 - **Bible study tools**: Advanced
