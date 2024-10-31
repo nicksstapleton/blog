@@ -46,7 +46,7 @@ The three subscription tiers are aimed at three different use-cases:
 Ultimately, a subscription provides you the following:
 - Ongoing feature updates or improvements every six weeks
 - Cloud and AI feature access
-- New library base package access
+- New Logos library access
 - Mobile Ed Access
 - Reward perks
 	- 5% store-wide discount on all books
