@@ -119,15 +119,15 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 - **Original languages**: Only through English Bible
 
 ### Logos Pro
-- **Recommended For**: Pastors, seminary students, teachers, and vocational ministers
-- **Empowers**: Teaching, preaching, pastoring, counseling, and seminary study
+- **Recommended For**: Pastors, teachers, and vocational ministers
+- **Empowers**: Teaching, preaching, pastoring, and counseling
 - **Bible study tools**: Advanced
 - **Original languages**: Intermediate Greek/Hebrew morphological tools
 - **Also**: Study the deuterocanonicals
 
 ### Logos Max
-- **Recommended For**: Original-language geeks
-- **Empowers**: Advanced research
+- **Recommended For**: Seminary students, academics, and original-language geeks
+- **Empowers**: Advanced research, seminary study, and writing academic papers
 - **Bible study tools**: Advanced
 - **Original languages**: Advanced Greek/Hebrew grammar and syntax, plus Latin, Syriac, etc.
 - **Also**: Includes every current Logos feature. Study the deuterocanonicals, Septuagint, Vulgate, Dead Sea Scrolls, etc.
@@ -143,12 +143,12 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 </figure> 
 Logos Gold provides a comprehensive Bible study library. With this library, you are gaining access to some fantastic commentaries, Bible study resources, and systematic theology works. Some standout resources include:
 
-- The Preacher’s Outline and Sermon Bible (45 vols.)
-- ESV Expository Commentary Series Collection (11 vols.)
-- God’s Word for You (33 vols.)
-- Contours of Christian Theology (9 vols.)
-- Christ Centered Exposition Commentary Series Collection (42 vols.)
-- Augustine’s Expositions of the Psalms Set, 6 vols. (The Works of Saint Augustine)
+- _The Preacher’s Outline and Sermon Bible (45 vols.)_
+- _ESV Expository Commentary Series Collection (11 vols.)_
+- _God’s Word for You (33 vols.)_
+- _Contours of Christian Theology (9 vols.)_
+- _Christ-Centered Exposition Commentary Series Collection (42 vols.)_
+- _Augustine’s Expositions of the Psalms Set, 6 vols. (The Works of Saint Augustine)_
 
 ### [Platinum Library](https://logos.sjv.io/oqjP3m)
 
@@ -175,10 +175,32 @@ This is an ideal library for anyone doing academic research or advanced exegesis
 - _Wiley Blackwell Bible Commentaries (22 vols.)_
 - _Christian History Magazine, Issues 1-140_
 
-## Role Libraries - Leader, Preacher, Researcher
-(WILL UPDATE SOON!)
+## Role Library Recommendations - Researcher, Leader, Preacher
+Generally, I recommend the standard packages above for most Logos users. However, if you are looking for a more specialized library based on your ministry role, these are some great packages to consider. 
 
-## Academic and Denominational Libraries
+### [Researcher Gold](https://logos.sjv.io/55a56N) 
+Are you a seminary student? This library is an incredible value. Over $9,000 worth of resources for under $600. In this library are some fantastic commentaries and essential original language resources. Also notable: this library is the cheapest route to obtaining the _Pillar New Testament Commentary_ series, which has some of the best commentaries on books in the New Testament. If you are in seminary, this library is a worthwhile investment for resources you will certainly need and use.
+
+- _Pillar New Testament Commentary (17 vols.)_
+- _Apollos Old Testament Commentary (13 vols.)_
+- _International Critical Commentary (68 vols.)_
+- _A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG)_
+- _Dictionary of Classical Hebrew (9 vols.)_
+- _Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus (NA28)_
+- _Biblia Hebraica Stuttgartensia with Critical Apparatus (BHS)_
+
+### [Preacher Gold](https://logos.sjv.io/o4R4Qg)
+Among the Preacher libraries, I feel Preacher Gold strikes the best balance between resources and value. Compared to the standard Gold library, this library allocates far more resources to Biblical commentaries, pastoral care and counseling, and preaching. Personally, I still favor the more academic-leaning standard Gold library, but for the right preacher, this package could be worth considering for the increased preaching commentaries and tools. Notable resources include:
+
+- _Preaching the Word Commentary Series (42 vols.)_
+- _ESV Expository Commentary Series Collection (11 vols.)_
+- _Tyndale Old Testament and New Testament Commentary Series (47 vols.)_
+- _New Growth Press Minibooks: Sexuality Collection (11 vols.)_
+
+### Leader Libraries
+Compared to the standard libraries, the Leader librares exchange theology, NT/OT studies, counseling, and language resources for more commentaries and devotionals. Admittedly, I struggle to imagine purchasing a Leader library over a standard library. Perhaps it is the seminary graduate, theology nerd, or Biblical studies enthusist in me. In the standard Gold library, you are gaining access to fantastic systematic theology resources like the _Contours of Christian Theology_ series that I am not eager to give up! Personally, I cannot identify commentaries or other distinct resources in the Leader libraries that feel worth the trade-off. 
+
+## Denominational Libraries
 
 If you are looking for denominational package libraries, they are expected to launch sometime in early 2025.
 
@@ -192,12 +214,13 @@ If you will be purchasing textbooks for your courses, why not buy them in Logos 
 
 With the right resources in Logos, you will save yourself significant time and energy in the library that could free you up to spend more time with those you love. Further, you will develop proficiency with the software that will dramatically benefit your ministry upon graduation as you do sermon prep, counseling, personal study, and more.
 
-### Seminary Student Base Package Recommendation
+### Seminary Student Subscription and Library Recommendation
 
-For students, I suggest getting these this subscription and package:
+For students, I suggest this subscription and library:
+- **[Logos Max](https://logos.sjv.io/stapleton)**
+- **[Logos Researcher Gold](https://logos.sjv.io/55a56N)**
 
-- Subscription: [Logos Pro](https://logos.sjv.io/stapleton)
-- Library: [Logos Diamond](https://logos.sjv.io/stapleton)
+The Logos Max subscription will empower writing academic papers and provide advanced original language tools. The Researcher Gold library includes essential language resources (NA28, BHS, BDAG, etc.) and excellent commentaries all at a steep discount.
 
 If you're a seminary student, don’t forget to sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 ## Take Advantage of Sales
