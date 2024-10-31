@@ -168,12 +168,12 @@ The Platinum Library is a great entry point for academic study or more advanced 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
 </figure>
-This is an ideal library for anyone doing academic research or advanced exegesis. This package is premium yet offers tremendous value and includes some of my favorite resources. The _Pillar New Testament Commentary_ series is full of the top commentaries for various books of the Bible. The _Exegetical Guide to the Greek New Testament_ is incredibly valuable if you are working in the Greek New Testament. I really appreciated having this series on hand while navigating my Greek Exegesis courses. This library is filled with scholarly and advanced biblical reference works. 
+This is an ideal library for anyone doing academic research or advanced exegesis. This package is premium yet offers tremendous value and includes some of my favorite resources. The _Pillar New Testament Commentary_ series and _New International Commentary on the Old and New Testament_ series are full of the top commentaries for various books of the Bible. The _Exegetical Guide to the Greek New Testament_ is incredibly valuable if you are working in the Greek New Testament. I really appreciated having this series on hand while navigating my Greek Exegesis courses. This library is filled with scholarly and advanced biblical reference works. 
 
 - _Pillar New Testament Commentary (17 vols.)_
 - _Exegetical Guide to the Greek New Testament (14 vols.)_
+- _New International Commentary on the Old and New Testament: Heritage Collection (26 vols.)_
 - _Wiley Blackwell Bible Commentaries (22 vols.)_
-- _Christian History Magazine, Issues 1-140_
 
 ## Role Library Recommendations - Researcher, Leader, Preacher
 Generally, I recommend the standard packages above for most Logos users. However, if you are looking for a more specialized library based on your ministry or academic role, these are some great packages to consider. 
