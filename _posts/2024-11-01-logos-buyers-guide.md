@@ -1,8 +1,8 @@
 ---
 title: Best Logos Subscription and Library Package [UPDATED]
 excerpt: Logos is a significant investment. Make sure you buy it the right
-  way. My recommendations on the best Logos subscription and library.
-last_modified_at: 2024-10-21
+  way. My recommendation on the best Logos subscription and library.
+last_modified_at: 2024-11-01
 toc: true
 toc_label: Logos Buyer's Guide
 toc_icon: search-plus
