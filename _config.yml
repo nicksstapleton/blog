@@ -40,7 +40,7 @@ author:
   - label: "Buy Me a Coffee"
     icon: "fas fa-mug-hot"
     color: "#833AB4"
-    url: "https://nickstapleton.ck.page/products/tip"
+    url: "https://nickstapleton.kit.com/products/tip"
 collections:
   portfolio:
     output: true
@@ -52,7 +52,7 @@ footer:
     url: "https://twitter.com/nickstapleton"
   - label: "Buy Me a Coffee"
     icon: "fas fa-mug-hot"
-    url: "https://nickstapleton.ck.page/products/tip"
+    url: "https://nickstapleton.kit.com/products/tip"
 defaults:
 - scope:
     path: ''
