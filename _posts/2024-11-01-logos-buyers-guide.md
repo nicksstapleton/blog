@@ -155,7 +155,7 @@ Logos Gold provides a comprehensive Bible study library. With this library, you 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryPlatinum.jpg" alt="">
 </figure>
-The Platinum Library is a great entry point for academic study or more advanced exegesis and sermon prep. In a word, this library is more nerdy and will serve those wanting to go deeper. This package includes all of the Gold library resources but also adds more technical and theological studies resources.
+The Platinum Library is a great entry point option for academic study or more advanced exegesis and sermon prep. In a word, this library is more nerdy and will serve those wanting to go deeper. One resource I love in this library is the _SIL Exegetical Summary Series_. This series orients you to the exegetical interpretations and views of the most popular commentaries on a given passage and provides a hyperlink directly to that commentary. It's an incredible resource to help you grasp the lay of the land when it comes to interpreting a passage. This libray includes all of the Gold library resources but also adds more technical and theological studies resources.
 
 - _Preaching the Word Commentary Series Collection (42 vols.)_
 - _Anchor Yale Bible Dictionary (6 vols.)_
@@ -179,7 +179,7 @@ This is an ideal library for anyone doing academic research or advanced exegesis
 Generally, I recommend the standard packages above for most Logos users. However, if you are looking for a more specialized library based on your ministry or academic role, these are some great packages to consider. 
 
 ### [Researcher Gold](https://logos.sjv.io/55a56N) 
-Are you a seminary student? This library is an incredible value. Over $9,000 worth of resources for under $600. In this library are some fantastic commentaries and essential original language resources. Also notable: this library is the cheapest route to obtaining the _Pillar New Testament Commentary_ series, which boasts some of the best commentaries on books in the New Testament. If you are in seminary, this library is a worthwhile investment for resources you will certainly need and use.
+Are you a seminary student? This library is an incredible value. Over $9,000 worth of resources for under $600. In this library are some fantastic commentaries and essential original language resources (NA28, BHS, BDAG). Also notable: this library is the cheapest route to obtaining the _Pillar New Testament Commentary_ series, which boasts some of the best commentaries on books in the New Testament. If you are in seminary, this library is a worthwhile investment for resources you will certainly need and use.
 
 - _Pillar New Testament Commentary (17 vols.)_
 - _Apollos Old Testament Commentary (13 vols.)_
