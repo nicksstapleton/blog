@@ -198,7 +198,7 @@ Among the Preacher libraries, I feel Preacher Gold strikes the best balance betw
 - _New Growth Press Minibooks: Sexuality Collection (11 vols.)_
 
 ### Leader Libraries
-Compared to the standard libraries, the Leader librares exchange theology, NT/OT studies, counseling, and language resources for more commentaries and devotionals. Admittedly, I struggle to imagine purchasing a Leader library over a standard library. Perhaps it is the seminary graduate, theology nerd, or Biblical studies enthusist in me. In the standard Gold library, you are gaining access to fantastic systematic theology resources like the _Contours of Christian Theology_ series that I am not eager to give up! Personally, I cannot identify commentaries or other distinct resources in the Leader libraries that feel worth the trade-off. 
+Compared to the standard libraries, the Leader libraries exchange theology, NT/OT studies, counseling, and language resources for more commentaries and devotionals. Admittedly, I struggle to imagine purchasing a Leader library over a standard library. Perhaps it is the seminary graduate, theology nerd, or Biblical studies enthusist in me. In the standard Gold library, you are gaining access to fantastic systematic theology resources like the _Contours of Christian Theology_ series that I am not eager to give up! Personally, I cannot identify commentaries or other distinct resources in the Leader libraries that feel worth the trade-off. 
 
 ## Denominational Libraries
 
