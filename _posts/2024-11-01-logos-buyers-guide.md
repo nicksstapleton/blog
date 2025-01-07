@@ -138,7 +138,7 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryGold.jpg" alt="">
 </figure> 
-Logos Gold provides a comprehensive Bible study library. With this library, you are gaining access to some fantastic commentaries, Bible study resources, and systematic theology works. This package is well-rounded for pastors, preachers, and those who want to study the Bible in depth. Some standout resources include:
+Logos Gold provides a comprehensive Bible study library. With this library, you are gaining access to some fantastic commentaries, Bible study resources, and systematic theology works. This package is well-rounded for pastors, preachers, and those who want to study the Bible in-depth. Some standout resources include:
 
 - _The Preacher’s Outline and Sermon Bible (45 vols.)_
 - _ESV Expository Commentary Series Collection (11 vols.)_
