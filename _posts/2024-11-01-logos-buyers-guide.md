@@ -1,7 +1,6 @@
 ---
 title: Best Logos Subscription and Library Package [UPDATED]
-excerpt: Logos is a significant investment. Make sure you buy it the right
-  way. My recommendation on the best Logos subscription and library.
+excerpt: Logos is a significant investment. Make sure you buy it the right way. My recommendation on the best Logos subscription and library.
 last_modified_at: 2024-11-01
 toc: true
 toc_label: Logos Buyer's Guide
@@ -19,11 +18,9 @@ header:
 ---
 ## Overview
 
-Logos is one of the best investments I have ever made. It has been an incredible resource for my own growth, learning, seminary studies, sermon prep, and ministry.
+Logos is one of the best investments I have ever made. It has been an incredible tool and resource for learning, seminary, Bible study, sermon prep, and ministry.
 
-I have been leveraging Logos nearly every day for over 15 years and leaned on it heavily throughout my MDiv program in seminary. My input is best suited for pastors, seminary students, or other vocational ministers. This post is written for those who have already decided they want to get into Logos.[^1] 
-
-[^1]:If you’re still on the fence, [read my Logos review](https://www.nickstapleton.me/logos-10-review/).
+I have been leveraging Logos nearly every day for over 15 years and leaned on it heavily throughout my MDiv program in seminary. My input is best suited for pastors, seminary students, and other vocational ministers. This post is written for those who have already decided they want to get into Logos.
 
 If you are just beginning with Logos or looking to go deeper, you are likely wondering:
 
@@ -31,7 +28,7 @@ If you are just beginning with Logos or looking to go deeper, you are likely won
 * _Are there any Logos discounts or buying tips I should know about?_
 * _Which resources or features are a must-have?_
 
-This buyer’s guide provides an overview and recommendations for Logos subscription tiers and libraries so you can decide which route into Logos is best for your purposes and needs. **Be sure to take advantage of my [exclusive offer](https://www.nickstapleton.me/logos-buyers-guide/#special-extended-free-trial-offer) on a Logos subscription at the end of this post.**
+In this post, I will provide an overview and recommendations for Logos subscription tiers and libraries so you can decide which route into Logos is best for your purposes and needs. **Be sure to take advantage of my [exclusive offer](https://www.nickstapleton.me/logos-buyers-guide/#special-extended-free-trial-offer) on a Logos subscription at the end of this post.**
 
 Let’s get into it.
 
@@ -233,12 +230,12 @@ Logos runs a variety sales throughout the year. If you [sign up for my newslett
 
 ## Special Extended Free Trial Offer
 
-**As a Logos affiliate, I am able to provide you a special [extended free trial by using my link](https://logos.sjv.io/stapleton)!** [^2]
+**As a Logos affiliate, I am able to provide you a special [extended free trial by using my link](https://logos.sjv.io/stapleton)!** [^1]
 
 My partner link will get you an extra 30 days on your free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
 
 [Subscribe to my newsletter](https://nickstapleton.ck.page/) below and I will keep you posted on the latest Logos sales, free books, discounted resources, and share a training tip to help you get the most out of Logos.
 
-[^2]:Disclosure: As a Logos affiliate partner, I get a small commission for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out. I am grateful for your support and genuinely excited for you to get into Logos!
+[^1]:Disclosure: As a Logos affiliate partner, I get a small commission for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out. I am grateful for your support and genuinely excited for you to get into Logos!
 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
