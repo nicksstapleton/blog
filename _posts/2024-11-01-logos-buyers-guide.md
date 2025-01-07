@@ -187,7 +187,7 @@ Are you a seminary student? This library is an incredible value. Over $9,000 wor
 - _Biblia Hebraica Stuttgartensia with Critical Apparatus (BHS)_
 
 ### [Preacher Gold](https://logos.sjv.io/o4R4Qg)
-Among the Preacher libraries, I feel Preacher Gold strikes the best balance between resources and value. Compared to the standard Gold library, this library allocates far more resources to Biblical commentaries, pastoral care and counseling, and preaching. Personally, I still favor the more academic-leaning standard Gold library, but for the right preacher, this package could be worth considering for the increased preaching commentaries and tools. Notable resources include:
+Among the Preacher libraries, I feel Preacher Gold strikes the best balance between resources and value. Compared to the standard Gold library, this library allocates far more resources to Biblical commentaries, pastoral care and counseling, and preaching. Personally, I still favor the more academic-leaning standard libraries, but for the right preacher, this package could be worth considering for the increased preaching commentaries and tools. Notable resources include:
 
 - _Preaching the Word Commentary Series (42 vols.)_
 - _ESV Expository Commentary Series Collection (11 vols.)_
