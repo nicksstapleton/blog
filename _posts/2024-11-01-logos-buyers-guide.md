@@ -138,7 +138,7 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryGold.jpg" alt="">
 </figure> 
-Logos Gold provides a comprehensive Bible study library. With this library, you are gaining access to some fantastic commentaries, Bible study resources, and systematic theology works. Some standout resources include:
+Logos Gold provides a comprehensive Bible study library. With this library, you are gaining access to some fantastic commentaries, Bible study resources, and systematic theology works. This package is well-rounded for pastors, preachers, and those who want to study the Bible in depth. Some standout resources include:
 
 - _The Preacher’s Outline and Sermon Bible (45 vols.)_
 - _ESV Expository Commentary Series Collection (11 vols.)_
@@ -152,7 +152,7 @@ Logos Gold provides a comprehensive Bible study library. With this library, you 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryPlatinum.jpg" alt="">
 </figure>
-The Platinum Library is a great entry point option for academic study or more advanced exegesis and sermon prep. In a word, this library is more nerdy and will serve those wanting to go deeper. One resource I love in this library is the _SIL Exegetical Summary Series_. This series orients you to the exegetical interpretations and views of the most popular commentaries on a given passage and provides a hyperlink directly to that commentary. It's an incredible resource to help you grasp the lay of the land when it comes to interpreting a passage. This libray includes all of the Gold library resources but also adds more technical and theological studies resources.
+The Platinum Library is a great entry point option for  more advanced exegesis and sermon prep as well as academic study. In a word, this library is more nerdy and will serve those wanting to go deeper. One resource I love in this library is the _SIL Exegetical Summary Series_. This series orients you to the exegetical interpretations and views of the most popular commentaries on a given passage and provides a hyperlink directly to that commentary. It's an incredible resource to help you grasp the lay of the land when it comes to interpreting a passage. This libray includes all of the Gold library resources but also adds more technical and theological studies resources.
 
 - _Preaching the Word Commentary Series Collection (42 vols.)_
 - _Anchor Yale Bible Dictionary (6 vols.)_
@@ -165,7 +165,7 @@ The Platinum Library is a great entry point option for academic study or more ad
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
 </figure>
-This is an ideal library for anyone doing academic research or advanced exegesis. This package is premium yet offers tremendous value and includes some of my favorite resources. The _Pillar New Testament Commentary_ series and _New International Commentary on the Old and New Testament_ series are full of the top commentaries for various books of the Bible. The _Exegetical Guide to the Greek New Testament_ is incredibly valuable if you are working in the Greek New Testament. I really appreciated having this series on hand while navigating my Greek Exegesis courses. This library is filled with scholarly and advanced biblical reference works. 
+If I had to choose one library, this one is my favorite. It is an ideal library for anyone wanting to do advanced exegesis with access to technical and semi-technical commentaries. This package includes some of my favorite resources. The _Pillar New Testament Commentary_ series and _New International Commentary on the Old and New Testament_ series are full of the top commentaries for various books of the Bible. The _Exegetical Guide to the Greek New Testament_ is incredibly valuable if you are working in the Greek New Testament. I really appreciated having this series on hand while navigating my Greek Exegesis courses. This library is also filled with scholarly and advanced biblical reference works. 
 
 - _Pillar New Testament Commentary (17 vols.)_
 - _Exegetical Guide to the Greek New Testament (14 vols.)_
