@@ -1,5 +1,5 @@
 ---
-title: Which Logos Package Should I Buy? [2025 UPDATE]
+title: Which Logos Subscription and Library Should I Buy? [2025 UPDATE]
 excerpt: Logos is a significant investment. Make sure you buy it the right way. My recommendation on the best Logos subscription and library.
 last_modified_at: 2025-01-10
 toc: true
