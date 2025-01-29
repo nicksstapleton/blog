@@ -35,7 +35,7 @@ Let’s get into it.
 ## Logos Subscription Overview
 Logos offers three subscription tiers — Premium, Pro, and Max. 
 
-The three subscription tiers are aimed at three different use-cases:
+The subscription tiers are aimed at three different use-cases:
 - Small group prep (Logos Premium)
 - Pastoral ministry and sermon prep (Logos Pro)
 - Academic and original language study (Logos Max)
@@ -67,11 +67,13 @@ And again, any books, features, or content you purchase are yours forever and ac
 
 ### Logos Subscription Pricing
 
-The price for each subscription tier varies. If you own a Logos 10 or earlier package, you can get a cheaper price than those who are all together new to Logos. Additionally, anyone can receive two months free if you pay annually or five months free if you pay for two years upfront. Here's an overview of the pricing.
+The price for each subscription tier varies. If you own a Logos 10 or earlier package, you can get a cheaper price than those who are all together new to Logos. Additionally, anyone can receive two months free if you pay annually or five months free if you pay for two years upfront. 
+
+If you use my link, you will **[receive an additional month free!](https://logos.sjv.io/stapleton)** [^2]
+
+Here's an overview of the pricing.
 
 ![](/assets/images/LogosSubscriptionPricing.png)
-
-**Don't forget: [Use my link to get a special extended free trial](https://logos.sjv.io/stapleton)!** [^2]
 
 ## Logos Libraries Overview
 ![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
