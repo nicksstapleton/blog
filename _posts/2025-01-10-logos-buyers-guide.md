@@ -69,7 +69,7 @@ And again, any books, features, or content you purchase are yours forever and ac
 
 The price for each subscription tier varies. If you own a Logos 10 or earlier package, you can get a cheaper price than those who are all together new to Logos. Additionally, anyone can receive two months free if you pay annually or five months free if you pay for two years upfront. 
 
-If you use my link, you will **[receive an additional month free!](https://logos.sjv.io/stapleton)** [^2]
+If you use my link, you will **[receive an additional month free!](https://logos.sjv.io/stapleton)** [^1]
 
 Here's an overview of the pricing.
 
