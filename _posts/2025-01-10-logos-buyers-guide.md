@@ -67,7 +67,7 @@ And again, any books, features, or content you purchase are yours forever and ac
 
 ### Logos Subscription Pricing
 
-The price for each subscription tier varies. If you own a Logos 10 or earlier package, you can get a cheaper price than those who are all together new to Logos. Additionally, you can get two months free if you pay annually and five months free if you pay for two years upfront. Here's an overview of the pricing.
+The price for each subscription tier varies. If you own a Logos 10 or earlier package, you can get a cheaper price than those who are all together new to Logos. Additionally, anyone can receive two months free if you pay annually or five months free if you pay for two years upfront. Here's an overview of the pricing.
 
 ![](/assets/images/LogosSubscriptionPricing.png)
 
@@ -76,7 +76,7 @@ The price for each subscription tier varies. If you own a Logos 10 or earlier pa
 ## Logos Libraries Overview
 ![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
 
-Logos libraries are the most cost-effective route to build your library. Why?
+Logos libraries are the most cost-effective route to build your resource library. Why?
 
 According to Logos, their libraries save you 90% compared to purchasing books individually.
 
