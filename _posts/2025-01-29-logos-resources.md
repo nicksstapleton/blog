@@ -54,8 +54,8 @@ Discounts are always happening with Logos. You can read about ongoing discounts 
 
 [^1]: Disclosure: As a Logos affiliate partner, I get a small commission for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out.
 
-## Don't Sleep on Logos Base Packages
-The most cost-effective way to get resources in Logos is with a base package. A base package is the foundation you want to start with and build on. Logos offers everything from academic and denominational packages to starter or other general packages. If you want help choosing a base package, read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/).
+## Don't Sleep on Logos Libraries
+The most cost-effective way to get resources in Logos is with a Library. A Logos Library is the foundation you want to start with and build on. Logos offers everything from academic and denominational packages to starter or other general packages. If you want help choosing a Logos Library, read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/).
 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
 
@@ -63,12 +63,12 @@ The most cost-effective way to get resources in Logos is with a base package. A 
 [Direct link to Logos Page](https://www.logos.com/nickstapleton) 
 
 ### Seminary Students
-- Logos 10 Gold
+- Logos Gold
 - Academic Essentials
 
 ### Pastors
-- Logos 10 Platinum
-- Logos 10 Reformed Gold
+- Logos Platinum
+- Logos Reformed Gold
 
 ### Reference
 - ESV Study Bible
