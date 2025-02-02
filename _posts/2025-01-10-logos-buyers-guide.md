@@ -142,12 +142,12 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 </figure> 
 If you're looking for the best intersection of resources and affordability, Logos Gold is the clear winner. Logos Gold provides a comprehensive Bible study library complete with access to some fantastic commentaries, Bible study resources, and systematic theology works. This package is well-rounded for pastors, preachers, and those who want to study the Bible in-depth. Some standout resources include:
 
-- _The Preacher’s Outline and Sermon Bible (45 vols.)_
-- _ESV Expository Commentary Series Collection (11 vols.)_
-- _God’s Word for You (33 vols.)_
-- _Contours of Christian Theology (9 vols.)_
-- _Christ-Centered Exposition Commentary Series Collection (42 vols.)_
-- _Augustine’s Expositions of the Psalms Set, 6 vols. (The Works of Saint Augustine)_
+- **The Preacher’s Outline and Sermon Bible (45 vols.):** Provides sermon outlines, key themes, and illustrations for each Bible book, ideal for sermon preparation.
+- **ESV Expository Commentary Series Collection (11 vols.):** Offers clear and insightful exposition of biblical texts, integrating rigorous scholarship with pastoral sensitivity.
+- **God’s Word for You (33 vols.):** A practical commentary series that offers accessible insights to help readers apply Scripture to everyday life.
+- **Contours of Christian Theology (9 vols.):** Explores key theological concepts and themes, helping to deepen one’s understanding of Christian doctrine.
+- **Christ-Centered Exposition Commentary Series Collection (42 vols.):** Focuses on preaching Christ from every book of the Bible, offering practical and theological insights.
+- **Augustine’s Expositions of the Psalms Set (6 vols.):** Provides rich theological reflections on the Psalms, grounded in Augustine's writings.
 
 ### [Best for Pastors & Preachers: Logos Platinum Library](https://logos.sjv.io/oqjP3m)
 
@@ -156,11 +156,11 @@ If you're looking for the best intersection of resources and affordability, Logo
 </figure>
 The Platinum Library is a great entry point option for  more advanced exegesis and sermon prep as well as academic study. In a word, this library is more nerdy and will serve those wanting to go deeper. One resource I love in this library is the _SIL Exegetical Summary Series_. This series orients you to the exegetical interpretations and views of the most popular commentaries on a given passage and provides a hyperlink directly to that commentary. It's an incredible resource to help you grasp the lay of the land when it comes to interpreting a passage. This libray includes all of the Gold library resources but also adds more technical and theological studies resources.
 
-- _Preaching the Word Commentary Series Collection (42 vols.)_
-- _Anchor Yale Bible Dictionary (6 vols.)_
-- _Credo Magazine: 2010-2021 (11 vols.)_
-- _International Theological Commentary Series Collection (5 vols.)_
-- _SIL Exegetical Summary Series (34 vols.)_
+- **Preaching the Word Commentary Series Collection (42 vols.):** Offers detailed expositions of Scripture with a focus on preaching, ideal for pastors and teachers.
+- **Anchor Yale Bible Dictionary (6 vols.):** A scholarly reference work offering detailed entries on biblical terms, places, and people.
+- **Credo Magazine: 2010-2021 (11 vols.):** A theological journal offering articles on doctrine, culture, and the life of the church.
+- **International Theological Commentary Series Collection (5 vols.):** Offers in-depth commentary on Scripture with a focus on academic and theological analysis.
+- **SIL Exegetical Summary Series (34 vols.):** Provides detailed exegesis and linguistic analysis of key Bible passages, helping scholars understand different interpretations.
 
 ### [Best for Serious Study: Logos Diamond Library](https://logos.sjv.io/oqjP3m)
 
@@ -169,10 +169,10 @@ The Platinum Library is a great entry point option for  more advanced exegesis a
 </figure>
 If I had to choose one library, this one is my favorite. It is an ideal library for anyone wanting to do advanced exegesis with access to technical and semi-technical commentaries. This package includes some of my favorite resources. The _Pillar New Testament Commentary_ series and _New International Commentary on the Old and New Testament_ series are full of the top commentaries for various books of the Bible. The _Exegetical Guide to the Greek New Testament_ is incredibly valuable if you are working in the Greek New Testament. I really appreciated having this series on hand while navigating my Greek Exegesis courses. This library is also filled with scholarly and advanced biblical reference works. 
 
-- _Pillar New Testament Commentary (17 vols.)_
-- _Exegetical Guide to the Greek New Testament (14 vols.)_
-- _New International Commentary on the Old and New Testament: Heritage Collection (26 vols.)_
-- _Wiley Blackwell Bible Commentaries (22 vols.)_
+- **Pillar New Testament Commentary (17 vols.):** A respected series providing thorough exegesis and practical application for each New Testament book.
+- **Exegetical Guide to the Greek New Testament (14 vols.):** Offers linguistic and grammatical analysis of the Greek New Testament for accurate interpretation.
+- **New International Commentary on the Old and New Testament: Heritage Collection (26 vols.):** Combines scholarly depth with pastoral application, making it an invaluable resource for both study and teaching.
+- **Wiley Blackwell Bible Commentaries (22 vols.):** Offers academic-level insights into Scripture, providing comprehensive analysis for scholars and serious students of the Bible.
 
 ## Role Library Recommendations - Researcher, Leader, Preacher
 Generally, I recommend the standard packages above for most Logos users. However, if you are looking for a more specialized library based on your ministry or academic role, these are some great packages to consider. 
@@ -196,7 +196,7 @@ Among the Preacher libraries, I feel Preacher Gold strikes the best balance betw
 - _Tyndale Old Testament and New Testament Commentary Series (47 vols.)_
 - _New Growth Press Minibooks: Sexuality Collection (11 vols.)_
 
-### Leader Libraries
+### A Word on Leader Libraries
 Compared to the standard libraries, the Leader libraries exchange theology, NT/OT studies, counseling, and language resources for more commentaries and devotionals. Admittedly, I struggle to imagine purchasing a Leader library over a standard library. Perhaps it is the seminary graduate, theology nerd, or Biblical studies enthusist in me. In the standard Gold library, you are gaining access to fantastic systematic theology resources like the _Contours of Christian Theology_ series that I am not eager to give up! Personally, I cannot identify commentaries or other distinct resources in the Leader libraries that feel worth the trade-off. 
 
 ## Denominational Libraries
