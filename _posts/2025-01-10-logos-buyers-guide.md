@@ -49,9 +49,8 @@ When I first purchased Logos in 2009, I bought an entry-level library package an
 
 > **_You need to know what you want Logos to do for you and ensure you are getting the right features and resources to accomplish your desired task._**
 
-## Logos Subscriptions 
+## Logos Subscriptions Overview
 
-### Overview
 Logos offers three subscription tiers: Premium, Pro, and Max.
 
 Each tier is tailored to different use cases:
