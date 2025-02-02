@@ -33,7 +33,25 @@ If you're new to Logos or looking to go deeper, you may be wondering:
 
 In this post, I'll guide you through the different Logos subscription tiers and libraries, helping you choose the best option based on your needs. **Don't miss the [exclusive Logos subscription offer](https://www.nickstapleton.me/logos-buyers-guide/#special-extended-free-trial-offer) at the end of this post!** 
 
-## Logos Subscriptions
+## Which Logos Subscription and Library Should I Buy?
+
+Ultimately, there are three questions you need to answer:
+
+**1. ✨ What features do you want?**
+**2. 📚 What resources do you want?**
+**3. 💵 What is your budget?**
+
+![](/assets/images/LogosFeaturesLibrary.gif)
+
+**Logos is only as useful as the resources and features you have inside of it.** If you want to access the top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
+
+When I first purchased Logos in 2009, I bought an entry-level library package and expected it to somehow perform exegetical magic. Eventually, I realized that Logos isn’t going to magically revolutionize my study of the Bible simply by buying any package.
+
+> **_You need to know what you want Logos to do for you and ensure you are getting the right features and resources to accomplish your desired task._**
+
+## Logos Subscriptions 
+
+### Overview
 Logos offers three subscription tiers: Premium, Pro, and Max.
 
 Each tier is tailored to different use cases:
@@ -52,9 +70,7 @@ With any subscription, you'll get:
 	- 5% annual reward coupon every February (Pro and Max only)
 	- Logos online sermon database (Pro and Max only)
 
-Logos subscription model provides a lower price of entry, continuous upgrades, and faster feedback for better product development. It's a rare instance where a subscription truly adds value.
-
-### Why I Like Logos Subscriptions
+#### Why I Like Logos Subscriptions
 
 🔷 Logos subscriptions work differently. When you stop paying for your Netflix subscription, you lose all access to Netflix. That's **not**_ how Logos subscriptions work.
 
@@ -62,9 +78,11 @@ Logos subscription model provides a lower price of entry, continuous upgrades, a
 
 🔷 A **Legacy Fallback License** allows you to keep offline features when you cancel your subscription after 24 consecutive months. **Instead of falling back to a free or previous version of Logos, you'll keep the core features from your subscription tier that don't rely on the cloud or AI.**
 
+🔷 Logos subscription model provides a lower price of entry, continuous upgrades, and faster feedback for better product development. It's a rare instance where a subscription truly adds value.
+
 This is why I view Logos subscriptions more along the lines of a payment plan. And again, any books, features, or content you purchase are yours forever and accessible regardless of your subscription status.
 
-### Logos Subscription Pricing
+### Pricing
 
 The price for each subscription tier varies. If you own a Logos 10 or earlier package, you can get a cheaper price than those who are all together new to Logos. Additionally, anyone can receive two months free if you pay annually or five months free if you pay for two years upfront. 
 
@@ -73,37 +91,6 @@ If you use my link, you will **[receive an additional month free!](https://logos
 Here's an overview of the pricing.
 
 ![](/assets/images/LogosSubscriptionPricing.png)
-
-## Logos Libraries Overview
-![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
-
-Logos libraries are the most cost-effective way to build your resource library. Here's why:
-
-**According to Logos, their libraries save you 90% compared to purchasing books individually.**
-
-New libraries are only available to purchase for subscribers and come with perpetual licenses. This means even if you cancel your subscription, you'll keep access to the books you’ve purchased.
-
-When I first started with Logos, I hesitated to buy libraries, thinking they were overpriced and full of resources I’d never use. However, I've learned that while some resources may not be useful to you, others will come at a steep discount. You can buy resources individually, but you’ll likely spend more in the long run.
-
-Worst-case scenario with a Logos library: you get the resources you want and hundreds more at little or no extra cost.
-
-***Important note: You must have a current Logos subscription to purchase new libraries.***
-
-## Which Logos Subscription and Library Should I Buy?
-
-Ultimately, there are three questions you need to answer:
-
-**1. ✨ What features do you want?
-2. 📚 What resources do you want?
-3. 💵 What is your budget?**
-
-![](/assets/images/LogosFeaturesLibrary.gif)
-
-**Logos is only as useful as the resources and features you have inside of it.** If you want to access the top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
-
-When I first purchased Logos in 2009, I bought an entry-level library package and expected it to somehow perform exegetical magic. Eventually, I realized that Logos isn’t going to magically revolutionize my study of the Bible simply by buying any package.
-
-> **_You need to know what you want Logos to do for you and ensure you are getting the right features and resources to accomplish your desired task._**
 
 ## Logos Subscription Recommendations
 
@@ -138,6 +125,21 @@ As mentioned earlier, the three subscription tiers cater to distinct needs. Unde
 ---
 
 **As a Logos affiliate, I am able to provide you an [extended free trial on a Logos subscription](https://logos.sjv.io/stapleton)!**
+
+## Logos Libraries Overview
+![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
+
+Logos libraries are the most cost-effective way to build your resource library. Here's why:
+
+**According to Logos, their libraries save you 90% compared to purchasing books individually.**
+
+New libraries are only available to purchase for subscribers and come with perpetual licenses. This means even if you cancel your subscription, you'll keep access to the books you’ve purchased.
+
+When I first started with Logos, I hesitated to buy libraries, thinking they were overpriced and full of resources I’d never use. However, I've learned that while some resources may not be useful to you, others will come at a steep discount. You can buy resources individually, but you’ll likely spend more in the long run.
+
+Worst-case scenario with a Logos library: you get the resources you want and hundreds more at little or no extra cost.
+
+***Important note: You must have a current Logos subscription to purchase new libraries.***
 
 ## Logos Library Recommendations
 
