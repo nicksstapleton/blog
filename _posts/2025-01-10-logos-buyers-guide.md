@@ -213,14 +213,14 @@ Logos offers denominational libraries curated for different theological traditio
 ### Best Overall Value  
 If you're investing in a denominational library, these are the best picks for depth and long-term usefulness:  
 
-- **[Reformed Platinum or Diamond](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Includes works by John Calvin, Charles Spurgeon, Herman Bavinck, R.C. Sproul, and John Piper. Platinum is the sweet spot for serious theological study, while Diamond adds even more historical and exegetical depth.  
+- **[Reformed Platinum or Diamond](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Includes works by John Calvin, Charles Spurgeon, Herman Bavinck, and John Stott. Platinum is the sweet spot for serious theological study, while Diamond adds even more historical and exegetical depth.  
 - **[Baptist Platinum](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Features resources from Charles Spurgeon, John Gill, Andrew Fuller, D.A. Carson, and Al Mohler. Gold is decent, but Platinum is where the depth really increases for both pastoral and theological studies.  
 - **[Catholic Diamond](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – The best choice for Catholic theology and history, including works by St. Augustine, Thomas Aquinas, St. John Henry Newman, Pope Benedict XVI, and the early Church Fathers.  
 
 ### Best for Preaching & Teaching  
 If your focus is on **sermon prep, pastoral ministry, and teaching**, these levels are ideal:  
 
-- **[Baptist Platinum](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Strong sermon resources, preaching commentaries, and practical ministry books from figures like Charles Spurgeon, John Broadus, and Alistair Begg.  
+- **[Baptist Platinum](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Strong sermon resources, preaching commentaries, and practical ministry books from Charles Spurgeon, Patrick Schreiner, 9Marks, and Alistair Begg.  
 - **[Reformed Gold or Platinum](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Great for expository preaching, featuring works by Martyn Lloyd-Jones, John Stott, and Sinclair Ferguson.  
 - **[Charismatic Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Balanced cost and value, including works by Gordon Fee and Craig Keener.  
 
