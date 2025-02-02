@@ -222,7 +222,7 @@ If your focus is on **sermon prep, pastoral ministry, and teaching**, these leve
 
 - **[Baptist Platinum](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Strong sermon resources, preaching commentaries, and practical ministry books from figures like Charles Spurgeon, John Broadus, and Alistair Begg.  
 - **[Reformed Gold or Platinum](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Great for expository preaching, featuring works by Martyn Lloyd-Jones, John Stott, and Sinclair Ferguson.  
-- **[Pentecostal & Charismatic Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Balanced cost and value, including works by Gordon Fee, Jack Hayford, and Craig Keener.  
+- **[Charismatic Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Balanced cost and value, including works by Gordon Fee and Craig Keener.  
 
 ### Best for Theological Study & Historical Depth  
 If you’re going deep into **systematic theology, Church history, or academic study**, these are the best levels:  
