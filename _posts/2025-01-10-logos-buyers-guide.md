@@ -54,15 +54,11 @@ Logos subscription model provides a lower price of entry, continuous upgrades, a
 
 ### Why I Like Logos Subscriptions
 
-Logos subscriptions work differently than most subscription models. When you stop paying for your Netflix subscription, you lose all access to Netflix. That's not how Logos subscriptions work.
+🔷 Logos subscriptions work differently. When you stop paying for your Netflix subscription, you lose all access to Netflix. That's **not**_ how Logos subscriptions work.
+🔷 After 24 consecutive months, you receive a Legacy Fallback License.
+🔷 A **Legacy Fallback License** allows you to keep offline features when you cancel your subscription after 24 consecutive months. **Instead of falling back to a free or previous version of Logos, you'll keep the core features from your subscription tier that don't rely on the cloud or AI.**
 
-With Logos, if you cancel your subscription after you’ve subscribed for 24 months, you’ll be given a Legacy Fallback License automatically.
-
-A **Legacy Fallback License** allows you to keep offline features when you cancel your subscription after 24 consecutive months. Instead of falling back to a free or previous version of Logos, you'll keep the core features from your subscription tier that don't rely on the cloud or AI.
-
-This is why I view Logos subscriptions more along the lines of a payment plan. You’re paying your way towards a Legacy Fallback License and will keep the features if you decide to cancel after 24 months.
-
-And again, any books, features, or content you purchase are yours forever and accessible regardless of your subscription status.
+This is why I view Logos subscriptions more along the lines of a payment plan. And again, any books, features, or content you purchase are yours forever and accessible regardless of your subscription status.
 
 ### Logos Subscription Pricing
 
@@ -87,7 +83,7 @@ When I first started with Logos, I hesitated to buy libraries, thinking they wer
 
 Worst-case scenario with a Logos library: you get the resources you want and hundreds more at little or no extra cost.
 
-*Important note: You must have a current Logos subscription to purchase new library base packages.*
+***Important note: You must have a current Logos subscription to purchase new libraries.***
 
 ## Which Logos Subscription and Library Should I Buy?
 
@@ -99,7 +95,7 @@ Ultimately, there are three questions you need to answer:
 
 ![](/assets/images/LogosFeaturesLibrary.gif)
 
-Logos is only as useful as the resources and features you have inside of it. If you want to access the top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
+**Logos is only as useful as the resources and features you have inside of it.** If you want to access the top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
 
 When I first purchased Logos in 2009, I bought an entry-level library package and expected it to somehow perform exegetical magic. Eventually, I realized that Logos isn’t going to magically revolutionize my study of the Bible simply by buying any package.
 
@@ -141,7 +137,7 @@ As mentioned earlier, the three subscription tiers cater to distinct needs. Unde
 
 ## Logos Library Recommendations
 
-### [Best Value: Logos Gold Library](https://logos.sjv.io/oqjP3m)
+### [💰 Best Overall Value: Logos Gold Library](https://logos.sjv.io/oqjP3m)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryGold.jpg" alt="">
@@ -155,7 +151,7 @@ If you're seeking a balance between resources and affordability, Logos Gold is t
 - **Christ-Centered Exposition Commentary Series Collection (42 vols.):** Focuses on preaching Christ from every book of the Bible, offering practical and theological insights.
 - **Augustine’s Expositions of the Psalms Set (6 vols.):** Provides rich theological reflections on the Psalms, grounded in Augustine's writings.
 
-### [Best for Pastors & Preachers: Logos Platinum Library](https://logos.sjv.io/oqjP3m)
+### [🗣️ Best for Pastors & Preachers: Logos Platinum Library](https://logos.sjv.io/oqjP3m)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryPlatinum.jpg" alt="">
@@ -168,7 +164,7 @@ The Platinum Library is perfect for those looking to engage in advanced exegesis
 - **International Theological Commentary Series Collection (5 vols.):** Offers in-depth commentary on Scripture with a focus on academic and theological analysis.
 - **SIL Exegetical Summary Series (34 vols.):** Provides detailed exegesis and linguistic analysis of key Bible passages, helping scholars understand different interpretations.
 
-### [Best for Serious Study: Logos Diamond Library](https://logos.sjv.io/oqjP3m)
+### [📚 Best for Serious Study: Logos Diamond Library](https://logos.sjv.io/oqjP3m)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
@@ -207,7 +203,7 @@ Compared to the standard libraries, the Leader libraries exchange theology, NT/O
 
 ## Denominational Library Recommendation
 
-Logos offers denominational libraries curated for different theological traditions. These libraries contain commentaries, systematic theologies, pastoral resources, and historical works that align with a particular tradition’s beliefs and practices. If you primarily study within a specific theological framework, a denominational library might be the best fit for you.
+Logos offers denominational libraries curated for different theological traditions. These libraries contain commentaries, systematic theologies, pastoral resources, and historical works that align with a particular tradition’s beliefs and practices. If you primarily study within a specific theological framework, a denominational library can round out your resources nicely.
 
 ### Best Overall Value  
 If you're investing in a denominational library, these are the best picks for depth and long-term usefulness:  
