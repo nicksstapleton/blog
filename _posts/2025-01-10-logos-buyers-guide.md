@@ -135,12 +135,12 @@ As I mentioned earlier, the three subscription tiers are aimed at three differen
 
 ## Logos Library Recommendations
 
-### [Gold Library](https://logos.sjv.io/oqjP3m)
+### [Best Value: Logos Gold Library](https://logos.sjv.io/oqjP3m)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryGold.jpg" alt="">
 </figure> 
-Logos Gold provides a comprehensive Bible study library. With this library, you are gaining access to some fantastic commentaries, Bible study resources, and systematic theology works. This package is well-rounded for pastors, preachers, and those who want to study the Bible in-depth. Some standout resources include:
+If you're looking for the best intersection of resources and affordability, Logos Gold is the clear winner. Logos Gold provides a comprehensive Bible study library complete with access to some fantastic commentaries, Bible study resources, and systematic theology works. This package is well-rounded for pastors, preachers, and those who want to study the Bible in-depth. Some standout resources include:
 
 - _The Preacher’s Outline and Sermon Bible (45 vols.)_
 - _ESV Expository Commentary Series Collection (11 vols.)_
@@ -149,7 +149,7 @@ Logos Gold provides a comprehensive Bible study library. With this library, you 
 - _Christ-Centered Exposition Commentary Series Collection (42 vols.)_
 - _Augustine’s Expositions of the Psalms Set, 6 vols. (The Works of Saint Augustine)_
 
-### [Platinum Library](https://logos.sjv.io/oqjP3m)
+### [Best for Pastors & Preachers: Logos Platinum Library](https://logos.sjv.io/oqjP3m)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryPlatinum.jpg" alt="">
@@ -162,7 +162,7 @@ The Platinum Library is a great entry point option for  more advanced exegesis a
 - _International Theological Commentary Series Collection (5 vols.)_
 - _SIL Exegetical Summary Series (34 vols.)_
 
-### [Diamond Library](https://logos.sjv.io/oqjP3m)
+### [Best for Serious Study: Logos Diamond Library](https://logos.sjv.io/oqjP3m)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
@@ -177,7 +177,7 @@ If I had to choose one library, this one is my favorite. It is an ideal library 
 ## Role Library Recommendations - Researcher, Leader, Preacher
 Generally, I recommend the standard packages above for most Logos users. However, if you are looking for a more specialized library based on your ministry or academic role, these are some great packages to consider. 
 
-### [Researcher Gold](https://logos.sjv.io/55a56N) 
+### [Best for Seminary: Researcher Gold](https://logos.sjv.io/55a56N) 
 Are you a seminary student? This library is an incredible value. Over $9,000 worth of resources for under $600. In this library are some fantastic commentaries and essential original language resources (NA28, BHS, BDAG). Also notable: this library is the cheapest route to obtaining the _Pillar New Testament Commentary_ series, which boasts some of the best commentaries on books in the New Testament. If you are in seminary, this library is a worthwhile investment for resources you will certainly need and use.
 
 - _Pillar New Testament Commentary (17 vols.)_
@@ -188,7 +188,7 @@ Are you a seminary student? This library is an incredible value. Over $9,000 wor
 - _Nestle-Aland Greek New Testament, 28th Edition, with Critical Apparatus (NA28)_
 - _Biblia Hebraica Stuttgartensia with Critical Apparatus (BHS)_
 
-### [Preacher Gold](https://logos.sjv.io/o4R4Qg)
+### [Best Value for Preachers: Preacher Gold](https://logos.sjv.io/o4R4Qg)
 Among the Preacher libraries, I feel Preacher Gold strikes the best balance between resources and value. Compared to the standard Gold library, this library allocates far more resources to Biblical commentaries, pastoral care and counseling, and preaching. Personally, I still favor the more academic-leaning standard libraries, but for the right preacher, this package could be worth considering for the increased preaching commentaries and tools. Notable resources include:
 
 - _Preaching the Word Commentary Series (42 vols.)_
