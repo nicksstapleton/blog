@@ -71,7 +71,7 @@ With any subscription, you'll get:
 
 ### Why I Like Logos Subscriptions
 
-🔷 Logos subscriptions work differently. When you stop paying for your Netflix subscription, you lose all access to Netflix. That's **not**_ how Logos subscriptions work.
+🔷 Logos subscriptions work differently. When you stop paying for your Netflix subscription, you lose all access to Netflix. That's **not** how Logos subscriptions work.
 
 🔷 After 24 consecutive months, you receive a Legacy Fallback License.
 
