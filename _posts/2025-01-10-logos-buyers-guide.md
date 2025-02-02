@@ -228,7 +228,7 @@ If you’re going deep into **systematic theology, Church history, or academic s
 - **[Catholic Diamond](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Includes Church Fathers like St. Augustine and St. Chrysostom, medieval scholars like Thomas Aquinas, and modern Catholic theology.  
 - **[Orthodox Platinum](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Strong in patristics, featuring St. Basil the Great, St. Gregory of Nyssa, St. John Chrysostom, and key Orthodox liturgical texts.  
 
-### Best Budget Options (Still Worthwhile)  
+### Best Budget Options 
 If you want a **solid denominational library but don’t want to spend as much**, these give great value:  
 
 - **[Reformed Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – A great mix of theological resources from Calvin, Bavinck, and Warfield without the higher price tag of Platinum or Diamond.  
