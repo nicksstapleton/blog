@@ -1,5 +1,5 @@
 ---
-title: Best Logos Library, Subscription, and Discount [2025 UPDATE] | Logos Bible Software Guide
+title: Best Logos Library, Subscription, and Discount [2025 UPDATE] - Logos Bible Software Guide
 excerpt: Discover the best Logos Bible Software library, subscription plan, and discount options for 2025. Make the right choice with my expert recommendations.
 last_modified_at: 2025-01-10
 toc: true
