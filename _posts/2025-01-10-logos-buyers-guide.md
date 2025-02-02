@@ -70,7 +70,7 @@ With any subscription, you'll get:
 	- 5% annual reward coupon every February (Pro and Max only)
 	- Logos online sermon database (Pro and Max only)
 
-#### Why I Like Logos Subscriptions
+### Why I Like Logos Subscriptions
 
 🔷 Logos subscriptions work differently. When you stop paying for your Netflix subscription, you lose all access to Netflix. That's **not**_ how Logos subscriptions work.
 
