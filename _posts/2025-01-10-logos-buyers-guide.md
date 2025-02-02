@@ -37,9 +37,9 @@ In this post, I'll guide you through the different Logos subscription tiers and 
 
 Ultimately, there are three questions you need to answer:
 
-**1. ✨ What features do you want?**
-**2. 📚 What resources do you want?**
-**3. 💵 What is your budget?**
+1. **✨ What features do you want?**
+2. **📚 What resources do you want?**
+3. **💵 What is your budget?**
 
 ![](/assets/images/LogosFeaturesLibrary.gif)
 
