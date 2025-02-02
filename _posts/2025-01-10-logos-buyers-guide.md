@@ -55,7 +55,9 @@ Logos subscription model provides a lower price of entry, continuous upgrades, a
 ### Why I Like Logos Subscriptions
 
 🔷 Logos subscriptions work differently. When you stop paying for your Netflix subscription, you lose all access to Netflix. That's **not**_ how Logos subscriptions work.
+
 🔷 After 24 consecutive months, you receive a Legacy Fallback License.
+
 🔷 A **Legacy Fallback License** allows you to keep offline features when you cancel your subscription after 24 consecutive months. **Instead of falling back to a free or previous version of Logos, you'll keep the core features from your subscription tier that don't rely on the cloud or AI.**
 
 This is why I view Logos subscriptions more along the lines of a payment plan. And again, any books, features, or content you purchase are yours forever and accessible regardless of your subscription status.
@@ -89,9 +91,9 @@ Worst-case scenario with a Logos library: you get the resources you want and hun
 
 Ultimately, there are three questions you need to answer:
 
-1. What features do you want?
-2. What resources do you want?
-3. What is your budget?
+**1. ✨ What features do you want?
+2. 📚 What resources do you want?
+3. 💵 What is your budget?**
 
 ![](/assets/images/LogosFeaturesLibrary.gif)
 
