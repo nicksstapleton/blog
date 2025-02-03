@@ -69,7 +69,7 @@ Speaking of resources, if you are looking for recommendations, I have written ab
 
 ## 7. Grab the Free Book of the Month
 
-Every month Logos gives away [a free book](https://logos.sjv.io/freebook). Many times they are awesome. If you're a Logos subscriber, you wil receive an extra free book every month!
+Every month Logos gives away [a free book](https://logos.sjv.io/freebook). Many times they are awesome. If you're a Logos subscriber, you will receive an extra free book every month!
 
 [Subscribe to my newsletter](https://nickstapleton.ck.page/) and I will let you know about the free books at the beginning every month so you never miss them. Did you know there is a free audiobook every month, too? [Subscribe](https://nickstapleton.ck.page/) so you don't miss out.
 
