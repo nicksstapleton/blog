@@ -123,7 +123,7 @@ As mentioned earlier, the three subscription tiers cater to distinct needs. Unde
 
 ---
 
-**As a Logos affiliate, I am able to provide you an [extended free trial on a Logos subscription](https://logos.sjv.io/stapleton)!**
+✨ **As a Logos affiliate, I am able to provide you an [extended free trial on a Logos subscription](https://logos.sjv.io/stapleton)!**
 
 ## Logos Libraries Overview
 ![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
@@ -245,8 +245,8 @@ Seminary is a financially tight time, and investing in Logos may seem like a str
 ### Seminary Student Subscription and Library Recommendation
 
 For students, I suggest this subscription and library:
-- **[Logos Max](https://logos.sjv.io/stapleton)**
-- **[Logos Researcher Gold](https://logos.sjv.io/55a56N)**
+- 🧑‍🎓 **[Logos Max](https://logos.sjv.io/stapleton)**
+- 📚 **[Logos Researcher Gold](https://logos.sjv.io/55a56N)**
 
 The [Logos Max](https://logos.sjv.io/stapleton) subscription will empower your academic writing and provide advanced original language tools. The [Logos Researcher Gold](https://logos.sjv.io/55a56N) library offers essential language resources and excellent commentaries—perfect for seminary.
 
@@ -262,11 +262,11 @@ Logos runs a variety sales throughout the year and if you [sign up for my newsl
 
 ## Special Extended Free Trial Offer
 
-**As a Logos affiliate, I am able to provide you a special [extended free trial by using my link](https://logos.sjv.io/stapleton)!** [^1]
+👀 **As a Logos affiliate, I am able to provide you a special [extended free trial by using my link](https://logos.sjv.io/stapleton)!** [^1]
 
 My partner link will get you an extra 30 days on your free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
 
-[Subscribe to my newsletter](https://nickstapleton.ck.page/) below and I will keep you posted on the latest Logos sales, free books, discounted resources, and share a training tip to help you get the most out of Logos.
+📩 [Subscribe to my newsletter](https://nickstapleton.ck.page/) below and I will keep you posted on the latest Logos sales, free books, discounted resources, and share a training tip to help you get the most out of Logos.
 
 [^1]:Disclosure: As a Logos affiliate partner, I get a small commission for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out. I am grateful for your support and genuinely excited for you to get into Logos!
 
