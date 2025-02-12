@@ -51,7 +51,7 @@ Some people avoid Logos libraries because of the sticker price, but that’s a m
 
 If nothing else, you pay for the resources you want and get hundreds of others thrown in at little or no extra cost.
 
-👀 If you want some help and direction picking out a library, read my [Logos Buyer’s Guide](https://www.nickstapleton.me/logos-buyers-guide/).
+👀 **If you want some help picking out a library, read my [Logos Buyer’s Guide](https://www.nickstapleton.me/logos-buyers-guide/).**
 
 ## 5. 🎓 Academic Student Discount
 
