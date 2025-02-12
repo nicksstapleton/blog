@@ -24,8 +24,11 @@ One of the strengths of Logos is its vast catalog. When I began building my libr
 
 **Here's the most important principal when choosing resources: You want to invest in great reference tools you will utilize over and over again for years to come.** 
 
+## Don't Sleep on Logos Libraries
+Before recommending specific resources, it is important to note: **The most cost-effective way to get resources in Logos is with a Logos Library.** A Logos Library is the foundation you want to start with and build on. Logos offers everything from academic and denominational packages to starter or other general packages. **If you haven't already, be sure to read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) so you can buy the right library for you.**
+
 ## The Six Resource Categories to Priortize
-The best way to build the ideal Logos library is to begin by thinking through categories and then selecting the top resources. Here are the six categories to prioritize, in no certain order:
+The best way to build the ideal Logos library is to begin by thinking through categories and then selecting the top resources. Here are the six categories to prioritize, in no particular order:
 
 1. Bible dictionaries
 2. Theological dictionaries
@@ -35,13 +38,13 @@ The best way to build the ideal Logos library is to begin by thinking through ca
 6. Other reference resources (study bibles, favorite books, etc.)
 
 ## My Recommended Resources for Logos
-What resources do I recommend in these categories? I'm glad you asked!
+What resources do I recommend in Logos? I'm glad you asked!
 
 👉 **[My full list of recommended resources](https://www.logos.com/nickstapleton) is listed conveniently on Logos.com!**[^1] They are organized by category to make it easy find whatever you are looking for.
 
 [![](/assets/images/IMG_0901.jpeg)](https://www.logos.com/nickstapleton)
 
-My recommended Logos resource list includes titles like :
+My recommended Logos resource list includes titles like:
 - New Dictionary of Biblical Theology (NDBT)
 - Dictionary of Biblical Imagery
 - NIV Biblical Theology Study Bible Notes (NIVBTSB)
@@ -50,12 +53,13 @@ My recommended Logos resource list includes titles like :
 - An Old Testament Theology
 - BDAG / HALOT
 
-Discounts are always happening with Logos. You can read about ongoing discounts [here](https://nickstapleton.me/logos-discounts/). Also, if you [sign up for my newsletter](https://nickstapleton.ck.page) I'll keep you posted on special discounts and sales Logos is running on my favorite resources and any free books they are giving away.
+Logos is always running a variety of discounts each month. If you are looking to capture some savings today, I have written about ongoing discounts [here](https://nickstapleton.me/logos-discounts/). 
+
+If you [sign up for my newsletter](https://nickstapleton.ck.page) I'll keep you posted on special discounts and sales Logos is running on my favorite resources and free books they are giving away so you never miss an opportunity!
 
 [^1]: Disclosure: As a Logos affiliate partner, I get a small commission for any purchases using my affiliate link. This is like you buying me a cup of coffee for helping you out.
 
-## Don't Sleep on Logos Libraries
-The most cost-effective way to get resources in Logos is with a Library. A Logos Library is the foundation you want to start with and build on. Logos offers everything from academic and denominational packages to starter or other general packages. If you want help choosing a Logos Library, read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/).
+
 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
 
