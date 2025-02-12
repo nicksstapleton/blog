@@ -25,7 +25,11 @@ One of the strengths of Logos is its vast catalog. When I began building my libr
 **Here's the most important principal when choosing resources: You want to invest in great reference tools you will utilize over and over again for years to come.** 
 
 ## Don't Sleep on Logos Libraries
-Before recommending specific resources, it is important to note: **The most cost-effective way to get resources in Logos is with a Logos Library.** A Logos Library is the foundation you want to start with and build on. Logos offers everything from academic and denominational packages to starter or other general packages. **If you haven't already, be sure to read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) so you can buy the right library for you.**
+Before recommending specific resources, it is important to note: **The most cost-effective way to get resources in Logos is with a Logos Library.** 
+
+A Logos Library is the foundation you want to start with and build on. Logos offers everything from academic and denominational packages to starter or other general packages.
+
+**If you haven't already, be sure to read my [Logos Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) so you can buy the right library for you.**
 
 ## The Six Resource Categories to Priortize
 The best way to build the ideal Logos library is to begin by thinking through categories and then selecting the top resources. Here are the six categories to prioritize, in no particular order:
