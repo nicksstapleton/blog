@@ -17,7 +17,7 @@ In this post, I’m going to share my eight best tips to save money and get a di
 
 ## 1. ✨ Become a Logos Subscriber using [my partner link](https://logos.sjv.io/stapleton) (Extended free trial and up to 30% off a library)
 
-I am a Logos affiliate and proud of it. And this is a legitimate special offer that will save you money.
+I am a Logos affiliate and this is a legitimate [special offer](https://logos.sjv.io/stapleton) that will save you money.
 
 Logos has been an invaluable tool in my ministry, seminary studies, sermon prep, and personal growth. I love telling others about why it’s well worth the investment.
 
