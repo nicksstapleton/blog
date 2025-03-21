@@ -174,7 +174,7 @@ The Platinum Library is perfect for those looking to engage in advanced exegesis
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025LogosLibraryDiamond.jpg" alt="">
 </figure>
-If I had to pick one library, this is one is my favorite. It's the ideal library for those pursuing advanced exegesis, offering access to top-tier commentaries and biblical reference works. Some of my personal favorites in this library include the _Pillar New Testament Commentary_ and _New International Commentary on the Old and New Testament_ series, as well as the invaluable _Exegetical Guide to the Greek New Testament_. If you're committed to deep, scholarly study, this library has you covered.
+If I had to pick one library, this one is my favorite. It's the ideal library for those pursuing advanced exegesis, offering access to top-tier commentaries and biblical reference works. Some of my personal favorites in this library include the _Pillar New Testament Commentary_ and _New International Commentary on the Old and New Testament_ series, as well as the invaluable _Exegetical Guide to the Greek New Testament_. If you're committed to deep, scholarly study, this library has you covered.
 
 - **Pillar New Testament Commentary (17 vols.):** A respected series providing thorough exegesis and practical application for each New Testament book.
 - **Exegetical Guide to the Greek New Testament (14 vols.):** Offers linguistic and grammatical analysis of the Greek New Testament for accurate interpretation.
