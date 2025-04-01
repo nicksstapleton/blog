@@ -85,7 +85,7 @@ This is why I view Logos subscriptions more along the lines of a payment plan. A
 
 The price for each subscription tier varies. If you own a Logos 10 or earlier package, you can get a cheaper price than those who are all together new to Logos. Additionally, anyone can receive two months free if you pay annually or five months free if you pay for two years upfront. 
 
-If you use my link, you will **[receive an additional month free!](https://logos.sjv.io/stapleton)** [^1]
+If you use my link, you will **[receive an additional 60 days free!](https://logos.sjv.io/stapleton)** [^1]
 
 Here's an overview of the pricing.
 
@@ -264,7 +264,7 @@ Logos runs a variety sales throughout the year and if you [sign up for my newsl
 
 👀 **As a Logos affiliate, I am able to provide you a special [extended free trial by using my link](https://logos.sjv.io/stapleton)!** [^1]
 
-My partner link will get you an extra 30 days on your free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
+My partner link will give you a 60-day free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
 
 📩 [Subscribe to my newsletter](https://nickstapleton.ck.page/) below and I will keep you posted on the latest Logos sales, free books, discounted resources, and share a training tip to help you get the most out of Logos.
 
