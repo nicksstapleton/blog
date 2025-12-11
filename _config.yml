@@ -18,7 +18,7 @@ teaser: "/assets/images/nslsm.png"
 permalink: "/:title/"
 paginate: "10"
 paginate_path: /page:num/
-timezone: 
+timezone: America/Denver
 include:
 - _pages
 plugins:
