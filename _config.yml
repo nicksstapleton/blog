@@ -34,6 +34,9 @@ author:
   bio: "Seeking to surrender all of life for all of life to Jesus"
   location: "Colorado Springs, CO"
   links:
+  - label: "YouTube"
+    icon: "fab fa-youtube"
+    url: "https://youtube.com/nickstapleton"
   - label: "X / Twitter"
     icon: "fab fa-twitter-square"
     url: "https://twitter.com/nickstapleton"
@@ -47,6 +50,9 @@ collections:
     permalink: /:collection/:path/    
 footer:
   links:
+  - label: "YouTube"
+    icon: "fab fa-youtube"
+    url: "https://youtube.com/nickstapleton"
   - label: "X / Twitter"
     icon: "fab fa-twitter-square"
     url: "https://twitter.com/nickstapleton"
