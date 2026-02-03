@@ -200,7 +200,7 @@ If you are in seminary pursuing a degree like a Master of Divinity, you will nee
 
 I put together a study bundle with Logos for those pursuing advanced exegesis, offering access to top-tier commentaries and biblical reference works. Some of my personal favorite resources are in this library.
 
-#### [Nick Stapleton Study Bundle(https://logos.sjv.io/nickstudy)
+#### [Nick Stapleton Study Bundle](https://logos.sjv.io/nickstudy)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026 Partner Bundle—Nick Stapleton.png" alt="">
