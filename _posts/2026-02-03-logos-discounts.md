@@ -57,6 +57,8 @@ If nothing else, you pay for the resources you want and get hundreds of others t
 
 If you're a seminary student, sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This student discount will get you 30% off of a Logos subription AND library as well as up to 50% off of essential academic resources.
 
+![](/assets/images/academic discount.png)
+
 ## 6. 📦 Is the resource you want included in a library?
 
 Check this out: If I wanted to buy the _Dictionary of Classical Hebrew_ it would cost me $339.99, but if I buy the Logos Academic Premium Library I can get it and dozens of other resources thrown in for $108.53. 🤯
