@@ -23,15 +23,15 @@ Logos has been an invaluable tool in my ministry, seminary studies, sermon prep,
 
 In return for sending readers from my website to Logos, I get a small commission at no cost to you and you receive a valuable special offer!
 
-[My partner link](https://logos.sjv.io/stapleton) will get you an extra 30 days on your free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
+[My partner link](https://logos.sjv.io/stapleton) will get you an extended 60-day free trial on your Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
 
 ## 2. 🎁 Logos Subscriber Rewards
 
 Beyond all the features you gain access to through your Logos subscription, you also get discount rewards! As a subscriber you receive:
 - 5% store-wide discount on all books
-- Earn 5% annual reward coupon every February (Pro and Max subscriptions only)
+- Earn a 5% annual reward coupon every February (Pro and Max subscriptions only)
 
-If you subscribe using [my partner link](https://logos.sjv.io/stapleton), you will receive an extra free 30 days on your Logos subscription.
+If you subscribe using [my partner link](https://logos.sjv.io/stapleton), you will receive an extended 60-day free trial on your Logos subscription.
 
 ## 3. 🗓️ Pay Annually for Your Logos Subscription
 
