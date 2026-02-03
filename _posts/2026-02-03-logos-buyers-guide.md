@@ -180,6 +180,7 @@ If you have the budget, these two libraries are my favorite. They're ideal libra
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026-Library—Preacher Track—Diamond—Extra Large—1000.png" alt="">
 </figure>
+
 - **Pillar New Testament Commentary - PNTC (18 vols.):** A premier scholarly series that blends rigorous exegesis with a clear focus on the theological message of the New Testament authors.
 - **New Studies in Biblical Theology Series Collection - NSBT (53 vols.):** An insightful collection of monographs that explores specific theological themes as they develop throughout the entire canon of Scripture.
 - **ESV Expository Commentary Series (12 vols.):** A clear, concise, and biblically sound resource designed to help pastors and students apply the text to modern life.
@@ -193,6 +194,7 @@ If you have the budget, these two libraries are my favorite. They're ideal libra
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026-Library—Standard Track—Diamond—Extra Large—1000.png" alt="">
 </figure>
+
 - **The IVP Bible Dictionaries (8 vols.):** An essential set of reference volumes that provide in-depth, encyclopedic coverage of various sections of the biblical canon.
 - **Pillar New Testament Commentary - PNTC (18 vols.):** A premier scholarly series that blends rigorous exegesis with a clear focus on the theological message of the New Testament authors.
 - **ESV Expository Commentary Series (12 vols.):** A clear, concise, and biblically sound resource designed to help pastors and students apply the text to modern life.
