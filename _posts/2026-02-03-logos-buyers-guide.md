@@ -197,7 +197,7 @@ If you have the budget, these two libraries are my favorite. They're ideal libra
 - **Preaching the Word Commentary Series Collection - PtW (42 vols.):** A homiletically focused series written by pastors for pastors, prioritizing the faithful oral delivery of the Word.
 - **International Critical Commentary - ICC (68 vols.):** The definitive technical commentary series for in-depth linguistic, textual, and historical-critical analysis of the original languages.
 
-### Best Seminary Student Library 
+### 👨‍🎓 Best Seminary Student Library 
 
 If you are in seminary pursuing a degree like a Master of Divinity, you will need a library that offers you essential original language resources like NA28, BHS, and BDAG as well as top commentaries. 
 
