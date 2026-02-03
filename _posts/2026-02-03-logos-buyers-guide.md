@@ -23,7 +23,7 @@ meta_description: Get expert recommendations on the best Logos Bible Software li
 
 Logos has been one of the best investments I've ever made. It's an invaluable tool for learning, seminary, Bible study, sermon prep, and ministry.
 
-I've used Logos almost daily for over 15 years, relying on it heavily during my MDiv program in seminary. My perspective will be most helpful for pastors, seminary students, and other vocational ministers who have already decided they want to dive into Logos.
+I've used Logos almost daily for over 15 years, relying on it heavily during my MDiv program in seminary, and it continues to play a signficant role today in my ministry and personal growth. My perspective will be most helpful for pastors, seminary students, and other vocational ministers who have already decided they want to invest in Logos.
 
 If you're new to Logos or looking to go deeper, you may be wondering:
 
@@ -47,7 +47,7 @@ Ultimately, there are three questions you need to answer:
 
 **Logos is only as useful as the resources and features you have inside of it.** If you want to access the top commentaries, lexicons, and Bible dictionaries, you need to have them in Logos.
 
-When I first purchased Logos in 2009, I bought an entry-level library package and expected it to somehow perform exegetical magic. Eventually, I realized that Logos isn’t going to magically revolutionize my study of the Bible simply by buying any package.
+When I first purchased Logos in 2009, I bought an entry-level library and expected it to somehow perform exegetical magic. Eventually, I realized that Logos isn’t going to magically revolutionize my study of the Bible simply by buying any package.
 
 > **_You need to know what you want Logos to do for you and ensure you are getting the right features and resources to accomplish your desired task._**
 
@@ -57,7 +57,7 @@ Logos offers three subscription tiers: Premium, Pro, and Max.
 
 Each tier is tailored to different use cases:
 - **Logos Premium**: Small group prep
-- **Logos Pro**: Pastoral ministry and sermon prep
+- **Logos Pro**: Pastoral ministry sermon prep, and preaching
 - **Logos Max**: Academic and original language study
 
 With any subscription, you'll get:
@@ -138,6 +138,8 @@ New libraries are only available to purchase for subscribers and come with perpe
 When I first started with Logos, I hesitated to buy libraries, thinking they were overpriced and full of resources I’d never use. However, I've learned that while you may not use every resource that comes with your library, you will get others you want at a steep discount. You can buy resources individually, but you’ll likely spend far more money in the long run.
 
 Worst-case scenario with a Logos library: you get the resources you want and hundreds more at little or no extra cost.
+
+Additionally, you will never pay for a resource twice. When you buy a Logos resource, it is yours forever. With dynamic pricing, Logos will prorate the price of any library you purchase if you already own a given resource in your Logos library.
 
 ## Logos Library Recommendations
 
