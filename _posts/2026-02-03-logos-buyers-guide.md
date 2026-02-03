@@ -13,7 +13,7 @@ tags:
   - Logos
   - Logos Bible Software
 header:
-  image: "/assets/images/IMG_1329 Edited.png"
+  image: "/assets/images/Academic Discount-2026 Libraries-image.png"
   teaser: "/assets/images/LogosNewLibrary.jpg"
 meta_description: Get expert recommendations on the best Logos Bible Software library and subscription for 2025. Learn about discounts, features, and the right plan for your Bible study needs.
 
