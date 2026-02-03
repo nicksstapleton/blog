@@ -31,7 +31,7 @@ If you're new to Logos or looking to go deeper, you may be wondering:
 * _Are there any Logos discounts or tips for getting the best deal?_
 * _Which resources or features are essential?_
 
-In this post, I'll help you choose the best Logos subscription and library based on your needs.
+In this post, I'll help you choose the best Logos subscription and library based on your needs. 
 
 **Don't miss the [extended 60-day Logos trial offer](https://www.nickstapleton.me/logos-buyers-guide/#special-extended-free-trial-offer) at the end of this post!** 
 
@@ -39,9 +39,9 @@ In this post, I'll help you choose the best Logos subscription and library based
 
 Ultimately, there are three questions you need to answer:
 
-1. **✨ What features do you want?** [This determines your subscription tier]
-2. **📚 What resources do you want?** [This determines your library]
-3. **💵 What is your budget?** [You know what this determines!]
+1. **✨ What features do I want?** (Determines your subscription)
+2. **📚 What resources do I want?** (Determines your library)
+3. **💵 What is my budget?**
 
 ![](/assets/images/LogosFeaturesLibrary.gif)
 
@@ -151,10 +151,10 @@ If you're seeking to balance between resources and affordability, Logos Preacher
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026-Library—Preacher Track—Gold—Extra Large—1000.png" alt="">
 </figure> 
 
-- **Pillar New Testament Commentary | PNTC (18 vols.):** A premier scholarly series that blends rigorous exegesis with a clear focus on the theological message of the New Testament authors.
+- **Pillar New Testament Commentary - PNTC (18 vols.):** A premier scholarly series that blends rigorous exegesis with a clear focus on the theological message of the New Testament authors.
 - **ESV Expository Commentary Series (12 vols.):** A clear, concise, and biblically sound resource designed to help pastors and students apply the text to modern life.
-- **Christ Centered Exposition Commentary | CCE:** A practical and easy-to-read series that focuses on seeing every passage of Scripture through the lens of the gospel.
-- **Tyndale Commentaries | TOTC/TNTC (47 vols.):** An accessible and classic set of commentaries that provides excellent introductory-level insights into both the Old and New Testaments.
+- **Christ Centered Exposition Commentary - CCE:** A practical and easy-to-read series that focuses on seeing every passage of Scripture through the lens of the gospel.
+- **Tyndale Commentaries - TOTC/TNTC (47 vols.):** An accessible and classic set of commentaries that provides excellent introductory-level insights into both the Old and New Testaments.
 - **The Concise Greek-English Lexicon of the New Testament:** A streamlined linguistic tool for quickly identifying the meaning and usage of Greek words in the biblical text.
 
 #### [Standard Gold](https://logos.sjv.io/oqjP3m)
@@ -164,7 +164,7 @@ If you're seeking to balance between resources and affordability, Logos Preacher
 </figure> 
 
 - **ESV Expository Commentary Series (12 vols.):** A clear, concise, and biblically sound resource designed to help pastors and students apply the text to modern life.
-- **Christ Centered Exposition Commentary | CCE:** A practical and easy-to-read series that focuses on seeing every passage of Scripture through the lens of the gospel.
+- **Christ Centered Exposition Commentary - CCE:** A practical and easy-to-read series that focuses on seeing every passage of Scripture through the lens of the gospel.
 - **Ancient Christian Doctrine Series (5 vols.):** A systematic exploration of the foundational beliefs of the early church, organized by the Nicene Creed.
 - **Questions for Restless Minds (17 vols.):** A series of short, engaging books that provide thoughtful Christian perspectives on modern intellectual and social challenges.
 - **Holman Illustrated Bible Dictionary:** A visually rich reference work that offers comprehensive definitions, maps, and photographs to bring the biblical world to life.
@@ -178,12 +178,12 @@ If you have the budget, these two libraries are my favorite. They're ideal libra
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026-Library—Preacher Track—Diamond—Extra Large—1000.png" alt="">
 </figure>
-- **Pillar New Testament Commentary | PNTC (18 vols.):** A premier scholarly series that blends rigorous exegesis with a clear focus on the theological message of the New Testament authors.
-- **New Studies in Biblical Theology Series Collection | NSBT (53 vols.):** An insightful collection of monographs that explores specific theological themes as they develop throughout the entire canon of Scripture.
+- **Pillar New Testament Commentary - PNTC (18 vols.):** A premier scholarly series that blends rigorous exegesis with a clear focus on the theological message of the New Testament authors.
+- **New Studies in Biblical Theology Series Collection - NSBT (53 vols.):** An insightful collection of monographs that explores specific theological themes as they develop throughout the entire canon of Scripture.
 - **ESV Expository Commentary Series (12 vols.):** A clear, concise, and biblically sound resource designed to help pastors and students apply the text to modern life.
-- **Preaching the Word Commentary Series Collection | PtW (42 vols.):** A homiletically focused series written by pastors for pastors, prioritizing the faithful oral delivery of the Word.
+- **Preaching the Word Commentary Series Collection - PtW (42 vols.):** A homiletically focused series written by pastors for pastors, prioritizing the faithful oral delivery of the Word.
 - **John Calvin’s Commentaries Set (46 vols.):** A foundational collection of Reformation-era scholarship known for its clarity, brevity, and deep pastoral concern.
-- **Apollos Old Testament Commentary | AOT (15 vols.):** A rigorous scholarly series that examines the Hebrew text while bridging the gap between the ancient world and contemporary application.
+- **Apollos Old Testament Commentary - AOT (15 vols.):** A rigorous scholarly series that examines the Hebrew text while bridging the gap between the ancient world and contemporary application.
 
 
 #### [Standard Diamond](https://logos.sjv.io/oqjP3m)
@@ -192,12 +192,12 @@ If you have the budget, these two libraries are my favorite. They're ideal libra
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026-Library—Standard Track—Diamond—Extra Large—1000.png" alt="">
 </figure>
 - **The IVP Bible Dictionaries (8 vols.):** An essential set of reference volumes that provide in-depth, encyclopedic coverage of various sections of the biblical canon.
-- **Pillar New Testament Commentary | PNTC (18 vols.):** A premier scholarly series that blends rigorous exegesis with a clear focus on the theological message of the New Testament authors.
+- **Pillar New Testament Commentary - PNTC (18 vols.):** A premier scholarly series that blends rigorous exegesis with a clear focus on the theological message of the New Testament authors.
 - **ESV Expository Commentary Series (12 vols.):** A clear, concise, and biblically sound resource designed to help pastors and students apply the text to modern life.
-- **Preaching the Word Commentary Series Collection | PtW (42 vols.):** A homiletically focused series written by pastors for pastors, prioritizing the faithful oral delivery of the Word.
-- **International Critical Commentary | ICC (68 vols.):** The definitive technical commentary series for in-depth linguistic, textual, and historical-critical analysis of the original languages.
+- **Preaching the Word Commentary Series Collection - PtW (42 vols.):** A homiletically focused series written by pastors for pastors, prioritizing the faithful oral delivery of the Word.
+- **International Critical Commentary - ICC (68 vols.):** The definitive technical commentary series for in-depth linguistic, textual, and historical-critical analysis of the original languages.
 
-### Best Seminary Student Library 
+### 👨‍🎓 Best Seminary Student Library 
 
 If you are in seminary pursuing a degree like a Master of Divinity, you will need a library that offers you essential original language resources like NA28, BHS, and BDAG as well as top commentaries. 
 
@@ -209,13 +209,13 @@ I put together a study bundle with Logos for those pursuing advanced exegesis, o
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026 Partner Bundle—Nick Stapleton.png" alt="">
 </figure>
 
-- **Pillar New Testament Commentary | PNTC (18 vols.)**
+- **Pillar New Testament Commentary - PNTC (18 vols.)**
 - **ESV Expository Commentary Series (12 vols.)**
 - **The IVP Bible Dictionaries (8 vols.)**
 - **Dictionary of Biblical Imagery**
 - **The New Bible Dictionary, 3rd ed.**
 - **IVP Pocket Reference Series**
-- **New Studies in Biblical Theology Series Collection | NSBT (53 vols.)**
+- **New Studies in Biblical Theology Series Collection - NSBT (53 vols.)**
 - **New Dictionary of Biblical Theology**
 - **Calvin's Institutes of the Christian Religion (2 vols.)**
 - **A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG)**
@@ -228,9 +228,9 @@ If my study bundle is out of your budget or not your cup of tea, I'd suggest pic
 
 Seminary can be a financially tight time, and investing in Logos may seem like a stretch. But trust me—it’s worth it. Why not buy your textbooks in Logos and keep all your class notes in the software for easy reference for years to come? The right resources now can save you time and energy later, especially as you move into ministry and deeper Bible study. Plus, you'll develop proficiency with the software that will serve you throughout your ministry.
 
-### Seminary Student Subscription Recommendation and Discount
+### Seminary Student Subscription and Library Recommendation
 
-For students, I suggest the libraries mentioned about and the **[Logos Max](https://logos.sjv.io/stapleton)** subscription. The [Logos Max](https://logos.sjv.io/stapleton) subscription will empower your academic writing and provide advanced original language tools. 
+For students, I suggest the libraries mentioned about and the  🧑‍🎓 **[Logos Max](https://logos.sjv.io/stapleton)** subscription. The [Logos Max](https://logos.sjv.io/stapleton) subscription will empower your academic writing and provide advanced original language tools. 
 
 If you're a seminary student, don’t forget to sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 
