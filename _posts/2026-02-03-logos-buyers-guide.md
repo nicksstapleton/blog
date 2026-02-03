@@ -31,15 +31,17 @@ If you're new to Logos or looking to go deeper, you may be wondering:
 * _Are there any Logos discounts or tips for getting the best deal?_
 * _Which resources or features are essential?_
 
-In this post, I'll help you choose the best Logos subscription and library based on your needs. **Don't miss the [extended 60-day Logos trial offer](https://www.nickstapleton.me/logos-buyers-guide/#special-extended-free-trial-offer) at the end of this post!** 
+In this post, I'll help you choose the best Logos subscription and library based on your needs. 
+
+**Don't miss the [extended 60-day Logos trial offer](https://www.nickstapleton.me/logos-buyers-guide/#special-extended-free-trial-offer) at the end of this post!** 
 
 ## Which Logos Subscription and Library Should I Buy?
 
 Ultimately, there are three questions you need to answer:
 
-1. **✨ What features do you want?** [This determines your subscription tier]
-2. **📚 What resources do you want?** [This determines you library]
-3. **💵 What is your budget?** [You know what this determines!]
+1. **✨ What features do I want?** [This determines your subscription tier]
+2. **📚 What resources do I want?** [This determines your library]
+3. **💵 What is my budget?** [You know what this determines!]
 
 ![](/assets/images/LogosFeaturesLibrary.gif)
 
@@ -166,6 +168,7 @@ If you're seeking to balance between resources and affordability, Logos Preacher
 - **Ancient Christian Doctrine Series (5 vols.):** A systematic exploration of the foundational beliefs of the early church, organized by the Nicene Creed.
 - **Questions for Restless Minds (17 vols.):** A series of short, engaging books that provide thoughtful Christian perspectives on modern intellectual and social challenges.
 - **Holman Illustrated Bible Dictionary:** A visually rich reference work that offers comprehensive definitions, maps, and photographs to bring the biblical world to life.
+
 ### 📚 Best Overall Library
 
 If you have the budget, these two libraries are my favorite. They're ideal libraries for those pursuing advanced exegesis, offering access to top-tier commentaries and biblical reference works. If you're committed to deep, scholarly study, and expositional preaching these libraries have you covered.
