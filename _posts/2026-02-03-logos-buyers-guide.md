@@ -145,7 +145,7 @@ Additionally, you will never pay for a resource twice. When you buy a Logos reso
 
 ### 💰 Best Budget Library
 
-If you're seeking to balance between resources and affordability, Logos Preacher Gold and Standard Gold are the winners. These libraries provide a comprehensive Bible study toolkit, including excellent commentaries, Bible study resources, and systematic theology works. It's perfect for pastors, preachers, and anyone wanting to dive deeper into Scripture. Standout resources include:
+If you're seeking to balance between resources and affordability, Logos [Preacher Gold](https://logos.sjv.io/PO24VY) and [Standard Gold](https://logos.sjv.io/oqjP3m) are the winners. These libraries provide a comprehensive Bible study toolkit, including excellent commentaries, Bible study resources, and systematic theology works — perfect for pastors, preachers, and anyone wanting to dive deeper into Scripture.
 
 #### [Preacher Gold](https://logos.sjv.io/PO24VY)
 
@@ -173,7 +173,7 @@ If you're seeking to balance between resources and affordability, Logos Preacher
 
 ### 📚 Best Overall Library
 
-If you have the budget, these two libraries are my favorite. They're ideal libraries for those pursuing advanced exegesis, offering access to top-tier commentaries and biblical reference works. If you're committed to deep, scholarly study, and expositional preaching these libraries have you covered.
+If you can afford it, these two libraries are my favorite. They're ideal libraries for those pursuing advanced exegesis, offering access to top-tier commentaries and biblical reference works. If you're committed to deep, scholarly study, and expositional preaching these libraries have you covered.
 
 #### [Preacher Diamond](https://logos.sjv.io/PO24VY)
 
