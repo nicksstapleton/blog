@@ -35,9 +35,9 @@ If you subscribe using [my partner link](https://logos.sjv.io/stapleton), you w
 
 ## 3. 🗓️ Pay Annually for Your Logos Subscription
 
-Beyond getting an extra 30-days free via [my partner offer](https://logos.sjv.io/stapleton), you can get more free months by paying upfront. If you pay annually, you will get two months free on your Logos subscription. If you pay two years upfront, you get FIVE months free on your Logos subscription. If you use [my link](https://logos.sjv.io/stapleton), that five months turns into six months free.
+Beyond getting an extended 60-day free trial via [my partner offer](https://logos.sjv.io/stapleton), you can get more free months by paying upfront. If you pay **annually**, you will get **two months free** on your Logos subscription. If you pay **two years** upfront, you get **FIVE months free** on your Logos subscription. If you use [my link](https://logos.sjv.io/stapleton), that five months turns effectively into **seven months FREE** (60-day trial + five free months).
 
-🔥 That's effectively more than 35% off compared to paying month-to-month. 
+🔥 That's effectively more than 35% off compared to paying month-to-month.
 
 ## 4. 📚 Buy a Logos Library
 
@@ -51,7 +51,7 @@ Some people avoid Logos libraries because of the sticker price, but that’s a m
 
 If nothing else, you pay for the resources you want and get hundreds of others thrown in at little or no extra cost.
 
-👀 **If you want some help picking out a library, read my [Logos Buyer’s Guide](https://www.nickstapleton.me/logos-buyers-guide/).**
+👀 **If you want help picking out a library, go read my [Logos Buyer’s Guide](https://www.nickstapleton.me/logos-buyers-guide/).**
 
 ## 5. 🎓 Academic Student Discount
 
@@ -71,7 +71,7 @@ Speaking of resources, if you are looking for recommendations, I have written ab
 
 Every month Logos gives away [a free book](https://logos.sjv.io/freebook). Many times they are awesome. If you're a Logos subscriber, you will receive an extra free book every month!
 
-[Subscribe to my newsletter](https://nickstapleton.ck.page/) and I will let you know about the free books at the beginning every month so you never miss them. Did you know there is a free audiobook every month, too? [Subscribe](https://nickstapleton.ck.page/) so you don't miss out.
+[Subscribe to my newsletter](https://nickstapleton.ck.page/) and I will let you know about the free books at the beginning every month so you never miss them. [Subscribe](https://nickstapleton.ck.page/) so you don't miss out.
 
 ## 8. Take advantage of the monthly sales
 
