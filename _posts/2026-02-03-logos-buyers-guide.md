@@ -176,7 +176,7 @@ If you're seeking to balance between resources and affordability, Logos [Preache
 
 ### 📚 Best Intermediate Library
 
-I put together a study bundle with Logos for those seeking to do advanced exegesis and desiring access to top-tier commentaries, dictionaries, lexicons, and biblical reference works. Pound for pound, I think it is one of the best libraries available for the price. It Many of my favorite resources are in this library. My biggest regret is that this library wasn't available for purchase when I was first building my Logos library!
+I put together a study bundle with Logos for those seeking to do advanced exegesis and desiring access to top-tier commentaries, dictionaries, lexicons, and biblical reference works. Pound for pound, I think it is one of the best libraries available for the price. Many of my favorite resources are in this library. My biggest regret is that this library wasn't available for purchase when I was first building my Logos library!
 
 #### [Nick Stapleton Study Bundle](https://www.logos.com/nickstapleton)
 
