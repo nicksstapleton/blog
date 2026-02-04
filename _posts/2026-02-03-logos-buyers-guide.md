@@ -96,7 +96,7 @@ If you own a Logos 10 or earlier package, you are eligible for a cheaper subscri
 
 ## Logos Subscription Recommendations
 
-As mentioned earlier, the three subscription tiers cater to distinct needs. Understanding these use-cases will help you pick the best option for your purposes. My recommendation: I suggest that anyone who is going to be using Logos regularly, especially those in ministry and seminary, get at least Logos Pro. That's the subscription tier I use.
+As mentioned earlier, the three subscription tiers cater to distinct needs. Understanding these use-cases will help you pick the best option for your purposes. My recommendation: I suggest anyone who is going to be using Logos regularly, especially those in ministry and seminary, get at least Logos Pro. That's the subscription tier I use.
 
 ---
 
