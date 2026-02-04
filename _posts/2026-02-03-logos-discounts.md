@@ -55,7 +55,7 @@ If nothing else, you pay for the resources you want and get hundreds of others t
 
 ## 5. 🎓 Academic Student Discount
 
-If you're a seminary student, sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This student discount will get you 30% off of a Logos subription AND library as well as up to 50% off of essential academic resources.
+If you're a seminary student, sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This student discount will get you 30% off of a Logos subscription AND library as well as up to 50% off of essential academic resources.
 
 ![](/assets/images/academic discount.png)
 
