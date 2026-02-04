@@ -174,9 +174,33 @@ If you're seeking to balance between resources and affordability, Logos [Preache
 - **Questions for Restless Minds (17 vols.):** A series of short, engaging books that provide thoughtful Christian perspectives on modern intellectual and social challenges.
 - **Holman Illustrated Bible Dictionary:** A visually rich reference work that offers comprehensive definitions, maps, and photographs to bring the biblical world to life.
 
-### 📚 Best Overall Library
+### 📚 Best Intermediate Library
 
-If you can afford it, these two libraries are my favorite. They're ideal libraries for those pursuing advanced exegesis, offering access to top-tier commentaries and biblical reference works. If you're committed to deep, scholarly study, and expositional preaching these libraries have you covered.
+I put together a study bundle with Logos for those seeking to do advanced exegesis and desiring access to top-tier commentaries, dictionaries, lexicons, and biblical reference works. Pound for pound, I think it is one of the best libraries available for the price. It Many of my favorite resources are in this library. My biggest regret is that this library wasn't available for purchase when I was first building my Logos library!
+
+#### [Nick Stapleton Study Bundle](https://logos.sjv.io/stapleton)
+
+<figure style="width: 250px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026 Partner Bundle—Nick Stapleton.png" alt="">
+</figure>
+
+- **Pillar New Testament Commentary - PNTC (18 vols.)**
+- **New International Commentary on the Old and New Testament - NIC (51 vols.)**
+- **ESV Expository Commentary Series (12 vols.)**
+- **The IVP Bible Dictionaries (8 vols.)**
+- **Dictionary of Biblical Imagery**
+- **The New Bible Dictionary, 3rd ed.**
+- **IVP Pocket Reference Series**
+- **New Studies in Biblical Theology Series Collection - NSBT (53 vols.)**
+- **New Dictionary of Biblical Theology**
+- **Calvin's Institutes of the Christian Religion (2 vols.)**
+- **Charles Spurgeon Complete Sermon Collection (63 vols.)**
+- **A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG)**
+
+
+### 💎 Best Premium Library
+
+These two are my favorite premium libraries. If you're committed to deep, scholarly study, and expositional preaching these libraries have you covered by offering access to fantastic commentaries and biblical reference works. 
 
 #### [Preacher Diamond](https://logos.sjv.io/PO24VY)
 
@@ -206,11 +230,9 @@ If you can afford it, these two libraries are my favorite. They're ideal librari
 
 ### 👨‍🎓 Best Seminary Student Library 
 
-If you are in seminary pursuing a degree like a Master of Divinity, you will need a library that offers you essential original language resources like NA28, BHS, and BDAG as well as top commentaries. 
+If you are in seminary pursuing a degree like a Master of Divinity, you will need a library that offers you essential original language resources like NA28, BHS, and BDAG as well as top commentaries. I think my study bundle is a fantastic option to consider as it provides you with resources that will be immensely valuable during seminary and long after you graduate.
 
-I put together a study bundle with Logos for those pursuing advanced exegesis, offering access to top-tier commentaries and biblical reference works. Many of my favorite resources are in this library.
-
-#### [Nick Stapleton Study Bundle](https://logos.sjv.io/nickstudy)
+#### [Nick Stapleton Study Bundle](https://logos.sjv.io/stapleton)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026 Partner Bundle—Nick Stapleton.png" alt="">
@@ -226,9 +248,10 @@ I put together a study bundle with Logos for those pursuing advanced exegesis, o
 - **New Studies in Biblical Theology Series Collection - NSBT (53 vols.)**
 - **New Dictionary of Biblical Theology**
 - **Calvin's Institutes of the Christian Religion (2 vols.)**
+- **Charles Spurgeon Complete Sermon Collection (63 vols.)**
 - **A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG)**
 
-If my study bundle is out of your budget or not your cup of tea, I'd suggest picking up:
+To round out my study bundle or if it outside your budget, I'd suggest picking up:
 - [Researcher Silver](https://logos.sjv.io/zx6rbM) (This gets you NA28 and BHS along with other helpful resources)
 - [Preacher Gold](https://logos.sjv.io/PO24VY) (This will get you some solid commentaries like Pillar and other great resources to build out your theological library)
 
