@@ -251,7 +251,7 @@ If you are in seminary pursuing a degree like a Master of Divinity, you will nee
 - **Charles Spurgeon Complete Sermon Collection (63 vols.)**
 - **A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG)**
 
-To round out my study bundle or if it outside your budget, I'd suggest picking up:
+To round out my study bundle or if it is outside your budget, I'd suggest picking up:
 - [Researcher Silver](https://logos.sjv.io/zx6rbM) (This gets you NA28 and BHS along with other helpful resources)
 - [Preacher Gold](https://logos.sjv.io/PO24VY) (This will get you some solid commentaries like Pillar and other great resources to build out your theological library)
 
