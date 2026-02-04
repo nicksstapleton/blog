@@ -84,17 +84,21 @@ This is why I view Logos subscriptions more along the lines of a payment plan. A
 
 ### Pricing
 
-The price for each subscription tier varies. If you own a Logos 10 or earlier package, you can get a cheaper price than those who are all together new to Logos. Additionally, anyone can receive two months free if you pay annually or five months free if you pay for two years upfront. 
+The price for each subscription tier varies. Additionally, a great way to save money is by paying annually. You will receive two months free if you pay for a year upfront or five months free if you pay for two years upfront!
+
+![](/assets/images/Logos Subscription.png)
 
 If you use my link, you will **[receive an additional 60 days free!](https://logos.sjv.io/stapleton)** [^1]
 
 Here's an overview of the pricing.
 
+If you own a Logos 10 or earlier package, you are eligible for a cheaper price. A 
+
 ![](/assets/images/LogosSubscriptionPricing.png)
 
 ## Logos Subscription Recommendations
 
-As mentioned earlier, the three subscription tiers cater to distinct needs. Understanding these use-cases will help you pick the best option for your purposes.
+As mentioned earlier, the three subscription tiers cater to distinct needs. Understanding these use-cases will help you pick the best option for your purposes. My recommendation: I suggest that anyone who is going to be using Logos regularly, especially those in ministry and seminary, get at least Logos Pro. That's the subscription tier I use.
 
 ---
 
@@ -124,7 +128,8 @@ As mentioned earlier, the three subscription tiers cater to distinct needs. Unde
 
 ---
 
-✨ **Use my Logos affiliate link to get an [extended free trial on a Logos subscription](https://logos.sjv.io/stapleton)!**
+
+✨ **Use my Logos affiliate link to get an [extended 60-day free trial on a Logos subscription](https://logos.sjv.io/stapleton)!**
 
 ## Logos Libraries Overview
 ![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
@@ -234,7 +239,7 @@ Seminary can be a financially tight time, and investing in Logos may seem like a
 
 ### Seminary Student Subscription and Library Recommendation
 
-For students, I suggest the libraries mentioned about and the  🧑‍🎓 **[Logos Max](https://logos.sjv.io/stapleton)** subscription. The [Logos Max](https://logos.sjv.io/stapleton) subscription will empower your academic writing and provide advanced original language tools. 
+For students, I suggest the libraries mentioned about and the **[Logos Max](https://logos.sjv.io/stapleton)** subscription. The [Logos Max](https://logos.sjv.io/stapleton) subscription will empower your academic writing and provide advanced original language tools. 
 
 If you're a seminary student, don’t forget to sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 
