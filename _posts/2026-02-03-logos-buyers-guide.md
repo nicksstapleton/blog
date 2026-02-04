@@ -88,7 +88,7 @@ The price for each subscription tier varies. Additionally, a great way to save m
 
 ![](/assets/images/Logos Subscription.png)
 
-If want to try any of these subscriptions risk-free, you can use my link and get **[an extended 60-day free trial subscription!](https://logos.sjv.io/stapleton)** [^1]
+If want to try any of these subscriptions risk-free, you can use my link and get **[an extended 60-day free trial subscription!](https://www.logos.com/nickstapleton)** [^1]
 
 If you own a Logos 10 or earlier package, you are eligible for a cheaper subscription price because you've previously purchased features in Logos. The chart below will help you identify what pricing you could expect to receive.
 
@@ -178,7 +178,7 @@ If you're seeking to balance between resources and affordability, Logos [Preache
 
 I put together a study bundle with Logos for those seeking to do advanced exegesis and desiring access to top-tier commentaries, dictionaries, lexicons, and biblical reference works. Pound for pound, I think it is one of the best libraries available for the price. It Many of my favorite resources are in this library. My biggest regret is that this library wasn't available for purchase when I was first building my Logos library!
 
-#### [Nick Stapleton Study Bundle](https://logos.sjv.io/stapleton)
+#### [Nick Stapleton Study Bundle](https://www.logos.com/nickstapleton)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026 Partner Bundle—Nick Stapleton.png" alt="">
@@ -232,7 +232,7 @@ These two are my favorite premium libraries. If you're committed to deep, schola
 
 If you are in seminary pursuing a degree like a Master of Divinity, you will need a library that offers you essential original language resources like NA28, BHS, and BDAG as well as top commentaries. I think my study bundle is a fantastic option to consider as it provides you with resources that will be immensely valuable during seminary and long after you graduate.
 
-#### [Nick Stapleton Study Bundle](https://logos.sjv.io/stapleton)
+#### [Nick Stapleton Study Bundle](https://www.logos.com/nickstapleton)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026 Partner Bundle—Nick Stapleton.png" alt="">
@@ -261,7 +261,7 @@ Seminary can be a financially tight time, and investing in Logos may seem like a
 
 ### Seminary Student Subscription and Library Recommendation
 
-For students, I suggest the libraries mentioned about and the **[Logos Max](https://logos.sjv.io/stapleton)** subscription. The [Logos Max](https://logos.sjv.io/stapleton) subscription will empower your academic writing and provide advanced original language tools. 
+For students, I suggest the libraries mentioned about and the **[Logos Max](https://www.logos.com/nickstapleton)** subscription. The [Logos Max](https://www.logos.com/nickstapleton) subscription will empower your academic writing and provide advanced original language tools. 
 
 If you're a seminary student, don’t forget to sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 
@@ -271,7 +271,7 @@ Many of the must-have resources I recommend are included in the libraries above,
 
 Logos runs a variety sales throughout the year and if you [sign up for my newsletter](https://nickstapleton.ck.page/), I'll keep you updated on the best sales. Plus, you can read my post on [Logos discounts and buying tips](https://www.nickstapleton.me/logos-discounts/).
 
-**As a Logos affiliate, I am able to provide you a special [extended 60-day free trial by using my link](https://logos.sjv.io/stapleton)!** [^1] My link will give you a 60-day free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
+**As a Logos affiliate, I am able to provide you a special [extended 60-day free trial by using my link](https://www.logos.com/nickstapleton)!** [^1] My link will give you a 60-day free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
 
 ## Denominational Library Recommendation
 
@@ -307,7 +307,7 @@ If you want a **solid denominational library but don’t want to spend as much**
 
 ## Special Extended Free Trial Offer
 
-👀 **As a Logos affiliate, I am able to provide you a special [extended free trial by using my link](https://logos.sjv.io/stapleton)!** [^1]
+👀 **As a Logos affiliate, I am able to provide you a special [extended free trial by using my link](https://www.logos.com/nickstapleton)!** [^1]
 
 My partner link will give you a 60-day free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
 
