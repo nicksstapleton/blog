@@ -208,7 +208,7 @@ If you can afford it, these two libraries are my favorite. They're ideal librari
 
 If you are in seminary pursuing a degree like a Master of Divinity, you will need a library that offers you essential original language resources like NA28, BHS, and BDAG as well as top commentaries. 
 
-I put together a study bundle with Logos for those pursuing advanced exegesis, offering access to top-tier commentaries and biblical reference works. Some of my personal favorite resources are in this library.
+I put together a study bundle with Logos for those pursuing advanced exegesis, offering access to top-tier commentaries and biblical reference works. Many of my favorite resources are in this library.
 
 #### [Nick Stapleton Study Bundle](https://logos.sjv.io/nickstudy)
 
@@ -217,6 +217,7 @@ I put together a study bundle with Logos for those pursuing advanced exegesis, o
 </figure>
 
 - **Pillar New Testament Commentary - PNTC (18 vols.)**
+- **New International Commentary on the Old and New Testament - NIC (51 vols.)**
 - **ESV Expository Commentary Series (12 vols.)**
 - **The IVP Bible Dictionaries (8 vols.)**
 - **Dictionary of Biblical Imagery**
