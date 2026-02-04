@@ -88,11 +88,9 @@ The price for each subscription tier varies. Additionally, a great way to save m
 
 ![](/assets/images/Logos Subscription.png)
 
-If you use my link, you will **[receive an additional 60 days free!](https://logos.sjv.io/stapleton)** [^1]
+If want to try any of these subscriptions risk-free, you can use my link and get **[an extended 60-day free trial subscription!](https://logos.sjv.io/stapleton)** [^1]
 
-Here's an overview of the pricing.
-
-If you own a Logos 10 or earlier package, you are eligible for a cheaper price. A 
+If you own a Logos 10 or earlier package, you are eligible for a cheaper subscription price because you've previously purchased features in Logos. The chart below will help you identify what pricing you could expect to receive.
 
 ![](/assets/images/LogosSubscriptionPricing.png)
 
