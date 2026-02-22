@@ -261,13 +261,13 @@ Seminary can be a financially tight time, and investing in Logos may seem like a
 
 ### Seminary Student Subscription and Library Recommendation
 
-For students, I suggest the libraries mentioned about and the **[Logos Max](https://www.logos.com/nickstapleton)** subscription. The [Logos Max](https://www.logos.com/nickstapleton) subscription will empower your academic writing and provide advanced original language tools. 
+For students, I suggest the libraries mentioned above and the **[Logos Max](https://www.logos.com/nickstapleton)** subscription. The [Logos Max](https://www.logos.com/nickstapleton) subscription will empower your academic writing and provide advanced original language tools. 
 
 If you're a seminary student, don’t forget to sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 
 ## Take Advantage of Sales
 
-Many of the must-have resources I recommend are included in the libraries above, but there are plenty more great resources to consider—especially when they go on sale. 
+Many of the must-have resources I recommend are included in the libraries above, but there are several more resources I consider essential that are not available in libraries (Notably: Resources from publishers like Zondervan and Baker) you will want to get in Logos, especially when they go on sale.
 
 Logos runs a variety sales throughout the year and if you [sign up for my newsletter](https://nickstapleton.ck.page/), I'll keep you updated on the best sales. Plus, you can read my post on [Logos discounts and buying tips](https://www.nickstapleton.me/logos-discounts/).
 
