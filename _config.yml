@@ -56,9 +56,6 @@ footer:
   - label: "Instagram"
     icon: "fab fa-instagram"
     url: "https://instagram.com/nickstapleton"
-  - label: "Buy Me a Coffee"
-    icon: "fas fa-mug-hot"
-    url: "https://nickstapleton.kit.com/products/tip"
 defaults:
 - scope:
     path: ''
