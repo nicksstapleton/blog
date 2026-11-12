@@ -15,6 +15,7 @@ from pathlib import Path
 
 CHANNEL_ID = "UCiJCQpWk2ajVbap8FoF0STQ"
 POSTS_DIR = Path("_posts")
+INCLUDE_SHORTS = False  # set to True to also post your Shorts
 
 NS = {
     "a": "http://www.w3.org/2005/Atom",
@@ -76,12 +77,15 @@ def collect():
     try:
         # YouTube's auto-generated playlists: UULF = long-form, UUSH = Shorts.
         long_form = parse_feed(fetch(feed_url("UULF" + suffix)))
-        shorts = parse_feed(fetch(feed_url("UUSH" + suffix)))
+        shorts = parse_feed(fetch(feed_url("UUSH" + suffix))) if INCLUDE_SHORTS else []
+        if not INCLUDE_SHORTS:
+            return [(i, "videos") for i in long_form]
         return [(i, "videos") for i in long_form] + [(i, "shorts") for i in shorts]
     except Exception as err:  # fall back to the main feed + per-video check
         print(f"Playlist feeds unavailable ({err}); using channel feed instead.")
         items = parse_feed(fetch(feed_url()))
-        return [(i, "shorts" if is_short(i["id"]) else "videos") for i in items]
+        pairs = [(i, "shorts" if is_short(i["id"]) else "videos") for i in items]
+        return [p for p in pairs if INCLUDE_SHORTS or p[1] == "videos"]
 
 
 def existing_ids():
