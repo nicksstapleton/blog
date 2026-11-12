@@ -1,0 +1,133 @@
+---
+# Front matter below is required so Jekyll processes this file.
+---
+
+@charset "utf-8";
+
+// ---------------------------------------------------------------
+// Brand variables. These must come BEFORE the theme imports.
+// ---------------------------------------------------------------
+$iron:   #383637;   // Iron Charcoal
+$slate:  #343845;   // Slate
+$oak:    #AE8F54;   // Harvest Oak (accent)
+$bone:   #ECEAE3;   // Bone (page background)
+$blue:   #2C3A4A;   // Deep Blue
+$forest: #4E6545;   // Forest Slate Green
+
+$background-color:        $bone;
+$text-color:              $iron;
+$muted-text-color:        #6b6867;
+$primary-color:           $iron;
+$border-color:            #d6d2c6;
+$code-background-color:   #e2dfd5;
+$code-background-color-dark: $iron;
+$form-background-color:   #f5f3ee;
+$footer-background-color: $iron;
+$link-color:              $blue;
+$link-color-hover:        $forest;
+$link-color-visited:      $blue;
+$masthead-link-color:       $iron;
+$masthead-link-color-hover: $oak;
+$navicon-link-color-hover:  $oak;
+
+$global-font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$header-font-family: "Bebas Neue", Impact, "Arial Narrow Bold", sans-serif;
+$caption-font-family: $global-font-family;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+// ---------------------------------------------------------------
+// Brand styling on top of the theme
+// ---------------------------------------------------------------
+body {
+  background-color: $bone;
+  color: $iron;
+  font-weight: 400;
+}
+
+// Headlines: Bebas Neue, uppercase, wide tracking
+h1, h2,
+.page__title,
+.archive__item-title,
+.page__related-title,
+.archive__subtitle {
+  font-family: $header-font-family;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 1.05;
+  color: $iron;
+}
+.page__title { font-size: 3em; margin-bottom: 0.4em; }
+h2           { font-size: 2.1em; }
+.archive__item-title { font-size: 1.6em; }
+.archive__item-title a { color: $iron; }
+.archive__item-title a:hover { color: $oak; text-decoration: none; }
+
+// Sub-headlines: Montserrat bold, small caps feel
+h3, h4, h5, h6 {
+  font-family: $global-font-family;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: $blue;
+}
+
+// Captions, dates, tags: small uppercase in Forest Slate Green
+.page__meta,
+.page__meta-sep,
+.page__taxonomy-item,
+.archive__item-excerpt + .page__meta,
+.page__date {
+  font-family: $global-font-family;
+  font-size: 0.7em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: $forest;
+}
+.page__taxonomy-item { border-radius: 0; }
+
+// Masthead: stays light (safe for your current logo) with an oak rule
+.masthead {
+  background-color: $bone;
+  border-bottom: 3px solid $oak;
+}
+.greedy-nav { background-color: $bone; }
+.greedy-nav a {
+  font-family: $header-font-family;
+  font-size: 1.15em;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+// Sharp corners everywhere, no pill buttons
+.btn, .page__taxonomy-item, .notice, .author__avatar img, img,
+.archive__item-teaser, .search__toggle, input, textarea, select {
+  border-radius: 0 !important;
+}
+.btn {
+  font-family: $global-font-family;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.75em;
+}
+.btn--primary, .btn--inverse { background-color: $iron; color: $bone; }
+.btn--primary:hover, .btn--inverse:hover { background-color: $oak; color: $iron; }
+
+// Post body readability
+.page__content { font-size: 1.02em; line-height: 1.75; }
+.page__content a { text-decoration: underline; text-decoration-color: $oak; text-underline-offset: 2px; }
+.page__content a:hover { text-decoration-color: $forest; }
+blockquote { border-left: 4px solid $oak; color: $iron; }
+
+// Sidebar author card
+.author__name { font-family: $header-font-family; font-size: 1.8em; letter-spacing: 0.05em; text-transform: uppercase; }
+.author__bio  { font-size: 0.85em; }
+
+// Footer
+.page__footer { color: $bone; }
+.page__footer a, .page__footer-follow .social-icons a { color: $bone; }
+.page__footer a:hover { color: $oak; }
+.page__footer-follow li { font-family: $global-font-family; }
