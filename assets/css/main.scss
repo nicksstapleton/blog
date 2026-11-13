@@ -219,3 +219,8 @@ blockquote { border-left: 4px solid $oak; color: $iron; }
 // Let long sidebar links wrap instead of being cut off
 .author__urls li { white-space: normal; }
 .author__urls a { line-height: 1.3; }
+// Footer icons: gold, so they show on the dark background
+.page__footer .social-icons .fas,
+.page__footer .social-icons .far {
+  color: $oak !important;
+}
