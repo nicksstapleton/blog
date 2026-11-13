@@ -57,9 +57,6 @@ footer:
     - label: "Newsletter"
       icon: "fas fa-envelope"
       url: "https://nickstapleton.kit.com"
-    - label: "Feed"
-      icon: "fas fa-fw fa-rss-square"
-      url: "{{ base_path }}/feed.xml"
 defaults:
 - scope:
     path: ''
