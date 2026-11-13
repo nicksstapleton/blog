@@ -143,14 +143,14 @@ blockquote { border-left: 4px solid $oak; color: $iron; }
   border: 0;
   padding: 0;
   width: 100%;
-  max-width: 200px;
+  max-width: 130px;
   height: auto;
 }
 
 // Name: Bebas Neue with a short gold bar under it
 .sidebar .author__name {
   font-family: $header-font-family;
-  font-size: 2.1em;
+  font-size: 1.7em;
   line-height: 1;
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -160,7 +160,7 @@ blockquote { border-left: 4px solid $oak; color: $iron; }
 .sidebar .author__name::after {
   content: "";
   display: block;
-  width: 40px;
+  width: 36px;
   height: 3px;
   background: $oak;
   margin-top: 0.45em;
@@ -170,13 +170,14 @@ blockquote { border-left: 4px solid $oak; color: $iron; }
   font-size: 0.9em;
   line-height: 1.5;
   color: $iron;
-  margin-top: 0.9em;
+  margin-top: 0.8em;
 }
 
-// Links: small uppercase, gold icons
-.author__urls.social-icons { font-size: 0.72em; }
-.author__urls li { margin-bottom: 0.2em; }
-.author__urls a, .author__urls .author__location {
+// Links: small bold caps, gold icons (location line matches the links)
+.author__urls.social-icons { font-size: 0.8em; }
+.author__urls li { margin-bottom: 0.25em; }
+.author__urls li,
+.author__urls a {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -185,14 +186,21 @@ blockquote { border-left: 4px solid $oak; color: $iron; }
 .author__urls a:hover { color: $oak; text-decoration: none; }
 .author__urls .fas, .author__urls .fab, .author__urls .far { color: $oak !important; }
 
-// Give the post more room (the theme reserves an empty right column)
+// Narrower sidebar on wide screens
 @media (min-width: 64em) {
-  .page { padding-inline-end: 0; width: calc(100% - 220px); }
-  .sidebar { width: 190px; }
+  .sidebar { width: 160px; }
 }
 @media (min-width: 80em) {
-  .page { padding-inline-end: 0; width: calc(100% - 260px); }
-  .sidebar { width: 220px; }
+  .sidebar { width: 190px; }
+}
+
+// Reclaim the empty right column, but only on pages WITHOUT a table of contents
+// (the table of contents lives in that column)
+@media (min-width: 64em) {
+  .page:not(:has(.sidebar__right)) { padding-inline-end: 0; width: calc(100% - 190px); }
+}
+@media (min-width: 80em) {
+  .page:not(:has(.sidebar__right)) { width: calc(100% - 230px); }
 }
 
 // Smaller section headings inside posts so they don't shout
