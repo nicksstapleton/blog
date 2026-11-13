@@ -1,38 +1,69 @@
 ---
 layout: splash
 
-feature_row_left:
-  - image_path: /assets/images/IMG_0938.jpeg
-    title: "💰 The BEST Logos Discounts and Buying Tips [10-35% off]"
-    excerpt: "Good news: There are several ways to save money on Logos."
-    url: "https://www.nickstapleton.me/logos-discounts/"
-    btn_label: "See Logos Discounts"
-    btn_class: "btn--primary"
-feature_row_left2:
+featured:
   - image_path: /assets/images/LogosNewLibrary.jpg
-    title: "🔎 Which Logos Subscription and Library Should I Buy? [Updated with Special Offer]"
-    excerpt: "Logos is a large investment. Make sure you buy it the right way. My thoughts on the best package for pastors and seminarians."
+    title: "🔎 Which Logos Subscription and Library Should I Buy?"
+    excerpt: "Logos is a large investment. My thoughts on the best package for pastors and seminarians."
     url: "https://www.nickstapleton.me/logos-buyers-guide/"
-    btn_label: "Read My Logos Buyer's Guide"
-    btn_class: "btn--primary"
-feature_row_left3:
+    btn_label: "Read the buyer's guide"
+  - image_path: /assets/images/IMG_0938.jpeg
+    title: "💰 The Best Logos Discounts and Buying Tips"
+    excerpt: "Good news: there are several ways to save money on Logos."
+    url: "https://www.nickstapleton.me/logos-discounts/"
+    btn_label: "See the discounts"
   - image_path: /assets/images/IMG_0920.jpeg
     title: "📚 50+ Logos Recommended Resources"
-    excerpt: "Which Logos resources are must-haves? Here are my recommended categories and resources that provide the greatest value."
+    excerpt: "Which Logos resources are must-haves? My picks for the greatest value."
     url: "https://www.nickstapleton.me/logos-resources/"
-    btn_label: "See My Logos Resource Recommendations"
-    btn_class: "btn--primary"
+    btn_label: "See my recommendations"
 ---
-<h2>Featured Posts</h2>
-<hr>
-{% include feature_row id="feature_row_left2" type="left" %}
 
-{% include feature_row id="feature_row_left" type="left" %}
+<style>
+  .home-heading { border: 0 !important; margin: 2.5em 0 0.6em; padding: 0; }
+  .home-heading::after { content: ""; display: block; width: 56px; height: 3px; background: #AE8F54; margin-top: 0.35em; }
+  .card-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5em; }
+  .card { display: flex; flex-direction: column; background: #f5f3ee; border: 1px solid #d6d2c6; }
+  .card img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; }
+  .card__body { padding: 1em 1.1em 1.2em; display: flex; flex-direction: column; flex: 1; }
+  .card__title { font-family: "Bebas Neue", Impact, sans-serif; font-size: 1.55em; line-height: 1.1; letter-spacing: 0.05em; text-transform: uppercase; margin: 0 0 0.4em; }
+  .card__title a { color: #383637; text-decoration: none; }
+  .card__title a:hover { color: #AE8F54; }
+  .card__text { font-size: 0.85em; line-height: 1.55; margin: 0 0 1em; }
+  .card .btn { margin-top: auto; align-self: flex-start; }
+  @media (max-width: 800px) { .card-row { grid-template-columns: 1fr; } }
+</style>
 
-{% include feature_row id="feature_row_left3" type="left" %}
+<h2 class="home-heading">Start Here</h2>
+<div class="card-row">
+  {% for item in page.featured %}
+  <div class="card">
+    <a href="{{ item.url }}"><img src="{{ item.image_path | relative_url }}" alt=""></a>
+    <div class="card__body">
+      <h3 class="card__title"><a href="{{ item.url }}">{{ item.title }}</a></h3>
+      <p class="card__text">{{ item.excerpt }}</p>
+      <a href="{{ item.url }}" class="btn btn--primary">{{ item.btn_label }}</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
 
-<h2>Recent Posts</h2>
-<hr>
+<h2 class="home-heading">Latest Videos</h2>
+<div class="card-row">
+  {% for post in site.categories.videos limit: 3 %}
+  <div class="card">
+    <a href="{{ post.url | relative_url }}"><img src="{{ post.header.teaser }}" alt=""></a>
+    <div class="card__body">
+      <h3 class="card__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p class="card__text">{{ post.date | date: "%B %-d, %Y" }}</p>
+      <a href="{{ post.url | relative_url }}" class="btn btn--primary">Watch</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<p><a href="{{ '/videos/' | relative_url }}">All videos &rarr;</a></p>
+
+<h2 class="home-heading">Recent Posts</h2>
 
 {% if paginator %}
 {% assign posts = paginator.posts %}
