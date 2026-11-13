@@ -1,4 +1,6 @@
 main:
+  - title: "▶️ Videos"
+    url: /videos/
   - title: "📰 Newsletter"
     url: "https://nickstapleton.kit.com"
   - title: "✍️ Posts"
