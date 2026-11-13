@@ -224,3 +224,14 @@ blockquote { border-left: 4px solid $oak; color: $iron; }
 .page__footer .social-icons .far {
   color: $oak !important;
 }
+// Phone: let the Follow popup grow to fit its labels
+@media (max-width: 63.99em) {
+  .author__urls {
+    width: max-content;
+    min-width: 12em;
+  }
+  .author__urls li,
+  .author__urls a {
+    white-space: nowrap;
+  }
+}
