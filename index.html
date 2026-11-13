@@ -84,6 +84,13 @@ featured:
   /* Newsletter */
   .home-news__col { flex: 1 1 400px; min-width: 0; }
   .home .home-news__lead { margin: 0 0 24px; max-width: 460px; }
+  .home .home-form { margin: 0; max-width: 460px; }
+  .home .home-form label.home-label { display: block; margin: 0 0 8px; }
+  .home-form__row { display: flex; flex-wrap: wrap; gap: 10px; }
+  .home .home-form input[type="email"] { flex: 1 1 220px; min-width: 0; width: auto; height: 50px; box-sizing: border-box; margin: 0; padding: 0 14px; border: 1px solid #383637; border-radius: 0; background: #ffffff; box-shadow: none; color: #383637; font-family: inherit; font-size: 16px; }
+  .home .home-form input[type="email"]:focus { outline: 2px solid #AE8F54; outline-offset: 1px; border-color: #383637; box-shadow: none; }
+  .home .home-form button { height: 50px; margin: 0; padding: 0 24px; border: 0; border-radius: 0; background: #383637; color: #ECEAE3; font-family: inherit; font-size: 14px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; cursor: pointer; }
+  .home .home-form button:hover { background: #AE8F54; color: #1E1D1E; }
   .home-label { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #4E6545; line-height: 1.5; margin-bottom: 8px; }
   .home a.home-issue { display: block; padding: 14px 0; border-top: 1px solid #d6d2c6; color: #383637; }
   .home a.home-issue:last-of-type { border-bottom: 1px solid #d6d2c6; }
@@ -159,7 +166,13 @@ featured:
       <div class="home-news__col">
         <h2 class="home-heading">Logos Deals in Your Inbox</h2>
         <p class="home-news__lead">Logos sales, free books and my favorite resources on sale. I'll keep you posted when there's a deal worth knowing about.</p>
-        <script async data-uid="e75da6f296" src="https://nickstapleton.kit.com/e75da6f296/index.js"></script>
+        <form class="home-form" action="https://app.kit.com/forms/10183895/subscriptions" method="post">
+          <label for="home-email" class="home-label">Email address</label>
+          <div class="home-form__row">
+            <input id="home-email" type="email" name="email_address" placeholder="you@example.com" autocomplete="email" required>
+            <button type="submit">Subscribe</button>
+          </div>
+        </form>
       </div>
       <div class="home-news__col">
         <div class="home-label">Recent issues</div>
