@@ -45,7 +45,7 @@ author:
     url: "https://www.logos.com/nickstapleton"
   - label: "Support this work"
     icon: "fas fa-mug-hot"
-    url: "https://nickstapleton.kit.com/products/tip"
+    url: "https://nickstapleton.kit.com/products/tips"
 collections:
   portfolio:
     output: true
