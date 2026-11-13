@@ -13,7 +13,7 @@ When there's a Logos sale, a free book or one of my favorite resources at a good
 
 ## Three places to start
 
-1. **[The best current Logos discounts](/logos-discounts/)**
+1. **[The best Logos discounts and buying tips](/logos-discounts/)**
 2. **[Which Logos library should you buy?](/logos-buyers-guide/)** My buyer's guide.
 3. **[Start a free 60-day Logos trial](https://www.logos.com/nickstapleton)**
 
