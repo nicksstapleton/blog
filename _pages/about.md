@@ -31,4 +31,4 @@ I live with my wife and three sons in Colorado where I spend the best part of my
 
 I have an MDiv from Trinity Evangelical Divinity School.
 
-I am passionate about the Bible, theology, discipleship, and good gifts in life like black coffee, learning, friendship, reading, and Graeter's black raspberry chip ice cream.
+I am passionate about Jesus, my family, fatherhood, theology, and good gifts in life like Aeropress coffee, technology, reading, and dark chocolate.
