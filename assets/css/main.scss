@@ -216,3 +216,6 @@ blockquote { border-left: 4px solid $oak; color: $iron; }
   min-width: 0;
 }
 .archive__item-excerpt { overflow: hidden; }
+// Let long sidebar links wrap instead of being cut off
+.author__urls li { white-space: normal; }
+.author__urls a { line-height: 1.3; }
