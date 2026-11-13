@@ -235,3 +235,14 @@ blockquote { border-left: 4px solid $oak; color: $iron; }
     white-space: nowrap;
   }
 }
+// Profile photo: fixed square, cropped to fit (never stretched)
+.author__avatar img {
+  width: 110px;
+  height: 110px;
+  max-width: none;
+  object-fit: cover;
+  object-position: center top;
+}
+@media (min-width: 64em) {
+  .author__avatar img { width: 130px; height: 130px; }
+}
