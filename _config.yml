@@ -36,15 +36,12 @@ author:
   - label: "YouTube"
     icon: "fab fa-youtube"
     url: "https://youtube.com/nickstapleton"
-  - label: "Instagram"
-    icon: "fab fa-instagram"
-    url: "https://instagram.com/nickstapleton"
-  - label: "Logos 60-day trial"
+  - label: "Logos Trial"
     icon: "fas fa-book-open"
     url: "https://www.logos.com/nickstapleton"
-  - label: "Support this work"
-    icon: "fas fa-mug-hot"
-    url: "https://nickstapleton.kit.com/products/tips"
+  - label: "Newsletter"
+    icon: "fas fa-envelope"
+    url: "https://nickstapleton.kit.com"
 collections:
   portfolio:
     output: true
