@@ -1,81 +1,184 @@
 ---
 layout: splash
 
+hero:
+  eyebrow: "Logos Buyer's Guide · 2026 Update"
+  title: "Which Logos library should you buy?"
+  text: "Logos is a large investment. My thoughts on the best package for pastors and seminarians."
+  image_path: /assets/images/LogosNewLibrary.jpg
+  url: "https://www.nickstapleton.me/logos-buyers-guide/"
+  btn_label: "Read the buyer's guide"
+  url2: "https://www.nickstapleton.me/logos-discounts/"
+  btn2_label: "See current discounts"
+
 featured:
-  - image_path: /assets/images/LogosNewLibrary.jpg
-    title: "🔎 Which Logos Subscription and Library Should I Buy?"
-    excerpt: "Logos is a large investment. My thoughts on the best package for pastors and seminarians."
-    url: "https://www.nickstapleton.me/logos-buyers-guide/"
-    btn_label: "Read the buyer's guide"
   - image_path: /assets/images/IMG_0938.jpeg
-    title: "💰 The Best Logos Discounts and Buying Tips"
+    title: "The Best Logos Discounts and Buying Tips"
     excerpt: "Good news: there are several ways to save money on Logos."
     url: "https://www.nickstapleton.me/logos-discounts/"
     btn_label: "See the discounts"
   - image_path: /assets/images/IMG_0920.jpeg
-    title: "📚 50+ Logos Recommended Resources"
+    title: "50+ Logos Recommended Resources"
     excerpt: "Which Logos resources are must-haves? My picks for the greatest value."
     url: "https://www.nickstapleton.me/logos-resources/"
     btn_label: "See my recommendations"
+  - tile: "60 Days Free"
+    title: "Start a Free 60-Day Logos Trial"
+    excerpt: "Not ready to buy? Try Logos free for 60 days first."
+    url: "https://www.logos.com/nickstapleton"
+    btn_label: "Start the trial"
 ---
 
 <style>
-  .home-heading { border: 0 !important; margin: 2.5em 0 0.6em; padding: 0; }
-  .home-heading::after { content: ""; display: block; width: 56px; height: 3px; background: #AE8F54; margin-top: 0.35em; }
-  .card-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5em; }
-  .card { display: flex; flex-direction: column; background: #f5f3ee; border: 1px solid #d6d2c6; }
-  .card img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; }
-  .card__body { padding: 1em 1.1em 1.2em; display: flex; flex-direction: column; flex: 1; }
-  .card__title { font-family: "Bebas Neue", Impact, sans-serif; font-size: 1.55em; line-height: 1.1; letter-spacing: 0.05em; text-transform: uppercase; margin: 0 0 0.4em; }
-  .card__title a { color: #383637; text-decoration: none; }
-  .card__title a:hover { color: #AE8F54; }
-  .card__text { font-size: 0.85em; line-height: 1.55; margin: 0 0 1em; }
-  .card .btn { margin-top: auto; align-self: flex-start; }
-  @media (max-width: 800px) { .card-row { grid-template-columns: 1fr; } }
+  /* Home page only. Colors: Bone #ECEAE3, Iron #383637, Oak #AE8F54, Forest #4E6545 */
+  #main { margin-top: 0 !important; }
+  .home { max-width: 1120px; margin: 0 auto; font-size: 17px; line-height: 1.6; color: #383637; }
+  .home p { margin: 0; }
+  .page__content .home a { text-decoration: none; }
+
+  /* Bands that run the full width of the screen */
+  .home-hero { background: #383637; box-shadow: 0 0 0 100vmax #383637; clip-path: inset(0 -100vmax); color: #ECEAE3; padding: 72px 0; display: flex; flex-wrap: wrap; align-items: center; gap: 40px 56px; }
+  .home-news-wrap { background: #d6d2c6; box-shadow: 0 0 0 100vmax #d6d2c6; clip-path: inset(0 -100vmax); padding: 1px 0; margin-top: 56px; }
+  .home-news { background: #f5f3ee; box-shadow: 0 0 0 100vmax #f5f3ee; clip-path: inset(0 -100vmax); padding: 56px 0; display: flex; flex-wrap: wrap; gap: 40px 56px; }
+
+  /* Hero */
+  .home-hero__text { flex: 1 1 420px; min-width: 0; }
+  .home-hero__media { flex: 1 1 380px; min-width: 0; }
+  .home-hero__media img { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
+  .home-eyebrow { font-size: 13px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #CDB37F; line-height: 1.5; }
+  .home .home-hero h1 { margin: 16px 0 20px; padding: 0; border: 0; font-family: "Bebas Neue", Impact, sans-serif; font-weight: 400; font-size: clamp(44px, 6.2vw, 76px); line-height: 1; letter-spacing: 0.04em; text-transform: uppercase; color: #ECEAE3; }
+  .home .home-hero__lead { margin: 0 0 32px; font-size: 19px; line-height: 1.6; max-width: 520px; }
+  .home-actions { display: flex; flex-wrap: wrap; gap: 14px; }
+
+  /* Buttons */
+  .home a.hbtn { display: inline-flex; align-items: center; box-sizing: border-box; min-height: 46px; padding: 0 20px; background: #383637; color: #ECEAE3; font-size: 13px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
+  .home a.hbtn:hover { background: #AE8F54; color: #1E1D1E; }
+  .home a.hbtn--gold { min-height: 54px; padding: 0 26px; font-size: 15px; background: #AE8F54; color: #1E1D1E; }
+  .home a.hbtn--gold:hover { background: #ECEAE3; color: #1E1D1E; }
+  .home a.hbtn--outline { min-height: 54px; padding: 0 26px; font-size: 15px; background: transparent; border: 2px solid #ECEAE3; color: #ECEAE3; }
+  .home a.hbtn--outline:hover { background: #ECEAE3; color: #1E1D1E; }
+
+  /* Section headings */
+  .home h2.home-heading { margin: 64px 0 28px; padding: 0; border: 0; font-family: "Bebas Neue", Impact, sans-serif; font-weight: 400; font-size: 42px; line-height: 1; letter-spacing: 0.05em; text-transform: uppercase; color: #383637; }
+  .home h2.home-heading::after { content: ""; display: block; width: 56px; height: 3px; background: #AE8F54; margin-top: 12px; }
+  .home .home-news h2.home-heading { margin: 0 0 20px; }
+
+  /* Cards */
+  .card-row { display: flex; flex-wrap: wrap; gap: 24px; }
+  .card { flex: 1 1 280px; min-width: 0; display: flex; flex-direction: column; background: #f5f3ee; border: 1px solid #d6d2c6; }
+  .card img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+  .home a.card__tile { aspect-ratio: 16 / 9; background: #383637; color: #ECEAE3; display: flex; align-items: center; justify-content: center; text-align: center; font-family: "Bebas Neue", Impact, sans-serif; font-size: 52px; line-height: 1; letter-spacing: 0.06em; text-transform: uppercase; }
+  .card__body { padding: 20px; display: flex; flex-direction: column; flex: 1; }
+  .home h3.card__title { margin: 0 0 8px; font-family: "Bebas Neue", Impact, sans-serif; font-weight: 400; font-size: 28px; line-height: 1.1; letter-spacing: 0.05em; text-transform: uppercase; }
+  .home h3.card__title a { color: #383637; }
+  .home h3.card__title a:hover { color: #4E6545; }
+  .home .card__text { margin: 0 0 16px; font-size: 15px; line-height: 1.55; }
+  .home .card__date { margin: 0 0 16px; font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #4E6545; line-height: 1.5; }
+  .home .card a.hbtn { margin-top: auto; align-self: flex-start; }
+
+  /* Text links */
+  .home-links { display: flex; flex-wrap: wrap; gap: 8px 32px; margin-top: 20px; }
+  .home a.home-link { display: inline-block; padding: 10px 0; font-size: 15px; font-weight: 700; color: #2C3A4A; }
+  .home a.home-link:hover { color: #4E6545; }
+
+  /* Newsletter */
+  .home-news__col { flex: 1 1 400px; min-width: 0; }
+  .home .home-news__lead { margin: 0 0 24px; max-width: 460px; }
+  .home-label { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #4E6545; line-height: 1.5; margin-bottom: 8px; }
+  .home a.home-issue { display: block; padding: 14px 0; border-top: 1px solid #d6d2c6; color: #383637; }
+  .home a.home-issue:last-of-type { border-bottom: 1px solid #d6d2c6; }
+  .home a.home-issue:hover .home-issue__title { color: #4E6545; }
+  .home-issue__date { display: block; font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #4E6545; line-height: 1.5; }
+  .home-issue__title { display: block; font-size: 17px; font-weight: 600; line-height: 1.4; }
+
+  /* Older posts */
+  .home-older { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 20px; padding: 40px 0 16px; font-size: 16px; }
+
+  @media (max-width: 600px) {
+    .home-hero { padding: 48px 0; }
+    .home-news { padding: 40px 0; }
+    .home h2.home-heading { margin-top: 48px; font-size: 36px; }
+  }
 </style>
 
-<h2 class="home-heading">Start Here</h2>
-<div class="card-row">
-  {% for item in page.featured %}
-  <div class="card">
-    <a href="{{ item.url }}"><img src="{{ item.image_path | relative_url }}" alt=""></a>
-    <div class="card__body">
-      <h3 class="card__title"><a href="{{ item.url }}">{{ item.title }}</a></h3>
-      <p class="card__text">{{ item.excerpt }}</p>
-      <a href="{{ item.url }}" class="btn btn--primary">{{ item.btn_label }}</a>
+<div class="home">
+
+  <section class="home-hero">
+    <div class="home-hero__text">
+      <div class="home-eyebrow">{{ page.hero.eyebrow }}</div>
+      <h1>{{ page.hero.title }}</h1>
+      <p class="home-hero__lead">{{ page.hero.text }}</p>
+      <div class="home-actions">
+        <a href="{{ page.hero.url }}" class="hbtn hbtn--gold">{{ page.hero.btn_label }}</a>
+        <a href="{{ page.hero.url2 }}" class="hbtn hbtn--outline">{{ page.hero.btn2_label }}</a>
+      </div>
     </div>
-  </div>
-  {% endfor %}
-</div>
-
-<h2 class="home-heading">Latest Videos</h2>
-<div class="card-row">
-  {% for post in site.categories.videos limit: 3 %}
-  <div class="card">
-    <a href="{{ post.url | relative_url }}"><img src="{{ post.header.teaser }}" alt=""></a>
-    <div class="card__body">
-      <h3 class="card__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-      <p class="card__text">{{ post.date | date: "%B %-d, %Y" }}</p>
-      <a href="{{ post.url | relative_url }}" class="btn btn--primary">Watch</a>
+    <div class="home-hero__media">
+      <a href="{{ page.hero.url }}"><img src="{{ page.hero.image_path | relative_url }}" alt=""></a>
     </div>
+  </section>
+
+  <h2 class="home-heading">More Logos Help</h2>
+  <div class="card-row">
+    {% for item in page.featured %}
+    <div class="card">
+      {% if item.image_path %}
+      <a href="{{ item.url }}"><img src="{{ item.image_path | relative_url }}" alt=""></a>
+      {% else %}
+      <a href="{{ item.url }}" class="card__tile">{{ item.tile }}</a>
+      {% endif %}
+      <div class="card__body">
+        <h3 class="card__title"><a href="{{ item.url }}">{{ item.title }}</a></h3>
+        <p class="card__text">{{ item.excerpt }}</p>
+        <a href="{{ item.url }}" class="hbtn">{{ item.btn_label }}</a>
+      </div>
+    </div>
+    {% endfor %}
   </div>
-  {% endfor %}
+
+  <h2 class="home-heading">Latest Videos</h2>
+  <div class="card-row">
+    {% for post in site.categories.videos limit: 3 %}
+    <div class="card">
+      <a href="{{ post.url | relative_url }}"><img src="{{ post.header.teaser }}" alt=""></a>
+      <div class="card__body">
+        <h3 class="card__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p class="card__date">{{ post.date | date: "%B %-d, %Y" }}</p>
+        <a href="{{ post.url | relative_url }}" class="hbtn">Watch</a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="home-links">
+    <a href="{{ '/videos/' | relative_url }}" class="home-link">All videos &rarr;</a>
+    <a href="https://youtube.com/nickstapleton" class="home-link">Subscribe on YouTube &rarr;</a>
+  </div>
+
+  <div class="home-news-wrap">
+    <section class="home-news">
+      <div class="home-news__col">
+        <h2 class="home-heading">Logos Deals in Your Inbox</h2>
+        <p class="home-news__lead">Logos sales, free books and my favorite resources on sale. I'll keep you posted when there's a deal worth knowing about.</p>
+        <script async data-uid="e75da6f296" src="https://nickstapleton.kit.com/e75da6f296/index.js"></script>
+      </div>
+      <div class="home-news__col">
+        <div class="home-label">Recent issues</div>
+        {% for post in site.categories.newsletter limit: 3 %}
+        <a href="{{ post.url | relative_url }}" class="home-issue">
+          <span class="home-issue__date">{{ post.date | date: "%B %-d, %Y" }}</span>
+          <span class="home-issue__title">{{ post.title }}</span>
+        </a>
+        {% endfor %}
+        <div class="home-links" style="margin-top: 8px;">
+          <a href="{{ '/newsletters/' | relative_url }}" class="home-link">All issues &rarr;</a>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div class="home-older">
+    <span>Looking for my older articles?</span>
+    <a href="{{ '/posts/' | relative_url }}" class="home-link">Browse all posts &rarr;</a>
+  </div>
+
 </div>
-<p><a href="{{ '/videos/' | relative_url }}">All videos &rarr;</a></p>
-
-<h2 class="home-heading">Recent Posts</h2>
-
-{% if paginator %}
-{% assign posts = paginator.posts %}
-{% else %}
-{% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-  {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
