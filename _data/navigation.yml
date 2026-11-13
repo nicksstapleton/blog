@@ -1,11 +1,9 @@
 main:
   - title: "▶️ Videos"
     url: /videos/
+  - title: "📚 Logos Buyers Guide"
+    url: /logos-buyers-guide/
   - title: "📰 Newsletter"
     url: "https://nickstapleton.kit.com"
-  - title: "✍️ Posts"
-    url: /posts/
-  - title: "🔖 Tags"
-    url: /tags/
   - title: "👋 About"
     url: /about/
