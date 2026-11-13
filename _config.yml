@@ -51,12 +51,12 @@ footer:
   - label: "Subscribe on YouTube"
     icon: "fab fa-youtube"
     url: "https://youtube.com/nickstapleton"
-  - label: "Newsletter"
-    icon: "fas fa-envelope"
-    url: "https://nickstapleton.kit.com"
   - label: "Logos 60-day trial"
     icon: "fas fa-book-open"
     url: "https://www.logos.com/nickstapleton"
+  - label: "Newsletter"
+    icon: "fas fa-envelope"
+    url: "https://nickstapleton.kit.com"
 defaults:
 - scope:
     path: ''
