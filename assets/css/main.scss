@@ -131,3 +131,69 @@ blockquote { border-left: 4px solid $oak; color: $iron; }
 .page__footer a, .page__footer-follow .social-icons a { color: $bone; }
 .page__footer a:hover { color: $oak; }
 .page__footer-follow li { font-family: $global-font-family; }
+
+
+// ---------------------------------------------------------------
+// Sidebar and post layout
+// ---------------------------------------------------------------
+.sidebar { opacity: 1 !important; }
+
+// Avatar: a clean square, no frame
+.author__avatar img {
+  border: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+// Name: Bebas Neue with a short gold bar under it
+.sidebar .author__name {
+  font-family: $header-font-family;
+  font-size: 2.1em;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: $iron;
+  margin: 0.6em 0 0;
+}
+.sidebar .author__name::after {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: $oak;
+  margin-top: 0.45em;
+}
+
+.sidebar .author__bio {
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: $iron;
+  margin-top: 0.9em;
+}
+
+// Links: small uppercase, gold icons
+.author__urls.social-icons { font-size: 0.72em; }
+.author__urls li { margin-bottom: 0.2em; }
+.author__urls a, .author__urls .author__location {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: $iron;
+}
+.author__urls a:hover { color: $oak; text-decoration: none; }
+.author__urls .fas, .author__urls .fab, .author__urls .far { color: $oak !important; }
+
+// Give the post more room (the theme reserves an empty right column)
+@media (min-width: 64em) {
+  .page { padding-inline-end: 0; width: calc(100% - 220px); }
+  .sidebar { width: 190px; }
+}
+@media (min-width: 80em) {
+  .page { padding-inline-end: 0; width: calc(100% - 260px); }
+  .sidebar { width: 220px; }
+}
+
+// Smaller section headings inside posts so they don't shout
+.page__content h2 { font-size: 1.7em; margin-top: 1.6em; }
