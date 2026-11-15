@@ -20,8 +20,8 @@ This month over at my website, I've recently written some new Logos posts you ma
 
 ## This Month's Sales at Logos
 
-[![Logos Sale 1](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/3iqrPeDAdTP3B6fS7g7ARF)](https://partners.faithlife.com/click.track?CID=465899&AFID=467957)
-[![Logos Sale 2](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/avV87yNZA99Z6AsjhYgvCV?ar=1%3A1&fit=crop)](https://partners.faithlife.com/click.track?CID=441383&AFID=467957)
+[![Logos Sale 1](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/3iqrPeDAdTP3B6fS7g7ARF)](https://logos.sjv.io/monthly-sale)
+[![Logos Sale 2](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/avV87yNZA99Z6AsjhYgvCV?ar=1%3A1&fit=crop)](https://logos.sjv.io/stapleton)
 
 Starting October 5 through October 23rd, you can save up to 50% on:
 
@@ -29,7 +29,7 @@ Starting October 5 through October 23rd, you can save up to 50% on:
 - Sermon Archives: Sermon libraries by preachers like Tim Keller, John Piper, and many more.
 - Other sermon collections: Add The Lost Works of Charles Spurgeon (7 vols.), church fathers, and dozens of other collected sermons.
 
-[**See the sale**](https://partners.faithlife.com/click.track?CID=465899&AFID=467957)
+[**See the sale**](https://logos.sjv.io/monthly-sale)
 
 ## Pastor's Appreciation Month
 
@@ -38,14 +38,14 @@ Pastoral and ministry leader resources are also on sale for up to 50% this month
 ![Pastor's Appreciation Month Sale 1](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/avV87yNZA99Z6AsjhYgvCV?ar=1%3A1&fit=crop)
 ![Pastor's Appreciation Month Sale 2](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/rVfogFWLU1g2so2B5mhcxn?ar=1%3A1&fit=crop)
 
-[**See the sale**](https://partners.faithlife.com/click.track?CID=441383&AFID=467957)
+[**See the sale**](https://logos.sjv.io/stapleton)
 
 ## **✨ More Savings This Month**
 
-[![More Savings 1](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/vifPAKYCvgtyD8NQ17pVj4)](https://partners.faithlife.com/click.track?CID=436793&AFID=467957)
+[![More Savings 1](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/vifPAKYCvgtyD8NQ17pVj4)](https://logos.sjv.io/monthly-sale)
 ![More Savings 2](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/dF1dnuSCMb8VbVhxP5UZ4r)
 
-This month, [get 40% off top Bloomsbury commentaries and collections](https://partners.faithlife.com/click.track?CID=436793&AFID=467957) on titles and collections on biblical interpretation, theology, commentaries, and more through October 15.
+This month, [get 40% off top Bloomsbury commentaries and collections](https://logos.sjv.io/monthly-sale) on titles and collections on biblical interpretation, theology, commentaries, and more through October 15.
 
 Bloomsbury is renowned for its study resources, such as the International Critical Commentary Series and the T&T Clark Cornerstones Bible guides.
 
@@ -55,22 +55,22 @@ From October 16 to October 31 only, get up to 40% off resources on apologetics, 
 - 40 Questions Series Collection (20 vols.)
 - Handbooks for Exegesis: Old Testament and New Testament - HOTE/HNTE (10 vols.)
 
-[**See the sale**](https://partners.faithlife.com/click.track?CID=436793&AFID=467957)
+[**See the sale**](https://logos.sjv.io/monthly-sale)
 
-## 📖 [**Free Logos Book of the Month**](https://partner.logosbible.com/click.track?CID=437858&AFID=467957)
+## 📖 [**Free Logos Book of the Month**](https://logos.sjv.io/freebook)
 
 ![Free Book 1](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/o4Mb4MSWP1MaG7WgLgvfJo?ar=1%3A1&fit=crop)
 ![Free Book 2](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/2qYxdwzhNS9BLNX3WUsak9?ar=1%3A1&fit=crop)
 
 This month you get double the free books! Get _Interpretation: A Bible Commentary for Teaching and Preaching Romans_ — FREE until October 16. Then starting October 16, add _Revelation_ (Continental Commentary - CC) to your Logos library for FREE until October 31.
 
-[![Free Audiobook](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/qprtzDSEUoopELoxr8ZcXJ)](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-audiobook)
+[![Free Audiobook](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/qprtzDSEUoopELoxr8ZcXJ)](https://logos.sjv.io/freebook)
 
-[🎧 **Get Free Audiobook**](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-audiobook)
+[🎧 **Get Free Audiobook**](https://logos.sjv.io/freebook)
 
-[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/fiU5hcJr1h5J18TQYVqarm)](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-ebook)
+[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/fiU5hcJr1h5J18TQYVqarm)](https://logos.sjv.io/freebook)
 
-[**Get Free Ebook**](https://partner.logosbible.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/free-ebook)
+[**Get Free Ebook**](https://logos.sjv.io/freebook)
 
 ## 🤓 Logos Training Tip — Prioritizing Resources
 
@@ -90,7 +90,7 @@ A helpful way to think about this is to ask yourself, “How would I look up inf
 
 ## 💬 Thoughts for your Thoughts
 
-[![Thoughts for your Thoughts](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/cMB7K1SYTizHhDbazS2rgf)](https://partners.faithlife.com/click.track?CID=432198&AFID=467957&nonencodedurl=https://www.logos.com/product/252395/knowing-god)
+[![Thoughts for your Thoughts](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/cMB7K1SYTizHhDbazS2rgf)](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/product/252395/knowing-god)
 
 > “People who know their God are before anything else people who pray, and the first point where their zeal and energy for God’s glory come to expression is in their prayers. —JI Packer from _Knowing God_. Resurfaced by [Readwise](https://readwise.io/i/nick139)
 
