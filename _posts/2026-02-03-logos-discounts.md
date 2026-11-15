@@ -24,15 +24,15 @@ You’re here to find a discount and save money on Logos Bible Software. Maybe y
 
 In this post, I’m going to share my eight best tips to save money and get a discount on your Logos subscription and library.
 
-## 1. ✨ Become a Logos Subscriber using [my partner link](https://logos.sjv.io/stapleton) (Extended free trial and up to 30% off a library)
+## 1. ✨ Become a Logos Subscriber using [my partner link](https://logos.sjv.io/stapleton?sharedid=discounts) (Extended free trial and up to 30% off a library)
 
-I am a Logos affiliate and this is a legitimate [special offer](https://logos.sjv.io/stapleton) that will save you money.
+I am a Logos affiliate and this is a legitimate [special offer](https://logos.sjv.io/stapleton?sharedid=discounts) that will save you money.
 
 Logos has been an invaluable tool in my ministry, seminary studies, sermon prep, and personal growth. I love telling others about why it’s well worth the investment.
 
 In return for sending readers from my website to Logos, I get a small commission at no cost to you and you receive a valuable special offer!
 
-[My partner link](https://logos.sjv.io/stapleton) will get you an extended 60-day free trial on your Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
+[My partner link](https://logos.sjv.io/stapleton?sharedid=discounts) will get you an extended 60-day free trial on your Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
 
 ## 2. 🎁 Logos Subscriber Rewards
 
@@ -40,11 +40,11 @@ Beyond all the features you gain access to through your Logos subscription, you 
 - 5% store-wide discount on all books
 - Earn a 5% annual reward coupon every February (Pro and Max subscriptions only)
 
-If you subscribe using [my partner link](https://logos.sjv.io/stapleton), you will receive an extended 60-day free trial on your Logos subscription.
+If you subscribe using [my partner link](https://logos.sjv.io/stapleton?sharedid=discounts), you will receive an extended 60-day free trial on your Logos subscription.
 
 ## 3. 🗓️ Pay Annually for Your Logos Subscription
 
-Beyond getting an extended 60-day free trial via [my partner offer](https://logos.sjv.io/stapleton), you can get more free months by paying upfront. If you pay **annually**, Logos discounts your subscription. If you pay **two years** upfront, you get 24 months for the price of 19, which is **FIVE months free**. If you use [my link](https://logos.sjv.io/stapleton), that five months turns effectively into **seven months FREE** (60-day trial + five free months).
+Beyond getting an extended 60-day free trial via [my partner offer](https://logos.sjv.io/stapleton?sharedid=discounts), you can get more free months by paying upfront. If you pay **annually**, Logos discounts your subscription. If you pay **two years** upfront, you get 24 months for the price of 19, which is **FIVE months free**. If you use [my link](https://logos.sjv.io/stapleton?sharedid=discounts), that five months turns effectively into **seven months FREE** (60-day trial + five free months).
 
 🔥 That's effectively more than 35% off compared to paying month-to-month.
 
@@ -64,7 +64,7 @@ If nothing else, you pay for the resources you want and get hundreds of others t
 
 ## 5. 🎓 Academic Student Discount
 
-If you're a seminary student, sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This student discount will get you 30% off of a Logos subscription AND library as well as up to 50% off of essential academic resources.
+If you're a seminary student, sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj?sharedid=discounts)! This student discount will get you 30% off of a Logos subscription AND library as well as up to 50% off of essential academic resources.
 
 ![](/assets/images/academic discount.png)
 
@@ -80,13 +80,13 @@ Speaking of resources, if you are looking for recommendations, I have written ab
 
 ## 7. 🆓 Grab the Free Book of the Month
 
-Twice a month Logos gives away [a free book](https://logos.sjv.io/freebook). Many times they are awesome. If you're a Logos subscriber, you will receive an extra free book every month!
+Twice a month Logos gives away [a free book](https://logos.sjv.io/freebook?sharedid=discounts). Many times they are awesome. If you're a Logos subscriber, you will receive an extra free book every month!
 
 [Subscribe to my newsletter](https://nickstapleton.ck.page/) and I will let you know about the free books so you never miss them. [Subscribe](https://nickstapleton.ck.page/) so you don't miss out.
 
 ## 8. Take advantage of the monthly sales
 
-Logos runs a variety sales throughout the year. If you [subscribe to my newsletter](https://nickstapleton.ck.page/), I'll keep you posted on these special sales and Logos discount codes, especially when they apply to some of [my favorite key resources](https://www.logos.com/nickstapleton).
+Logos runs a variety sales throughout the year. If you [subscribe to my newsletter](https://nickstapleton.ck.page/), I'll keep you posted on these special sales and Logos discount codes, especially when they apply to some of [my favorite key resources](https://logos.sjv.io/c/135250/2524153/26054?sharedid=discounts&u=https://www.logos.com/partner/nick-stapleton).
 
 ## Conclusion
 
