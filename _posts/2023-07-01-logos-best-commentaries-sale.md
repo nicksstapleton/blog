@@ -9,7 +9,7 @@ header:
 ---
 ![](/assets/images/bc2023.png)
 
-One of my favorite Logos sales of the year is here! [Get up to 50% off the best commentaries for every book of the Bible](https://partners.faithlife.com/click.track?CID=440235&AFID=467957)!
+One of my favorite Logos sales of the year is here! [Get up to 50% off the best commentaries for every book of the Bible](https://logos.sjv.io/stapleton)!
 
 One my pro tips for anyone building a theological library is to avoid buying commentaries sets (unless there's a massive discount) and instead buy the best commentary for a given book of the Bible. Logos is encouraging you to do this by giving you the opportunity to buy individual commentaries at a significant discount! This sale only happens once a year.
 
