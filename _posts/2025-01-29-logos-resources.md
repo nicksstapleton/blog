@@ -6,6 +6,7 @@ tags:
 - Seminary
 - Bible Study
 - Logos Bible Software
+related: false
 header:
   teaser: "/assets/images/logos-resources.png"
 ---

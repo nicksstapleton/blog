@@ -6,10 +6,19 @@ excerpt: Good news! There are several ways to save money and get discounts on Lo
 tags:
 - Logos
 - Logos Bible Software
+last_modified_at: 2026-11-14
+related: false
 ---
 <p align="center">
 <img src="https://files.logoscdn.com/v1/assets/13874871/optimized" width="400"/>
 </p>
+
+{% include deadline.html %}
+
+{% assign latest_issue = site.categories.newsletter | first %}{% if latest_issue %}
+**Current Logos sales:** I cover this month's sales and coupon codes in my newsletter. Latest issue ({{ latest_issue.date | date: "%B %-d, %Y" }}): [{{ latest_issue.title }}]({{ latest_issue.url | relative_url }}).
+{: .notice--info}
+{% endif %}
 
 You’re here to find a discount and save money on Logos Bible Software. Maybe you are a student, pastor, missionary, or someone looking for a Logos discount code or coupon code. **I have good news: There are several ways to save money on Logos.**
 
@@ -35,7 +44,7 @@ If you subscribe using [my partner link](https://logos.sjv.io/stapleton), you w
 
 ## 3. 🗓️ Pay Annually for Your Logos Subscription
 
-Beyond getting an extended 60-day free trial via [my partner offer](https://logos.sjv.io/stapleton), you can get more free months by paying upfront. If you pay **annually**, you will get **two months free** on your Logos subscription. If you pay **two years** upfront, you get **FIVE months free** on your Logos subscription. If you use [my link](https://logos.sjv.io/stapleton), that five months turns effectively into **seven months FREE** (60-day trial + five free months).
+Beyond getting an extended 60-day free trial via [my partner offer](https://logos.sjv.io/stapleton), you can get more free months by paying upfront. If you pay **annually**, Logos discounts your subscription. If you pay **two years** upfront, you get 24 months for the price of 19, which is **FIVE months free**. If you use [my link](https://logos.sjv.io/stapleton), that five months turns effectively into **seven months FREE** (60-day trial + five free months).
 
 🔥 That's effectively more than 35% off compared to paying month-to-month.
 
@@ -71,9 +80,9 @@ Speaking of resources, if you are looking for recommendations, I have written ab
 
 ## 7. 🆓 Grab the Free Book of the Month
 
-Every month Logos gives away [a free book](https://logos.sjv.io/freebook). Many times they are awesome. If you're a Logos subscriber, you will receive an extra free book every month!
+Twice a month Logos gives away [a free book](https://logos.sjv.io/freebook). Many times they are awesome. If you're a Logos subscriber, you will receive an extra free book every month!
 
-[Subscribe to my newsletter](https://nickstapleton.ck.page/) and I will let you know about the free books at the beginning every month so you never miss them. [Subscribe](https://nickstapleton.ck.page/) so you don't miss out.
+[Subscribe to my newsletter](https://nickstapleton.ck.page/) and I will let you know about the free books so you never miss them. [Subscribe](https://nickstapleton.ck.page/) so you don't miss out.
 
 ## 8. Take advantage of the monthly sales
 
@@ -83,6 +92,6 @@ Logos runs a variety sales throughout the year. If you [subscribe to my newslet
 
 Using these tips will help you save money on your Logos purchases. Ultimately, Logos is a worthy investment in your ministry, personal development, Bible study, and growth. And with [all its features](https://www.nickstapleton.me/Why-You-Should-Buy-Logos/), it makes every resource in your library better and will save you a significant amount of time and money in the long run.
 
-Subscribe to my newsletter below and I will keep you posted on the latest Logos sales, free books, discounted resources, and share a training tip to help you get the most out of Logos.
+Subscribe to my newsletter below and I will keep you posted on the latest Logos sales, free books, and discounted resources.
 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
