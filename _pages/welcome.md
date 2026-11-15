@@ -15,6 +15,6 @@ When there's a Logos sale, a free book or one of my favorite resources at a good
 
 1. **[The best Logos discounts and buying tips](/logos-discounts/)**
 2. **[Which Logos library should you buy?](/logos-buyers-guide/)** My buyer's guide.
-3. **[Start a free 60-day Logos trial](https://www.logos.com/nickstapleton)**
+3. **[Start a free 60-day Logos trial](https://logos.sjv.io/c/135250/2524153/26054?sharedid=welcome&u=https://www.logos.com/partner/nick-stapleton)**
 
 On [YouTube](https://youtube.com/nickstapleton) I share Logos tips, books, answers to questions and other resources to help Christians grow as disciples.

@@ -147,10 +147,10 @@ Logos is a professional level tool, and it comes with a professional price tag. 
 
 If you want to get started with Logos, go read my [Buyer's Guide](https://www.nickstapleton.me/logos-buyers-guide/) for base package recommendations and further tips.
 
-Use [my partner link](https://www.logos.com/nickstapleton) for an extended 60-day free Logos trial! [^1]
+Use [my partner link](https://logos.sjv.io/c/135250/2524153/26054?sharedid=blog&u=https://www.logos.com/partner/nick-stapleton) for an extended 60-day free Logos trial! [^1]
 
 [^1]: Disclosure: As a partner, I get a small commission for any purchases made using my link. This is like you buying me a cup of coffee. I am grateful for your support and genuinely excited for you to get into Logos!
 
 Ping me on [Twitter](https://twitter.com/nickstapleton) if you have any questions or just to say hello. 👋
 
-<figure> <a href="https://logos.sjv.io/stapleton"><img src="/assets/images/logos-10-discount.jpeg"></a> <figcaption>Full Disclosure: As a partner, I get a small commission for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>
+<figure> <a href="https://logos.sjv.io/stapleton?sharedid=blog"><img src="/assets/images/logos-10-discount.jpeg"></a> <figcaption>Full Disclosure: As a partner, I get a small commission for any base package purchases. I am grateful for the support and genuinely excited for you to get into Logos!</figcaption> </figure>

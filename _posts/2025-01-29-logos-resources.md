@@ -45,9 +45,9 @@ The best way to build the ideal Logos library is to begin by thinking through ca
 ## My Recommended Resources for Logos
 What resources do I recommend in Logos? I'm glad you asked!
 
-👉 **[My full list of recommended resources](https://www.logos.com/nickstapleton) is listed conveniently on Logos.com!**[^1] They are organized by category to make it easy find whatever you are looking for.
+👉 **[My full list of recommended resources](https://logos.sjv.io/c/135250/2524153/26054?sharedid=resources&u=https://www.logos.com/partner/nick-stapleton) is listed conveniently on Logos.com!**[^1] They are organized by category to make it easy find whatever you are looking for.
 
-[![](/assets/images/IMG_0901.jpeg)](https://www.logos.com/nickstapleton)
+[![](/assets/images/IMG_0901.jpeg)](https://logos.sjv.io/c/135250/2524153/26054?sharedid=resources&u=https://www.logos.com/partner/nick-stapleton)
 
 My recommended Logos resource list includes titles like:
 - New Dictionary of Biblical Theology (NDBT)
@@ -69,7 +69,7 @@ If you [sign up for my newsletter](https://nickstapleton.ck.page) I'll keep you 
 <script async data-uid="e75da6f296" src="https://nickstapleton.ck.page/e75da6f296/index.js"></script>
 
 ## My Full Recommended Resource List and Categories
-[Direct link to Logos Page](https://www.logos.com/nickstapleton) 
+[Direct link to Logos Page](https://logos.sjv.io/c/135250/2524153/26054?sharedid=resources&u=https://www.logos.com/partner/nick-stapleton) 
 
 ### Seminary Students
 - Logos Gold

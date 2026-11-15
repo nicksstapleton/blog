@@ -38,11 +38,11 @@ In this post, I'll help you choose the best Logos subscription and library based
 
 | If you are... | Subscription | Library |
 |---|---|---|
-| A pastor or teacher on a budget | Logos Pro | [Preacher Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/product/420441) |
-| Ready for top-tier commentaries | Logos Pro | [Nick Stapleton Study Bundle](https://www.logos.com/nickstapleton) |
-| A seminary student | Logos Max | [Nick Stapleton Study Bundle](https://www.logos.com/nickstapleton) |
+| A pastor or teacher on a budget | Logos Pro | [Preacher Gold](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/product/420441) |
+| Ready for top-tier commentaries | Logos Pro | [Nick Stapleton Study Bundle](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/partner/nick-stapleton) |
+| A seminary student | Logos Max | [Nick Stapleton Study Bundle](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/partner/nick-stapleton) |
 
-**[Start with an extended 60-day free Logos trial using my link](https://www.logos.com/nickstapleton).** [^1]
+**[Start with an extended 60-day free Logos trial using my link](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/partner/nick-stapleton).** [^1]
 
 ## Which Logos Subscription and Library Should I Buy?
 
@@ -93,11 +93,11 @@ And again, any books, features, or content you purchase are yours forever and ac
 
 ### Pricing
 
-The price for each subscription tier varies, with Premium the least expensive and Max the most. Logos adjusts subscription pricing from time to time (the latest change is dated December 7, 2026), so rather than list numbers that go stale, here is [Logos's current subscription pricing](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/subscriptions).
+The price for each subscription tier varies, with Premium the least expensive and Max the most. Logos adjusts subscription pricing from time to time (the latest change is dated December 7, 2026), so rather than list numbers that go stale, here is [Logos's current subscription pricing](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/subscriptions).
 
 A great way to save money is by paying upfront. Logos discounts annual plans, and if you pay for two years you get 24 months for the price of 19.
 
-If want to try any of these subscriptions risk-free, you can use my link and get **[an extended 60-day free trial subscription!](https://www.logos.com/nickstapleton)** [^1]
+If want to try any of these subscriptions risk-free, you can use my link and get **[an extended 60-day free trial subscription!](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/partner/nick-stapleton)** [^1]
 
 If you own a Logos 10 or earlier package, you are eligible for a cheaper subscription price because you've previously purchased features in Logos. Logos will show you your price at checkout.
 
@@ -134,7 +134,7 @@ As mentioned earlier, the three subscription tiers cater to distinct needs. Unde
 ---
 
 
-✨ **Use my Logos affiliate link to get an [extended 60-day free trial on a Logos subscription](https://logos.sjv.io/stapleton)!**
+✨ **Use my Logos affiliate link to get an [extended 60-day free trial on a Logos subscription](https://logos.sjv.io/stapleton?sharedid=guide)!**
 
 ## Logos Libraries Overview
 ![](/assets/images/l10-cost-and-affordability-illu-1-2x.png)
@@ -155,9 +155,9 @@ Additionally, you will never pay for a resource twice. When you buy a Logos reso
 
 ### 💰 Best Budget Library
 
-If you're seeking to balance between resources and affordability, Logos [Preacher Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/product/420441) and [Standard Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/product/420425) are the winners. These libraries provide a comprehensive Bible study toolkit, including excellent commentaries, Bible study resources, and systematic theology works — perfect for pastors, preachers, and anyone wanting to dive deeper into Scripture.
+If you're seeking to balance between resources and affordability, Logos [Preacher Gold](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/product/420441) and [Standard Gold](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/product/420425) are the winners. These libraries provide a comprehensive Bible study toolkit, including excellent commentaries, Bible study resources, and systematic theology works — perfect for pastors, preachers, and anyone wanting to dive deeper into Scripture.
 
-#### [Preacher Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/product/420441)
+#### [Preacher Gold](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/product/420441)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026-Library—Preacher Track—Gold—Extra Large—1000.png" alt="">
@@ -169,7 +169,7 @@ If you're seeking to balance between resources and affordability, Logos [Preache
 - **Tyndale Commentaries - TOTC/TNTC (47 vols.):** An accessible and classic set of commentaries that provides excellent introductory-level insights into both the Old and New Testaments.
 - **The Concise Greek-English Lexicon of the New Testament:** A streamlined linguistic tool for quickly identifying the meaning and usage of Greek words in the biblical text.
 
-#### [Standard Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/product/420425)
+#### [Standard Gold](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/product/420425)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026-Library—Standard Track—Gold—Extra Large—1000.png" alt="">
@@ -185,7 +185,7 @@ If you're seeking to balance between resources and affordability, Logos [Preache
 
 I put together a study bundle with Logos for those seeking to do advanced exegesis and desiring access to top-tier commentaries, dictionaries, lexicons, and biblical reference works. Pound for pound, I think it is one of the best libraries available for the price. Many of my favorite resources are in this library. My biggest regret is that this library wasn't available for purchase when I was first building my Logos library!
 
-#### [Nick Stapleton Study Bundle](https://www.logos.com/nickstapleton)
+#### [Nick Stapleton Study Bundle](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/partner/nick-stapleton)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026 Partner Bundle—Nick Stapleton.png" alt="">
@@ -209,7 +209,7 @@ I put together a study bundle with Logos for those seeking to do advanced exeges
 
 These two are my favorite premium libraries. If you're committed to deep, scholarly study, and expositional preaching these libraries have you covered by offering access to fantastic commentaries and biblical reference works. 
 
-#### [Preacher Diamond](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/product/420443)
+#### [Preacher Diamond](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/product/420443)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026-Library—Preacher Track—Diamond—Extra Large—1000.png" alt="">
@@ -223,7 +223,7 @@ These two are my favorite premium libraries. If you're committed to deep, schola
 - **Apollos Old Testament Commentary - AOT (15 vols.):** A rigorous scholarly series that examines the Hebrew text while bridging the gap between the ancient world and contemporary application.
 
 
-#### [Standard Diamond](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/product/420427)
+#### [Standard Diamond](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/product/420427)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026-Library—Standard Track—Diamond—Extra Large—1000.png" alt="">
@@ -239,7 +239,7 @@ These two are my favorite premium libraries. If you're committed to deep, schola
 
 If you are in seminary pursuing a degree like a Master of Divinity, you will need a library that offers you essential original language resources like NA28, BHS, and BDAG as well as top commentaries. I think my study bundle is a fantastic option to consider as it provides you with resources that will be immensely valuable during seminary and long after you graduate.
 
-#### [Nick Stapleton Study Bundle](https://www.logos.com/nickstapleton)
+#### [Nick Stapleton Study Bundle](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/partner/nick-stapleton)
 
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026 Partner Bundle—Nick Stapleton.png" alt="">
@@ -259,8 +259,8 @@ If you are in seminary pursuing a degree like a Master of Divinity, you will nee
 - **A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG)**
 
 To round out my study bundle or if it is outside your budget, I'd suggest picking up:
-- [Researcher Silver](https://logos.sjv.io/zx6rbM) (This gets you NA28 and BHS along with other helpful resources)
-- [Preacher Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/product/420441) (This will get you some solid commentaries like Pillar and other great resources to build out your theological library)
+- [Researcher Silver](https://logos.sjv.io/zx6rbM?sharedid=guide) (This gets you NA28 and BHS along with other helpful resources)
+- [Preacher Gold](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/product/420441) (This will get you some solid commentaries like Pillar and other great resources to build out your theological library)
 
 ## A Word to Seminary Students: Get Logos Now
 
@@ -268,9 +268,9 @@ Seminary can be a financially tight time, and investing in Logos may seem like a
 
 ### Seminary Student Subscription and Library Recommendation
 
-For students, I suggest the libraries mentioned above and the **[Logos Max](https://www.logos.com/nickstapleton)** subscription. The [Logos Max](https://www.logos.com/nickstapleton) subscription will empower your academic writing and provide advanced original language tools. 
+For students, I suggest the libraries mentioned above and the **[Logos Max](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/partner/nick-stapleton)** subscription. The [Logos Max](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/partner/nick-stapleton) subscription will empower your academic writing and provide advanced original language tools. 
 
-If you're a seminary student, don’t forget to sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
+If you're a seminary student, don’t forget to sign up for the [Logos Academic Discount](https://logos.sjv.io/eKOJPj?sharedid=guide)! This will get you 30% off of base packages and up to 50% off of essential academic resources.
 
 ## Take Advantage of Sales
 
@@ -278,7 +278,7 @@ Many of the must-have resources I recommend are included in the libraries above,
 
 Logos runs a variety sales throughout the year and if you [sign up for my newsletter](https://nickstapleton.ck.page/), I'll keep you updated on the best sales. Plus, you can read my post on [Logos discounts and buying tips](https://www.nickstapleton.me/logos-discounts/).
 
-**As a Logos affiliate, I am able to provide you a special [extended 60-day free trial by using my link](https://www.logos.com/nickstapleton)!** [^1] My link will give you a 60-day free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
+**As a Logos affiliate, I am able to provide you a special [extended 60-day free trial by using my link](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/partner/nick-stapleton)!** [^1] My link will give you a 60-day free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
 
 ## Denominational Library Recommendation
 
@@ -287,34 +287,34 @@ Logos offers denominational libraries curated for different theological traditio
 ### Best Overall Value  
 If you're investing in a denominational library, these are the best picks for depth and long-term usefulness:  
 
-- **[Reformed Platinum or Diamond](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Includes works by John Calvin, Charles Spurgeon, Herman Bavinck, and John Stott. Platinum is the sweet spot for serious theological study, while Diamond adds even more historical and exegetical depth.  
-- **[Baptist Platinum](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Features resources from Charles Spurgeon, John Gill, Andrew Fuller, D.A. Carson, and Al Mohler. Gold is decent, but Platinum is where the depth really increases for both pastoral and theological studies.  
-- **[Catholic Diamond](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – The best choice for Catholic theology and history, including works by St. Augustine, Thomas Aquinas, St. John Henry Newman, Pope Benedict XVI, and the early Church Fathers.  
+- **[Reformed Platinum or Diamond](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – Includes works by John Calvin, Charles Spurgeon, Herman Bavinck, and John Stott. Platinum is the sweet spot for serious theological study, while Diamond adds even more historical and exegetical depth.  
+- **[Baptist Platinum](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – Features resources from Charles Spurgeon, John Gill, Andrew Fuller, D.A. Carson, and Al Mohler. Gold is decent, but Platinum is where the depth really increases for both pastoral and theological studies.  
+- **[Catholic Diamond](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – The best choice for Catholic theology and history, including works by St. Augustine, Thomas Aquinas, St. John Henry Newman, Pope Benedict XVI, and the early Church Fathers.  
 
 ### Best for Preaching & Teaching  
 If your focus is on **sermon prep, pastoral ministry, and teaching**, these levels are ideal:  
 
-- **[Baptist Platinum](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Strong sermon resources, preaching commentaries, and practical ministry books from Charles Spurgeon, Patrick Schreiner, 9Marks, and Alistair Begg.  
-- **[Reformed Gold or Platinum](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Great for expository preaching, featuring works by Martyn Lloyd-Jones, John Stott, and Sinclair Ferguson.  
-- **[Charismatic Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Balanced cost and value, including works by Gordon Fee and Craig Keener.  
+- **[Baptist Platinum](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – Strong sermon resources, preaching commentaries, and practical ministry books from Charles Spurgeon, Patrick Schreiner, 9Marks, and Alistair Begg.  
+- **[Reformed Gold or Platinum](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – Great for expository preaching, featuring works by Martyn Lloyd-Jones, John Stott, and Sinclair Ferguson.  
+- **[Charismatic Gold](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – Balanced cost and value, including works by Gordon Fee and Craig Keener.  
 
 ### Best for Theological Study & Historical Depth  
 If you’re going deep into **systematic theology, Church history, or academic study**, these are the best levels:  
 
-- **[Reformed Diamond](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Packed with works from Jonathan Edwards, Cornelius Van Til, and Francis Turretin, along with historical Reformed confessions and theological studies.  
-- **[Catholic Diamond](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Includes Church Fathers like St. Augustine and St. Chrysostom, medieval scholars like Thomas Aquinas, and modern Catholic theology.  
-- **[Orthodox Platinum](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Strong in patristics, featuring St. Basil the Great, St. Gregory of Nyssa, St. John Chrysostom, and key Orthodox liturgical texts.  
+- **[Reformed Diamond](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – Packed with works from Jonathan Edwards, Cornelius Van Til, and Francis Turretin, along with historical Reformed confessions and theological studies.  
+- **[Catholic Diamond](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – Includes Church Fathers like St. Augustine and St. Chrysostom, medieval scholars like Thomas Aquinas, and modern Catholic theology.  
+- **[Orthodox Platinum](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – Strong in patristics, featuring St. Basil the Great, St. Gregory of Nyssa, St. John Chrysostom, and key Orthodox liturgical texts.  
 
 ### Best Budget Options 
 If you want a **solid denominational library but don’t want to spend as much**, these give great value:  
 
-- **[Reformed Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – A great mix of theological resources from Calvin, Bavinck, and Warfield without the higher price tag of Platinum or Diamond.  
-- **[Baptist Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Includes Charles Spurgeon, John Gill, and Adrian Rogers—great for pastors wanting solid resources without going all-in.  
-- **[Lutheran Gold](https://logos.sjv.io/c/135250/2524153/26054?u=https://www.logos.com/configure/libraries)** – Includes Martin Luther, C.F.W. Walther, and modern Lutheran scholarship at a reasonable price.  
+- **[Reformed Gold](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – A great mix of theological resources from Calvin, Bavinck, and Warfield without the higher price tag of Platinum or Diamond.  
+- **[Baptist Gold](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – Includes Charles Spurgeon, John Gill, and Adrian Rogers—great for pastors wanting solid resources without going all-in.  
+- **[Lutheran Gold](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/configure/libraries)** – Includes Martin Luther, C.F.W. Walther, and modern Lutheran scholarship at a reasonable price.  
 
 ## Special Extended Free Trial Offer
 
-👀 **As a Logos affiliate, I am able to provide you a special [extended free trial by using my link](https://www.logos.com/nickstapleton)!** [^1]
+👀 **As a Logos affiliate, I am able to provide you a special [extended free trial by using my link](https://logos.sjv.io/c/135250/2524153/26054?sharedid=guide&u=https://www.logos.com/partner/nick-stapleton)!** [^1]
 
 My partner link will give you a 60-day free trial Logos subscription and a 10-30% discount on your Logos library (depending on the time of year).
 

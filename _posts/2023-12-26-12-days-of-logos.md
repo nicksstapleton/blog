@@ -15,15 +15,15 @@ I hope your Christmas was blessed! I am thankful for the tangible evidence of th
 
 ## Logos Base Package Sale
 
-[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/ti3yWvsGDmZL7gpKaxghCL)](https://logos.sjv.io/stapleton)
+[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/ti3yWvsGDmZL7gpKaxghCL)](https://logos.sjv.io/stapleton?sharedid=blog)
 
 If you're looking to get a Logos package, this is a great sale.
 
-[**See the sale**](https://logos.sjv.io/stapleton)
+[**See the sale**](https://logos.sjv.io/stapleton?sharedid=blog)
 
-**Through January 6,** [**Logos packages are discounted up to 30%**](https://logos.sjv.io/stapleton)**!**
+**Through January 6,** [**Logos packages are discounted up to 30%**](https://logos.sjv.io/stapleton?sharedid=blog)**!**
 
-- Some [**my recommended Logos resources**](https://www.logos.com/nickstapleton) are on sale, too.
+- Some [**my recommended Logos resources**](https://logos.sjv.io/c/135250/2524153/26054?sharedid=blog&u=https://www.logos.com/partner/nick-stapleton) are on sale, too.
 
 [![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/bMvhaAjhz7NRAGMqdVHZRL)]
 
@@ -33,31 +33,31 @@ If you're looking to get a Logos package, this is a great sale.
 
 Save on the 2023 new releases, best sellers, and hidden gems waiting to fill your Logos shelves. They’re all up to 30% off through December 31
 
-[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/8AH4HxqhgKPe9vXGq85bVH)](https://logos.sjv.io/monthly-sale)
+[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/8AH4HxqhgKPe9vXGq85bVH)](https://logos.sjv.io/monthly-sale?sharedid=blog)
 
-[**See the sale**](https://logos.sjv.io/monthly-sale)
+[**See the sale**](https://logos.sjv.io/monthly-sale?sharedid=blog)
 
 ## **✨ More Savings This Month**
 
-[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/6HcsqegqiovEDxN3YPhTZg)](https://logos.sjv.io/stapleton)
+[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/6HcsqegqiovEDxN3YPhTZg)](https://logos.sjv.io/stapleton?sharedid=blog)
 
 Stick with Logos long enough and you’re bound to discover a favorite feature. But you can never really know which books will get you more results from those favorites—or can you? Feature Expansions do just that. They’re collections of books hand-picked to level up specific Logos features. 
 
 From now until January 1st, you can get the new Logos 10 Feature Expansions for up to 40% off. There are three sizes (S, M, and L) to fit your study needs. 
 
-[**See the sale**](https://logos.sjv.io/stapleton)
+[**See the sale**](https://logos.sjv.io/stapleton?sharedid=blog)
 
-### **📖** [**Free Logos Book of the Month**](https://logos.sjv.io/freebook)​
+### **📖** [**Free Logos Book of the Month**](https://logos.sjv.io/freebook?sharedid=blog)​
 
-[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/qStJ7ae3UywaYL3u4uEnpy)](https://logos.sjv.io/freebook)
+[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/qStJ7ae3UywaYL3u4uEnpy)](https://logos.sjv.io/freebook?sharedid=blog)
 
 Learning biblical Hebrew can be extremely difficult. This month’s free book is designed to work in conjunction with the many Hebrew grammars available, breaking the complex language into bite-size chunks for revision and consolidation of key aspects of grammar and vocabulary—all within the powerful and efficient research tools of the Logos Edition!
 
-[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/qprtzDSEUoopELoxr8ZcXJ)](https://logos.sjv.io/freebook)
-[🎧 **​Get Free Audiobook**](https://logos.sjv.io/freebook)
+[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/qprtzDSEUoopELoxr8ZcXJ)](https://logos.sjv.io/freebook?sharedid=blog)
+[🎧 **​Get Free Audiobook**](https://logos.sjv.io/freebook?sharedid=blog)
 
-[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/fiU5hcJr1h5J18TQYVqarm)](https://logos.sjv.io/freebook)
-[📖 **​Get Free Ebook**](https://logos.sjv.io/freebook)
+[![](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/fiU5hcJr1h5J18TQYVqarm)](https://logos.sjv.io/freebook?sharedid=blog)
+[📖 **​Get Free Ebook**](https://logos.sjv.io/freebook?sharedid=blog)
 
 ## **💬 Thoughts for your Thoughts** 
 
@@ -71,7 +71,7 @@ Learning biblical Hebrew can be extremely difficult. This month’s free book is
 
 **🔎** [**Which Logos Package Should I Buy?**](https://www.nickstapleton.me/logos-buyers-guide/)**​**
 💰 [**The BEST Logos Discounts and Buying Tips [10-30% off]**](https://www.nickstapleton.me/logos-discounts/)**​**
-**📚** [**My Logos Recommended Resources**](https://www.logos.com/nickstapleton)​
+**📚** [**My Logos Recommended Resources**](https://logos.sjv.io/c/135250/2524153/26054?sharedid=blog&u=https://www.logos.com/partner/nick-stapleton)​
 
 ## 🙌 Share the Goods!
 
