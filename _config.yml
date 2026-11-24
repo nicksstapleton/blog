@@ -53,7 +53,7 @@ footer:
       url: "https://youtube.com/nickstapleton"
     - label: "Logos 60-Day Trial"
       icon: "fas fa-book-open"
-      url: "https://logos.sjv.io/c/135250/2524153/26054?sharedid=site-nav&u=https://www.logos.com/partner/nick-stapleton"
+      url: "/logos-trial/"
     - label: "Newsletter"
       icon: "fas fa-envelope"
       url: "https://nickstapleton.kit.com"
