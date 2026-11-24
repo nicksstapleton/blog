@@ -9,6 +9,8 @@ header:
   teaser: "https://i.ytimg.com/vi/hPG4XItXcWQ/hqdefault.jpg"
 ---
 
+{% include affiliate-disclosure.html %}
+
 <div class="responsive-video-container"><iframe src="https://www.youtube-nocookie.com/embed/hPG4XItXcWQ" title="YouTube video" loading="lazy" allowfullscreen allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe></div>
 
 {% raw %}

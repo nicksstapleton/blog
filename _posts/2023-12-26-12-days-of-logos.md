@@ -7,6 +7,8 @@ header:
   teaser: "https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/vJPGbsgGFGMg3wCGXgsBEz"
 ---
 
+{% include affiliate-disclosure.html %}
+
 ![Elf Excited](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/vJPGbsgGFGMg3wCGXgsBEz)
 
 Hey Reader,

@@ -246,3 +246,12 @@ blockquote { border-left: 4px solid $oak; color: $iron; }
 @media (min-width: 64em) {
   .author__avatar img { width: 130px; height: 130px; }
 }
+
+// Affiliate disclosure shown at the top of pages with affiliate links
+.affiliate-disclosure {
+  font-size: 0.75em;
+  line-height: 1.5;
+  font-style: italic;
+  opacity: 0.8;
+  margin: 0 0 1.5em;
+}

@@ -12,6 +12,8 @@ header:
   teaser: "/assets/images/eggnt.jpg"
 
 ---
+
+{% include affiliate-disclosure.html %}
 ![image-right](/assets/images/eggnt.jpg){: .align-right}Logos has begun releasing books that are part of the Exegetical Guide to the Greek New Testament. From its product description:
 
 > The Exegetical Guide to the Greek New Testament (EGGNT) closes the gap between the Greek text and the available lexical and grammatical tools, providing all the necessary information for greater understanding of the text. The series makes interpreting any given New Testament book easier, especially for those who are hard pressed for time but want to preach or teach with accuracy and authority.

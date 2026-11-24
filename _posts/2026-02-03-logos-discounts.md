@@ -9,6 +9,8 @@ tags:
 last_modified_at: 2026-11-14
 related: false
 ---
+
+{% include affiliate-disclosure.html %}
 <p align="center">
 <img src="https://files.logoscdn.com/v1/assets/13874871/optimized" width="400"/>
 </p>

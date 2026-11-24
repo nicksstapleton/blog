@@ -6,6 +6,8 @@ tags:
 header:
   teaser: "https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/nfTaKcWs3DmNSQ7t92F1wr"
 ---
+
+{% include affiliate-disclosure.html %}
 ![Minions](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/nfTaKcWs3DmNSQ7t92F1wr)
 
 November is here and we're entering Logos holiday deals territory! There are some great opportunities to save money and build your library.
