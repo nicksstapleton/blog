@@ -10,6 +10,8 @@ related: false
 header:
   teaser: "/assets/images/logos-resources.png"
 ---
+
+{% include affiliate-disclosure.html %}
 ![](/assets/images/IMG_0920.jpeg) 
 
 ## It's not the plane, it's the pilot

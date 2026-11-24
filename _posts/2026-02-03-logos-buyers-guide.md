@@ -20,6 +20,8 @@ meta_description: Get expert recommendations on the best Logos Bible Software li
 
 ---
 
+{% include affiliate-disclosure.html %}
+
 ## Overview
 
 Logos has been one of the best investments I've ever made. It's an invaluable tool for learning, seminary, Bible study, sermon prep, and ministry.

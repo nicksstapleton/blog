@@ -143,7 +143,10 @@ def build_post(item, kind):
         "---",
         "",
     ]
-    body = [embed(item["id"], kind), ""]
+    body = []
+    if re.search(r"logos\.com/|sjv\.io", item["description"] or "", re.I):
+        body += ["{% include affiliate-disclosure.html %}", ""]  # FTC disclosure before affiliate links
+    body += [embed(item["id"], kind), ""]
     if item["description"]:
         body += ["{% raw %}", format_description(item["description"]), "{% endraw %}", ""]
     body += [f"[Watch on YouTube](https://www.youtube.com/watch?v={item['id']})", ""]

@@ -36,7 +36,7 @@ author:
   - label: "YouTube"
     icon: "fab fa-youtube"
     url: "https://youtube.com/nickstapleton"
-  - label: "Logos Trial"
+  - label: "Logos Trial (affiliate link)"
     icon: "fas fa-book-open"
     url: "https://logos.sjv.io/c/135250/2524153/26054?sharedid=site-nav&u=https://www.logos.com/partner/nick-stapleton"
   - label: "Newsletter"
@@ -51,12 +51,15 @@ footer:
     - label: "Subscribe on YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/nickstapleton"
-    - label: "Logos 60-Day Trial"
+    - label: "Logos 60-Day Trial (affiliate link)"
       icon: "fas fa-book-open"
       url: "https://logos.sjv.io/c/135250/2524153/26054?sharedid=site-nav&u=https://www.logos.com/partner/nick-stapleton"
     - label: "Newsletter"
       icon: "fas fa-envelope"
       url: "https://nickstapleton.kit.com"
+    - label: "Privacy"
+      icon: "fas fa-fw fa-user-shield"
+      url: "/privacy/"
 defaults:
 - scope:
     path: ''
@@ -92,8 +95,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: "/tags/"
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-941DDE34TS"
-    anonymize_ip: false # default
+# Google Analytics removed (it sets cookies). Cookieless Cloudflare Web Analytics
+# loads from _includes/head/custom.html once this token is filled in.
+cloudflare_analytics_token: "22686c2bf164458c92d943b85c5ab9e9"

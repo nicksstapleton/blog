@@ -7,6 +7,8 @@ tags:
 header:
   teaser: "/assets/images/bc2023.png"
 ---
+
+{% include affiliate-disclosure.html %}
 ![](/assets/images/bc2023.png)
 
 One of my favorite Logos sales of the year is here! [Get up to 50% off the best commentaries for every book of the Bible](https://logos.sjv.io/stapleton?sharedid=blog)!

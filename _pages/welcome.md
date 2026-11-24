@@ -7,6 +7,8 @@ sitemap: false
 search: false
 ---
 
+{% include affiliate-disclosure.html %}
+
 Thanks for confirming. I'm Nick, and I share biblical resources for everyday discipleship. That includes a lot about Logos Bible Software, which is what this newsletter covers.
 
 When there's a Logos sale, a free book or one of my favorite resources at a good price, I'll email you. There's no fixed schedule, and I won't email when there's nothing worth sending.

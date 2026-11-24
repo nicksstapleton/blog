@@ -7,6 +7,8 @@ header:
   teaser: "https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/eMzGxxVitg8ZbLHdtzTKKY"
 ---
 
+{% include affiliate-disclosure.html %}
+
 ![Harry Potter reading diary](https://embed.filekitcdn.com/e/hNVjR73AvkowGNyNfboPNC/eMzGxxVitg8ZbLHdtzTKKY)
 
 Raise your hand if you love October! 🙋‍♂️ I'm ready to break out the Harry Potter movies, autumn-scented candles, and immerse myself in all-things-fall.
