@@ -41,7 +41,7 @@ Because this site doesn't track you across other sites, it works the same way wh
 
 ## Your choices
 
-You can ask me to see or delete any information I have about you, such as your newsletter email. Email me at [nickstapleton@gmail.com](mailto:nickstapleton@gmail.com). If you're in the EU, UK, or a US state with a privacy law, you have these rights, and I'll honor them no matter where you live.
+You can ask me to see or delete any information I have about you, such as your newsletter email. Email me at [nick@nickstapleton.me](mailto:nick@nickstapleton.me). If you're in the EU, UK, or a US state with a privacy law, you have these rights, and I'll honor them no matter where you live.
 
 ## Changes
 

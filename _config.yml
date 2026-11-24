@@ -97,4 +97,4 @@ tag_archive:
   path: "/tags/"
 # Google Analytics removed (it sets cookies). Cookieless Cloudflare Web Analytics
 # loads from _includes/head/custom.html once this token is filled in.
-cloudflare_analytics_token: ""
+cloudflare_analytics_token: "22686c2bf164458c92d943b85c5ab9e9"
