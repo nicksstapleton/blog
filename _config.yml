@@ -38,7 +38,7 @@ author:
     url: "https://youtube.com/nickstapleton"
   - label: "Logos Trial"
     icon: "fas fa-book-open"
-    url: "/logos-discounts/"  # internal page, so this link needs no affiliate label
+    url: "/logos-trial/"  # internal page with disclosure, so this link needs no affiliate label
   - label: "Newsletter"
     icon: "fas fa-envelope"
     url: "https://nickstapleton.kit.com"
